@@ -4,3 +4,4 @@ venv/
 Output/
 Semantic_Output/
 .env
+__pycache__/

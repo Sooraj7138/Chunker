@@ -1,0 +1,6 @@
+venv/
+.zencoder/
+.zenflow/
+Output/
+Semantic_Output/
+.env

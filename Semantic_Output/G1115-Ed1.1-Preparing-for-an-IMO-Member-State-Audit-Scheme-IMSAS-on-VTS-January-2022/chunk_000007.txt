@@ -1,9 +1,0 @@
-<doc_start>
-4.1. IMO
-RESOLUTION A.1067(28) ON THE FRAMEWORK AND PROCEDURES FOR THE IMO MEMBER STATE 4.1.1. AUDIT SCHEME
-
-4.1. IMO
-The purpose of this framework is to describe the objective, principles, scope, responsibilities and capacity-building aspect of the IMO Member State audit, which together constitute the strategy for the audit scheme.
-4.1. IMO
-This framework is supported by the procedures for the IMO Member State audit and the IMO .
-<doc_end>

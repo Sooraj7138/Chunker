@@ -1,5 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-
-2. OVERVIEW
-<doc_end>

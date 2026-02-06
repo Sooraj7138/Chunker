@@ -1,4 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-the State.”
-<doc_end>

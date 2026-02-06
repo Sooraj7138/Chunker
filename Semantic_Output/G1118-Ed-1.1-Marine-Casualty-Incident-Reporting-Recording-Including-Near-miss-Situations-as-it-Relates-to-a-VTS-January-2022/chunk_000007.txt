@@ -1,6 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-This Guideline is intended to provide guidance and information to VTS providers and competent authorities on the development and establishment of harmonized casualty/incident/near-miss reporting, recording and analysis processes.
-1.1. OBJECTIVES
-The objectives of the Guideline are to provide guidance on:
-<doc_end>

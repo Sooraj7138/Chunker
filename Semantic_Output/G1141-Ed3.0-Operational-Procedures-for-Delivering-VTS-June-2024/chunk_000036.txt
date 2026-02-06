@@ -1,5 +1,0 @@
-<doc_start>
-9. REFERENCES
-IALA.
-Guideline G1052 Quality Management in AtoN Service Delivery
-<doc_end>

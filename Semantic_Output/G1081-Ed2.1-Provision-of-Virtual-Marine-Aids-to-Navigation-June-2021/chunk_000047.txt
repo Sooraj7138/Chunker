@@ -1,5 +1,0 @@
-<doc_start>
-15. REFERENCES
-IHO.
-S-57 Edition 3.1 Encoding Bulletin 54: UOC Clause 12.14.1 AIS equipped aids to navigation
-<doc_end>

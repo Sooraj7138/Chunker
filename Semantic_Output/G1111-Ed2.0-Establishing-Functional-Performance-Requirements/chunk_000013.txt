@@ -1,7 +1,0 @@
-<doc_start>
-3.3. OTHER CONSIDERATIONS
-ENVIRONMENTAL CONSIDERATIONS 3.3.1.
-
-3.3. OTHER CONSIDERATIONS
-The VTS provider should specify the local environmental conditions for VTS system performance, design and outdoor installations.
-<doc_end>

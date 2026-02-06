@@ -1,6 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-
-• Provision of a local port service for co-ordination of services within the area by dissemination of information to vessels, berth or terminal operators and other stakeholders.
-A local port service is often described in terms such as “Local Port Service”, “Port Control” or “Harbour Control”.
-<doc_end>

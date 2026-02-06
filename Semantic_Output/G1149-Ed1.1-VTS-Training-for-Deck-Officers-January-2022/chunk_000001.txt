@@ -1,4 +1,0 @@
-<doc_start>
-Edition 1.1
-January 2022
-<doc_end>

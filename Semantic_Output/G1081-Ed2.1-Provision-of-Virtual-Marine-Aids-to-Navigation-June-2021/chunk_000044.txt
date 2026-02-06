@@ -1,4 +1,0 @@
-<doc_start>
-15. REFERENCES
-ITU-R M.1371 Technical Characteristics for an Automatic Identification System using Time Division Multiple Access in the VHF Maritime Mobile Band
-<doc_end>

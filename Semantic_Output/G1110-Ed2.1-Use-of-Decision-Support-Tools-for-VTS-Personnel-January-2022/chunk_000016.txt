@@ -1,9 +1,0 @@
-<doc_start>
-6. REFERENCES
-IMO.
-Resolution A.1158(32) Guidelines for Vessel Traffic Services
-
-
-6. REFERENCES
-IALA Guideline G1110 Use of Decision Support Tools for VTS Personnel Edition 2.1 urn:mrn:iala:pub:g1110:ed2.1
-<doc_end>

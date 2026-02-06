@@ -1,5 +1,0 @@
-<doc_start>
-5.1.1. ALPHA-NUMERIC
-Unless there is a need to display pre-formatted text or numbers, use the best readable font taking into account Human Centred Design (HCD) as referred to in MSC-MEPC.2/Circ.12/Rev.2 and MSCMEPC.2/Circ.13 concerning Human Element Analysing Process (HEAP) as well as MSC.1-Circ.
-1512 Guideline on Software Quality Assurance and Human-Centered Design for e-Navigation (July 2015).
-<doc_end>

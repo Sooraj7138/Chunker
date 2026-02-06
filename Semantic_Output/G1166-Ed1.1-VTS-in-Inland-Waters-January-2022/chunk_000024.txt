@@ -1,4 +1,0 @@
-<doc_start>
-5. DEFINITIONS
-P 16
-<doc_end>

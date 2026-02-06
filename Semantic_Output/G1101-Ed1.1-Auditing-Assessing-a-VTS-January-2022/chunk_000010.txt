@@ -1,9 +1,0 @@
-<doc_start>
-A.2.1. LIST OF DOCUMENTS
-The reference “ IALA Documentation relating to VTS” provides a list of the standards, recommendations, guidelines and model courses specifically related to the development, implementation and operation of a VTS.
-It is available at https://www.iala-aism.org/product/iala-documentation-relating-to-vts/
-
-A.2.1. LIST OF DOCUMENTS
-These documents, as updated, need to be considered for integration into internal procedures.
-National/local references and other relevant international arrangements may be Included as necessary.
-<doc_end>

@@ -1,4 +1,0 @@
-<doc_start>
-9. REFERENCES
-P 14
-<doc_end>

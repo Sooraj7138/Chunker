@@ -1,4 +1,0 @@
-<doc_start>
-2. CLARIFICATIONS
-A marine incident is defined in MSC.255 (84), known as the Casualty Investigation Code, as an event, or sequence of events, other than a marine casualty, which has occurred directly in connection with the operations of a ship that endangered, or, if not corrected, would endanger the safety of the ship, its occupants or any other person or the environment.
-<doc_end>

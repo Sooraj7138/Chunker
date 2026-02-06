@@ -1,6 +1,0 @@
-<doc_start>
-CONTENTS
-e.
-CONTENTS
-P 3
-<doc_end>

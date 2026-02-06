@@ -1,5 +1,0 @@
-<doc_start>
-ANNEX A CONSIDERATIONS WHEN INITIATING AND PLANNING A VTS
-The IALA risk management toolbox provides a detailed methodology for identifying and assessing relevant issues and problems.
-Considerations when initiating and planning a VTS, and using the toolbox, may include:
-<doc_end>

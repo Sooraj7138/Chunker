@@ -1,4 +1,0 @@
-<doc_start>
-8. ABBREVIATIONS
-VTS Vessel traffic service or vessel traffic services (dependent on context)
-<doc_end>

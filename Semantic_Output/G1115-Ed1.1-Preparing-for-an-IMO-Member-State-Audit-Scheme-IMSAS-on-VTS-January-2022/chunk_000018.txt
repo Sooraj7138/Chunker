@@ -1,6 +1,0 @@
-<doc_start>
-Organization
-To what other bodies, if any, has responsibility for VTS been delegated?
-Organization
-Has this delegation been formally established and documented?
-<doc_end>

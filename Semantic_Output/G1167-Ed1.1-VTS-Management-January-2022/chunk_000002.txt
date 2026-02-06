@@ -1,9 +1,0 @@
-<doc_start>
-List of Figures
-IALA Guideline G1167 VTS Management Edition 1.0 urn:mrn:iala:pub:g1167:ed1.0
-
-List of Figures
-
-List of Figures
-P 3
-<doc_end>

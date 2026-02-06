@@ -1,4 +1,0 @@
-<doc_start>
-SHOULD
-COULD
-<doc_end>

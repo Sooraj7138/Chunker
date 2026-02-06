@@ -1,6 +1,0 @@
-<doc_start>
-Legislation
-Under what law(s) does each Administration act?
-Organization
-How is each Administration organized?
-<doc_end>

@@ -1,4 +1,0 @@
-<doc_start>
-CONTENTS
-6.3.
-<doc_end>

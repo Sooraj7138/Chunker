@@ -1,4 +1,0 @@
-<doc_start>
-5. ABBREVIATIONS
-BITE Built In Test Equipment
-<doc_end>

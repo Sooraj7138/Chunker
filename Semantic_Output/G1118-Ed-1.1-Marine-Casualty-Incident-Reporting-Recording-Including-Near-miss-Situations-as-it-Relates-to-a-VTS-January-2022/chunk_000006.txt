@@ -1,8 +1,0 @@
-<doc_start>
-List of Figures
-
-List of Figures
-P 3
-
-List of Figures
-<doc_end>

@@ -1,5 +1,0 @@
-<doc_start>
-5.2.9. CORRECTIONS
-VTS Pilot boarding time 
-1400. CORRECTION - pilot boarding time 1430.
-<doc_end>

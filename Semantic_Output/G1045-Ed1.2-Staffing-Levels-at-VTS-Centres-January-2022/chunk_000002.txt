@@ -1,8 +1,0 @@
-<doc_start>
-1.1. PURPOSE
-The purpose of this Guideline is to assist authorities in determining an appropriate staffing level for a VTS Centre.
-Conferring with existing VTS authorities will provide a general idea of how VTS Centres are staffed.
-This Guideline applies as far as national law allows.
-1.1. PURPOSE
-This Guideline is not intended to be prescriptive, rather it presents factors that should be considered when determining staffing levels.
-<doc_end>

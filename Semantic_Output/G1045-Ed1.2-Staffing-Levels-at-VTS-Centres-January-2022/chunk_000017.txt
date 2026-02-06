@@ -1,4 +1,0 @@
-<doc_start>
-5. DEFINITIONS
-Allied Services Allied Services are services actively involved in the passage of the vessel through the VTS area.
-<doc_end>

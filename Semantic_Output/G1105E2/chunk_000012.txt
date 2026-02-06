@@ -1,7 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-The objective of this document is to provide guidance to shore-side providers of Marine Aids to Navigation on how to achieve a more synchronized presentation of information ashore with the presentation that is displayed onboard ships.
-The goal is to achieve improved common understanding of situations by shore side users and ship navigators by having similar portrayals of common information in order to enhance navigation safety and efficiency.
-
-2. SCOPE
-<doc_end>

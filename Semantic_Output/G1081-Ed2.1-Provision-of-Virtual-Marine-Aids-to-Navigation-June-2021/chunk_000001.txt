@@ -1,4 +1,0 @@
-<doc_start>
-Edition 2.1
-June 2021
-<doc_end>

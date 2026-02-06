@@ -1,7 +1,0 @@
-<doc_start>
-2.8.1. RADIO
-3
-
-2.8.1. RADIO
-P 8
-<doc_end>

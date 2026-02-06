@@ -1,4 +1,0 @@
-<doc_start>
-5. ABBREVIATIONS
-CARPET Computer Aided Radar Performance Evaluation Tool
-<doc_end>

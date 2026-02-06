@@ -1,5 +1,0 @@
-<doc_start>
-5.1.10. TIME
-Time should be given in local time in a 24 hour format.
-Mariners do not usually add the suffix “hours”.
-<doc_end>

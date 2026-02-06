@@ -1,4 +1,0 @@
-<doc_start>
-5. ABBREVIATIONS
-IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
-<doc_end>

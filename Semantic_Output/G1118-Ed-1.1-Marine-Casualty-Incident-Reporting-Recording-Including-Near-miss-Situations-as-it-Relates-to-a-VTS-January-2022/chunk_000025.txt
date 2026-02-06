@@ -1,4 +1,0 @@
-<doc_start>
-8. REFERENCES
-IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
-<doc_end>

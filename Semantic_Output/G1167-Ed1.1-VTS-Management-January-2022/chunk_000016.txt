@@ -1,4 +1,0 @@
-<doc_start>
-8. ABBREVIATIONS
-PDCA Plan Do Check Act
-<doc_end>

@@ -1,6 +1,0 @@
-<doc_start>
-Data
-
-Data
-P 18
-<doc_end>

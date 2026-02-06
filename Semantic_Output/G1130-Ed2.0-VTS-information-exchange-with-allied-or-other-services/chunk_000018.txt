@@ -1,8 +1,0 @@
-<doc_start>
-7. REFERENCES
-IALA.
-Recommendation R0145 Inter VTS Exchange Format (IVEF) (V-145).
-
-7. REFERENCES
-IALA Guideline G1130 Technical Aspects of Information Exchange Between VTS and Allied or Other Services Edition 2.0 urn:mrn:iala:pub:g1130:ed2.0
-<doc_end>

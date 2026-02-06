@@ -1,5 +1,0 @@
-<doc_start>
-11. DEFINITIONS
-Training organization is an entity accredited by the competent authority and approved to deliver one or more IALA model courses.
-(Reference – G1014)
-<doc_end>

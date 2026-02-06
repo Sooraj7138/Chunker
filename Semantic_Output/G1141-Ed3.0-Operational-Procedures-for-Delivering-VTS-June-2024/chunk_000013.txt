@@ -1,4 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-To ensure the harmonized delivery of VTS worldwide processes and procedures should be implemented in a manner that are consistent with Recommendation R0127 (V-127) VTS Operations [1] relating to implementing processes and procedures to ensure standards are consistently maintained and the service is delivered accurately.
-<doc_end>

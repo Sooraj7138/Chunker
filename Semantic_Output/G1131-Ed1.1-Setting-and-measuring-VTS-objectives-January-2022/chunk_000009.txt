@@ -1,5 +1,0 @@
-<doc_start>
-4.3. REVIEW
-It is important for the competent authority/VTS provider to regularly assess the VTS to ensure that the VTS operational objectives have been met and the problems identified and defined in the Planning and Implementing phase have been either alleviated or at least reduced to an acceptable level.
-Refer to IALA Guideline G1150 Establishing, Planning and Implementing a VTS and IALA Guideline G1018 Risk Management [16].
-<doc_end>

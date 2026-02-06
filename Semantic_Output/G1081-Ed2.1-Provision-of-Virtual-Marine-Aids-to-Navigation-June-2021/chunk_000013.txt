@@ -1,5 +1,0 @@
-<doc_start>
-5.1.1.
-
-• That the primary function of AIS technology is to prevent collisions.
-<doc_end>

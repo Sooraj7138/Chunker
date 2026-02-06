@@ -1,5 +1,0 @@
-<doc_start>
-7. REFERENCES
-IALA.
-Recommendation R0128 (V‐128) Operational and Technical Performance of VTS systems
-<doc_end>

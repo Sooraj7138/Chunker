@@ -1,5 +1,0 @@
-<doc_start>
-1. INTRODUCTION
-
-• A combination of the above
-<doc_end>

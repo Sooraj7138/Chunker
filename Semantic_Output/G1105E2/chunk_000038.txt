@@ -1,4 +1,0 @@
-<doc_start>
-Data
-IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
-<doc_end>

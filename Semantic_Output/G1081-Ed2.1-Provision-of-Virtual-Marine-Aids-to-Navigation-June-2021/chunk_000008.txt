@@ -1,5 +1,0 @@
-<doc_start>
-5.1.1.
-
-• The limitations of shipborne navigational equipment required to be equipped with AIS (non-graphical display, old shipborne AIS firmware, wrong symbol or no symbol at all).
-<doc_end>

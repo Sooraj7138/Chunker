@@ -1,6 +1,0 @@
-<doc_start>
-2.3.1. CONTINUOUS VIEWING OF VTS DISPLAYS
-Continuous viewing and manipulation of the VTS display may lead to musculoskeletal problems, visual fatigue and stress.
-Health problems can result from poor work organization, ergonomic design, working environment, job design, posture and inappropriate work methods.
-Health problems associated with display screen work can be prevented by careful design of the workplace as well as by operator training and consultation.
-<doc_end>

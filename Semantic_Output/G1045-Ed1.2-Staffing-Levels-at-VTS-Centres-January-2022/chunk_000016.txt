@@ -1,8 +1,0 @@
-<doc_start>
-5. DEFINITIONS
-The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
-Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
-
-5. DEFINITIONS
-The following definitions are specifically related to this Guideline:
-<doc_end>

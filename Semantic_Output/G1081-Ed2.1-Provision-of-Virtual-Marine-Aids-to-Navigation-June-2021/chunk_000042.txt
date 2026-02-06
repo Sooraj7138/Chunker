@@ -1,4 +1,0 @@
-<doc_start>
-14. ABBREVIATIONS
-WiMAX Worldwide Interoperability for Microwave Access
-<doc_end>

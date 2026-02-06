@@ -1,5 +1,0 @@
-<doc_start>
-EQUIPMENT SHELTERS 3.3.2.
-A shelter can provide a protective environment with characteristics that depend on the location and design of the shelter.
-In situations where contained equipment is reliant on the environment created by the shelter, the shelter facilities (e.g., cooling or heating) may become critical to the achieved availability of the equipment.
-<doc_end>

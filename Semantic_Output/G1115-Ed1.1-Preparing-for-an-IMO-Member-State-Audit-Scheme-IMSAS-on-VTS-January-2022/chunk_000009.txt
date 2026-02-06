@@ -1,4 +1,0 @@
-<doc_start>
-4.1. IMO
-IALA Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on VTS Edition 1.1 urn:mrn:iala:pub:g1115:ed1.1
-<doc_end>

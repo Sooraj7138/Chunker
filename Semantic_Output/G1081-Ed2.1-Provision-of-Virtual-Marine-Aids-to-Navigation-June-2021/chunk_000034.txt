@@ -1,7 +1,0 @@
-<doc_start>
-10.2.3. AIS VDL CAPACITY AND FATDMA PLANNING
-Virtual AtoN services transmitted on an AIS VDL typically use the FATDMA protocol.
-10.2.3. AIS VDL CAPACITY AND FATDMA PLANNING
-If the population of Virtual AtoN in a given area is too high, this may overload the VDL FATDMA slot capacity.
-This should be overcome through careful FATDMA planning - IALA Recommendation R0124 The AIS Service (A-124) [21].
-<doc_end>

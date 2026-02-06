@@ -1,7 +1,0 @@
-<doc_start>
-4.1. IMO
-P 5
-
-4.1. IMO
-e
-<doc_end>

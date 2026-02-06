@@ -1,8 +1,0 @@
-<doc_start>
-DOCUMENT REVISION
-Revisions to this document are to be noted in the table prior to the issue of a revised document.
-DOCUMENT REVISION
-Date Details Approval December 2013 First issue Council 56 Edition 2.0, The contents of some paragraphs in the main body are December 2022 condensed and revised.
-New referred documents are added.
-Status of Council 76 documents and standards cited are updated and listed in one form.
-<doc_end>

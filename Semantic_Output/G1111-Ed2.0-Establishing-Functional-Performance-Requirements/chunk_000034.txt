@@ -1,8 +1,0 @@
-<doc_start>
-5. ABBREVIATIONS
-PTZ Pan, Tilt, Zoom
-
-
-5. ABBREVIATIONS
-QoS Quality of Service
-<doc_end>

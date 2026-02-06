@@ -1,4 +1,0 @@
-<doc_start>
-DOCUMENT REVISION
-Revisions to this document are to be noted in the table prior to the issue of a revised document.
-<doc_end>

@@ -1,6 +1,0 @@
-<doc_start>
-5.1. ROUTINE PROCEDURES
-communication in the VTS area.
-When simplex channels are unavailable due to insufficient channels or interference, duplex channels may be used.
-1
-<doc_end>

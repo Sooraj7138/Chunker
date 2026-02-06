@@ -1,0 +1,57 @@
+<doc_start>
+harbour and port organizations, pilot organizations and shipping companies.
+
+2. AIMS AND OBJECTIVES This Guideline presents guidance and information to be used by maritime training organizations in the development of training on VTS as an integral part of the training of deck officers.
+This document also provides examples of activities that could be used to facilitate effective communications and the exchange of information between the bridge team and the VTSO.
+
+3. OVERVIEW OF VTS 3.1. TERMS USED IN VTS 
+• Vessel traffic service (VTS) - a service implemented by a competent authority, designed to improve the safety and efficiency of vessel traffic and to protect the environment.
+The service should have the capability to interact with the traffic and to respond to traffic situations developing in the VTS area.
+
+• Competent authority - the authority made responsible, in whole or in part, by the Government for safety, including environmental safety, and efficiency of vessel traffic and the protection of the environment.
+
+• VTS authority - the authority with responsibility for the management, operation and co-ordination of the VTS, interaction with participating ships and the safe and effective provision of the service.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 5 
+• VTS area - the delineated, formally declared service area of the VTS.
+A VTS area may be subdivided in sub-areas or sectors.
+
+• VTS operator - an appropriately qualified person performing one or more tasks contributing to the services of the VTS.
+
+• VTS centre - the centre from which the VTS is operated.
+Each sub-area of the VTS may have its own sub-centre.
+
+• Allied services - services actively involved in the safe and efficient passage of the vessel through the VTS area.
+3.2. WHERE TO FIND INFORMATION ABOUT A VTS The services offered by a VTS to the mariner are promulgated to ships in nautical charts and publications.
+This includes details of the VTS, its capabilities, rules, regulations, requirements, radio frequencies and procedures.
+It is recommended that deck officers should obtain the official “VTS Users Guide” from appropriate nautical publications or websites.
+Further information may be also obtained from IALA Guideline G1144 Promulgating the requirements of a VTS to mariners – a VTS users guide template.
+3.3. PARTICIPATION IN VTS As identified in SOLAS regulation V/12, participation in a VTS may be mandatory within the territorial seas.
+A VTS may be applicable to all ships or there may be exemptions to certain types and sizes of ships.
+It should be noted that ships that are not required to participate in a VTS may still choose to do so.
+A VTS may also be implemented beyond the territorial seas.
+3.4. PURPOSE, OBJECTIVES, ROLES AND FUNCTIONS OF VTS VTS is recognized internationally as a navigational safety measure through SOLAS regulation V/12. VTS is implemented under a national legal framework adhering to international standards and recommendations.
+3.4.1. PURPOSE OF VTS The purpose of vessel traffic services is to contribute to safety of life at sea, safety and efficiency of navigation and the protection of the marine environment within the VTS area by mitigating the development of unsafe situations.
+VTS may also have a role to play in security.
+The main benefits of a VTS for the deck officer include: 
+• Aiding in the safe and efficient use of navigable waterways.
+
+• Affording unhindered access to pursue commercial activities, subject to any restrictions that may exist.
+
+• Contributing to keeping the seas and adjacent environment free from pollution.
+There may be additional operational objectives specific to that VTS, which take account of the volume of traffic, degree of risk, geographic and environmental conditions within the VTS area.
+3.4.2. ROLES By monitoring the movements of ships within the VTS area, the VTSO is able to interact with ships in accordance with established regulations and procedures.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 6 3.4.3. FUNCTIONS VTS functions can be subdivided into internal and external functions.
+Internal functions are the preparatory activities that have to be performed to enable a VTS to operate.
+These include data collection, data evaluation and decision-making.
+External functions are activities executed with the purpose of influencing traffic.
+They relate to the primary traffic management functions of rule-making, allocation of space, control of ships and ship manoeuvres to avoid collisions, as well as to other management functions such as enforcement, remedial and ancillary activities.
+Amongst the most important functions that a VTS may carry out are those related to, contributing to and thereby enhancing and supporting: 
+• Safety of life at sea 
+• Safety of navigation 
+• Eficiency of vessel traffic movement 
+• Protection of the marine environment 
+• Maritime security 
+• Search and rescue 
+• Law enforcement 
+• Protection of adjacent communities and infrastructure BENEFITS OF VTS FOR THE
+<doc_end>

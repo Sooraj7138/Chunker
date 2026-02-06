@@ -1,0 +1,4 @@
+<doc_start>
+5. DEFINITIONS
+Competent authority Competent authority means the entity made responsible by the Government for vessel traffic services.
+<doc_end>

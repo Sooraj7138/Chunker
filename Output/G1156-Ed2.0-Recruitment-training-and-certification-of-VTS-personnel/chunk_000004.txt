@@ -1,0 +1,43 @@
+<doc_start>
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 10 
+• Accreditation which is the formal endorsement that a training organization operates under a suitable quality management system to deliver effective training.
+
+• Approval which is the formal endorsement that a training organization meets the standards specified in an IALA model course for its implementation, delivery and assessment.
+IALA Guideline G1014 Accreditation of VTS Training Organizations and Approval to Deliver IALA VTS Model Courses [11] sets out the process by which a training organization can be accredited to deliver approved VTS training courses.
+A list of training organizations accredited to deliver VTS model courses in accordance with IALA Guideline G1014 are available on the IALA website.
+RECOGNITION OF PRIOR LEARNING Exemptions from a module or subject elements within a VTS model course may be considered depending on the qualifications and training that an individual may already have.
+The accredited training organization delivering the approved model course should assess the prior learning of a candidate.
+IALA Guideline G1017 Assessment for Recognition of Prior Learning in VTS Training [5] provides further guidance on the assessment and recognition of prior learning.
+6.8. USE OF SIMULATORS Simulation training should be included in VTS training as part of the C0103 model courses and in the process of maintaining qualifications to: verify to what extent the competence levels of VTS model courses have been met.
+
+• assess performance as part of the process of maintaining qualification (skills and development training and revalidation training).
+Simulation training enables the creation of simple and complex, high-risk situations within a VTS environment.
+These situations replicate the interaction between VTS, ships, ports, allied services, and other organizations as appropriate, to manage and monitor ship traffic and respond to developing unsafe situations.
+This training provides a structured and effective method for developing and maintaining competencies by replicating real-world scenarios in a controlled setting.
+Specifically, it: 
+• allows VTS personnel to practice technical skills, refine their decision-making, and enhance operational competence without the risks associated with real VTS operations.
+emphasizes teamwork, communication, and adaptability.
+
+• allows VTS personnel to build confidence in undertaking both routine day-to-day tasks, as well responding to developing situations or emergencies.
+IALA Guideline G1027 Simulation in VTS Training [12] provides guidance for training organizations and VTS providers on developing and conducting simulation in their VTS training.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 @ P 11 QUALIFICATIONS FOR INSTRUCTORS AND ASSESSORS INSTRUCTORS AND ASSESSORS AT ACCREDITED TRAINING ORGANIZATIONS The relevant authorities should determine the qualifications and experience required for instructors delivering model courses at an accredited training organization.
+Authorities should ensure that instructors and assessors hold appropriate and recognized teaching qualifications and that they are appropriately qualified and experienced for the training being provided and assessing competence.
+The requirements for such qualifications and experience should be incorporated within the accredited training organizations quality and/or training management systems.
+INSTRUCTORS AND ASSESSORS WITHIN VTS PROVIDERS The relevant authorities should ensure that instructors and assessors delivering VTS centre specific training (e.g., OJT, adaptation training and updating training) are suitably experienced and appropriately qualified in accordance with the IALA C0103-4 (V-103/4) VTS On-the-Job Training Instructor Model Course and/or an equivalent national qualification.
+IALA C0103-4 - VTS On-the-Job Training Instructor model course provides a structure to ensure instructors have the knowledge, skill and attitude to deliver VTS centre specific OJT, adaptation training and updating training.
+7.3. INSTRUCTORS Any person conducting VTS training should: 
+• have a detailed understanding of the training programme and objectives of the training being conducted; 
+• be qualified in the task for which training is being conducted; and 
+• have practical instructional experience.
+If conducting training with the use of a simulator: 
+• have received guidance in instructional techniques involving the use of simulators; and have gained practical and operational experience on the simulator being used.
+7.4. ASSESSORS Any person assessing the competence of VTS personnel during training should: 
+• have a good level of knowledge and understanding of the competence to be assessed; 
+• be qualified in the task for which the assessment is being made; and 
+• have received guidance in assessment methods and practices.
+
+8. QUALIFICATION AND CERTIFICATION 8.1. QUALIFICATION IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 12 Qualification is the education, knowledge, understanding, proficiency, skill, experience or any other attribute which competent authority has determined as desirable for performing the duties of the position.
+VTS qualifications should be based on the principle that satisfactory results are obtained on completion of the IALA VTS model courses.
+VTS personnel should only be considered competent when appropriately trained and qualified for their VTS duties.
+This includes: satisfactorily completing generic VTS training approved by the competent authority; satisfactorily completing on-the-job training at
+<doc_end>

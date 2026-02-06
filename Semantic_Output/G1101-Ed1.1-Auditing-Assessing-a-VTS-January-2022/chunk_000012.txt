@@ -1,0 +1,21 @@
+<doc_start>
+A.3.1. PROCEDURES
+No.
+Issue/question Do you have documented operational procedures in 1. place?
+(ref: IALA Recommendation R0127 and Guideline G1141) How do you promulgate relevant VTS information to 2. your users such as applicability, necessary reporting, etc.?
+For example, do you publish via ALRS, User Guides, or website?
+Do you have established operating procedures for 3. incidents such as collision, allision, grounding, etc?
+(ref: IALA Recommendation R0127 and Guideline G1141) Do you have contingency plan(s) to ensure the 4. availability of the VTS operations in cases of emergency (i.e., redundancy of equipment, secondary location to operate, extra staffing, etc.)?
+
+5. Any other issues to discuss?
+VTS notes Auditor notes/comments
+
+A.3.1. PROCEDURES
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+A.3.1. PROCEDURES
+®
+
+A.3.1. PROCEDURES
+P 11
+<doc_end>

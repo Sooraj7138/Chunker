@@ -1,0 +1,52 @@
+<doc_start>
+coastal, port and inland waterway infrastructure and its critical and vulnerable locations.
+
+• VTS real-time knowledge of vessel activity, including scheduled movements, vessel locations and intentions.
+VTS-capability to interact with law enforcement authorities.
+
+• VTS in-depth knowledge of regular port operations, including vessel routes and ship-port interface activities.
+The VTS maintains regular and continuous communications with vessels in case a vessel is denied access to a port or restricted area for security reasons.
+The VTS may determine a safe anchorage, holding area or designated / alternative route.
+The VTS may communicate this information to the vessel and to the appropriate security authority, and monitor the vessel’s status while anchored or in the holding area, or its progress and compliance to the designated route.
+B.2. SAFETY AND PROTECTION OF THE MARINE ENVIRONMENT Prevention of harm to vessels, waterways and infrastructure will contribute to the safety of personnel, vessels, cargo, and to the protection of the marine environment and of investments in port or waterway infrastructure.
+B.3. EFFICIENCY OF MARITIME TRAFFIC Next to the support given by a VTS for improving safety and the fluency of maritime traffic, support from a VTS may also contribute to efficient information management in the maritime transport chain at large.
+For instance, when information and data contained in or captured by the VTS database is made available for re-use in a Single Window environment, multiple reporting and processing of the same information or data for different stakeholders can be avoided.
+(e.g., notice of arrival to coastguard, customs, immigration, etc.).
+It should be noted that it is important to avoid confusion between allied and other services and the services provided by a VTS.
+B.4. SEARCH AND RESCUE VTS personnel are aware of the situation and circumstances in the VTS area and may be in a position to detect and report the present information of the SAR / emergency situation.
+A VTS may collect information from all vessels concerned in the SAR area.
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1 ) P 9 In this manner a VTS may assist, by providing and exchange of information to the MRCC for SAR and emergency operations in the VTS area.
+Examples of good practice operational procedures concerning SAR and emergency situations are given in annex C.
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1 4) P 10 ANNEX C EXAMPLES OF OPERATING PROCEDURES C.1. OPERATIONAL EMERGENCY PROCEDURES The VTS functions according to IALA Guideline G1141 Operational Procedures for Delivering a VTS [2] are subdivided into internal and external.
+External Procedures cover procedures that govern the interaction with participating vessels and allied services.
+The VTS should be maintained during any emergency response.
+Incidental co-operation with emergency services, such as Search and Rescue and Pollution Control may be conducted in accordance with pre-established contingency plans in which the procedures for interaction with allied or other services are laid down and responsibilities established.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD Procedures may be established to deal with incidents such as collision, capsize, sinking, grounding, fire on vessel, “man overboard”, which may include the following actions: 1 Alert MRCC.
+2 Inform relevant regulatory authority/ies.
+3 Support on-scene coordination.
+4 Consider back-up VTS personnel.
+Promulgate information concerning incident to vessels in the VTS area.
+6 Restrict traffic in the area.
+Inform pilot boats, tugboats and other support units.
+C.3. POLLUTION Pollution incident procedures may be established.
+The following actions may be included: Alert or Inform relevant regulatory authority/ies.
+Instigate or support actions to contain the pollution and further pollution response.
+2 Promulgate information concerning incident to vessels in the VTS area.
+4 Restrict traffic in the area.
+C.4. PLACES OF REFUGE Places of Refuge procedures may be developed, depending on national requirements and the particular arrangements arising out of the implementation of IMO Resolution A.949(23) Guidelines on Places of Refuge for Ships in Need of Assistance.
+C.5. MEDICAL ASSISTANCE Procedures for medical assistance may be established.
+Actions may include: 
+• Inform MRCC.
+Inform coastal radio station.
+
+• Consider special manoeuvring requirements.
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1 ® P 11 C.6. VESSEL NOT UNDER COMMAND (NUC) Procedures in the event of a 'vessel not under command' may be established.
+Actions may include: Promulgate information concerning incident to vessels in the VTS area.
+Obtain detailed information about on board situation.
+Maintain communication with vessel.
+Assess vessel’s proximity to danger (danger to vessel itself and other traffic).
+Advise the officer of the watch accordingly.
+Activate tugs and other support units if appropriate.
+C.7. SECURITY INCIDENT Procedures in the event of a security incident may be established.
+Procedures may reflect any involvement of the VTS with the PFSP (Port Facility Security Plan) as per the International Ship
+<doc_end>

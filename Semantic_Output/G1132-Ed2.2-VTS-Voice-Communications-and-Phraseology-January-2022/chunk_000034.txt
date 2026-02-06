@@ -1,0 +1,7 @@
+<doc_start>
+SHOULD
+CAN
+
+SHOULD
+The word “CAN” describes the possibility, or the capability of doing something.
+<doc_end>

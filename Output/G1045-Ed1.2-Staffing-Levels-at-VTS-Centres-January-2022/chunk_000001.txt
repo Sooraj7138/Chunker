@@ -1,0 +1,46 @@
+<doc_start>
+PURPOSE The purpose of this Guideline is to assist authorities in determining an appropriate staffing level for a VTS Centre.
+Conferring with existing VTS authorities will provide a general idea of how VTS Centres are staffed.
+This Guideline applies as far as national law allows.
+This Guideline is not intended to be prescriptive, rather it presents factors that should be considered when determining staffing levels.
+
+2. FACTORS AFFECTING WORKLOAD The availability of qualified VTS staff is an essential resource without which VTS operations cannot safely be managed.
+Determining the adequacy of the number of VTSOs on duty is often difficult to quantify with any degree 1 IALA Recommendation R-103 (V-103) on Standards for Training and Certification of VTS Personnel refers.
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2 e P 4 of accuracy.
+Invariably this will be a balance between a number of factors which a VTS provider will need to keep under periodic review: 
+• Periods of duty 
+• Operational procedures 
+• Physical working environment 
+• Human resource requirements Interaction with Allied Services and adjacent VTS Technology, equipment and communications Incidents, accidents and other emergencies 
+• Stress-related workload 2.1. PERIODS OF DUTY Factors for consideration when determining periods of duty for VTSOs and Supervisors include: 
+• Traffic volumes and densities 
+• Navigational complexity associated with the VTS Area VHF radio traffic volume 
+• 
+• Background noise levels The number of VTS interventions anticipated The limits within which personnel may develop and maintain situational awareness 
+• Health and Safety requirements, particularly when working with visual display units 
+• The working environment 
+• Shift patterns 2.2. OPERATIONAL PROCEDURES Operational procedures have an impact on workload and should be clearly defined.2 Each procedure should set out the actions to be taken in respect to interaction with ships; interaction with other parties and authorities; and internal and external contingency situations.
+Operational procedures should be developed to eliminate duplication of tasks and to support decision-making.
+They should be reviewed and updated at regular intervals in accordance with VTS quality management system standards to ensure their relevance to VTS aims and objectives.
+For example, internal procedures may include the keeping of logbooks whether in manual or electronic format.
+Passage plans3 may differ in the way in which they are handled, recorded and broadcast which may affect the workload and staffing levels with respect to the preparation and execution of the passage plan.
+Any possible deviation from the agreed passage plan requires more attention from VTS personnel.
+IALA Recommendation R0127 (V-127) VTS Operations and Guideline G1141 Operational Procedures for Delivering VTS - refer 2 3 IMO resolution A.893 (21) Guideline for voyage planning IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2 P 5 2.3. PHYSICAL WORKING ENVIRONMENT The physical working environment includes temperature, ventilation, lighting (including emergency lighting), room dimensions, suitability of workstations and seating.
+Facilities should be provided for washing, eating, resting, as well as toilet facilities.
+VTS providers should make arrangements for enforcing health and safety measures derived from the risk assessment.
+These measures should cover planning, organization, control, monitoring and review.
+VTS providers should also consider the working conditions and risks when selecting equipment suitable the identified tasks and ensure the equipment is properly maintained.
+Additional considerations include problems associated with continuous viewing of display screens, attention/concentration levels; general ergonomics of working environment and noise/distractions within the work area.
+2.3.1. CONTINUOUS VIEWING OF VTS DISPLAYS Continuous viewing and manipulation of the VTS display may lead to musculoskeletal problems, visual fatigue and stress.
+Health problems can result from poor work organization, ergonomic design, working environment, job design, posture and inappropriate work methods.
+Health problems associated with display screen work can be prevented by careful design of the workplace as well as by operator training and consultation.
+2.3.2. ATTENTION/CONCENTRATION LEVELS The performance requirements may demand high levels of attention and concentration, for extended periods of time, where consequences of error may be critical.
+2.3.3. ERGONOMIC DESIGN The immediate environment within which the VTS personnel work should reflect an ergonomic assessment in order to facilitate effective delivery of services and to support the health and well-being of VTS personnel.
+An analysis should include the optimum ergonomic design of workstations and placement of equipment within the VTS work area.
+2.3.4. NOISE/DISTRACTIONS/LIGHTING Consideration should be given to minimizing noise levels and other possible distractions within the VTS Centre.
+Careful management of lighting levels may also improve the overall working environment.
+An inadequate working environment will have a negative impact on the performance of the VTS personnel and may affect their ability to discharge their responsibilities.
+2.4. HUMAN RESOURCES Collective agreements, contracts and terms of employment for VTS personnel should be taken into consideration when determining the staffing levels.
+Staffing levels may need to accommodate training and assessment activities.
+Careful assessment of the
+<doc_end>

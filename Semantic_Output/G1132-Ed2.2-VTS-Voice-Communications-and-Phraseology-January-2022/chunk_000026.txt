@@ -1,0 +1,20 @@
+<doc_start>
+5.1.11. GEOGRAPHICAL NAMES
+Place names should be those that are on navigational charts and publications.
+5.1.11. GEOGRAPHICAL NAMES
+Where this is not available then latitude and longitude should be used.
+5.1.12. ABBREVIATIONS
+Abbreviations will often save time in speech.
+Many abbreviations are so commonly used in normal speech they are more familiar than the original, unabbreviated form (i.e., radar).
+Abbreviations in radio transmissions may be used provided that:
+
+5.1.12. ABBREVIATIONS
+
+• they are quicker and easier to use than the full word (e.g., ETA/ETD in place of Estimated Time of Arrival/Estimated Time of Departure);
+
+5.1.12. ABBREVIATIONS
+they are sufficiently well known to avoid any confusion and subsequent confirmatory transmissions; and
+
+5.1.12. ABBREVIATIONS
+if there is any confusion, the full term is readily substituted.
+<doc_end>

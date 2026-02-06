@@ -1,0 +1,43 @@
+<doc_start>
+still in operation.
+Where, traditionally, systems operated in closed environments, increasingly, VTS systems need to share data with external stakeholders.
+This requires due consideration of authentication and authorisation of these external stakeholder, but also of measures to protect the data exchange as outlined in the following sections.
+3.5.2. DATA CONFIDENTIALITY The data exchanged between VTS, and allied or other services may have considerable business value and/or contain data that is privacy-sensitive.
+Therefore, proper care should be taken to protect this data while stored and during transmission.
+It is recommended to use an appropriately secured transmission channel, e.g., a virtual private network (VPN), to avoid unauthorized access during data transmission.
+Also, when sensitive data is stored, it may be appropriate to encrypt the data.
+Specific legal constraints may apply to data that can be related to the identity of persons.
+3.5.3. DATA ACCESSIBILITY Access to data should be properly governed, which means that proper procedures should be set-up to limit access to sensitive data to authorized personnel only.
+3.5.4. AUDIT TRAILS It may be appropriate to maintain audit trails of access to sensitive data.
+Additionally, it may be necessary to attach audit trails to the sensitive data itself, e.g., recording all transactions that were executed with that particular data.
+
+4. ADDITIONAL LEGAL ASPECTS AND CONSTRAINTS Legal aspects and constraints with respect to operational use of shared information are already considered in IALA Guidelines G1102 VTS Interaction with Allied or Other Services and G1086 Global Sharing of Maritime Data and Information, in particular.
+Further legal requirements may be applicable to the technical realization, such as: Privacy, e.g., there may be requirements for access to and storage of data Storage, e.g., limitations on the maximum allowed period 
+5. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+IALA Guideline G1130 Technical Aspects of Information Exchange Between VTS and Allied or Other Services Edition 2.0 urn:mrn:iala:pub:g1130:ed2.0 3 P 8 
+6. ABBREVIATIONS AIS Automatic Identification System EOS Electro-Optical System GI Geospatial Information Registry (IHO) IHO International Hydrographic Organization IMO International Maritime Organization SOLAS International Convention for the Safety of Life at Sea (1974, as amended) S-100 IHO universal hydrographic data model (i.e.
+the product framework governing the Geospatial Information Registry) VPN Virtual private network VTS Vessel traffic service or vessel traffic services (dependent on context) 
+7. REFERENCES [1] IMO.
+SOLAS Chapter V, Regulation 12 Vessel Traffic Services.
+[2] IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+IALA.
+Recommendation R0127 Operational Procedures for Vessel Traffic Services (V-127).
+[4] IALA.
+Recommendation R0128 VTS Systems and Equipment.
+IALA.
+Guideline G1086 Global Sharing of Maritime Data and Information.
+[6] IALA.
+VTS Manual.
+[7] IALA.
+NAVGUIDE.
+IALA.
+Guideline G1018 Risk Management.
+IALA.
+Guideline G1102 VTS Interaction with Allied or Other Services.
+[10] IHO.
+S-100. IALA.
+Recommendation R0145 Inter VTS Exchange Format (IVEF) (V-145).
+IALA Guideline G1130 Technical Aspects of Information Exchange Between VTS and Allied or Other Services Edition 2.0 urn:mrn:iala:pub:g1130:ed2.0 e P 9
+<doc_end>

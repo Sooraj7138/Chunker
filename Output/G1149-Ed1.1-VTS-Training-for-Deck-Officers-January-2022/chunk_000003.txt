@@ -1,0 +1,54 @@
+<doc_start>
+has defects or deficiencies, such as navigation or manoeuvring equipment failure.
+
+• Severe meteorological conditions (e.g., low visibility, strong winds).
+
+• A ship at risk of grounding or collision.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 8 A VTS may also assist in emergency response or support to emergency services.
+3.8. VTS PROCEDURES A VTS operates in accordance with the requirements set by the competent authority.
+VTS procedures are integral to the safety management system ensuring the services are delivered accurately, efficiently and effectively.
+This includes both internal and external procedures.
+More information can be found in IALA Guideline G1141 Operational Procedures for Vessel Traffic Services.
+
+4. ALLIED AND OTHER SERVICES A VTS actively interacts with allied and other services which are also involved in the safe and efficient passage of the ship through a VTS area.
+Allied services include pilotage, tugs, line handlers, port authorities, search and rescue and customs authorities.
+Other services refer to services other than the allied services, which may use VTS data to more effectively undertake their work (e.g., ensuring local security or preventing illegal imports within a port).
+More information can be found in IALA Guideline G1102 VTS Interaction with Allied or Other Services.
+COMMUNICATION BETWEEN THE DECK OFFICER AND THE VTS CENTRE 5.1. TOOLS Different communication tools may be used, including VHF radio.
+VHF voice communications are generally performed on the channel specified by the VTS centre.
+Other tools include AIS safety related messages, DSC, email and radiotelephony on MF/HF.
+5.2. VOICE COMMUNICATION It is important that all communications can be readily understood.
+Therefore, voice communication should be in English, using standard phraseology.
+However, in some situations, voice communication may be carried out in the national language of the bridge team and the VTSO.
+VTS should play an active role in ensuring that the content of all communication is understood by all participants.
+5.3. REQUIREMENTS OF COMMUNICATIONS To ensure consistent and effective communication, it is important that: 
+• VTS VHF working channel is monitored when in the VTS area; and communication should be concise and unambiguous.
+It should be noted that information provided by the VTS centre does not affect the statutory responsibilities and duties of deck officers.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 9 5.4. VOICE COMMUNICATION IN VTS To ensure the communication efficiency, deck officers should make use of SMCP, including the use of message markers, and IALA Guideline G1132 VHF Voice Communication.
+Several tools are provided in the Guideline to improve the effectiveness of communication.
+Communication should: 
+• Clearly indicate the identity of the ship and the VTS centre.
+
+• Use the assigned frequencies/channels of the VTS.
+
+• Use the correct reporting procedures of the VTS.
+
+• Take into account the limitations within radio telecommunication, both when receiving and transmitting communication with a VTS.
+
+6. TRAINING ACTIVITIES VTS should be included in the mandatory national training programmes for deck officers developed in accordance with the provisions of the STCW Code and be reflected in examination and assessment.
+VTS should also be included in other types of training such as bridge resource management, voyage planning, and voice communication.
+6.1. THEORY TRAINING Theory training on VTS should include the following: Introduction of VTS, including functions, responsibilities, and procedures of VTS.
+
+• Requirements for transiting through the VTS area.
+
+• Benefits of VTS for the bridge team.
+
+• Communication methods and standard phraseology between the bridge team and VTS.
+
+• Where to find information on VTS.
+6.2. PRACTICAL TRAINING Ships navigating in an area where VTS is provided should make use of these services.
+The introduction of VTS in practical training is helpful for deck officers to be familiar with the operation of ships in the VTS area.
+Examples of elements for training are provided in table 
+1. IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 10 Table 1 Examples of practical training elements Training activity Specific items Evaluation elements about VTS Evaluation requirements − Obtain the necessary VTS information Voyage or passage plan Develop a voyage or passage plan Develop a contingency plan − Identify the relevant VTS interaction(s) − Include the VTS information in the voyage or passage plan − Consider possible incidents in the VTS area − Identify contingencies that take into account how VTS can assist VTS influencing factors should be fully considered and reflected in the formulation of the voyage or passage plan.
+Actual operation through a specific VTS area Entry into the VTS area Passage through the VTS area Incidents within the − Contact VTS − Include relevant VTS information in your decision making − Maintain communication with VTS − Actively participate in the VTS − Contact VTS − Include relevant VTS information in your In the VTS area, ships should report
+<doc_end>

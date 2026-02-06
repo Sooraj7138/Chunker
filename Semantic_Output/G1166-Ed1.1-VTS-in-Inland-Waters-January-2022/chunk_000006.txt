@@ -1,0 +1,28 @@
+<doc_start>
+1. INTRODUCTION
+A State has sovereignty over its inland waters and may make laws to regulate inland waters and their use and may utilize any resource.
+Foreign vessels have no right of passage within inland waters, and the passage of foreign vessels in inland waters may be regulated by national or regional legislation.
+While the obligations of SOLAS Regulation V/12, IMO Resolution A.1158(32) and IALA standards do not apply in inland waters, it is recommended that their provisions are taken into account.
+
+1. INTRODUCTION
+Noting the IMO regulatory framework for VTS does not apply in inland waters, the following definition for an inland vessel traffic service (inland VTS) has been adopted:
+
+
+1. INTRODUCTION
+“A service in inland waters implemented by an authority with the capability to interact with vessel traffic and respond to developing situations within a vessel traffic service area to improve the safety and efficiency of navigation, contribute to safety of life and support the protection of the environment.”
+
+
+2. PURPOSE
+The purpose of this Guideline is to assist authorities establish inland VTS in inland waters effectively and in a manner that reflects the international regulatory regime for VTS.
+It identifies IALA recommendations and guidelines that may have relevance to inland VTS and offers considerations for applying or adapting IALA guidance to inland waters, which national administrations may wish to take into account when applying this to national legislation or policy.
+
+2. PURPOSE
+This Guideline is associated with IALA Recommendation R0119 (V-119) Establishment of a VTS.
+
+2. PURPOSE
+This Guideline is an informative document which describes desirable practices to assist authorities establishing inland VTS to plan, implement and operate them in a harmonized manner that is aligned with IALA Standards as
+
+
+2. PURPOSE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+<doc_end>

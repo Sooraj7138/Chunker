@@ -1,0 +1,33 @@
+<doc_start>
+2. CLARIFICATIONS
+A near-miss is defined in MSC-MEPC.7/Circ.7 Guidance on near-miss reporting, as a sequence of events and/or conditions that could have resulted in loss.
+This loss was prevented only by a fortuitous break in the chain of events and/or conditions.
+The potential loss could be human injury, environmental damage, or negative business impact (e.g., repair or replacement costs, scheduling delays, contract violations, loss of reputation).
+
+2. CLARIFICATIONS
+CASUALTY A 7 @ (major damages & casualties) Risk (no or few damages) (no damage) Normal Abnormal situation situation
+
+
+2. CLARIFICATIONS
+Figure 1 Classification of Near-Miss, Incident and Casualty situations
+
+
+2. CLARIFICATIONS
+Initiatives such as the Line Operation Safety Audit (LOSA) clearly demonstrate that errors also occur in normal operations, therefore the identification of “normal situations” (or normal operations) does not preclude the possibility of incidents or near misses.
+It may be possible that a near-miss is not detected either on board a ship or by VTS personnel, then the situation still appears as a “normal situation” (N).
+
+2. CLARIFICATIONS
+Figure 1 should be read based on a risk scale from no damage to few damages and casualties.
+Where the main difference between near-miss and incident can be described as follows, near-miss is only a fortuitous break in the chain of events prevented occurrence of a casualty and the incident is a situation that has involved no or few damages, however, if there are any damages they are minor, and casualties are prevented.
+The real situation assessment (R) should be compared under some defined criteria by VTS personnel in order to identify whether a casualty, an incident or a near-miss occurred.
+See annex A for the models and flowcharts for monitoring, recording and understanding developing situations.
+UNDERSTANDING SITUATION AND ASSOCIATED DATA
+The correct assessment of the situation by the VTS personnel is fundamental for the actions to be taken for preventing casualties or reducing navigational and environmental risks.
+UNDERSTANDING SITUATION AND ASSOCIATED DATA
+IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+UNDERSTANDING SITUATION AND ASSOCIATED DATA
+P 5
+
+UNDERSTANDING SITUATION AND ASSOCIATED DATA
+<doc_end>

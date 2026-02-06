@@ -1,0 +1,37 @@
+<doc_start>
+that: Contracting Governments should: IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0 P 4 “establish a legal basis for VTS that gives effect to regulation V/12 of the Convention” and “appoint and authorize a competent authority for VTS”.
+Competent authorities for VTS should: “establish a regulatory framework for establishing and operating VTS in accordance with relevant international conventions and IMO instruments, IALA standards and national law” 
+• Participating ships should: “provide reports or information required by VTS” and “take into account the information provided, or advice and warnings issued, by VTS” and “comply with the requirements and instructions given to the ship by VTS unless contradictory safety and/or marine environment protection reasons exist”.
+3.2. INTERACTION WITH PARTICIPATING SHIPS Important considerations when interacting with participating ships include: IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services states that: “Nothing in these Guidelines changes the Master's ultimate responsibility for all aspects of the operation of the ship including the responsibility for safe navigation.”; 
+• There are implications of providing information, warning, advice, or instruction as defined in IMO Resolution A.918(22) Standard Marine Communication Phrases (SMCP) [5].
+In particular, when an instruction is issued, the recipient has a legal obligation to comply with this message unless the master considers that contradictory safety and/or marine environment protection reasons exist; 
+• Irrespective of whether the service is initiated by the VTS or the participating ship, care should be taken that VTS operations do not encroach upon the master's responsibility for safe navigation; and 
+• IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services emphasizes that VTS communications should be timely, clear, concise, and unambiguous.
+The effective delivery of a VTS is dependent on the provision of precise and unambiguous voice communications to ships and allied services to minimize the risk of unexpected and dangerous reactions, considerations include: Phrases that are used on the bridge of the ship, in particular specific rudder or engine commands such as “Stop Engine” or “Hard to Starboard”, should not be used by the VTS.
+
+• 
+• While VHF is normally the primary communications medium for a VTS, any available means may be used.
+
+• The use of common communication phrases by VTS personnel reduces the opportunities for misunderstanding and the time required to communicate messages.
+IALA has issued detailed guidance on communications in Recommendation R1012 VTS Communications [6] and in Guideline G1132 VTS Voice Communications and Phraseology [7], and the phraseology and content draw on the SMCP Resolution.
+Message Markers are essential in VTS Communications and assist where language difficulties exist; 3.2.1. MESSAGE MARKERS There are eight message markers as defined in SMCP; seven of them are recommended for use by the VTS to emphasize the content of the message or to ensure that the message will be properly understood.
+Message markers precede the message or the corresponding part of the message.
+Message markers clarify whether the message contains information, warning, advice, instruction, question, answer or request.
+Message markers may also be particularly effective when language difficulties are apparent between the VTS and the ship.
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0 P 5 It is best practice that a VTS always uses message markers when communicating with ships.
+The use of message markers becomes critical when responding to developing unsafe situations.
+In such circumstances a degree of stress or urgency frequently exists, and the use of message markers can help to ensure that the purpose of each part of the message is clear and unambiguous.
+VTS providers should give particular consideration to the issuing of warnings, advice, or instruction.
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS IMO Resolution A.1158(32) states that: “The purpose of a VTS is to contribute to safety of life at sea, improve the safety and efficiency of navigation and support the protection of the environment within a VTS area by mitigating the development of unsafe situations through: 1. providing timely and relevant information on factors that may influence ship movements and assist on-board decision making.
+2. monitoring and managing ship traffic to ensure the safety and efficiency of ship movements.
+3. responding to developing unsafe situations.” 4.1. TIMELY AND RELEVANT INFORMATION The provision of timely and relevant information on factors that may influence the ship's movements and assist on-board decision making should be provided where: deemed necessary by the VTS; or 
+• requested by the participating ship.
+Timely and relevant information may include but is not limited to: The position, identity, intention, and movements of ships.
+
+• Maritime Safety Information (MSI) such as meteorological and hydrological conditions, notices to mariners, status of marine aids to navigation.
+Scheduling information to enable a ship to optimize its overall passage efficiency.
+
+• 
+• Limitations of ships in the VTS area that may impose restrictions on the navigation of other ships (e.g., manoeuvrability), or any other
+<doc_end>

@@ -1,0 +1,17 @@
+<doc_start>
+6.4. CONSIDERATIONS FOR SHIPS IN THE VTS AREA
+There are a number of factors that should be taken into account by the bridge team when a ship is in a VTS area.
+Examples of elements for training are provided in Table 3.
+
+6.4. CONSIDERATIONS FOR SHIPS IN THE VTS AREA
+Table 3 VTS factors that may be considered when a ship is in a VTS area
+
+6.4. CONSIDERATIONS FOR SHIPS IN THE VTS AREA
+Training activity Evaluation elements − Providing estimated arrival / departure from VTS area，including format, content and Considerations – format of the estimated arrival / departure report; entering the VTS area − Procedure to follow when entering VTS area，including establishing contact with the VTS centre, communications and reporting requirements.
+− Movement within a VTS area，including the mandatory requirements for ships in the VTS area, communication and reporting requirements; Considerations – − Anchoring in VTS area, including the designated anchorage, communications and reporting within the VTS area requirements; − Berthing / unberthing in VTS area, including the arrival berth report, traffic clearance, speed or other restrictions and reporting requirements.
+Considerations – departing the VTS area − Procedures to follow when departing the VTS area, including reporting requirements.
+6.5. INCIDENTS AND EMERGENCIES
+A VTS supports safety of navigation and protects the environment through active monitoring and interaction with ships.
+VTS can assist with the coordination of response during incidents and emergencies, while ensuring the safety of the waterway.
+Incidents or emergencies may include search and rescue/man overboard, engine failure, steering gear failure, collision or grounding, encountering adverse weather that may affect safe voyage.
+<doc_end>

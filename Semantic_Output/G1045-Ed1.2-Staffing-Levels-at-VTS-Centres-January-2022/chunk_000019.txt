@@ -1,0 +1,18 @@
+<doc_start>
+5. DEFINITIONS
+Duty A period of duty is the total time that VTS personnel will be required to be present at the VTS Centre irrespective of whether or not they are carrying out actual watchkeeping duties at a VTS workstation.
+
+5. DEFINITIONS
+Vessel traffic service or VTS means a service, or services, implemented by a Government with the capability to vessel traffic services interact with vessel traffic and respond to developing situations within a vessel traffic (VTS) service area to improve the safety and efficiency of navigation, contribute to safety of life at sea and support the protection of the environment.
+
+5. DEFINITIONS
+VTS area
+
+
+5. DEFINITIONS
+A VTS area is the delineated, formally declared service area of the VTS.
+A VTS area may be subdivided in sub-areas or sectors.
+
+5. DEFINITIONS
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2
+<doc_end>

@@ -1,0 +1,25 @@
+<doc_start>
+could lead to ambiguity.
+Uniform Oxford English Dict.
+– not changing in form or character; remaining the same in all cases and at all times; of a similar form or character to another or others.
+Merriam-Webster Dict.
+– having always the same form, manner, or degree; not varying or variable; consistent; constant.
+Example/context: Portraying information in a uniform manner reduces confusion as to meaning or intent.
+Uniqueness Oxford English Dict.
+– being the only one of its kind; unlike anything else.
+Merriam-Webster Dict.
+– distinctively characteristic.
+User selected presentation IMO MSC 191(79) - An auxiliary presentation configured by the user for a specific task-at-hand.
+The presentation may include radar and/or chart information, in combination with other navigation or ship related data.
+Data vs.
+Information Portrayal In addition to specific, individual definitions, it is important to make a clear distinction between what is “data” and what is “information”.
+In the strictest sense, data can be simply a raw collection of facts, which can exist in any form without meaning, sequence or usability.
+In terms of shore-based equipment, systems and services, “data” is usually in alpha-numeric form that is digitally transmitted via electronic means.
+Some examples include navigation sensor data (e.g., GPS and radar) or AIS Application Specific Messages.
+However, when this data is transformed into a human-readable format (i.e., portrayal) it then becomes “information” capable of being understood by shipborne and shore-based users.
+This information can be portrayed in a variety of ways, including alpha-numeric text, point, line or polygon, symbols or icons, and geo-spatial (map or chart).
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 20 ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems) Types of shore-based tasks (examples) that should be portrayed.
+Do a command Radar acquire target Identify a radar track Modify data Create or modify a vessel trip Manage the portrayal Chart pan, zoom in, zoom out, etc.
+Perform measurements ; CPA, Distance,…, Handling of Alarms (grounding etc.) received Handling from Alarms received by MOB’s etc.
+Handling of (system)errors on inputs (radar, AIS, ..) Filtering of information Managing AtoN Managing (temporary) obstructions Support tasks Recent information playback Reporting dangerous situations/accidents Auxiliary tasks Shift on and shift off operators Maintenance tasks and diagnostics Sensor controls Housekeeping tasks Examples of new applications or systems that may be related to portrayal of IALA information and data were compiled in conjunction with the preparation of this Guideline and can now be found at: https://www.iala-aism.org/technical/information-portrayal/portrayal-examples/ https://www.iala-aism.org/technical/information-portrayal/iala-portrayal-guideline/ IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 P 21
+<doc_end>

@@ -1,0 +1,4 @@
+<doc_start>
+5.1.1.
+It is not mandatory for certain vessels to be equipped with AIS equipment or vessels may be fitted with equipment not capable of receiving the AIS AtoN.
+<doc_end>

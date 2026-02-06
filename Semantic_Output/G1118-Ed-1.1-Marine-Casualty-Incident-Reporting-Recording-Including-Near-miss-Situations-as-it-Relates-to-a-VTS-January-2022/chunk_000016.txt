@@ -1,0 +1,118 @@
+<doc_start>
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+A VTS provider should establish criteria that determine operational effectiveness, such as safety margins, monitor the VTS area with respect to these criteria, and use those criteria when investigating incidents.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+These criteria might also be used for decision support tools within VTS.
+From a viewpoint of VTS personnel, managing and, where possible, reducing risks, depend to a great extent on the capability of the VTS sensors and the prevailing circumstances and conditions of the VTS area.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+The procedures to identify situations where risk may be increasing, or where measures of operational effectiveness e.g., safety margins, have possibly been exceeded, should be integrated as routine procedures in the VTS Centre according to IALA Guideline G1141 [4].
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Decision and criteria of the risks should be based on the evaluation of various risks including:
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Determining factors, for example:
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• CPA/TCPA factor
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Emergency manoeuvre of a vessel
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Complaint addressed to the VTS centre
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Absence of lookout and watch-keeping
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Contributing factors, for example:
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Weather and visibility conditions
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Density of traffic
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Dangerousness of the cargo on board
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Proximity of shallow waters
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Manoeuvrability of the vessel
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+When casualty/incident/near-miss do occur, it is appropriate to use a coding scheme or a framework to both guide the investigation and to categorize the contributing factors.
+The results of these investigations should be placed in a form that allows a VTS provider to detect patterns over time.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Frameworks that might be appropriate for this include the:
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Human Factors Accident Classification System (HFACS)
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Root Cause Analysis
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• “Five Whys” or any approach that is comprehensive, assesses contributing factors at multiple levels of organization (i.e., individual, team, organization, system), which attempt to understand how the responses to the situation were considered logical and reasonable under the circumstances, and consider the event in the context of the complex maritime system.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+REQUIRED TECHNICAL ABILITY OF VTS SYSTEM FOR DATA RECORDING, STORAGE AND RETRIEVAL
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+3.2.
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+It is essential that a VTS should have the ability to record and store all relevant information regarding recognized casualty/incident/near-miss situations.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+This should include:
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+P 6
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Sensors data recordings
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• VHF and telephone communication recordings
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Recording and storing of other relevant information
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+It may also include (within legal limitations):
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Recordings of the internal conversations of VTS personnel inside VTS Centre
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+
+• Recordings of the actions of VTS personnel
+
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+IALA recommends a minimum of 30-day storage period of VTS data (IALA Guideline G1111 Preparation of Operational and Technical Performance Requirements for VTS Systems [5]) as the time-period to allow for the full retrieval of data post-incident.
+It can be assumed that this requirement is appropriate for all data sets that may be used for incident replay.
+As this data will be recorded in a rolling loop of, for example the most recent 30-days data, there should be a procedure to store recordings to safeguard recorded data in case of a casualty, an incident or a near-miss.
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+Technical means of a VTS should be in line with relevant technical requirements to ensure proper data recording and storage (refer to IALA Guideline G1111).
+3.1. DECISIONS, CRITERIA AND INVESTIGATION TOOLS
+VTS systems may also have the capability for data analysing and automated report generation.
+<doc_end>

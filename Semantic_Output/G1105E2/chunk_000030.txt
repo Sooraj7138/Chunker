@@ -1,0 +1,10 @@
+<doc_start>
+8. DEFINITIONS
+Unless otherwise defined below, the definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA dictionary) and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. DEFINITIONS
+Specifically, however, for this Guideline, there is benefit in using agreed terminology, in order to have a clear understanding of what various terms mean.
+This is particularly important when making a distinction between such terms as data and information, as well as display, presentation and portrayal.
+The relevant terms are included in Appendix 1.
+<doc_end>

@@ -1,0 +1,8 @@
+<doc_start>
+8.1. TECHNICAL ASPECTS
+A Virtual AIS AtoN should be considered lost after 15 minutes, unless updated on the shipborne navigational displays, as specified in IMO MSC.1/Circ.
+1473 [9].
+A lost target symbol, as depicted in IEC 62288 [31], should be shown on the AIS AtoN symbol.
+This consists of two crossed solid lines centred on the target symbol.
+Once acknowledged, the lost target symbol and its target symbol shall be removed from the display.
+<doc_end>

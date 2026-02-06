@@ -1,0 +1,20 @@
+<doc_start>
+9. REFERENCES
+IALA.
+Standard S1010 AtoN Planning and Service Requirements
+
+
+9. REFERENCES
+IALA.
+Standard S1050 Training and Certification
+
+
+9. REFERENCES
+IALA.
+Standard S1070 Information Services
+
+
+9. REFERENCES
+[9] ISO.
+(2021) 21500:2021 Guidance on Project Management
+<doc_end>

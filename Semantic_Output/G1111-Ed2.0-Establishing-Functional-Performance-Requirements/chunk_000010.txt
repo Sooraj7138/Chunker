@@ -1,0 +1,175 @@
+<doc_start>
+3. IMPLEMENTATION CONSIDERATIONS
+VTS system implementations may require consideration of the following:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+VTS system function and performance including, but not limited to :
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Off-the-shelf solution or customized solution
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Sensor and radio coverage, including overlapping coverage
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Equipment redundancy
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Communications routes
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• External Interfaces
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Electromagnetic issues (EMI/EMC)
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+VTS system sustainability including, but not limited to:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Lifecycle planning, including environmental impact and sustainability in the choice of materials, power consumptions etc.
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Maintenance of the VTS system and equipment
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+•
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Environmental constraints and impacts such as wind, influence from the sea, precipitation and possibly ice
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Locational and infrastructure design should include but not be limited to:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• VTS Centre location(s)
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Available land and suitability of sensor sites
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Existing infrastructure such as power and data lines
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Selection of installation sites with due respect to neighbours
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Security and site access
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Rules and regulations, for example:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Applicable rules and regulations, i.e.
+required licenses (transmission, building etc.)
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Business rules
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+P 8
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+®
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Organization, for example:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Administrative functions and roles
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Authorization levels
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Any VTS system should, as a minimum, be equipped with means to build a VTS traffic image as well as providing reliable communications.
+
+3. IMPLEMENTATION CONSIDERATIONS
+The system architecture of a VTS system should carefully consider issues such as, but not be limited to:
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Network requirements (bandwidth, latency etc.)
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Redundant data paths
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Data integrity
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+Security requirements, e.g., physical security, cyber security
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Data storage
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Reporting and recording requirements
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+
+• Maintenance of the VTS System and its equipment
+
+
+3. IMPLEMENTATION CONSIDERATIONS
+In addition, the system architecture should have built-in flexibility for future upgrades and have the capability to be maintained without impacting routine VTS operations.
+
+3. IMPLEMENTATION CONSIDERATIONS
+During the development of the system architecture, comprehensive site surveys should be performed, including but not limited to the above considerations.
+Involvement of relevant stakeholders in the site survey early in the process adds value and ensures awareness of the potential risks (e.g., design and performance).
+<doc_end>

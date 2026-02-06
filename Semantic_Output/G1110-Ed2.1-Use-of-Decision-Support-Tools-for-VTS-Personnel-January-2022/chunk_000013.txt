@@ -1,0 +1,4 @@
+<doc_start>
+4. DEFINITIONS
+In addition, for this document, the following definitions apply:
+<doc_end>

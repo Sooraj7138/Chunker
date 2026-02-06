@@ -1,0 +1,55 @@
+<doc_start>
+urn:mrn:iala:pub:g1144:ed1.1
+
+urn:mrn:iala:pub:g1144:ed1.1
+DOCUMENT REVISION
+
+urn:mrn:iala:pub:g1144:ed1.1
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+urn:mrn:iala:pub:g1144:ed1.1
+Date Details June 2019 First issue.
+January 2022 Edition 1.1 Approved by Council December 2021 and published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 69 Council 74
+
+urn:mrn:iala:pub:g1144:ed1.1
+IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1
+
+urn:mrn:iala:pub:g1144:ed1.1
+
+urn:mrn:iala:pub:g1144:ed1.1
+P 2
+
+urn:mrn:iala:pub:g1144:ed1.1
+CONTENTS
+
+urn:mrn:iala:pub:g1144:ed1.1
+
+1. INTRODUCTION ...................................................................................................................................
+4 
+2. AIMS AND OBJECTIVES ........................................................................................................................
+4 
+3. INTERNATIONAL FRAMEWORK ............................................................................................................
+4 3.1. Contents of the framework .....................................................................................................................
+4 3.2. Promulgation and delivery of the information ........................................................................................
+5 
+4. DEFINTIONS .........................................................................................................................................
+5 
+5. ABBREVIATIONS ..................................................................................................................................
+5 
+6. REFERENCES ........................................................................................................................................
+5
+
+urn:mrn:iala:pub:g1144:ed1.1
+ANNEX A VTS USERS GUIDE TEMPLATE ...................................................................................................
+6
+
+urn:mrn:iala:pub:g1144:ed1.1
+IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1
+
+urn:mrn:iala:pub:g1144:ed1.1
+
+urn:mrn:iala:pub:g1144:ed1.1
+P 3
+
+urn:mrn:iala:pub:g1144:ed1.1
+<doc_end>

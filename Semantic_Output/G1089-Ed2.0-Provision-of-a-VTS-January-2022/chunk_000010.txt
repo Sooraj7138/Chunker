@@ -1,0 +1,18 @@
+<doc_start>
+4. PROVISION OF VTS TO PARTICIPATING SHIPS
+IMO Resolution A.1158(32) states that:
+
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS
+“The purpose of a VTS is to contribute to safety of life at sea, improve the safety and efficiency of navigation and support the protection of the environment within a VTS area by mitigating the development of unsafe situations through:
+
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS
+1. providing timely and relevant information on factors that may influence ship movements and assist on-board decision making.
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS
+2. monitoring and managing ship traffic to ensure the safety and efficiency of ship movements.
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS
+3. responding to developing unsafe situations.”
+<doc_end>

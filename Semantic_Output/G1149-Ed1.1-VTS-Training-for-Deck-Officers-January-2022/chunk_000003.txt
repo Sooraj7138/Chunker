@@ -1,0 +1,21 @@
+<doc_start>
+urn:mrn:iala:pub:g1149:ed1.1
+Table 1
+
+urn:mrn:iala:pub:g1149:ed1.1
+Table 2
+
+urn:mrn:iala:pub:g1149:ed1.1
+Table 3
+
+urn:mrn:iala:pub:g1149:ed1.1
+Table 4
+
+urn:mrn:iala:pub:g1149:ed1.1
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1
+
+urn:mrn:iala:pub:g1149:ed1.1
+
+urn:mrn:iala:pub:g1149:ed1.1
+P 4
+<doc_end>

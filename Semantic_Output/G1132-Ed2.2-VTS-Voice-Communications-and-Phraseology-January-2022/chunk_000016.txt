@@ -1,0 +1,44 @@
+<doc_start>
+5.1.2.2. Advice
+Note: The decision whether to follow the ADVICE still stays with the recipient.
+ADVICE does not necessarily have to be followed but should be considered very carefully.
+5.1.2.2. Advice
+5.1.2.3. Warning
+
+5.1.2.2. Advice
+This indicates that the following message implies the intention of the sender to alert others to potential dangers.
+5.1.2.2. Advice
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+5.1.2.2. Advice
+
+5.1.2.2. Advice
+P 10
+
+5.1.2.2. Advice
+VTS
+
+5.1.2.2. Advice
+VTS
+
+WARNING.
+You are approaching shallow water distance 6 cables.
+Note: This means that any recipient of a WARNING should pay immediate attention to the danger mentioned and confirm the ship’s position, course and speed in relation to the warning.
+Consequences are up to the recipient.
+5.1.2.4. Instruction
+This indicates that the following message implies the intention of the sender to direct the action of others.
+5.1.2.4. Instruction
+In a VTS area, ships should comply with instructions given to the ship by a VTS unless contradictory safety and/or marine environment protection reasons exist.
+Masters may be required to report on their actions should they decide to disregard any instruction given by a VTS.
+5.1.2.4. Instruction
+It is important, therefore, that when an instruction is issued by a VTS it has the appropriate regulatory status and
+
+5.1.2.4. Instruction
+authority to do so.
+5.1.2.4. Instruction
+VTS
+
+5.1.2.4. Instruction
+INSTRUCTION.
+Remain West of No 1 Buoy until ship X has passed.
+<doc_end>

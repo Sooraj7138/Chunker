@@ -1,0 +1,9 @@
+<doc_start>
+1. INTRODUCTION
+Vessel Traffic Services are recognized internationally as a navigational safety measure through the International Convention on the Safety of Life at Sea 74/78 (SOLAS) [1].
+In particular, the provisions in SOLAS Chapter V (Safety of Navigation) Regulation 12 provides for vessel traffic services and states, amongst other things, that:
+
+
+1. INTRODUCTION
+“Vessel Traffic Services (VTS) contribute to safety of life at sea, safety and efficiency of navigation and protection of the marine environment, adjacent shore areas, work sites and offshore installations from possible adverse effects of maritime traffic.”
+<doc_end>

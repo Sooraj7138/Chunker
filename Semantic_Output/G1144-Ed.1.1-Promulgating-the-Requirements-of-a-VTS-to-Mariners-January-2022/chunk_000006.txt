@@ -1,0 +1,29 @@
+<doc_start>
+3.2. PROMULGATION AND DELIVERY OF THE INFORMATION
+This information should be promulgated and published in the appropriate nautical publications or by other means, e.g., websites, AIS, ECDIS, and other digital transfer media, etc.
+
+4. DEFINTIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+5. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+5. ABBREVIATIONS
+VTS Vessel traffic service or vessel traffic services (dependent on context)
+
+
+5. ABBREVIATIONS
+SOLAS IMO Convention on Safety of Life at Sea, as amended
+
+
+6. REFERENCES
+IMO.
+Resolution A.
+1158(32) Guidelines for Vessel Traffic Services.
+
+6. REFERENCES
+IMO.
+Resolution A.851(20) General Principles for Ship Reporting Systems and Ship Reporting Requirements Including Guidelines for Reporting Incidents Involving Dangerous Goods, Harmful Substances and/or Marine Pollutants.
+<doc_end>

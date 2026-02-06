@@ -1,0 +1,7 @@
+<doc_start>
+5.1.2.1. Information
+VTS INFORMATION.
+Water level at breakwater is 4 metres.
+VTS INFORMATION.
+Container Ship Maersk Dusseldorf [position] inbound and will take tugs at Swanson Dock swing basin.
+<doc_end>

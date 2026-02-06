@@ -1,0 +1,48 @@
+<doc_start>
+1. INTRODUCTION
+The establishment and on-going operation of a VTS is a considerable investment.
+To achieve the purposes for which it was implemented, it needs to be effective and routinely evaluated to ensure that the operational objectives are being met, the technical and operational performance is acceptable, and the issues identified and defined in determining the need for the VTS have been either alleviated or at least reduced to an acceptable level.
+
+3. AIMS AND OBJECTIVES
+The aim of this document is to provide guidance for competent authorities and VTS providers to meet their obligations under SOLAS for the establishment and operation of a VTS.
+In particular, it aims to provide guidance for auditing and assessing a VTS and the subsequent on-going assessment and evaluation to ensure:
+
+
+3. AIMS AND OBJECTIVES
+
+• conformity with international obligations;
+
+
+3. AIMS AND OBJECTIVES
+the technical performance of the VTS equipment is consistent with the objectives of the VTS;
+
+
+3. AIMS AND OBJECTIVES
+the operational objectives are being met; and
+
+
+3. AIMS AND OBJECTIVES
+
+• the degree of risk identified in determining the need for the VTS have been either alleviated or at least reduced to an acceptable level.
+
+3. AIMS AND OBJECTIVES
+Note:
+
+
+3. AIMS AND OBJECTIVES
+This Guideline is intended to complement other IALA guidance, as amended, on the establishment and on-going operation of a VTS.
+It is not intended to replicate the information and guidance in these documents or be prescriptive about auditing provisions / quality management systems.
+Rather, it provides a framework to assist authorities to meet their obligations for the establishment and operation of a VTS in a consistent manner.
+Key IALA documentation associated with this Guideline may be found on the IALA website www.iala-aism.org.
+
+3. AIMS AND OBJECTIVES
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+
+3. AIMS AND OBJECTIVES
+®
+
+
+3. AIMS AND OBJECTIVES
+P 4
+<doc_end>

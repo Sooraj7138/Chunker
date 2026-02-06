@@ -1,0 +1,145 @@
+<doc_start>
+4.3.1. IALA GUIDANCE
+IALA provides a number of documents relating to key operational considerations.
+These include:
+
+4.3.1. IALA GUIDANCE
+
+• Recommendation R0127 VTS Operations and an associated Guideline G1141 Operational Procedures for a VTS;
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1089 Provision of a VTS that sets out advice on providing a VTS including the responsibilities and purpose;
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1110 Use of Decision Support Tools for VTS Personnel;
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1131 Setting and measuring VTS objectives;
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1045 Staffing Levels at VTS Centres;
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1118 Marine Casualty/Incident Reporting and Recording, Including Near Miss Situations; and
+
+4.3.1. IALA GUIDANCE
+
+• Guideline G1144 Promulgating the Requirements of a VTS to Mariners A VTS Users Guide Template
+
+4.3.1. IALA GUIDANCE
+4.3.2. INLAND WATERS CONSIDERATIONS
+
+4.3.1. IALA GUIDANCE
+Many of the detailed considerations for operational procedures listed in the IALA guidance may not be relevant to inland waters.
+However, the need for operational guidance is of equal importance to inland VTS personnel, and the principle of setting out operational procedures should be followed and the basic principles of the IALA guidelines adapted as appropriate and suitable objectives set.
+4.3.1. IALA GUIDANCE
+The Guideline G1089 expands further on how to provide a VTS.
+Particular note should be made of the further explanation given on the purpose of a VTS in the provision of timely and relevant information, the monitoring and managing of vessel traffic and responding to developing situations.
+The close confines of many inland waterways and the ability to maintain a comprehensive traffic image may result in a more limited ability to respond to
+
+4.3.1. IALA GUIDANCE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.3.1. IALA GUIDANCE
+P 9
+
+4.3.1. IALA GUIDANCE
+developing situations.
+Nevertheless, as long as the possibility exists that such interaction might be necessary, then it is important that inland VTS personnel are appropriately trained and certified for such interventions.
+4.3.1. IALA GUIDANCE
+While decision support tools may differ, the use of decision support tools is likely to be of similar value to an inland VTS as it is to a VTS in coastal waters and port/harbour areas and the IALA guidance of equal relevance.
+4.3.1. IALA GUIDANCE
+Where an inland waterway is managed by multiple inland VTS centres, coordination between adjacent inland VTS centres or sub-centres is essential.
+4.3.1. IALA GUIDANCE
+Information promulgating the requirements of an inland VTS should be publicized in a concise and harmonized format to reduce the burden on masters, skippers and other persons responsible for the navigation of seagoing ships or inland waterway vessels and to minimize misunderstandings when moving from one inland VTS area to another.
+The IALA guidance with a standardized format should, therefore, be used.
+4.4.1. IALA GUIDANCE
+A major factor in the effective delivery of VTS is the provision of precise and unambiguous voice communication.
+4.4.1. IALA GUIDANCE
+IALA provides:
+
+4.4.1. IALA GUIDANCE
+Recommendation R1012 VTS Communications; and
+
+4.4.1. IALA GUIDANCE
+
+• an associated Guideline G1132 providing greater detail on “VTS Voice Communications and Phraseology”.
+4.4.1. IALA GUIDANCE
+4.4.2. INLAND WATERS CONSIDERATIONS
+
+4.4.1. IALA GUIDANCE
+IALA documentation seeks to ensure the harmonization of procedures and communications worldwide.
+Both inland waterway vessels and seagoing ships may operate in inland waters and may transit both inland and port/harbour VTS areas.
+National administrations should ensure that inland VTS providers follow the IALA guidance as far as is reasonably practicable.
+4.4.1. IALA GUIDANCE
+It is recognized that local language may be the primary language for an inland VTS, but the principles of phraseology and standardized phrases recommended by IALA should still be used when translated into the local language and the principles for VTS nomenclature should be followed.
+4.4.1. IALA GUIDANCE
+Local, regional and national agreements and recommendations of river commissions on the use of the language in radio communications on inland waterways may apply.
+4.4.1. IALA GUIDANCE
+Inland waterway administrations may consider the application of the provisions of the IALA recommendations and guideline relating to the voice communication in full or partially, taking into account special regional and/or national rules.
+4.4.1. IALA GUIDANCE
+Inland VTS providers should take measures to eliminate or minimize interference to VHF communications, while also considering alternative means of communication as a backup.
+4.5.1. IALA GUIDANCE
+A VTS should be routinely evaluated to ensure that the operational objectives are being met, the technical and operational performance is acceptable and that the risks identified and defined in determining the need for the VTS have been mitigated to an acceptable level.
+IALA provides:
+
+4.5.1. IALA GUIDANCE
+Recommendation R1013 Auditing and Assessing Vessel Traffic Services; and
+
+4.5.1. IALA GUIDANCE
+an associated Guideline G1101 Auditing and Assessing a VTS.
+4.5.1. IALA GUIDANCE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.5.1. IALA GUIDANCE
+P 10
+
+4.5.2. INLAND WATERS CONSIDERATIONS
+The IALA guidance on auditing and assessing a VTS provides a basis for development of assessment procedures and control measures which is largely applicable to an inland VTS.
+4.5.2. INLAND WATERS CONSIDERATIONS
+The responsibilities may differ from those set out in the Guideline on auditing and assessing a VTS.
+The annexed checklists to the Guideline may also require further modification to suit the individual circumstances of a particular inland VTS, but the subject headings are most relevant and provide a good starting point to identify checks that should be considered.
+4.6.1. IALA GUIDANCE
+VTS is often involved in providing information and supporting other services due to its capacity to maintain a traffic image and interact with ships and other services in the VTS area.
+IALA provides the following guidelines:
+
+4.6.1. IALA GUIDANCE
+
+• G1070 VTS Role in Managing Restricted or Limited Access Areas;
+
+4.6.1. IALA GUIDANCE
+
+• G1102 VTS Interaction with Allied or Other Services; and
+
+4.6.1. IALA GUIDANCE
+
+• G1130 Technical Aspects of Information Exchange between VTS and Allied or Other Services.
+4.6.1. IALA GUIDANCE
+4.6.2. INLAND WATERS CONSIDERATIONS
+
+4.6.1. IALA GUIDANCE
+Interactions between allied/other services and an inland VTS may differ, and restricted or limited access areas may still be encountered in some inland waters.
+Reference to the relevant IALA guidance may be of value in such cases.
+4.6.1. IALA GUIDANCE
+Standards for vessel tracking and tracing, electronic ship reporting in inland navigation and notices to skippers may also be relevant.
+4.6.1. IALA GUIDANCE
+There may be a greater number of additional services associated with an inland VTS compared with VTS in coastal and port/harbour areas and may have an enhanced significance.
+Administrations should define the additional services and identify where they apply.
+4.6.1. IALA GUIDANCE
+If the additional services include allied or other services, inland VTS providers should develop the issues, criteria, and principles to be applied.
+4.7.1. IALA GUIDANCE
+The compilation of an accurate traffic image is essential for VTS personnel to monitor traffic, evaluate situations and make decisions accordingly.
+The traffic image is dependent on the integration and portrayal of data from different sensors (e.g., radar, AIS and CCTV), information from reports such as VHF voice or data, and is supported by an effective data and information management framework.
+IALA provides:
+
+4.7.1. IALA GUIDANCE
+Recommendation R1014 Portrayal of VTS Information and Data; and
+
+4.7.1. IALA GUIDANCE
+Recommendation R0125 Use and Presentation of Symbology at a VTS Centre.
+<doc_end>

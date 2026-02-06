@@ -1,0 +1,8 @@
+<doc_start>
+5. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+5. DEFINITIONS
+IALA Guideline G1130 Technical Aspects of Information Exchange Between VTS and Allied or Other Services Edition 2.0 urn:mrn:iala:pub:g1130:ed2.0
+<doc_end>

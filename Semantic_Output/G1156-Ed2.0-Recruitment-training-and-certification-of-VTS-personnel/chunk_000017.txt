@@ -1,0 +1,108 @@
+<doc_start>
+8.1. QUALIFICATION
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+8.1. QUALIFICATION
+
+8.1. QUALIFICATION
+P 12
+
+8.1. QUALIFICATION
+Qualification is the education, knowledge, understanding, proficiency, skill, experience or any other attribute which competent authority has determined as desirable for performing the duties of the position.
+VTS qualifications should be based on the principle that satisfactory results are obtained on completion of the IALA VTS model courses.
+8.1. QUALIFICATION
+VTS personnel should only be considered competent when appropriately trained and qualified for their VTS duties.
+8.1. QUALIFICATION
+This includes:
+
+8.1. QUALIFICATION
+satisfactorily completing generic VTS training approved by the competent authority;
+
+8.1. QUALIFICATION
+satisfactorily completing on-the-job training at the VTS where the person is employed;
+
+8.1. QUALIFICATION
+
+• undergoing performance assessment and revalidation training to ensure competence is maintained; and
+
+8.1. QUALIFICATION
+
+• being in possession of appropriate certification.
+8.2. CERTIFICATE / CERTIFICATION
+A certificate is a document that confirms that a student has met the requirements for the award of a specific qualification.
+The certificate is evidence that VTS personnel are considered competent for their VTS duties (certification).
+VTS MODEL COURSE CERTIFICATE
+A VTS model course certificate is a document awarded by the accredited training organization, to confirm that a student has successfully completed a VTS model course.
+The course certificate should include:
+
+VTS MODEL COURSE CERTIFICATE
+the name of the student
+
+VTS MODEL COURSE CERTIFICATE
+the country in which it was awarded
+
+VTS MODEL COURSE CERTIFICATE
+
+• authorized signature of the accredited training organization
+
+VTS MODEL COURSE CERTIFICATE
+the name of the relevant model course
+
+VTS MODEL COURSE CERTIFICATE
+
+• unique identification information
+
+VTS MODEL COURSE CERTIFICATE
+the date of award
+
+VTS MODEL COURSE CERTIFICATE
+the unique course certificate number
+
+VTS MODEL COURSE CERTIFICATE
+VTS model course certificates should be in the official language or languages of the awarding country.
+If the language is not English, then a translation should be available.
+VTS MODEL COURSE CERTIFICATE
+The use of the IALA logo on a VTS model course certificate recognises that the competent authority is a member of IALA and has approved the delivery of that VTS model course by the accredited training organization in accordance with IALA Guideline G1014.
+
+8.4. RECOGNITION OF CERTIFICATES
+A competent authority may choose to recognise the VTS course certificates issued by other competent authorities
+
+8.4. RECOGNITION OF CERTIFICATES
+where:
+
+8.4. RECOGNITION OF CERTIFICATES
+
+• the certificate has been issued in accordance with Recommendation R0103 on Training and Certification of VTS Personnel; and
+
+8.4. RECOGNITION OF CERTIFICATES
+they are satisfied with the training arrangements of the other country or state concerned.
+8.4. RECOGNITION OF CERTIFICATES
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+8.4. RECOGNITION OF CERTIFICATES
+@
+
+8.4. RECOGNITION OF CERTIFICATES
+P 13
+
+8.5. VALIDITY OF CERTIFICATES
+To continue to be considered competent for their VTS duties, VTS personnel should undergo periodic assessments and revalidation training.
+A qualification should remain valid until either:
+
+8.5. VALIDITY OF CERTIFICATES
+
+• an assessment indicates that the holder has fallen below the required competency and proficiency set by the relevant authority;
+
+8.5. VALIDITY OF CERTIFICATES
+•
+
+8.5. VALIDITY OF CERTIFICATES
+there is a break in service, for any reason, for a period defined by the relevant authority; or
+
+8.5. VALIDITY OF CERTIFICATES
+the maximum time period for undertaking revalidation training has been reached.
+8.5. VALIDITY OF CERTIFICATES
+If a VTS Operator is no longer considered competent for the VTS duties, the Competent Authority should identify a process for managing the situation and revalidating qualifications.
+8.5. VALIDITY OF CERTIFICATES
+The process for maintaining qualifications is provided in Section 9.
+<doc_end>

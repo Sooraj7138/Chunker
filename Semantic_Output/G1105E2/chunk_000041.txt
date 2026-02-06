@@ -1,0 +1,41 @@
+<doc_start>
+Data
+Example/context: Showing water as blue and land as orange/brown is an intuitive electronic chart colour scheme.
+Data
+Obvious
+
+Data
+Oxford English Dict.
+– easily perceived or understood; clear, self-evident or apparent.
+Data
+Merriam-Webster Dict.
+– easily discovered, seen or understood; apparent.
+Data
+Example/context: The use of blue for water and orange/brown colours for land is both intuitive and obvious as to meaning.
+Data
+Portrayal
+
+Data
+Oxford English Dict.
+– a description or depiction of something in a particular way (example: realistic portrayal of a real-world object).
+Data
+Merriam-Webster Dict.
+– act or process of portraying or depicting; representation synonyms: definition, delineation, depiction, picture, portrait, rendering.
+Data
+ISO 19117 – presentation of information to humans.
+Data
+IMO SN.1.Circ.290 - the process of representing or depicting (i.e., showing an example of what is or could be).
+Data
+Presentation
+
+Data
+Oxford English Dict.
+– the manner in which something is displayed; the method by which radio, navigation or radar information is given to the operator.
+Data
+Merriam-Webster Dict.
+– a symbol or image that represents something.
+Data
+Example/context: The IHO S-52 Colours and Symbols Presentation Library is a prescriptive standard for ECDIS.
+Data
+Symbol
+<doc_end>

@@ -1,0 +1,49 @@
+<doc_start>
+5. ABBREVIATIONS
+S-band 2.0 – 4.0 GHz (Note: military designation is F-band)
+
+
+5. ABBREVIATIONS
+SLA Service-Level Agreement
+
+
+5. ABBREVIATIONS
+SN Safety of Navigation (IMO)
+
+
+5. ABBREVIATIONS
+SOG Speed over Ground
+
+
+5. ABBREVIATIONS
+SOLAS Safety of Life at Sea
+
+
+5. ABBREVIATIONS
+SPA Special Protected Area(s)
+
+
+5. ABBREVIATIONS
+SS Sea State
+
+
+5. ABBREVIATIONS
+STC Sensitivity-Time Control
+
+
+5. ABBREVIATIONS
+STD./std.
+Standard
+
+
+5. ABBREVIATIONS
+S-57 Transfer Standard for Digital Hydrographic Data (IHO)
+
+
+5. ABBREVIATIONS
+S-100 Geospatial Information Registry (IHO)
+
+
+5. ABBREVIATIONS
+S-101 IHO ENC Product Specification
+<doc_end>

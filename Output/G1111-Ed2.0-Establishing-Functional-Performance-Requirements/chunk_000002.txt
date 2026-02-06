@@ -1,0 +1,57 @@
+<doc_start>
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 5 4) Note that, for the implementation phase, several possible technical solutions may be identified to achieve the defined requirements and each of these solutions may have different strengths and weaknesses.
+Scoring systems to address the most critical aspects of the operational requirements may need to be considered when preparing a procurement plan.
+Establishing (Regulatory Framework) Planning & Implementing Initiating & Plannning (Operational & Functional & Performance Requirement) Implementation ¥ Controlling ¥v Closing ~ Operational Use S Figure 1 Project management steps in establishing VTS systems 2.2. SECURITY REQUIREMENTS The security requirements needed to derive the functional and performance requirements should include, but not be limited to: 
+• Physical security of the VTS Centre and remote sites 
+• Cyber security Business continuity, availability, reliability and disaster recovery IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 6 o) 2.3. OPERATIONAL REQUIREMENTS The operational requirements needed to derive the functional and performance requirements should include, but not be limited to: 
+• Delineating the VTS area and, if appropriate, VTS sub-areas or sectors Types and sizes of ships required or expected to participate in the VTS 
+• Navigational hazards and traffic patterns 
+• Human/machine interface and human factors, including health and safety issues Tasks to be performed by VTS operators and/or supervisors 
+• Operational procedures, including communication, staffing level and operating hours of the VTS Information sharing and co-operation with external stakeholders 
+• Legal framework 2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS The functional and performance requirements for a VTS system should be derived from the operational requirements.
+This may be an iterative process, which can be aligned with the phases of Guideline G1150. In order to define functional and performance requirements, the operational requirements may be grouped into: 
+• communications 
+• situational awareness 
+• recording and playback 
+• reliability and availability The grouping of operational requirements facilitates the creation of functional and performance requirements, for example, divided into: 
+• voice and data communication the VTS Centre, sites, sensors and processing recording and replay, including post situational analysis 
+• redundancy and resilience Deriving system concepts may involve various mathematical, functional and simulation models to visualize different characteristics of the system.
+Models to consider might include, but not be limited to: 
+• Radio communications coverage 
+• Sensor coverage 
+• Communications network infrastructure 
+• Data architecture and interfaces Reliability and availability, including any redundancy options 
+• Lifecycle costs IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 7 4) The models could assist in establishing the relationship between the system concepts, associated functional and performance requirements and operational requirements.
+Feasibility studies (site surveys, equipment trials etc.) may also be appropriate to reduce technical risks which may otherwise not be apparent until implementation.
+Additional functional and performance requirements may come from, but not be limited to: Environmental considerations 
+• Legal obligations 
+• Ergonomic issues Safety (other than navigational safety) 
+• Security requirements, e.g., physical security, personnel security, cyber security incl.
+software updates during operation 
+• Operational business rules or operational procedures 
+3. IMPLEMENTATION CONSIDERATIONS VTS system implementations may require consideration of the following: VTS system function and performance including, but not limited to : 
+• Off-the-shelf solution or customized solution Sensor and radio coverage, including overlapping coverage 
+• Equipment redundancy 
+• Communications routes 
+• External Interfaces Electromagnetic issues (EMI/EMC) VTS system sustainability including, but not limited to: 
+• Lifecycle planning, including environmental impact and sustainability in the choice of materials, power consumptions etc.
+
+• Maintenance of the VTS system and equipment 
+• Environmental constraints and impacts such as wind, influence from the sea, precipitation and possibly ice Locational and infrastructure design should include but not be limited to: 
+• VTS Centre location(s) Available land and suitability of sensor sites Existing infrastructure such as power and data lines Selection of installation sites with due respect to neighbours 
+• Security and site access 
+• Rules and regulations, for example: 
+• Applicable rules and regulations, i.e.
+required licenses (transmission, building etc.) 
+• Business rules IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 8 ® 
+• Organization, for example: 
+• Administrative functions and roles 
+• Authorization levels Any VTS system should, as a minimum, be equipped with means to build a VTS traffic image as well as providing reliable communications.
+The system architecture of a VTS system should carefully consider issues such as, but not be limited to: 
+• Network requirements (bandwidth, latency etc.) 
+• Redundant data paths 
+• Data integrity Security requirements, e.g., physical security, cyber security 
+• Data storage 
+• Reporting and recording requirements 
+• Maintenance of the VTS System and its equipment In addition, the
+<doc_end>

@@ -1,0 +1,4 @@
+<doc_start>
+6.3.
+As a result of the development of AIS during the last decade the use of the wording 'Binary Messages' is more commonly referred to as 'Application Specific Messages (ASM)'.
+<doc_end>

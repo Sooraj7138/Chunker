@@ -1,0 +1,32 @@
+<doc_start>
+DATA ENCODING 4.9.1 IALA GUIDANCE An IALA Recommendation R0145 The Inter-VTS Exchange Format (IVEF) Service provides a framework with formats and protocols for data exchange between VTS systems, stakeholders and relevant external parties to assist in the efficient deployment of services to the mariner and to the maritime community by facilitating the harmonization, connectivity and the integration of different components.
+4.9.2 INLAND WATERS CONSIDERATIONS With the increasing globalization and digitalization of maritime operations, the increasing emphasis on data management is likely to be of high importance in inland waters and the IALA guidance on IVEF is of significant relevance.
+Network information systems in inland waters are widely used, and the compatibility of data exchange should be considered when building network information systems.
+Inland VTS may also consider collecting or updating such data from vessels passing through or navigating on fixed routes in order to establish a database and facilitate traffic management.
+4.10. TRAINING AND ASSESSMENT 4.10.1. IALA GUIDANCE IALA has established international standards for VTS training set out in: Recommendation R0103 Training and Certification of VTS personnel; 
+• Guideline G1156 Recruitment Training and Certification of VTS personnel: 
+• Guideline G1017 Assessment for Recognition of Prior Learning in VTS Training; and 
+• Guideline G1027 Simulation in VTS Training.
+VTS Model Courses have been designed and are set out in model courses for: C0103-1 VTS operator Training (V-103/1); C0103- 2 VTS supervisor Training (V-103/2); C0103-3 VTS On-the-Job-Training (V-103/3); C0103-4 VTS On-the-Job Training Instructor (V-103-4); and C0103-5 The Revalidation Process for VTS Qualification and Certification (V-103-5).
+4.10.2. INLAND WATERS CONSIDERATIONS While it is for the national administration to mandate the training and certification requirements for inland VTS personnel in inland waters, there is a clear benefit in drawing on the international standards set by IALA for training and certification, which includes guidance on the management and accreditation of training establishments.
+The use of IALA modules within the model courses may serve as the basis for training and certification of inland VTS personnel in inland waters and enable them to transition more easily to other VTS centres as part of their career progression.
+The closer an inland VTS is aligned to the international standard, the greater the potential for all training to be conducted to the same model course standard, thus achieving equivalent levels of safety, economies of scale and international/worldwide recognition of certification.
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1 P 13 Where it is assessed that the establishment of an inland VTS is not justified but that some form of co-ordination of local services is required, the principles for qualification and training set out in the Guideline G1142 Local Port Services other than VTS should be considered.
+Inland VTS personnel may need additional skills, which should be taken into account when developing training courses.
+These include: 
+• the characteristics of inland waters; 
+• tracking and tracing of vessels; 
+• vessel reporting; 
+• routeing schemes; 
+• local rules and regulations; special requirements and procedures for pilotage, including cooperation skills with pilots; the competencies of the crews of inland waterway vessels; and 
+• specific network equipment and systems identified in other parts of this guideline such as CCTV, VTT and short range, high-definition radar.
+Simulation training is an equally effective measure in the training of inland VTS personnel, and the IALA guidance is similarly applicable.
+Consideration should be given to the promotion of communications skills to skippers and other persons responsible for the navigation of inland waterway vessels.
+4.11. ACCREDITATION, COMPETENCY, CERTIFICATION AND REVALIDATION 4.11.1. IALA GUIDANCE IALA specifies the practices associated with the generic accreditation of training organizations in Recommendation R0149 Accreditation of Training Organizations.
+For VTS training, detailed guidance is provided in Guideline G1014 Accreditation and Approval Process for VTS Training.
+4.11.2. INLAND WATERS CONSIDERATIONS The previous section on “Training and Assessment” identifies the benefits of drawing on the international standards set by IALA for training and certification as the basis for training and certification of inland VTS personnel in inland waters to enable them to transition more easily to other VTS centres as part of their career progression.
+It also recognizes that the closer an inland VTS is aligned to the international standard, the greater the potential for all training to be conducted to the same model course standard, achieving equivalent levels of safety, economies of scale and international/worldwide recognition of certification.
+It follows, therefore, that similar processes of accreditation, competency, certification and revalidation should be adopted if these benefits are to be realized.
+4.12. RISK MANAGEMENT 4.12.1. IALA GUIDANCE IALA provides guidance on risk assessment processes that assist in assessing the need for a VTS through risk management in: IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1 P 14 The generic Recommendation R1002 Risk Management for Marine Aids to Navigation; and 
+• Guideline G1018 Risk
+<doc_end>

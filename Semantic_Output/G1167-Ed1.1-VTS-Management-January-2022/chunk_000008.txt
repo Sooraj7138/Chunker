@@ -1,0 +1,140 @@
+<doc_start>
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Management is described as undertaking the activities appropriate to achieving defined purposes and objectives by the use of human and other resources.
+The following principles are indicative of those that should be considered when applying management processes:
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Clear, transparent and unambiguous
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Agile
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Realistic
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Human-centred
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Aimed at the objectives
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Strategically planned
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+• Consistent
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+VTS providers may consider using the PLAN -> DO -> CHECK -> ACT (PDCA) cycle when applying management processes.
+This four-step model assists with managing business processes and ensures a continuous process of improvement.
+It helps to identify goals and plan actions, deploy the means to achieve them, evaluate the results, and finally check what adjustments might be necessary.
+The model is designed to operate at all levels and can be applied to all processes.
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+The PDCA cycle includes:
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Planning: investigating needs, identifying goals and determining courses of action;
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+1
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Doing/organizing: implementing courses of action, coordinating resources, motivating and directing people.
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+2
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Checking: monitoring and evaluating results, determining adjustments and improvements.
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Act: implement improvements and adjustments.
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+The PDCA cycle is repetitive and provides an environment of continuous improvement, see Figure 1:
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+PLAN  DO  ACT  CHECK
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Figure 1 The Plan, Do, Check, Act cycle
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+IALA Guideline G1167 VTS Management Edition 1.0 urn:mrn:iala:pub:g1167:ed1.0
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+P 5
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Table 1 below describes management activities in the PDCA cycle and sets out two VTS examples.
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+Table 1 Management Activities in the PDCA cycle
+
+
+3. PRINCIPLES OF MANAGEMENT PROCESSES
+STEPS CONTENT MANAGEMENT ACTIVITY EXAMPLE 1 MANAGEMENT ACTIVITY EXAMPLE 2 Identification of the goals and Set VTS operational objectives PLAN what is necessary to achieve and determine key Determine staffing levels them performance measures DO Organization and implementation of resources Implement processes and procedures to achieve the VTS operational objectives Recruit and train VTS personnel Assess key performance CHECK Evaluation of the results measures to ensure VTS Review staffing levels objectives are being met ACT Improvement and adjustment Adjust operational processes and procedures Reorganize staffing levels
+
+
+4. MANAGEMENT ACTIVITIES
+The VTS provider should ensure management activities are in place to ensure the provision of VTS is consistent with their responsibilities as defined in IMO Resolution A.1158(32) and any additional requirements identified by their competent authority.
+Activities that may be associated with the management of a VTS are described below.
+In planning and organizing the management framework, these activities could be allocated to one person or may involve multiple people depending on the structure of the organization.
+The VTS provider should ensure the management structure is optimized for achieving the objectives of the VTS.
+4.1. OPERATIONAL
+Operational aspects involve managing and co-ordinating the day-to-day operations and the objectives set for the
+
+4.1. OPERATIONAL
+VTS.
+4.1. OPERATIONAL
+Associated activities may include:
+
+4.1. OPERATIONAL
+
+• managing day-to-day activities associated with the provision of VTS;
+
+4.1. OPERATIONAL
+ongoing evaluation of activities the VTS provides which may impact workload or staffing levels;
+
+4.1. OPERATIONAL
+
+• maintaining VTS operational procedures;
+
+4.1. OPERATIONAL
+
+• monitoring and managing VTS operational performance;
+
+4.1. OPERATIONAL
+interface with allied services and stakeholders; and
+
+4.1. OPERATIONAL
+undertake operational needs analysis.
+<doc_end>

@@ -1,0 +1,4 @@
+<doc_start>
+2. GUIDELINE DEFINITIONS
+“Interaction” is the action that occurs as two or more services have an effect upon one other.
+<doc_end>

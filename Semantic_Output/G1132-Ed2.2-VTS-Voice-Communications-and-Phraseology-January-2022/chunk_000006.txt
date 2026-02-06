@@ -1,0 +1,22 @@
+<doc_start>
+1. INTRODUCTION
+Standard message structure and phraseology reduce the risk that a message will be misunderstood and aids the read-back process so that any error is quickly detected.
+Ambiguous or non-standard phrases are frequent causal or contributory factors in marine casualty, incident and near miss situations.
+
+2. DOCUMENT PURPOSE
+The purpose of this guideline is to assist authorities implement practices specified in IALA Recommendation R1012 VTS Communications associated with ensuring VTS communications are harmonized through the use of standard message structure and phrases to:
+
+
+2. DOCUMENT PURPOSE
+Facilitate clear, concise, and unambiguous communications that are timely and effective.
+
+2. DOCUMENT PURPOSE
+
+• Minimize misunderstanding of the intent of messages and reduce the time required for effective communication.
+
+2. DOCUMENT PURPOSE
+
+• Mitigate complacency amongst VTS personnel.
+RELATIONSHIP TO OTHER DOCUMENTS
+2.1.
+<doc_end>

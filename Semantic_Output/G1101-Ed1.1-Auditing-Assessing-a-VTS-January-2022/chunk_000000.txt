@@ -1,0 +1,67 @@
+<doc_start>
+IALA
+
+IALA GUIDELINE
+
+Edition 1.1 January 2022
+urn:mrn:iala:pub:g1017:ed1.1
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+DOCUMENT REVISION
+
+Edition 1.1 January 2022
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Edition 1.1 January 2022
+Date Details December 2013 First issue.
+January 2022 Edition 1.1 Approved by Council December 2021 and published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 74
+
+Edition 1.1 January 2022
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+P 2
+
+Edition 1.1 January 2022
+CONTENTS
+
+Edition 1.1 January 2022
+
+1. INTRODUCTION ...................................................................................................................................
+4 
+2. OVERVIEW ...........................................................................................................................................
+4 
+3. AIMS AND OBJECTIVES ........................................................................................................................
+4 
+4. RESPONSIBILITIES ................................................................................................................................
+5 4.1. Contracting Government / Competent authority ....................................................................................
+5 4.2. VTS providers ...........................................................................................................................................
+5 
+5. FRAMEWORK FOR AUDITING AND ASSESSING .....................................................................................
+5 5.1. Checklist for auditing and assessing a VTS ..............................................................................................
+6 
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS ............................................................................
+6 
+7. DEFINITIONS ........................................................................................................................................
+7 
+8. ABBREVIATIONS ..................................................................................................................................
+7 
+9. REFERENCES ........................................................................................................................................
+8
+
+Edition 1.1 January 2022
+ANNEX A AUDIT CHECKLIST FOR THE ASSESSMENT OF A VTS ..................................................................
+9
+
+Edition 1.1 January 2022
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+P 3
+<doc_end>

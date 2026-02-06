@@ -1,0 +1,66 @@
+<doc_start>
+EXTERNAL VTS PROCEDURES
+A VTS provider should implement processes and procedures for all external activities related to the VTS, such as the interaction between VTS and:
+
+EXTERNAL VTS PROCEDURES
+
+• Vessel traffic, including:
+
+EXTERNAL VTS PROCEDURES
+
+• the provision of timely and relevant information on factors that may influence the vessel's movements and assist onboard decision making;
+
+EXTERNAL VTS PROCEDURES
+
+• the monitoring and management of vessel traffic to ensure the safety and efficiency of vessel movements;
+
+EXTERNAL VTS PROCEDURES
+responding to developing unsafe situations; and
+
+EXTERNAL VTS PROCEDURES
+
+• communication and processing of mandatory reporting requirements from vessels and other information as deemed appropriate.
+EXTERNAL VTS PROCEDURES
+
+• Allied services.
+EXTERNAL VTS PROCEDURES
+A clear distinction should be made between routine and emergency activities as described below.
+EXTERNAL VTS PROCEDURES
+Recognizing that activities may vary between VTS these may be further adapted to suit local needs.
+Similarly, the exchange of information should be standardized where possible.
+5.1. ROUTINE PROCEDURES
+5.1.1. VTS VOICE COMMUNICATION
+
+5.1. ROUTINE PROCEDURES
+Processes and procedures should be established to ensure that:
+
+5.1. ROUTINE PROCEDURES
+VHF Communication is timely, clear, concise and unambiguous, taking into consideration:
+
+5.1. ROUTINE PROCEDURES
+IMO Resolution A.918(22) Standard Marine Communication Phrases [12]);
+
+5.1. ROUTINE PROCEDURES
+IMO Resolution A.954(23) Proper use of VHF Channels at Sea [13]);
+
+5.1. ROUTINE PROCEDURES
+•
+
+5.1. ROUTINE PROCEDURES
+IALA Guideline G1132 VTS Voice Communications and Phraseology [14]; and
+
+5.1. ROUTINE PROCEDURES
+IALA Guideline G1111-2 Producing Requirements for Voice Communications
+
+5.1. ROUTINE PROCEDURES
+The VHF channels used and monitored are clearly communicated.
+5.1. ROUTINE PROCEDURES
+Voice communications in VTS areas are generally conducted using VHF channels allocated in ITU Radio Regulations Appendix 
+18. The use of simplex channels will ensure that participating ships are able to monitor all VHF
+
+5.1. ROUTINE PROCEDURES
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+5.1. ROUTINE PROCEDURES
+P 10
+<doc_end>

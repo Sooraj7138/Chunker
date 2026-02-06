@@ -1,0 +1,12 @@
+<doc_start>
+5. ABBREVIATIONS
+TCPA Time to Closest Point of Approach
+
+
+5. ABBREVIATIONS
+TDMA Time-Division Multiple Access
+
+
+5. ABBREVIATIONS
+UPS Uninterruptable Power Supply
+<doc_end>

@@ -1,0 +1,4 @@
+<doc_start>
+Weather information
+P 13
+<doc_end>

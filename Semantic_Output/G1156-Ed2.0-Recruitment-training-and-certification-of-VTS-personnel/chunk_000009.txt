@@ -1,0 +1,17 @@
+<doc_start>
+1. INTRODUCTION
+Recruitment, training, and certification of VTS personnel are essential for delivering effective VTS operations aligned with international standards.
+Relevant international guidance includes:
+
+
+1. INTRODUCTION
+IMO Resolution A.1158(32) – Guidelines for Vessel Traffic Services [1]
+
+
+1. INTRODUCTION
+IALA Standard S1050 – Training and Certification [2]
+
+
+1. INTRODUCTION
+IALA recommendations, guidelines, and model courses
+<doc_end>

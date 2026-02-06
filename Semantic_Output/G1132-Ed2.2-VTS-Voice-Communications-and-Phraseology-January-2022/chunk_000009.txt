@@ -1,0 +1,50 @@
+<doc_start>
+4.1. INTERNATIONAL / NATIONAL OBLIGATIONS
+ITU Radio Regulations [6] require shore-based operators to be appropriately qualified:
+
+4.1. INTERNATIONAL / NATIONAL OBLIGATIONS
+“No.
+48.1 § 1 Administrations shall ensure that the staff on duty in coast stations and in coast earth stations are adequately qualified to operate the stations efficiently.”
+
+4.1. INTERNATIONAL / NATIONAL OBLIGATIONS
+VTS personnel should hold appropriate national qualifications to operate the VHF marine radiotelephony equipment.
+These qualifications should include operating procedures relating to distress, urgency, safety and routine communications.
+4.2. LANGUAGE
+English language should be used for all VTS communications with ships and allied services unless use of an alternative language has been agreed.
+If an alternative language be used, VTS personnel should be mindful that not all participants may understand what is being communicated.
+4.3. CONSISTENCY
+Attention should be given to the correct use of phraseology where applicable to establish efficient, clear, concise, and unambiguous communications.
+4.3. CONSISTENCY
+VTS Authorities should implement appropriate procedures to ensure the consistent and correct use of VTS phraseology in all instances in which they are applicable.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+The use of standard phraseology is important in order to avoid:
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+P 7
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+•
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+The receiver/s not hearing the message correctly.
+When the standard phrases were adopted, consideration was given to choosing words and phrases that sound distinctly different and therefore cannot be confused under any readability circumstances.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+•
+
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+The receiver/s not understanding the message.
+This may be due to e.g., using phrasal verbs or other words that are not commonly known.
+The different levels of knowledge of the English language contributes to this as well.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+
+• Ambiguity, i.e., the transmitting person may mean one thing and the receiving person may understand something else.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+The message having to be repeated, resulting in delay in response and frequency congestion.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY
+Parts of the message being incorrectly acted upon.
+<doc_end>

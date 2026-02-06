@@ -1,0 +1,13 @@
+<doc_start>
+5. DEFINITIONS
+(UNECE resolution No.
+24, European Code for Inland Waterways, revision 6)
+
+
+5. DEFINITIONS
+Inland AIS
+
+
+5. DEFINITIONS
+Inland AIS means AIS for the use in inland navigation and interoperable with (maritime) AIS – technically enabled by amendments and extensions to the (maritime) AIS.
+<doc_end>

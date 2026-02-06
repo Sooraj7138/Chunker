@@ -1,0 +1,51 @@
+<doc_start>
+urn:mrn:iala:pub:g1070:ed1.1
+
+urn:mrn:iala:pub:g1070:ed1.1
+DOCUMENT REVISION
+
+urn:mrn:iala:pub:g1070:ed1.1
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+urn:mrn:iala:pub:g1070:ed1.1
+Date Details December 2009 First issue.
+Edition 1.1 Editorial corrections, published January 2022, in January 2022 alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 74
+
+urn:mrn:iala:pub:g1070:ed1.1
+IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1
+
+urn:mrn:iala:pub:g1070:ed1.1
+
+urn:mrn:iala:pub:g1070:ed1.1
+P 2
+
+urn:mrn:iala:pub:g1070:ed1.1
+CONTENTS
+
+urn:mrn:iala:pub:g1070:ed1.1
+
+1. SCOPE ...............................................................................................................................................
+4 
+2. ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA..........................................
+4 
+3. ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA ............................
+4 
+4. DEFINITIONS AND CLARIFICATIONS ....................................................................................................
+5 
+5. DOCUMENT DEFINITIONS ...................................................................................................................
+5 
+6. ABBREVIATIONS ................................................................................................................................
+5 
+7. REFERENCES ......................................................................................................................................
+6 ANNEX A EXAMPLES OF RESTRICTED OR LIMITED ACCESS AREAS.......................................................
+7 ANNEX B VTS MANAGEMENT TOOLS FOR RESTRICTED OR LIMITED ACCESS AREAS ............................
+8
+
+urn:mrn:iala:pub:g1070:ed1.1
+IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1
+
+urn:mrn:iala:pub:g1070:ed1.1
+
+urn:mrn:iala:pub:g1070:ed1.1
+P 3
+<doc_end>

@@ -1,0 +1,11 @@
+<doc_start>
+5.1.1.
+
+• Promulgation of the information widely to different users using MSI, AtoN competent authority Web or Portal, etc.
+5.1.1.
+
+• Mixture of other types of AtoN located in such area.
+5.1.1.
+
+• The limitation of Virtual AtoN technology with regards to the lack of flexibility in using free text to add complementary information.
+<doc_end>

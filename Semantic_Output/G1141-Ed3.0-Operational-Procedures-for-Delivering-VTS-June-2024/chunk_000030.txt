@@ -1,0 +1,15 @@
+<doc_start>
+5.2.8. NATURAL DISASTER
+Natural disaster procedures should be established to deal with situations such as earthquakes, tidal waves, fire, and exceptional weather conditions.
+Actions may include:
+
+5.2.8. NATURAL DISASTER
+Promulgate information to vessels in the VTS area;
+
+5.2.8. NATURAL DISASTER
+Act on local call-out procedures; and
+
+5.2.8. NATURAL DISASTER
+
+• Inform MRCC.
+<doc_end>

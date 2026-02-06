@@ -1,0 +1,20 @@
+<doc_start>
+A.1. PROHIBITED ANCHORAGE
+A prohibited anchorage (or “no anchoring” area) is an area within defined limits where anchoring is considered hazardous or could result in unacceptable damage to the marine environment.
+Anchoring should be avoided by all ships or certain classes of ships.
+An example of a prohibited anchorage may be in the vicinity of gas pipelines and other pipelines and cables.
+The area will be determined by an authority which has considered the risk.
+A.2. AREA TO BE AVOIDED (ATBA)
+A routeing measure comprising an area within defined limits in which either navigation is particularly hazardous, or it is exceptionally important to avoid casualties and which should be avoided by all ships, or certain classes of ship.
+An example of an ATBA would be around a critical navigation aid in a busy shipping channel which can be liable to accidental collision.
+A.3. SAFETY ZONE
+A safety zone is an area usually extending 500 metres from any part of an offshore oil, gas or renewable energy installation and is established around all installations which project above the sea at any state of the tide.
+Subsea installations may also have safety zones to protect them.
+A.4. PARTICULARLY SENSITIVE SEA AREA (PSSA)
+A PSSA is an area of the marine environment that needs special protection through action by the International Maritime Organization (IMO) because of its significance for recognized ecological, socio-economic, or scientific attributes where such attributes may be vulnerable to damage by international shipping activities.
+A.4. PARTICULARLY SENSITIVE SEA AREA (PSSA)
+A.5. MILITARY EXERCISE AREA (OR FIRING RANGE)
+
+A.4. PARTICULARLY SENSITIVE SEA AREA (PSSA)
+A military exercise area may involve the firing of live ammunition in an area within defined limits but may allow restricted access for vessels at designated times.
+<doc_end>

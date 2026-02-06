@@ -1,0 +1,31 @@
+<doc_start>
+11. DEFINITIONS
+Competent authority means the entity made responsible by the Government for vessel traffic services.
+(Reference – IMO Resolution A.1158(32)
+
+
+11. DEFINITIONS
+Competence is having the knowledge, skills, attitude and personal attributes necessary to safely, effectively and efficiently to perform the tasks associated with VTS
+
+
+11. DEFINITIONS
+On-the-job training (OJT) is intended to provide the required knowledge, practical competence, skills and attitude to undertake duties at the VTS when they are employed.
+(Reference – G1156 Section 6.2.3)
+
+
+11. DEFINITIONS
+Performance assessment is a process used to evaluate an individual’s job performance in carrying out specific tasks or functions associated with VTS duties.
+This assessment provides insights into their effectiveness and skills, while also identifying areas for improvement and development.
+(Reference – G1156 Section 9.1.1)
+
+
+11. DEFINITIONS
+Qualification is the education, knowledge, understanding, proficiency, skill, experience or any other attribute which the competent authority has determined desirable for performing the duties of the position.
+VTS qualifications should be based on the principle that satisfactory results are obtained on completion of the IALA VTS model courses.
+(Reference – G1156 section 8.1)
+
+
+11. DEFINITIONS
+Recognition of prior learning (RPL) is a process of assessing the experience, knowledge, skills, attitudes and competencies acquired by an applicant (through formal or informal learning) against a given set of learning outcomes, objectives, or standards to determine whether the required learning and competency has been achieved.
+(Reference – G1017)
+<doc_end>

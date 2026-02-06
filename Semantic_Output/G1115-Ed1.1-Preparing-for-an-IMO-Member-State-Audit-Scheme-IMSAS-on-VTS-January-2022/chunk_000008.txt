@@ -1,0 +1,12 @@
+<doc_start>
+4.1. IMO
+RESOLUTION A.1070(28) ON IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 4.1.2.
+
+4.1. IMO
+The objective of this Code is to enhance global maritime safety and protection of the marine environment and assist States in the implementation of instruments of the Organization.
+4.1. IMO
+The Code acknowledges that different States will view this Code according to their own circumstances and should be bound only for the implementation of those instruments to which they are Contracting Governments or Parties.
+By virtue of geography and circumstance, some States may have a greater role as a flag State than as a port State or as a coastal State, whilst others may have a greater role as a coastal State or a port State than as a flag State.
+4.1. IMO
+The Code seeks to address those aspects necessary for a Contracting Government or Party to give full and complete effect to the provisions of the applicable international instruments to which it is a Contracting Government or Party, including SOLAS Chapter V (Safety of Navigation) Regulation 12.
+<doc_end>

@@ -1,0 +1,13 @@
+<doc_start>
+5.1. PHASE 1: INITIATING
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1
+
+5.1. PHASE 1: INITIATING
+@
+
+5.1. PHASE 1: INITIATING
+P 9
+
+5.1. PHASE 1: INITIATING
+A comprehensive explanation of PAWSA Mk II can be found in IALA Guideline G1124 [11].
+<doc_end>

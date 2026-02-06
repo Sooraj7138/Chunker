@@ -1,0 +1,36 @@
+<doc_start>
+information management framework.
+IALA provides: Recommendation R1014 Portrayal of VTS Information and Data; and Recommendation R0125 Use and Presentation of Symbology at a VTS Centre.
+4.7.2. INLAND WATERS CONSIDERATIONS While an inland VTS may have a restricted set of functions, many of the principles set out in the guidance on the portrayal of information to VTS personnel will be relevant in establishing a suitable environment for inland VTS operations.
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1 P 11 The use of symbology to identify vessels of particular interest such as passenger vessels, vessels carrying dangerous goods and vessels restricted in their ability to manoeuvre can be of particular use in improving situational awareness in an inland VTS.
+Regional and competent authorities responsible for inland waters may wish to consider the development and application of harmonized exchange of information to support traffic and transport management and the transfer of information between operators, vessels and allied or other services.
+Inland VTS may be enhanced by linking it to bespoke systems for tracking ships such as the European VTT.
+Note: The Guideline G1105 Shore-Side Portrayal Ensuring Harmonization with E-Navigation Related Information may also be of relevance to data and information management and the portrayal of information to inland VTS personnel.
+4.8. INLAND VTS TECHNOLOGIES 4.8.1. IALA GUIDANCE A significant proportion of the investment associated with the implementation and on-going operation of a VTS is the equipment and relevant systems.
+Once the need for a VTS has been established, it will be necessary to set out the requirements for procurement, especially as regards the technical requirements.
+IALA documents relating to setting the technical requirements include: Recommendation R0128 Operational and Technical Performance Standards of VTS systems; and 
+• 
+• Guideline G1111 Establishing Functional & Performance Requirements for VTS Systems.
+4.8.2. INLAND WATERS CONSIDERATIONS IALA guidance on the procurement, technical specifications and performance standards for a VTS assume the need for continuous and uninterrupted surveillance of the entire area for which it is responsible with a high degree of reliability and redundancy.
+The technical specifications, particularly for radar, relate to relatively open waters.
+Not all of these may relate to inland waters; equally, there may be additional requirements unique to inland waters, such the management of locks and bridges that require additional consideration.
+Furthermore, gapless coverage may not be feasible or necessary.
+The guidance does, however, provide a useful baseline on which to draw in developing the specifications for an inland VTS.
+Equipment and facilities should be equipped in accordance with regional/local requirements.
+The technical performance of the inland VTS equipment should meet the objectives of the inland VTS.
+Authorities and providers should consider the following items when implementing an inland VTS: 
+• The technical requirements for inland VTS may vary in different countries or in different waters.
+Inland VTS providers should evaluate the detailed technical requirements.
+
+• There may be a requirement for the output power of AIS, VHF and other equipment of all vessels in certain inland water areas to be lower than the default value, although the navigable environment of inland waters is often complex.
+These factors should be taken into account by competent authorities and inland VTS providers during the design and operation of shore-based facilities such as VHF base stations, AIS base stations and radar stations.
+The performance of radar, target tracking and associated decision support warnings may be seriously diminished in the inland environment.
+The use of short range, high-definition radar may, therefore, also be considered.
+Greater emphasis may also be needed on the use of other monitoring equipment such as CCTV and Virtual Reality video.
+The technical specifications for VHF radiotelephone installations, radar installations and AIS in inland waters can be found in the relevant international, national or regional provisions.
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1 P 12 4.9. DATA MODELS AND DATA ENCODING 4.9.1 IALA GUIDANCE An IALA Recommendation R0145 The Inter-VTS Exchange Format (IVEF) Service provides a framework with formats and protocols for data exchange between VTS systems, stakeholders and relevant external parties to assist in the efficient deployment of services to the mariner and to the maritime community by facilitating the harmonization, connectivity and the integration of different components.
+4.9.2 INLAND WATERS CONSIDERATIONS With the increasing globalization and digitalization of maritime operations, the increasing emphasis on data management is likely to be of high importance in inland waters and the IALA guidance on IVEF is of significant relevance.
+Network information systems in inland waters are widely used, and the compatibility of data exchange should be considered when building network information systems.
+Inland VTS may also consider collecting or updating such data from vessels passing through or navigating on fixed routes in order to establish a database and facilitate traffic management.
+4.10. TRAINING AND ASSESSMENT 4.10.1. IALA GUIDANCE IALA has
+<doc_end>

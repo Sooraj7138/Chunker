@@ -1,0 +1,14 @@
+<doc_start>
+2.3. PHYSICAL WORKING ENVIRONMENT
+The physical working environment includes temperature, ventilation, lighting (including emergency lighting), room dimensions, suitability of workstations and seating.
+Facilities should be provided for washing, eating, resting, as well as toilet facilities.
+2.3. PHYSICAL WORKING ENVIRONMENT
+VTS providers should make arrangements for enforcing health and safety measures derived from the risk assessment.
+These measures should cover planning, organization, control, monitoring and review.
+VTS providers should also consider the working conditions and risks when selecting equipment suitable the identified tasks and ensure the equipment is properly maintained.
+2.3. PHYSICAL WORKING ENVIRONMENT
+Additional considerations include problems associated with continuous viewing of display screens, attention/concentration levels; general ergonomics of working environment and noise/distractions within the work
+
+2.3. PHYSICAL WORKING ENVIRONMENT
+area.
+<doc_end>

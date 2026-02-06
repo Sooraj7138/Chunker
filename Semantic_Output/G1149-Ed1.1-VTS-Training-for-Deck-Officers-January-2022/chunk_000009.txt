@@ -1,0 +1,17 @@
+<doc_start>
+5.1. TOOLS
+Different communication tools may be used, including VHF radio.
+VHF voice communications are generally performed on the channel specified by the VTS centre.
+Other tools include AIS safety related messages, DSC, email and radiotelephony on MF/HF.
+5.2. VOICE COMMUNICATION
+It is important that all communications can be readily understood.
+Therefore, voice communication should be in English, using standard phraseology.
+However, in some situations, voice communication may be carried out in the national language of the bridge team and the VTSO.
+VTS should play an active role in ensuring that the content of all communication is understood by all participants.
+5.3. REQUIREMENTS OF COMMUNICATIONS
+To ensure consistent and effective communication, it is important that:
+
+5.3. REQUIREMENTS OF COMMUNICATIONS
+
+• VTS VHF working channel is monitored when in the VTS area; and
+<doc_end>

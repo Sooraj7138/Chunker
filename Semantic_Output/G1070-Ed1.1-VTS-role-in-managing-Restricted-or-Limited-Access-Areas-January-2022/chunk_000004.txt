@@ -1,0 +1,52 @@
+<doc_start>
+5. DOCUMENT DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+6. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+6. ABBREVIATIONS
+ATBA Area to be avoided
+
+
+6. ABBREVIATIONS
+CCTV Closed-circuit television
+
+
+6. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+6. ABBREVIATIONS
+NtM Notices to Mariners
+
+
+6. ABBREVIATIONS
+OREI Offshore renewable energy installation(s)
+
+
+6. ABBREVIATIONS
+PSSA Particularly Sensitive Sea Area(s)
+
+
+6. ABBREVIATIONS
+UNCLOS The United Nations Convention on the Law of the Sea
+
+
+6. ABBREVIATIONS
+VTS Vessel traffic service(s)
+
+
+6. ABBREVIATIONS
+IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1
+
+
+6. ABBREVIATIONS
+e
+
+
+6. ABBREVIATIONS
+P 5
+<doc_end>

@@ -1,0 +1,33 @@
+<doc_start>
+11.3. CONTINUITY
+Continuity is the probability that, assuming a fault-free system at the receiving end, the Virtual AtoN will be received and displayed on the navigational display over the time interval applicable for a particular operation.
+11.3. CONTINUITY
+The continuity of a Virtual AtoN service should be determined as described in IALA Recommendation R0121 For the performance and monitoring of a DGNSS Service in the band 283.5 – 325 kHz [20].
+The time interval should be chosen as three hours, or a suitable time frame as determined by the competent authority providing the service.
+The probability should be according to the category (IALA categories 1, 2 and 3) of each Virtual AtoN.
+If a transmitting site is broadcasting signals for multiple Virtual AtoN, the most critical one would determine the continuity requirements for the service.
+
+12. DEVELOPMENT CONSIDERATIONS
+For the full benefits of Virtual AtoN to be realised, a number of issues must be addressed in consultation with other bodies, including:
+
+
+12. DEVELOPMENT CONSIDERATIONS
+
+• Appropriate instruction and training of all mariners and providers as to the provision of Virtual AtoN, symbology, display, and limitations.
+
+12. DEVELOPMENT CONSIDERATIONS
+
+• Harmonization of integration and shipborne navigational system specifications to enable the display of Virtual AtoN for SOLAS ships and other users.
+
+12. DEVELOPMENT CONSIDERATIONS
+
+• Development of a strategy for implementation of Virtual AtoN using non-AIS based systems.
+
+12. DEVELOPMENT CONSIDERATIONS
+
+• The harmonization of the use of MSI by Virtual AtoN within the context of the IMO’s e-Navigation concept.
+
+12. DEVELOPMENT CONSIDERATIONS
+
+• Harmonized presentation of Virtual AtoN.
+<doc_end>

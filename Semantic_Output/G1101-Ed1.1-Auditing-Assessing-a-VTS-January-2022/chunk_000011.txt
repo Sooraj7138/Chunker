@@ -1,0 +1,26 @@
+<doc_start>
+A.2.2. COMPLIANCE WITH REQUIREMENTS
+No.
+Issue/question VTS notes Auditor notes/comments Which government body is responsible for the 1. implementation and enforcement of SOLAS Chapter V Regulation 12 – Vessel Traffic Services?
+What national legislation is in place to enable laws to be passed to give domestic effect to SOLAS 2. obligations, such as: Regulatory provisions?
+Compliance and enforcement provisions?
+
+3. Is the VTS operated in accordance with IMO Resolution A.1158(32)?
+Describe the legislative framework in place and the 4. measures taken to ensure compliance with IMO Res.
+A.1158(32)?
+
+5. List any internal or external stakeholder arrangements for the operation of the VTS.
+
+6. Does the VTS extend beyond the territorial seas?
+
+7. If yes, is this consistent with Guideline G1089 – Provision of a VTS 
+8. Any other issues to discuss?
+A.2.2. COMPLIANCE WITH REQUIREMENTS
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+A.2.2. COMPLIANCE WITH REQUIREMENTS
+®
+
+A.2.2. COMPLIANCE WITH REQUIREMENTS
+P 10
+<doc_end>

@@ -1,0 +1,38 @@
+<doc_start>
+4.13.1. IALA GUIDANCE
+Where a formally appointed VTS is established, a quality management structure is considered necessary.
+IALA provides guidance on quality management in the form of:
+
+4.13.1. IALA GUIDANCE
+Recommendation R0132 Quality Management for Aids to Navigation Authorities; and
+
+4.13.1. IALA GUIDANCE
+an associated Guideline G1052 Quality Management Systems for Aids to Navigation Service Delivery.
+4.13.2. INLAND WATERS CONSIDERATIONS
+An inland VTS should have a quality management system in place where auditing should form part of such a process.
+The IALA guidance may be adapted as appropriate, taking into account relevant national, regional and local requirements.
+4.14.1. IALA GUIDANCE
+IALA provides guidance for AIS shore-based infrastructure and systems with applicability beyond just VTS that should be considered in establishing and operating VTS through:
+
+4.14.1. IALA GUIDANCE
+Recommendation R0123 The Provision of Shore Based Automatic Identification System (AIS);
+
+4.14.1. IALA GUIDANCE
+
+• Recommendation R0126 The Use of the Automatic Identification System (AIS) in Marine Aids to Navigation Services”; and
+
+4.14.1. IALA GUIDANCE
+
+• Guideline G1082 Overview of AIS.
+4.14.1. IALA GUIDANCE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.14.1. IALA GUIDANCE
+P 15
+
+4.14.1. IALA GUIDANCE
+IALA also provides Guideline G1105 Shore-Side Portrayal Ensuring Harmonization with E-Navigation Related
+
+4.14.1. IALA GUIDANCE
+Information.
+<doc_end>

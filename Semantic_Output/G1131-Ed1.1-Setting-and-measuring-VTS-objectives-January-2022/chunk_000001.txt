@@ -1,0 +1,26 @@
+<doc_start>
+1. INTRODUCTION
+A vessel traffic service (VTS) is recognized internationally as a navigational safety measure through the International Convention on the Safety of Life at Sea 74/78 (SOLAS) [1].
+However, the establishment and on‐going operation of a VTS is a considerable investment.
+
+1. INTRODUCTION
+To achieve the purposes for which a VTS was implemented, the service needs to be effective and routinely evaluated.
+This is important to ensure that the operational objectives are being met and the technical and operational performance is acceptable.
+The issues identified in determining the need for a VTS have been either alleviated or at least reduced to an acceptable level.
+
+2. AIMS AND OBJECTIVES
+The aim of this document is to provide guidance for competent authorities and VTS providers for setting operational objectives for a VTS and achieving them.
+In particular, the guidance focuses on providing assistance to:
+
+
+2. AIMS AND OBJECTIVES
+a.
+Meet their obligations in accordance with Regulation 12 of Chapter V of SOLAS (Vessel traffic services) and IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [2].
+
+2. AIMS AND OBJECTIVES
+Respond to the IMO Resolution A.1067(28) Framework and Procedures for the IMO Member State Audit b.
+Scheme [3] with regards to how they implement and enforce SOLAS Chapter V (Safety of Navigation) Regulation 
+12. In particular, to ensure measures are in place to evaluate the effectiveness in implementing SOLAS regulations V/12 and the effectiveness of a VTS.
+2.1. INTERNATIONAL FRAMEWORK
+There are several resolutions and guidelines related to the requirements for the competent authorities and VTS providers to use to establish a VTS and the subsequent auditing and assessment of the service.
+<doc_end>

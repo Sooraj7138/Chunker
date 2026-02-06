@@ -1,0 +1,52 @@
+<doc_start>
+may be possible to offer work experience to allow the candidate to make an informed decision to whether shift work is suitable for them.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 8 VTS provider should ensure candidates are aware of the established policies and procedures associated with the management of shift rosters and fatigue management.
+
+6. TRAINING The provision of VTS relies on VTS personnel being appropriately trained and qualified for their VTS duties.
+VTS training is supported by five IALA model courses that describe the required training, knowledge, and competence levels.
+
+• C0103-1 - VTS Operator training [6] 
+• C0103-2 - VTS Supervisor training [7] 
+• C0103-3 - VTS On‐the‐Job training [8] 
+• C0103-4 - VTS On‐the‐Job Training Instructor [9] 
+• C0103-5 - Revalidation Training for VTS Personnel [10] C0103-1 VTS OPERATOR TRAINING The VTS operator course provides the student with the required knowledge, skills and attitude to undertake the duties associated with the provision of a VTS.
+This includes: 
+• provide timely and relevant information on factors that may influence the transit of a ship and assist on-board decision making; 
+• monitor and manage traffic to ensure the safety and efficiency of ship movements; and respond to developing unsafe situations to assist the decision-making process on board.
+C0103-2 VTS SUPERVISOR TRAINING The VTS supervisor course provides a qualified VTS operator with the required knowledge, skills and attitude to undertake the duties of a VTS Supervisor.
+This includes: 
+• provide leadership and supervision of VTS Operators; 
+• carry out administrative duties such as managing the roster, ensuring reporting activities are completed (shift handovers, incident logs/reports).; co-ordinate effective interaction between the VTS, allied and emergency services; support on-the-job training and periodic assessments; and 
+• provide guidance during the response to developing unsafe situations and internal / external emergencies.
+C0103-3 VTS ON-THE-JOB TRAINING On-the-job (OJT) training is intended to provide the required knowledge, practical competence, skills and attitude to undertake duties at the VTS when they are employed.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 9 The OJT programme covers: Communication Coordination and Interaction 
+• Legal Framework 
+• Provision of VTS 
+• Local Knowledge 
+• Equipment 
+• Human Factors Emergency Situations VTS providers should determine when OJT training is undertaken to best meet their operational requirements.
+For example, OJT training may be completed: 
+• prior to the trainee attending formal C0103-1 VTS operator training; 
+• after a trainee attends formal C0103-1 VTS operator training; or 
+• in multiple stages, with some training prior to, and after completing formal C0103-1 VTS operator training.
+C0103-4 VTS ON-THE-JOB TRAINING INSTRUCTOR The VTS on-the-job training instructor course covers the knowledge, skills and attitude required to undertake the duties associated with the role of a VTS OJT Instructor.
+On completion of this course the student should have developed their practical skills to provide and coordinate local training (e.g.
+OJT, adaption training or updating training) at the VTS centre.
+This includes: 
+• Designing training programmes including task books and assessment materials.
+Learning teaching and instructional techniques to deliver training programmes.
+Providing feedback to learners.
+Assessing the required competence of a student against the training objectives.
+Evaluating the effectiveness and continually improving training programmes.
+C0103-5 REVALIDATION TRAINING FOR VTS PERSONNEL This course provides a structured means for VTS personnel to demonstrate the ongoing knowledge, practical competence, skills, and attitude to continue to undertake the duties associated with the provision of VTS.
+Upon the successful completion of this course, VTS personnel should have demonstrated the skill, knowledge and experience to revalidate their VTS qualifications in order to perform their roles effectively.
+ACCREDITATION AND APPROVAL OF VTS MODEL COURSES The competent authorities need to ensure that training organisations are accredited and approved for each IALA VTS model course that they deliver.
+This process involves two steps: IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 10 
+• Accreditation which is the formal endorsement that a training organization operates under a suitable quality management system to deliver effective training.
+
+• Approval which is the formal endorsement that a training organization meets the standards specified in an IALA model course for its implementation, delivery and assessment.
+IALA Guideline G1014 Accreditation of VTS Training Organizations and Approval to Deliver IALA VTS Model Courses [11] sets out the process by which a training organization can be accredited to deliver approved VTS training courses.
+A list of training organizations accredited to deliver VTS model courses in accordance with IALA Guideline G1014 are available on the IALA website.
+RECOGNITION OF PRIOR LEARNING Exemptions from a module or subject elements within a VTS model course may be considered depending on the qualifications and training that an individual may already have.
+The accredited training organization delivering the approved model
+<doc_end>

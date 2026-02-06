@@ -1,0 +1,29 @@
+<doc_start>
+9. REFERENCES
+IALA.
+Recommendation R0119 (V-119) Establishment of a VTS
+
+
+9. REFERENCES
+IALA.
+Standard S1040 Vessel Traffic Services
+
+
+9. REFERENCES
+IMO.
+International Convention for the Safety of Life At Sea (SOLAS)
+
+
+9. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+9. REFERENCES
+[5] UN.
+(1982) United Nations Convention on the Law of the Sea (UNCLOS)
+
+
+9. REFERENCES
+on DH
+<doc_end>

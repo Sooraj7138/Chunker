@@ -1,0 +1,38 @@
+<doc_start>
+environmental protection may include marine conservation measures is increasingly being recognized internationally as a means to: 
+• mitigate risks such as ship collisions with cetaceans and disturbance of marine mammals in nursery areas; 
+• mitigate the effect of ship wash on the shores in the vicinity of low-lying communities; and 
+• support the protection of Particularly Sensitive Sea Areas (PSSAs) or locally declared environmentally sensitive areas.
+It may be appropriate to develop processes and procedures to: broadcast relevant information on times and locations; interact with individual vessels in the vicinity of marine mammals; keep protected areas clear of traffic; 
+• advise speed restrictions where marine mammals have been sighted, or to reduce ship wash on the shores; IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 14 re-route traffic away from sightings; and 
+• collect information to identify potential interaction hotspots to assist in planning future mitigation measures.
+5.1.14. DIGITAL MARITIME SERVICES Where the VTS provides information in digital format, processes and procedures on digital information exchange should be established.
+This information may include, for example, the use of AIS messages to provide information on weather, virtual AtoN or the exchange of route information between vessels and VTS.
+The procedures should include a description of the digital information delivered and the communication means used for the information exchange.
+5.1.15. INTERACTION WITH ALLIED SERVICES Processes and procedures should be established to cover the interaction between VTS and allied services, for example: 
+• Pilots Tugs and tug operators Icebreakers and icebreaker operators The organizers of marine events 
+• Shipping agents 
+• Government agencies, including law enforcement agencies Please note, IALA Guideline G1102 VTS Interaction with Allied or Other Services [16] identifies issues to be considered and the principles to successfully interact between VTS and allied or other services.
+5.2. EMERGENCY PROCEDURES The activities of the VTS centre should be maintained during any emergency response.
+Other authorities (e.g., Maritime Rescue Co-ordination Centre (MRCC)) might be responsible for handling external emergencies within the VTS area.
+In that case, procedures for the interaction between the VTS and these authorities need to be established.
+Incidental co‐operation with emergency services, such as Search and Rescue and Pollution Control may be conducted in accordance with pre‐established contingency plans in which the procedures for interaction with allied or other services are laid down and responsibilities established.
+Despite this, the VTS may be one of the first to respond to a call from a vessel that has an emergency situation.
+It is important that VTS requests and collects any further information to help in response activities and to pass on to other authorities.
+Some considerations for information that a VTS may try to establish from the vessel under these situations can be found in annex B.
+COLLISION, CAPSIZING, SINKING, GROUNDING, FIRE ONBOARD, MAN OVERBOARD Processes and procedures should be established to deal with situations such as collision, capsizing, sinking, grounding, fire onboard and man overboard.
+Actions may include the following actions: 
+• Alert MRCC; Inform and co-operate with relevant emergency services; Inform relevant regulatory authority/ies; Act on local call-out procedures; IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 15 Support on-scene coordination; Consider back-up VTS personnel; Promulgate or relay information concerning situations with vessels in VTS area; Restrict traffic in the area; Alert allied services and other support units; and Ensure that a proper log is maintained.
+5.2.2. POLLUTION Pollution incident processes and procedures should be established.
+The following actions may be included: Alert relevant environmental authority and/or service(s); Alert relevant response authority and/or service(s); Inform and co-operate with relevant regulatory authority/ies; Assess scale of incident and call in specialist support, as appropriate; Promulgate information concerning incident to vessels in VTS area; and Restrict traffic movements in the area.
+5.2.3. PLACES OF REFUGE Places of Refuge processes and procedures should be developed, depending on national requirements and the particular arrangements arising out of the implementation of IMO Resolution A.949(23) Guidelines on Places of Refuge for Ships in Need of Assistance [17].
+5.2.4. MEDICAL EMERGENCY Processes and procedures for medical emergencies should be established.
+Actions may include: 
+• Inform MRCC ; Inform coast radio station; Consider special manoeuvring requirements; and 
+• Relay information from responsible health authority to arriving vessels suspected of being infected with a contagious disease that requires special care e.g., quarantine.
+5.2.5. VESSEL NOT UNDER COMMAND (NUC) Processes and procedures in the event of a “vessel not under command” should be established.
+Actions may include: Promulgate information concerning incident to vessels in the VTS area; 
+• Obtain detailed information about onboard situation; 
+• Maintain communication with vessel; Assess vessel’s proximity to danger (danger to vessel itself and other traffic); and Alert allied services and other support units, if appropriate.
+5.2.6. SECURITY INCIDENT In the event of a security incident, processes and
+<doc_end>

@@ -1,0 +1,14 @@
+<doc_start>
+5.1.2.7. Request
+This indicates that the following message is asking for action from others with respect to the ship and signals that something is to be arranged or provided.
+Request should not be used involving navigation or to modify the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs) [8].
+5.1.2.7. Request
+VTS
+
+5.1.2.7. Request
+VTS
+
+5.1.2.7. Request
+REQUEST.
+Wait for pilot at (location).
+<doc_end>

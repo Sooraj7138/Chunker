@@ -1,0 +1,48 @@
+<doc_start>
+PLANNING AND IMPLEMENTING
+The implementation and operation of a VTS to improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment is a significant investment.
+Careful planning should be undertaken to ensure a VTS is implemented effectively, achieves its objectives and is sufficiently resourced and funded on an ongoing basis.
+PLANNING AND IMPLEMENTING
+When planning and implementing a VTS, a project management approach is recommended to ensure the major deliverables, assumptions and constraints are clearly documented.
+This will assist in defining the scope of the VTS, its goals and objectives that need to be met.
+Project management is considered as a discipline with the purpose to achieve specific goals and objectives by planning, organizing, motivating, and controlling resources.
+PLANNING AND IMPLEMENTING
+
+• Relevant international guidance prepared and published by appropriate international organizations regarding project management should be considered, or where there are national requirements for project management, these should be used.
+PLANNING AND IMPLEMENTING
+ISO 21500, Guidance on Project Management [9] is an international standard issued by the International Organization for Standardization (ISO).
+PLANNING AND IMPLEMENTING
+In summary, the standard:
+
+PLANNING AND IMPLEMENTING
+
+• Provides high-level description of concepts and processes that are considered to form good practice in project management.
+PLANNING AND IMPLEMENTING
+
+• Can be used by any type of organization, including public, private or community organizations, and for any type of project, irrespective of complexity, size, or duration.
+PLANNING AND IMPLEMENTING
+Project management is undertaken in phases in order to improve control and quality.
+At the end of each phase, a review is typically conducted on the deliverables as well as on the performance of the project team.
+This helps the team ascertain whether the project proceeds to the next phase or undergoes revision.
+PLANNING AND IMPLEMENTING
+This section provides an overview of the five project management phases and the key areas for consideration as they relate to VTS:
+
+PLANNING AND IMPLEMENTING
+
+1. PLANNING AND IMPLEMENTING
+Initiating - This marks the beginning of the project.
+The goal of this phase is to define the project at a broad level and develop a business case.
+PLANNING AND IMPLEMENTING
+
+2. Planning - During this phase, the scope and goals of the project are defined, and a project management plan is developed.
+It involves identifying the cost, quality, available resources, and a realistic timetable.
+PLANNING AND IMPLEMENTING
+Implementing - This is the phase where deliverables are developed and completed.
+PLANNING AND IMPLEMENTING
+
+4. Controlling – This phase is invariably carried out simultaneously with phase 3 (Implementing), thereby ensuring that project objectives and deliverables are met.
+This phase is about measuring project progression and performance and ensuring that everything happening aligns with the project management plan.
+PLANNING AND IMPLEMENTING
+
+5. Closing - The closing processes are used to formally establish that the project phase or project is finished.
+<doc_end>

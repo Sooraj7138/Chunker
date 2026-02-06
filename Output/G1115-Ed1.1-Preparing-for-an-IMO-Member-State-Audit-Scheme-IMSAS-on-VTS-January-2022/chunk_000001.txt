@@ -1,0 +1,36 @@
+<doc_start>
+as qualifications and training for VTS personnel.
+Vessel traffic services implemented by a competent authority are subject to the IMO Member State Audit Scheme (IMSAS) in view of the fact that all IMO audits from 1 January 2016 will be mandatory and should be arranged and carried out in line with the framework and procedures for the IMO Member State Audit Scheme and using the IMO Instruments Implementation Code (III Code) [3] as the audit standard.
+IALA Guideline G1055 Preparing for a Voluntary IMO Audit on Vessel Traffic Services Delivery has been revoked.
+IALA Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on VTS Edition 1.1 urn:mrn:iala:pub:g1115:ed1.1 P 4 e 
+3. OVERVIEW Under the general provisions of treaty law and IMO conventions, the contracting governments are responsible for promulgating laws and regulations.
+They are also responsible for taking all other steps which may be necessary to give those instruments full and complete effect to ensure safety of life at sea and protection of the marine environment.
+The IMO Member State Audit Scheme (IMSAS) provides a Member State with a comprehensive and objective assessment of how effectively it administers and implements those mandatory IMO instruments which are covered by the scheme, i.e., SOLAS.
+The scheme addresses issues such as: 
+• Conformance in enacting appropriate legislation for the IMO instruments to which a Member State is a Party.
+The implementation and enforcement of the applicable laws and regulations by the Member State.
+The delegation of authority to Recognized Organizations (ROs).
+
+• The related control and monitoring mechanism of the survey and certification processes by the Member States.
+
+4. INTERNATIONAL FRAMEWORK 4.1. IMO A VTS is recognized internationally as a navigational safety measure through SOLAS.
+In particular, the provision in SOLAS Chapter V (Safety of Navigation) Regulation 12 provides for vessel traffic services.
+Key IMO documents regarding IMSAS include: RESOLUTION A.1067(28) ON THE FRAMEWORK AND PROCEDURES FOR THE IMO MEMBER STATE 4.1.1. AUDIT SCHEME The purpose of this framework is to describe the objective, principles, scope, responsibilities and capacity-building aspect of the IMO Member State audit, which together constitute the strategy for the audit scheme.
+This framework is supported by the procedures for the IMO Member State audit and the IMO .
+RESOLUTION A.1070(28) ON IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 4.1.2. The objective of this Code is to enhance global maritime safety and protection of the marine environment and assist States in the implementation of instruments of the Organization.
+The Code acknowledges that different States will view this Code according to their own circumstances and should be bound only for the implementation of those instruments to which they are Contracting Governments or Parties.
+By virtue of geography and circumstance, some States may have a greater role as a flag State than as a port State or as a coastal State, whilst others may have a greater role as a coastal State or a port State than as a flag State.
+The Code seeks to address those aspects necessary for a Contracting Government or Party to give full and complete effect to the provisions of the applicable international instruments to which it is a Contracting Government or Party, including SOLAS Chapter V (Safety of Navigation) Regulation 
+12. IALA Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on VTS Edition 1.1 urn:mrn:iala:pub:g1115:ed1.1 P 5 e IMO CIRCULAR LETTER NO.
+3425 - AUDITOR’S MANUAL FOR THE IMO MEMBER STATE AUDIT 4.1.3. SCHEME (IMSAS) [4] This manual has been developed as guidance to assist in the planning, conducting and reporting by auditors in the execution of their duties as defined in the framework and procedures for the IMO Member State Audit Scheme, which was adopted by the Assembly through resolution A.1067 (28) [5].
+The guidance is intended to promote consistency in the delivery of the audit programme.
+RESOLUTION A.1158(32) GUIDELINES FOR VESSEL TRAFFIC SERVICES 4.1.4. This Resolution describes the principles and general provisions for the operation of a VTS and participating vessels.
+Contracting Governments should take account of these guidelines when planning, implementing and operating vessel traffic services.
+4.2. IALA IALA has developed a suite of documents to assist governments, competent authorities and VTS providers to implement and deliver a VTS in a manner consistent with IMO Resolution A.1158(32).
+These documents consist of numerous recommendations, guidelines and model courses etc.
+For the latest document editions refer to IALA web page http://www.iala-aism.org/ under “publications”, where these can be freely downloaded.
+
+5. PREPARING FOR AN IMSAS AUDIT – VESSEL TRAFFIC SERVICES IMSAS covers a broad range of maritime safety and prevention of pollution issues which are reflected in SOLAS, MARPOL, TONNAGE, Load Line, STCW and COLREGs.
+A VTS is an important element of the audit scheme, which should be carefully prepared.
+To assist with planning and preparation for an audit, annexes A
+<doc_end>

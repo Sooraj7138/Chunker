@@ -1,0 +1,17 @@
+<doc_start>
+4.4. TECHNICAL
+VTS should be provided with appropriate equipment, systems and facilities to effectively accomplish its objectives.
+4.4. TECHNICAL
+Associated activities may include:
+
+4.4. TECHNICAL
+identifying appropriate equipment, systems and facilities to meet the needs of the VTS;
+
+4.4. TECHNICAL
+
+• procurement and installation of equipment, systems and facilities including maintenance, life cycle management;
+
+4.4. TECHNICAL
+
+• monitoring availability and performance of equipment, systems and facilities;
+<doc_end>

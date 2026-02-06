@@ -1,0 +1,17 @@
+<doc_start>
+4.7.2. INLAND WATERS CONSIDERATIONS
+While an inland VTS may have a restricted set of functions, many of the principles set out in the guidance on the portrayal of information to VTS personnel will be relevant in establishing a suitable environment for inland VTS operations.
+4.7.2. INLAND WATERS CONSIDERATIONS
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.7.2. INLAND WATERS CONSIDERATIONS
+P 11
+
+4.7.2. INLAND WATERS CONSIDERATIONS
+The use of symbology to identify vessels of particular interest such as passenger vessels, vessels carrying dangerous goods and vessels restricted in their ability to manoeuvre can be of particular use in improving situational awareness in an inland VTS.
+4.7.2. INLAND WATERS CONSIDERATIONS
+Regional and competent authorities responsible for inland waters may wish to consider the development and application of harmonized exchange of information to support traffic and transport management and the transfer of information between operators, vessels and allied or other services.
+Inland VTS may be enhanced by linking it to bespoke systems for tracking ships such as the European VTT.
+4.7.2. INLAND WATERS CONSIDERATIONS
+Note: The Guideline G1105 Shore-Side Portrayal Ensuring Harmonization with E-Navigation Related Information may also be of relevance to data and information management and the portrayal of information to inland VTS personnel.
+<doc_end>

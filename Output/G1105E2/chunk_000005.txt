@@ -1,0 +1,31 @@
+<doc_start>
+–Shipborne radar – Performance requirements, methods of testing and required test results, Edition 2.0 Corrigendum 1 12th February 2014 IMO resolution A.823(19), Performance Standards for automatic radar plotting aids, 23 November 1995 This performance standard deals with the use of Automatic Radar Plotting Aids (ARPA) to improve the standard of collision-avoidance at sea.
+6.3. AIS IMO Resolution MSC.74(69), Annex 3, Performance Standards for a Universal Shipborne Automatic Identification System (AIS), 19 May 
+1998. IMO Resolution A.1106(29), Revised Guidelines for the On board Operational Use of Shipborne Automatic Identification Systems (AIS), 2 December 
+2015. IMO SN/Circ.217, Display of AIS Target Information, 11 July 
+2001. This guideline deals with the graphical presentation and display of AIS target data in stand-alone or integrated navigational aids or systems.
+IMO SN/Circ.236, Guidance of the Application of AIS Binary Messages, 28 May 2004.4 AIS can also be used as a means to communicate Binary Messages for certain types of specific applications.
+Binary Messages may provide a variety of capabilities for pre-defined information packages.
+This standard includes seven (7) types of messages that were to be used during a four-year trial period.
+This standard was superseded by IMO SN.1/Circ.289. IMO SN.1/Circ.289, Guidance on the Use of AIS Application-Specific Messages, 2 June 
+2010. Formerly called AIS Binary Messages, AIS Application-Specific Messages (ASMs) are transmitted and received by shipborne mobile AIS devices and AIS base stations.
+Over 19 AIS message types are described capable of conveying a wide range of hydrographic, meteorological, VTS, area notice, and route information.
+The display, generation and transmission of the information transmitted by AIS Application-Specific Messages requires external hardware and dedicated software in addition to the AIS equipment (e.g., ECDIS, ECS or VTS display).
+IMO SN.1/Circ.290, Guidance for the Presentation and Display of AIS Application-Specific Message information, 2 June 2010. 4 As a result of the development of AIS during the last decade the use of the wording 'Binary Messages' is more commonly referred to as 'Application Specific Messages (ASM)'.
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 11 This standard provides general guidance on the presentation and display of AIS ASMs that are contained in IMO SN.1/Circ.289. It lists various types of shipborne equipment (and their associated standards) that could be used to display AIS ASMs.
+In addition to describing some guiding principles, this standard provides a number of portrayal examples for AIS ASMs.
+IALA Guideline G1095 on Harmonized implementation of Application-Specific Messages (ASMs), Edition 1, May 
+2013. This Guideline provides guidance on the implementation and use of ASMs.
+In addition to the messages in ITU and IMO documents, competent authorities have developed their own regional messages for use in addressing specific requirements they have identified.
+In some cases, different authorities have developed separate messages to address similar requirements.
+This has led to a lack of communication compatibility where ship board equipment may be required to be able to decode/encode several different ASMs in order to receive/send the same information (e.g., met/hydro information).
+This Guideline addresses actions that are intended to aid harmonization, including the establishment and use of the IALA AIS ASM collection.
+The intended use of the collection is to promote harmonization through: a catalogue of messages for entities to consider for use to meet identified requirements; and providing manufacturers with a reference for messages they may implement in their equipment.
+While portrayal is outside the scope of this guideline, IMO has also issued SN.1/Circ.
+290 Guidance for the Presentation and Display of AIS Application-Specific Messages Information.
+6.4. INS 6.4. INS IMO Resolution MSC.86(70), Annex 3, Performance Standards for Navigational Equipment, 8 December 1998 IMO Resolution MSC.252(83), Performance Standards for an Integrated Navigation System (INS), 8 October 2007 The purpose of an Integrated Navigation System (INS) is to enhance the safety of navigation by providing integrated and augmented functions to avoid geographic, traffic and environmental hazards.
+By combining and integrating functions and information the INS provides “added value” for the operator to plan, monitor and/or control safety of navigation and progress of the ship.
+The INS supports the current operational mode and situational awareness.
+The INS aims to ensure that by taking human factors into consideration, the workload is not only kept within the capacity of the operator, but system functionality also complements and accounts for mariner capabilities and any existing situational limitations in order to enhance safe and expeditious navigation.
+INS functions that have particular relevance to IALA include: Route monitoring Collision avoidance Alert management Special manoeuvres Functional requirements for INS displays include: IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 12 All essential information should be displayed clearly and continuously Additional navigational information may be displayed, but should not mask, obscure or degrade essential information required for the display by its primary task,
+<doc_end>

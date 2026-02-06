@@ -1,0 +1,5 @@
+<doc_start>
+11. DEFINITIONS
+Training Needs Analysis identifies and evaluates gaps between the current skills, knowledge, and competencies of individuals, and those required as a VTS operator.
+(Reference – G1156 Annex A)
+<doc_end>

@@ -1,0 +1,16 @@
+<doc_start>
+8. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+8. ABBREVIATIONS
+AtoN Marine Aid to Navigation
+
+
+8. ABBREVIATIONS
+GIS Geographic Information System
+
+
+8. ABBREVIATIONS
+LAT Lowest Astronomical Tide
+<doc_end>

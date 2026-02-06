@@ -1,0 +1,60 @@
+<doc_start>
+VTS operation.
+d) Quality Management IALA Recommendation R0132 Quality Management for Aids to Navigation Authority (O-132) [14] is the main reference document to be utilized for establishing a quality management system (QMS) process at VTS Centres.
+Additionally, the following documents are also relevant for operational consideration with regards to quality management: IALA Guideline G1101 Auditing and Assessing a VTS IALA Guideline G1115 Preparing for the IMO Audit Scheme (IMSAS) on a VTS; and 
+• IALA VTS Manual [15].
+Examples of objectives that contribute to achieving the operational considerations are provided at annex A.
+
+4. SETTING GUIDELINES TO MEASURE OBJECTIVES Once the objectives for the VTS have been set a process should be implemented to ensure they are being met.
+4.1. MEASURING THE OBJECTIVES To monitor and assess that the objectives set for the VTS are met, measures need to be determined.
+This is to identify that the VTS is effectively contributing to alleviate, or at least reducing to an acceptable level and the issues /problems the VTS was introduced to mitigate (e.g., risk of collisions/groundings, navigational hazards, complexity of waterway).
+Both positive (leading) and negative (lag) performance measures should be considered.
+This ensures that operational outcomes are measured in terms of the success of good practice and the preventative measures that need to be implemented.
+IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1 P 7 4.2. DEFINING PERFORMANCE MEASURES When testing the suitability of key performance measures the following issues should be considered: 
+• Are they relevant?
+
+• Are they clearly defined?
+
+• Are they readily measurable?
+Are they acceptable to people across the organization?
+Are they comparable from one measurement to the next?
+
+• Are they unambiguous?
+
+• Are they statistically valid?
+Can it be collected in a timely and cost‐effective manner?
+This should lead to a set of measures which: Accurately and consistently measure the parameter to monitor.
+
+• Are easily understood by users.
+
+• Are relatively simple to collect.
+
+• Are timely in that they support Authorities to identify and implement a response that can influence the outcome.
+Readily relate to the objectives of the organization.
+4.3. REVIEW It is important for the competent authority/VTS provider to regularly assess the VTS to ensure that the VTS operational objectives have been met and the problems identified and defined in the Planning and Implementing phase have been either alleviated or at least reduced to an acceptable level.
+Refer to IALA Guideline G1150 Establishing, Planning and Implementing a VTS and IALA Guideline G1018 Risk Management [16].
+
+5. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala‐aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+6. ABBREVIATIONS AtoN Marine Aids to Navigation CPA Closest Point of Approach III Code IMO Instrument Implementation Code IMO International Maritime Organization IMSAS IMO Member State Audit Scheme QMS Quality management system IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1 P 8 SOLAS IMO convention on Safety of Life at Sea (as amended) VTS Vessel traffic service or vessel traffic services (dependent on context) 
+7. REFERENCES [1] IMO.
+International Convention for the Safety of Life At Sea IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IMO.
+Resolution A.1067(28) Framework and Procedures for the IMO Member State Audit Scheme IMO.
+Resolution A.1070(28) on IMO Instruments Implementation Code (III Code) IMO.
+Circular Letter No.
+3425 ‐ Auditor’s Manual for the IMO Member State Audit Scheme (IMSAS) IALA.
+Guideline G1150 Establishing, Planning and Implementing a VTS [7] IALA.
+Guideline G1101 Auditing and Assessing a VTS IALA.
+Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on Vessel Traffic Services [9] IALA.
+Recommendation R0128 (V‐128) Operational and Technical Performance of VTS systems [10] IALA.
+Guideline 1111 Preparation of Operational and Technical Performance for VTS Equipment IALA.
+Recommendation R0103 (V‐103) Standards for Training and Certification of VTS Personnel [12] IALA.
+Guideline G1045 Staffing Levels at VTS Centres [13] IALA.
+Guideline G1141 Operational Procedures for Vessel Traffic Services [14] IALA.
+Recommendation R0132 Quality Management for Aids to Navigation Authority (O‐132) [15] IALA.
+VTS Manual [16] IALA.
+Guideline G1018 Risk Management IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1 P 9 ANNEX A EXAMPLES FOR SETTING OBJECTIVES AND MEASURING THEM Contribute to improving the safety and efficiency of ship traffic and protection of the environment?
+Examples of possible Objectives consistent with improving the safety and efficiency of ship traffic and protection of the environment Examples of possible Measurements to demonstrate the objective is being achieved Purpose of the VTS Overview of Traffic and Maintaining a Traffic Image The purpose of a VTS is
+<doc_end>

@@ -1,0 +1,53 @@
+<doc_start>
+of learning outcomes, objectives, or standards to determine whether the required learning and competency has been achieved.
+(Reference – G1017) Revalidation training is the periodic, structured training designed to refresh, maintain, and enhance skills, knowledge and competencies of VTS personnel, ensuring the ongoing validity of their VTS qualifications.
+(Reference – G1156 section 9.3) Simulation training is a form of experiential learning that uses a realistic, safe and controlled environment to: 
+• develop and improve skills in the provision of VTS; 
+• assess the levels of competencies of new and existing VTS personnel; and 
+• maintain the levels of competencies of existing VTS personnel.
+(Reference - G1027) Training Needs Analysis identifies and evaluates gaps between the current skills, knowledge, and competencies of individuals, and those required as a VTS operator.
+(Reference – G1156 Annex A) Training organization is an entity accredited by the competent authority and approved to deliver one or more IALA model courses.
+(Reference – G1014) Unstructured learning (or sometimes called informal learning) occurs through everyday on-the-job experiences, interactions, and activities, without the need for formal training programs or instruction.
+(Reference – G1156 Section 9.4) IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 @ P 22 Updating training is a tailored made program aimed at refreshing or improving specific areas of competency.
+It allows VTS personnel to regain professional knowledge and skills, while reinforcing previous training.
+(Reference – G1156 Section 9.2.2) VTS provider means the organization or entity authorized by the Government or competent authority to provide vessel traffic services.
+(Reference – IMO Resolution A.1158(32)) VTS certification log is a record of course certificates and training activities of VTS personnel.
+(Reference – G1156 Section 8.6) VTS personnel means persons performing tasks associated with vessel traffic services, trained in vessel traffic service operations and appropriately qualified.
+(Reference – IMO Resolution A.1158(32)) 
+12. ABBREVIATIONS CPD Continual professional development IELTS International English Language Testing System IMO International Maritime Organization OJT On-the-job training SMCP Standard Marine Communication Phrases VTS Vessel Traffic Services 
+13. REFERENCES IMO.
+Resolution A.1158(32) on Guidelines for Vessel Traffic Services IALA.
+Standard S1050 Training and Certification IALA.
+Recommendation R0103 Training and Certification of VTS Personnel IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases IALA.
+Guideline G1017 Assessment for Recognition of Prior Learning in VTS Training on DH [6] IALA.
+Model Course C0103-1 - VTS Operator training [7] IALA.
+Model Course C0103-2 - VTS Supervisor training [8] IALA.
+Model Course C0103-3- VTS On‐the‐Job training [9] IALA.
+Model Course C0103-4 - VTS On‐the‐Job Training Instructor [10] IALA.
+Model Course C0103-5 - Revalidation training for VTS personnel [11] IALA.
+Guideline G1014 Accreditation of VTS Training Organizations and Approval to Deliver IALA VTS Model Courses [12] IALA.
+Guideline G1027 Simulation in VTS Training [13] IALA.
+Guideline on VTS English Communication Competency Testing IALA.
+Guideline G1167 VTS Management IALA.
+G1132 VTS VHF Voice Communication and Phraseology IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 @ P 23 ANNEX A TRAINING NEEDS ANALYSIS A Training Needs Analysis identifies and evaluates gaps between the current skills, knowledge, and competencies of individuals, and those required as a VTS operator.
+Its purpose is to pinpoint specific areas where training is needed to improve performance, align VTS personnel capabilities with VTS requirements, and ensure efficient, targeted training programs.
+This process helps to direct training efforts where they will have the greatest impact on individual or the organization.
+Where performance issues are identified, then it is important to determine if they are due to gaps in knowledge, skills, or attitude, as training is just one of several solutions which may be available to address performance problems.
+Depending on the outcomes from the gap analysis, training programs can be tailored to focus on developing specific competencies or enhancing skills that require more attention while minimising time spent on those already mastered.
+These are the key steps when conducting a training needs analysis for an individual is: Determine objectives and skill set 
+• Identify the specific competencies, knowledge, and skills needed for a VTS personnel to perform their role effectively.
+
+• Set clear and measurable training objectives based on the identified gaps.
+These objectives define what the individual should achieve after completing the training.
+Evaluate skills of an individual Review the individual's current skills, knowledge, and abilities by: 
+• Reviewing past performance assessments to identify documented strengths and weaknesses.
+
+• Gathering input from others to get a broader perspective on the individual’s capabilities.
+
+• Asking the individual to reflect and self-assess their strengths and areas for improvement.
+
+• Creating a list of the individual’s current skills, qualifications, and experiences relevant to their role.
+3 Measure the skill gap 
+• Compare the individual’s current competencies against the skills required for their role and identify specific gaps that may need addressing to enhance their effectiveness.
+<doc_end>

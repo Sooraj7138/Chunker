@@ -1,0 +1,115 @@
+<doc_start>
+development of unsafe situations through: 1. providing timely and relevant information on factors that may influence ship movements and assist on-board decision making.
+2. monitoring and managing ship traffic to ensure the safety and efficiency of ship movements.
+3. responding to developing unsafe situations.” 4.1. TIMELY AND RELEVANT INFORMATION The provision of timely and relevant information on factors that may influence the ship's movements and assist on-board decision making should be provided where: deemed necessary by the VTS; or 
+• requested by the participating ship.
+Timely and relevant information may include but is not limited to: The position, identity, intention, and movements of ships.
+
+• Maritime Safety Information (MSI) such as meteorological and hydrological conditions, notices to mariners, status of marine aids to navigation.
+Scheduling information to enable a ship to optimize its overall passage efficiency.
+
+• 
+• Limitations of ships in the VTS area that may impose restrictions on the navigation of other ships (e.g., manoeuvrability), or any other potential hindrances.
+Information concerning the safe navigation of the ship.
+
+• Other information such as: Reporting formalities and International Ship and Port Facility Security Code details.
+Information to and from allied services.
+
+• Amendments and changes in promulgated information concerning the VTS area such as boundaries, procedures, radio frequencies, reporting points.
+4.1.1. DELIVERY OF INFORMATION Depending on the type of information and the situation, this may be delivered by: 
+• Broadcasting the information at fixed times and intervals, as promulgated in the appropriate navigational publications.
+Communicating directly with individual ship(s).
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0 P 6 
+• Data exchange and automated reporting as appropriate and where these are available.
+4.1.2. EXAMPLES OF TIMELY AND RELEVANT INFORMATION Examples of timely and relevant information include those shown in Table 1: Table 1 Examples of timely and relevant information Information related to: Examples: 
+• Position, identity, destination of ships and the intention of other traffic.
+
+• Amendments and changes in promulgated information concerning Navigational situations (including traffic and route information) 
+• 
+• the VTS area such as boundaries, procedures, radio frequencies, reporting points.
+The mandatory reporting of movements.
+Limited manoeuvrability that may impose restrictions on the navigation of other ships, or any other potential hindrances.
+
+• Suspension or change of routes.
+
+• Uncharted obstacles such as dangerous wrecks.
+Navigational warnings 
+• Diving operations.
+
+• Ships not under command.
+
+• Wind speed and direction.
+
+• Direction and height of the wave.
+Meteorology 
+• Visibility.
+
+• Atmospheric pressure.
+
+• Formation of ice.
+
+• Gale.
+
+• Storm.
+Meteorological warnings 
+• Tsunami.
+
+• Restricted visibility.
+
+• Stability of the seabed.
+Hydrography 
+• 
+• The accuracy of surveys.
+Tidal height.
+
+• Tidal streams.
+Electronic navigational 
+• The availability of electronic navigational aids such as: GNSS, DGNSS, aids eLoran, AIS, LRIT, RACON.
+
+• Port information.
+
+• Pilot or tug request.
+
+• Cargo information.
+Other information 
+• Health condition.
+
+• Port State Control (PSC).
+
+• International Ship and Port Facility Security (ISPS).
+If a VTS is tasked with providing MSI services, guidance on this type of information is found in IMO Resolution A.706(17)a World-Wide Navigational Warning Service[8].
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC The monitoring and management of ship traffic to ensure the safety and efficiency of ship movements may include: IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0 P 7 
+• Forward planning and prioritization of ship movements to prevent congestion or dangerous situations and improve overall efficiency.
+
+• Organizing ships underway noting that special transports or ships with hazardous or polluting cargo may affect the flow of other traffic.
+
+• Organizing space allocation.
+Establishing a system of traffic clearances.
+Establishing a system of voyage or passage plans.
+
+• Providing route advice.
+Establishing mandatory reporting of movements in the VTS area.
+Establishing recommended or advisory routes to be followed.
+Establishing speed limits to be observed.
+
+• Organizing nautical activities (e.g., sailing regattas) or marine works in-progress (such as dredging or submarine cable-laying) to avoid interference with the flow of ship traffic.
+Ensuring compliance with and enforcement of regulatory provisions for which they are empowered.
+4.2.1. EXAMPLES OF THE MONITORING AND MANAGEMENT OF SHIP TRAFFIC Examples of when the monitoring and management of ship traffic might be required include those shown in Table 2: Table 2 Examples of situations that may require monitoring and management of ship traffic Information related to: Examples: 
+• On or prior to entering a VTS area.
+
+• Departing from a berth or an anchorage within a VTS area.
+Traffic clearance 
+• Entering into a fairway within a VTS area.
+
+• Prior to commencing a manoeuvre that may be detrimental to safe navigation.
+
+• Organizing the movements to/from an anchorage position/area.
+Anchorage 
+• Assigning an anchorage position.
+
+• Assisting ships into anchorage position.
+
+• Ensuring adherence to speed limits.
+
+• Ensuring adherence to rules regarding traffic routeing
+<doc_end>

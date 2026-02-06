@@ -1,0 +1,103 @@
+<doc_start>
+5.2. BENEFITS
+Some of the potential benefits of Virtual AtoN are in enhancing safety and environment protection.
+Other benefits are:
+
+5.2. BENEFITS
+
+• timely notification;
+
+5.2. BENEFITS
+
+• ease of presentation, where displayed graphically;
+
+5.2. BENEFITS
+
+• quick deployment, easily amended depending on the situation (storms, marine incidents, etc.);
+
+5.2. BENEFITS
+
+• direct delivery to navigational systems, limited to relevant areas;
+
+5.2. BENEFITS
+information readily apparent to the user;
+
+5.2. BENEFITS
+low cost to install and maintain; and
+
+5.2. BENEFITS
+
+• marking where traditional physical AtoN or Physical (Real) AIS AtoN are not practical.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+Information from Virtual AtoN services should be broadcast to AIS receivers by more than one means.
+The navigation information provided for temporary Virtual AIS AtoN should be repeated in MSI broadcasts to ensure that all mariners receive safety information.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+The AIS AtoN name is part of the information contained in the AIS AtoN digital message (Message 21).
+Given the lack of uniformity worldwide concerning the naming, some guiding principles will enable more consistency.
+Some of the important elements to consider are:
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+• Using a short name will prevent cluttering the shipborne display when users are displaying the name tag.
+Recognized international or national abbreviations or acronyms might help reduce the length.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+• Use of numbering and lettering that respect IALA’s Maritime Buoyage System (MBS) (e.g., even or odd, numbered from seaward).
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+• Avoid repeating some of the information already available in other fields of the Message 21 and/or Nautical Publications (Fixed, floating, MMSI, Virtual, colour, etc.).
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+• Message 21 has two name fields, the main field (20 char.) and the extended one (14 char.).
+Consider that not all shipborne navigational equipment may display the extended field.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+• Consider that adding the MSI number as a reference in the Virtual AtoN name requires editing the information broadcast as it changes and that this might be limiting when using a stand-alone AIS AtoN mobile station.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+The navigation information needs to be capable of being displayed on Electronic Chart Display & Information Systems (ECDIS), Electronic Chart Systems (ECS), PPUs and radar equipment based on the latest IMO, IEC and ITU standards.
+These displays should indicate the information graphically as well as providing a text display of detailed
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+information.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+There may be a limit to the number of Virtual AtoN and/or their reporting interval (refresh rate) that can be provided within a local area due to limitations in the capacity of the communication link.
+There may also be a limitation on the shipborne processing capability.
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+To mark areas, binary AIS Application Specific Messages (ASM) may be used, rather than multiple Virtual AIS AtoN (Message 21).
+There is a limit to the number of Virtual AIS AtoN that can be in the same area due to available
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+P 8
+
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+timeslots in the AIS system.
+Multiple Virtual AIS AtoN (Message 21) could increase clutter on the display.
+The competent authority needs to be aware that the number of MMSIs available for use by AIS AtoN is a finite resource (1000 per designated area code) and for this reason the Maritime Resource Name (MRN) should be considered as the means of linking Virtual AtoN to relevant MSI or chart objects (see IALA Guideline G1143 Unique Identifiers for Maritime Resources [26]).
+
+6. TECHNICAL DEPLOYMENT OF VIRTUAL ATON
+MMSI numbers are normally assigned to a transmitting device.
+For a Virtual AIS AtoN using Message 21, the MMSI number represents the unique identity of the AtoN itself, rather than the transmitting source.
+The repeat indicator field is used to identify whether or not the signal is transmitted from another station.
+It allows an AIS base station to repeat the Message 21 of another entity which may extend the coverage of a less powerful mobile station.
+Competent authorities should consider broadcasting from more than one AIS base station to assure some redundancy.
+<doc_end>

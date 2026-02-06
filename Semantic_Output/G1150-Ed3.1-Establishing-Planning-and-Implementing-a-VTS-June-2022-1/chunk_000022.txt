@@ -1,0 +1,35 @@
+<doc_start>
+A.1. TRAFFIC DATA
+Information should be obtained on:
+
+A.1. TRAFFIC DATA
+traffic safety records;
+
+A.1. TRAFFIC DATA
+the complexity of traffic patterns;
+
+A.1. TRAFFIC DATA
+ship traffic densities, including traffic trends;
+
+A.1. TRAFFIC DATA
+any interference by vessel traffic with other marine-based activities;
+
+A.1. TRAFFIC DATA
+information on recent traffic surveys and evaluation of these surveys;
+
+A.1. TRAFFIC DATA
+
+• breakdown of all vessel traffic in terms of type and size of ships and categories of cargo carried, especially ships with hazardous and polluting cargoes;
+
+A.1. TRAFFIC DATA
+efficiency of maritime traffic flow;
+
+A.1. TRAFFIC DATA
+delays, causes and costs;
+
+A.1. TRAFFIC DATA
+congestion including location; and
+
+A.1. TRAFFIC DATA
+stakeholder feedback.
+<doc_end>

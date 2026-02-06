@@ -1,0 +1,32 @@
+<doc_start>
+2. INTRODUCTION
+Vessel Traffic Services are recognized internationally as a navigational safety measure through the International Convention on the Safety of Life at Sea (SOLAS).
+In particular, the provisions in SOLAS Chapter V (Safety of Navigation) Regulation 12 provides for vessel traffic services and states, amongst other things, that:
+
+
+2. INTRODUCTION
+
+• “Vessel Traffic Services (VTS) contribute to safety of life at sea, safety and efficiency of navigation and protection of the marine environment, adjacent shore areas, work sites and offshore installations from possible adverse effects of maritime traffic.”
+
+
+2. INTRODUCTION
+
+• “Contracting Governments undertake to arrange for the establishment of VTS where, in their opinion, the volume of traffic or the degree of risk justifies such services”.
+
+2. INTRODUCTION
+
+• “Contracting Governments planning and implementing VTS shall, wherever possible, follow the guidelines developed by the [IMO]”.
+
+2. INTRODUCTION
+It is recognized that the safety and efficiency of maritime traffic and the protection of the marine environment would be improved if vessel traffic services were established and operated in accordance with internationally approved guidelines such as IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [2].
+The Resolution describes the principles and general provisions for the operation of a VTS and participating vessels, in addition to the roles and responsibilities of contracting governments, competent authorities and VTS providers as well as qualifications and training for VTS personnel.
+
+2. INTRODUCTION
+Vessel traffic services implemented by a competent authority are subject to the IMO Member State Audit Scheme (IMSAS) in view of the fact that all IMO audits from 1 January 2016 will be mandatory and should be arranged and carried out in line with the framework and procedures for the IMO Member State Audit Scheme and using the IMO Instruments Implementation Code (III Code) [3] as the audit standard.
+
+2. INTRODUCTION
+IALA Guideline G1055 Preparing for a Voluntary IMO Audit on Vessel Traffic Services Delivery has been revoked.
+
+2. INTRODUCTION
+IALA Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on VTS Edition 1.1 urn:mrn:iala:pub:g1115:ed1.1
+<doc_end>

@@ -1,0 +1,42 @@
+<doc_start>
+of implementing the VTS have been met and the VTS should be declared operational.
+Project resources can be released, and the success of the project should be measured including evaluating what did and did not work well with the project.
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 11 POST IMPLEMENTATION EVALUATION To achieve the purposes for which it was implemented, a VTS needs to be effective and routinely evaluated to ensure that the operational objectives are being met, the technical and operational performance is acceptable, and the issues identified and defined in determining the need for the VTS have been either alleviated or at least reduced to an acceptable level.
+IALA Guideline G1101 - Auditing and Assessing a VTS provides guidance for competent authorities and VTS providers to meet their obligations under SOLAS for the establishment and operation of a VTS.
+In particular, it provides the framework for auditing and assessing a VTS and the subsequent on-going assessment and evaluation to ensure: conformity with international obligations; the technical performance of the VTS equipment is consistent with the objectives of the VTS; the operational objectives are being met; and 
+• the degree of risk identified in determining the need for the VTS have been either alleviated or at least reduced to an acceptable level.
+The evaluation may indicate changes to the volume of traffic or the degree of risk have culminated in the need to consider changes such as: The delineated VTS area.
+The categories of participating ships.
+
+• Enhanced capabilities for monitoring and managing ship traffic (e.g.
+staffing, decision support capabilities) to ensure the safety and efficiency of ship movements through, for example, the forward planning of ship movements or organizing space allocation.
+
+• Reduced capabilities to monitor and manage ship traffic (e.g.
+staffing, technological capabilities) may adequately address the risks.
+
+• VTS is longer no longer justified for the area and, for example, a local port service may adequately address the risks.
+In all cases, the evaluation process should take into account IALA standards and associated recommendations and guidelines specifically related to the establishment and operation of VTS to contribute to achieving worldwide harmonization of VTS.
+Where an evaluation indicates the need for a VTS is no longer justified, the Contracting Government/competent should ensure: the proposed change is consistent with their international obligations for VTS; and 
+• the issues and problems identified and assessed in determining the need for the VTS are no longer evident or can be addressed by alternative passive traffic management measures.
+In such situations a risk assessment should be undertaken to re-assess the waterway as described in Section 5.1 to demonstrate VTS is no longer required as any inherent risks can be mitigated by other means.
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 12 
+7. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS Vessel traffic service or vessel traffic services (dependent on context) 
+9. REFERENCES IALA.
+Recommendation R0119 (V-119) Establishment of a VTS IALA.
+Standard S1040 Vessel Traffic Services IMO.
+International Convention for the Safety of Life At Sea (SOLAS) IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services [5] UN.
+(1982) United Nations Convention on the Law of the Sea (UNCLOS) on DH IALA.
+Standard S1010 AtoN Planning and Service Requirements IALA.
+Standard S1050 Training and Certification IALA.
+Standard S1070 Information Services [9] ISO.
+(2021) 21500:2021 Guidance on Project Management [10] IALA, Guideline G1101 Auditing and Assessing a VTS IALA.
+Guideline G1124 The Use of Ports and Waterways Safety Assessment (PAWSA) MKII Tool [12] IALA.
+Guideline G1123 The Use of IALA Waterway Risk Assessment Programme (IWRAP MKII) IALA.
+Guideline G1138 The Use of the Simplified IALA Risk Assessment Method (SIRA) IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 13 ANNEX A CONSIDERATIONS WHEN INITIATING AND PLANNING A VTS The IALA risk management toolbox provides a detailed methodology for identifying and assessing relevant issues and problems.
+Considerations when initiating and planning a VTS, and using the toolbox, may include: A.1. TRAFFIC DATA Information should be obtained on: traffic safety records; the complexity of traffic patterns; ship traffic densities, including traffic trends; any interference by vessel traffic with other marine-based activities; information on recent traffic surveys and evaluation of these surveys; 
+• breakdown of all vessel traffic in terms of type and size of ships and categories of cargo carried, especially ships with hazardous and polluting cargoes; efficiency of maritime traffic flow; delays, causes and costs; congestion including location; and
+<doc_end>

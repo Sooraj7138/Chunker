@@ -1,0 +1,18 @@
+<doc_start>
+6.3.
+In addition to the messages in ITU and IMO documents, competent authorities have developed their own regional messages for use in addressing specific requirements they have identified.
+In some cases, different authorities have developed separate messages to address similar requirements.
+This has led to a lack of communication compatibility where ship board equipment may be required to be able to decode/encode several different ASMs in order to receive/send the same information (e.g., met/hydro information).
+6.3.
+This Guideline addresses actions that are intended to aid harmonization, including the establishment and use of the IALA AIS ASM collection.
+The intended use of the collection is to promote harmonization through:
+
+6.3.
+a catalogue of messages for entities to consider for use to meet identified requirements; and
+
+6.3.
+providing manufacturers with a reference for messages they may implement in their equipment.
+6.3.
+While portrayal is outside the scope of this guideline, IMO has also issued SN.1/Circ.
+290 Guidance for the Presentation and Display of AIS Application-Specific Messages Information.
+<doc_end>

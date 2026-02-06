@@ -1,0 +1,32 @@
+<doc_start>
+2.3. ALERTS AND INDICATORS
+The use of different levels of alerts could increase the situational awareness for VTS operators.
+In accordance with IALA Recommendation R0125, The Use and Presentation of Symbology at a VTS Centre [4], it is recommended that the terminology used for alerts (alarm, warning and caution) reflects the maritime standards contained in IMO Resolution A.1021(26) Code on alerts and indicators [2] unless particular local circumstances require otherwise.
+2.3. ALERTS AND INDICATORS
+The increasing levels of alerts provided by the DST are emergency alarm, alarm, warning and caution (Figure 1).
+2.3. ALERTS AND INDICATORS
+(HD es.
+Aso2a(26) ‘Normal Developing situation Perceived high risk situation
+
+2.3. ALERTS AND INDICATORS
+Figure 1 DST increasing alerts
+
+2.3.1. EMERGENCY ALARMS
+For conditions which indicate immediate danger to human life, vessels or the environment that require the immediate initiation of emergency procedures, the DST should provide emergency alarms.
+Emergency alarm alerts may remain after acknowledgement indicating the alert situation still exists, until the alert parameters are no longer detected.
+2.3.1. EMERGENCY ALARMS
+Example of emergency alarm:
+
+2.3.1. EMERGENCY ALARMS
+“Vessel is not able to avoid shallow water.”
+
+2.3.2. ALARMS
+For conditions requiring immediate attention and immediate interaction, the DST should provide an alarm.
+Alarms are presented to make the VTS personnel aware of a situation that requires an immediate response.
+Alarm alerts may remain after acknowledgement indicating the alert situation still exists, until the alert parameters are no longer detected.
+2.3.2. ALARMS
+Example of alarm:
+
+2.3.2. ALARMS
+“Vessel approaching shallow water with minimum time and manoeuvring space to avoid shallow water.”
+<doc_end>

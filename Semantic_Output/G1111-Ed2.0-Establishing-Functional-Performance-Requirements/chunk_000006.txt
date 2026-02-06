@@ -1,0 +1,6 @@
+<doc_start>
+1. INTRODUCTION
+This Guideline presents a common source of information to assist competent authorities and VTS providers in the preparation and establishment of functional and performance requirements for VTS systems.
+Tailoring is required to capture the specific and relevant performance requirements from the generic information included within this document.
+The Guideline should not be used as a specification without such tailoring.
+<doc_end>

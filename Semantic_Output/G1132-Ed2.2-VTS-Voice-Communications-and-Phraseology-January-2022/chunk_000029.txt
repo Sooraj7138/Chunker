@@ -1,0 +1,27 @@
+<doc_start>
+5.2.6.2. Open questions
+Generally open questions deliberately seek longer answers and are the opposite of closed questions.
+Open questions usually contain terms to elicit further information.
+5.2.6.2. Open questions
+VTS
+
+5.2.6.2. Open questions
+VTS
+
+5.2.6.2. Open questions
+QUESTION.
+What is the nature of your problem?
+5.2.6.3. Funnel questions
+This questioning technique involves the use of a series of questions.
+Initially general questions are asked which increase in detail with each subsequent question.
+With funnel questioning it may be useful to start with one or more closed questions before following up with more open questions.
+5.2.6.3. Funnel questions
+VTS QUESTION.
+Do you see the Princes Inner Buoy?
+VTS QUESTION.
+Is the buoy lit?
+VTS QUESTION.
+Is the buoy in the correct position?
+VTS QUESTION.
+Describe the damage?
+<doc_end>

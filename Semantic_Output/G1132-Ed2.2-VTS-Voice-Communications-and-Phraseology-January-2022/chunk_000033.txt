@@ -1,0 +1,7 @@
+<doc_start>
+SHOULD
+Do not say: “You could be running into danger”.
+SHOULD
+Say: “WARNING.
+You are running into danger”.
+<doc_end>

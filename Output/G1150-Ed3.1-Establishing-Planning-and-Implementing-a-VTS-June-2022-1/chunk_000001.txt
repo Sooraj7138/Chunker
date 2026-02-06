@@ -1,0 +1,27 @@
+<doc_start>
+and implementing vessel traffic services in accordance with regulation V/12 of the Convention”.
+
+3. OVERVIEW Key practices associated with establishing, planning, and implementing a VTS include those shown in Table 1: Table 1 Key practices associated with a VTS Activity Applied via Purpose Establishing Regulatory Framework To establish a national legislative framework that gives effect to regulation V/12 of the Convention.
+Planning Needs Assessment Comprehensive information gathering and analysis process to determine the need for a VTS, the feasibility of operating a VTS and the design necessary to achieve the needs identified Processes including: Implementing Implementation Plan 
+• Project Management 
+• Procurement 
+• Conformance with IMO Resolution A.1158(32) and IALA Standards 
+• Authorization IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 4 
+4. ESTABLISHING Governments undertake to arrange for the establishment of a VTS by promulgating laws and regulations and for taking all other steps which may be necessary to give full and complete effect to the SOLAS regulation V/12 to ensure safety of life at sea and protection of the marine environment.
+Where competent authorities have arranged for the establishment of a VTS in national law as described below and are proceeding with the planning and implementation of a VTS they should move to Section 5 (Planning and Implementing).
+SOLAS Establishment of VTS Principles and general provisions for the operation of a VTS Refers to IALA VTS Documents Framework for harmonising IALA standards VTS technologies and services worldwide Recommendations / Guidelines / Model courses Figure 1 Graphical representation of legal, regulation and guidance hierarchy associated with establishing a VTS.
+The international framework for establishing a VTS includes: International Convention for the Safety of Life at Sea (SOLAS) 1974; IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services; IALA Standards; and 
+4. National law.
+In addition to the VTS specific components listed above, the United Nations Convention on the Law of the Sea (UNCLOS) [5] lays down a comprehensive regime of law and order in the world’s oceans and seas.
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA (SOLAS) SOLAS regulation V/12 recognizes a VTS internationally as a navigational safety measure.
+In particular, it provides for VTS and states that: “Vessel Traffic Services (VTS) contribute to safety of life at sea, safety and efficiency of navigation and protection of the marine environment, adjacent shore areas, work sites and offshore installations from possible adverse effects of maritime traffic.” SOLAS also states that: “Governments may establish VTS when, in their opinion, the volume of traffic or the degree of risk justifies such services.” and that: “Governments planning and implementing VTS shall, wherever possible, follow the guidelines developed by the IMO.” IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 5 Under the general provisions of treaty law and of IMO conventions, States are responsible for promulgating laws and regulations and for taking all other steps which may be necessary to give those instruments full and complete effect so as to ensure safety of life at sea and protection of the marine environment.
+IMO RESOLUTION A.1158(32) GUIDELINES FOR VESSEL TRAFFIC SERVICES Resolutions are documents that IMO or its main bodies have adopted, and which IMO Member States are encouraged to accept and implement into their national legislation.
+The IMO Assembly adopted Resolution A.1158(32) Guidelines for Vessel Traffic Services recognizing that: 
+• the level of safety and efficiency in the movement of maritime traffic within an area covered by a vessel traffic service is dependent upon close cooperation between those operating the vessel traffic service and participating ships; and 
+• the use of differing procedures may cause confusion to ship masters, and that vessel traffic services should be established and operated in a harmonized manner and in accordance with internationally approved guidelines.
+The Resolution describes the regulatory and legal framework for Contracting Governments to take into account “when planning, implementing and operating vessel traffic services (VTS) under national law”.
+In particular, it describes the responsibilities for: Contracting Governments to: “establish a legal basis for VTS that gives effect to regulation V/12 of the Convention; and appoint and authorize a competent authority for VTS.” Competent authorities to: 
+• “establish a regulatory framework for establishing and operating VTS in accordance with relevant international conventions and IMO instruments, IALA standards and national law; authorize a VTS provider to operate a VTS within a delineated VTS area; ensure that VTS training is approved and VTS personnel are certified; and 
+• establish a compliance and enforcement framework with respect to violations of VTS regulatory requirements.” 4.3. IALA STANDARDS To achieve world-wide harmonization and improvement of VTS, IALA has developed a document structure to be used in order to develop and publish documents specifically related to the development, implementation, and operation of VTS.
+The principal components to the IALA document structure
+<doc_end>

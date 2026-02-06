@@ -1,0 +1,45 @@
+<doc_start>
+3.4.3. FUNCTIONS
+VTS functions can be subdivided into internal and external functions.
+Internal functions are the preparatory activities that have to be performed to enable a VTS to operate.
+These include data collection, data evaluation and decision-making.
+External functions are activities executed with the purpose of influencing traffic.
+They relate to the primary traffic management functions of rule-making, allocation of space, control of ships and ship manoeuvres to avoid collisions, as well as to other management functions such as enforcement, remedial and ancillary activities.
+3.4.3. FUNCTIONS
+Amongst the most important functions that a VTS may carry out are those related to, contributing to and thereby
+
+3.4.3. FUNCTIONS
+enhancing and supporting:
+
+3.4.3. FUNCTIONS
+
+• Safety of life at sea
+
+3.4.3. FUNCTIONS
+
+• Safety of navigation
+
+3.4.3. FUNCTIONS
+
+• Eficiency of vessel traffic movement
+
+3.4.3. FUNCTIONS
+
+• Protection of the marine environment
+
+3.4.3. FUNCTIONS
+
+• Maritime security
+
+3.4.3. FUNCTIONS
+
+• Search and rescue
+
+3.4.3. FUNCTIONS
+
+• Law enforcement
+
+3.4.3. FUNCTIONS
+
+• Protection of adjacent communities and infrastructure
+<doc_end>

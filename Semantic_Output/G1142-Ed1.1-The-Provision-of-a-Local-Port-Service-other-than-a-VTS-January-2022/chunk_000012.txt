@@ -1,0 +1,61 @@
+<doc_start>
+8. REFERENCES
+IMO.
+International Convention for the Safety of Life At Sea, 1974 as amended
+
+
+8. REFERENCES
+IMO.
+Resolution A.572(14) General Provisions on Ships’ Routeing
+
+
+8. REFERENCES
+IMO.
+Resolution A.851(20) General Principles for Ship Reporting Systems and Ship Reporting Requirements
+
+
+8. REFERENCES
+IMO.
+Resolution MSC.433(98) Guideline and Criteria for Ship Reporting Systems
+
+
+8. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+8. REFERENCES
+IALA.
+Recommendation R0119 (V-119) Establishment of VTS
+
+
+8. REFERENCES
+IALA.
+Standard S1040 Vessel Traffic Services
+
+
+8. REFERENCES
+won
+
+
+8. REFERENCES
+IALA.
+Guideline G1150 Establishing, Planning and Implementing VTS
+
+
+8. REFERENCES
+IALA.
+Guideline G1083 Standard Nomenclature to Identify and Refer to VTS Centres
+
+
+8. REFERENCES
+IALA Guideline G1142 The Provision of a Local Port Service other than a VTS Edition 1.1 urn:mrn:iala:pub:g1142:ed1.1
+
+
+8. REFERENCES
+e
+
+
+8. REFERENCES
+P 8
+<doc_end>

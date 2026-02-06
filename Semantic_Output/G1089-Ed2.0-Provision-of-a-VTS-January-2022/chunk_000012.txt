@@ -1,0 +1,78 @@
+<doc_start>
+4.1. TIMELY AND RELEVANT INFORMATION
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+
+4.1. TIMELY AND RELEVANT INFORMATION
+
+4.1. TIMELY AND RELEVANT INFORMATION
+P 6
+
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• Data exchange and automated reporting as appropriate and where these are available.
+4.1.2. EXAMPLES OF TIMELY AND RELEVANT INFORMATION
+Examples of timely and relevant information include those shown in Table 1:
+
+4.1.2. EXAMPLES OF TIMELY AND RELEVANT INFORMATION
+Table 1 Examples of timely and relevant information
+
+4.1.2. EXAMPLES OF TIMELY AND RELEVANT INFORMATION
+Information related to: Examples: 
+• Position, identity, destination of ships and the intention of other traffic.
+
+• Amendments and changes in promulgated information concerning Navigational situations (including traffic and route information) 
+• 
+• the VTS area such as boundaries, procedures, radio frequencies, reporting points.
+The mandatory reporting of movements.
+Limited manoeuvrability that may impose restrictions on the navigation of other ships, or any other potential hindrances.
+
+• Suspension or change of routes.
+
+• Uncharted obstacles such as dangerous wrecks.
+Navigational warnings 
+• Diving operations.
+
+• Ships not under command.
+
+• Wind speed and direction.
+
+• Direction and height of the wave.
+Meteorology 
+• Visibility.
+
+• Atmospheric pressure.
+
+• Formation of ice.
+
+• Gale.
+
+• Storm.
+Meteorological warnings 
+• Tsunami.
+
+• Restricted visibility.
+
+• Stability of the seabed.
+Hydrography 
+• 
+• The accuracy of surveys.
+Tidal height.
+
+• Tidal streams.
+Electronic navigational 
+• The availability of electronic navigational aids such as: GNSS, DGNSS, aids eLoran, AIS, LRIT, RACON.
+
+• Port information.
+
+• Pilot or tug request.
+
+• Cargo information.
+Other information 
+• Health condition.
+
+• Port State Control (PSC).
+
+• International Ship and Port Facility Security (ISPS).
+4.1.2. EXAMPLES OF TIMELY AND RELEVANT INFORMATION
+If a VTS is tasked with providing MSI services, guidance on this type of information is found in IMO Resolution A.706(17)a World-Wide Navigational Warning Service[8].
+<doc_end>

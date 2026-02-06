@@ -1,0 +1,21 @@
+<doc_start>
+C.7. SECURITY INCIDENT
+Procedures in the event of a security incident may be established.
+Procedures may reflect any involvement of the VTS with the PFSP (Port Facility Security Plan) as per the International Ship and Port facility Security Code (ISPS).
+C.8. PROTEST ACTION
+Procedures may be established to respond to protest action against a vessel transiting the VTS area.
+Actions may
+
+C.8. PROTEST ACTION
+include:
+
+C.8. PROTEST ACTION
+
+• Alert responsible authority.
+C.8. PROTEST ACTION
+Act on local call-out procedures, including VTS manager.
+C.8. PROTEST ACTION
+Promulgate information concerning the protest action to vessels in the VTS area.
+C.8. PROTEST ACTION
+Throughout any protest action, to ensure the safety of ships and protestors.
+<doc_end>

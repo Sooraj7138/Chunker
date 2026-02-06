@@ -1,0 +1,49 @@
+<doc_start>
+CATEGORIES OF INFORMATION
+Three different categories of navigational information, both at the present time and likely in the future, could be considered.
+While these categorizations are focused on ship-based information and not related to shore-based portrayal, the knowledge of these potential categories may be considered useful when aligning portrayals on shore with those on ship:2
+
+CATEGORIES OF INFORMATION
+1 Required by IMO – Information on systems required onboard ships mainly through SOLAS Chapter IV and SOLAS Chapter V.
+CATEGORIES OF INFORMATION
+2 Required by Flag or Port States in national waters – Additional information may be required by individual Flag or Port States due to individual conditions in those areas or regions.
+CATEGORIES OF INFORMATION
+' e-Navigation: A vision and its Practical Implementation', Dr.
+Andy Norris, (IALA eNAV11/11/4).
+CATEGORIES OF INFORMATION
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+CATEGORIES OF INFORMATION
+7)
+
+CATEGORIES OF INFORMATION
+P 7
+
+CATEGORIES OF INFORMATION
+3 Innovative or future applications – New innovations and systems in development, for example during test bed execution, may provide additional information not mandated but useful for the development of IALA related navigation applications.
+5.1. SIX BASIC WAYS
+There are six (6) basic ways to visually portray any type of IALA related navigation information.
+5.1. SIX BASIC WAYS
+1 Alpha-numeric
+
+5.1. SIX BASIC WAYS
+Du wWwNnN
+
+5.1. SIX BASIC WAYS
+2 Graphical
+
+5.1. SIX BASIC WAYS
+Point, line or polygon
+
+5.1. SIX BASIC WAYS
+4 Symbol
+
+5.1. SIX BASIC WAYS
+5 Geo-spatial
+
+5.1. SIX BASIC WAYS
+6 Imagery
+
+5.1. SIX BASIC WAYS
+The following sections provide basic guidance with an example for each.
+<doc_end>

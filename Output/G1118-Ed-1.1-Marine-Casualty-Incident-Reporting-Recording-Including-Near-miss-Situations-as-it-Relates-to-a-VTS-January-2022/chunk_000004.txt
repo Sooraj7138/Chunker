@@ -1,0 +1,27 @@
+<doc_start>
+a safety culture in the maritime sector.
+IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 9 3 Casualty reports together with relevant recorded VTS information can be used by Marine Safety Investigation Authority for further investigation (according to MSC.255(84) Casualty Investigation Code).
+Operational/law enforcement authorities may be interested in receiving information regarding marine incidents/casualties in their area of responsibility as soon as possible.
+Incident reports can serve as a source of experience for all stakeholders (VTS personnel, pilots, shipping companies, etc.) and contribute to safety culture.
+VTS providers and stakeholders can take into consideration the positive learning from casualty, incident and near- miss reports.
+These reports provide opportunities to how the VTS may further improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment and/or the adjacent shore area, worksites and offshore installations from possible adverse effects.
+
+6. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+7. ABBREVIATIONS Circ.
+Circular (IMO) CPA Closest Point of Approach EMSA European Maritime Safety Agency EU European Union HFACS Human Factors Accident Classification System ICAO International Civil Aviation Organization IMO International Maritime Organization ISO International Standardization Organization kt knot(s) LOA Length overall LOSA Line Operation Safety Audit metre m m/s metres per second MEPC Marine Environment Protection Committee (IMO) MRCC Maritime Rescue Co-ordination Centre MSC Maritime Safety Committee (IMO) N Normal situation PMoU Paris Memorandum of Understanding POB Persons on board PSC Port State Control QMS Quality management system R Real situation Res.
+Resolution (IMO) IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 10 SMS Safety management system TCPA Time to Closest Point of Approach VHF Very high frequency (30 MHz to 300 MHz) Vessel traffic service or vessel traffic services (dependent on context) VTS 
+8. REFERENCES IMO.
+MSC Res.255 (84) Casualty Investigation Code IMO.
+MSC-MEPC.7/Circ.7 Guidance on near-miss reporting [3] ICAO Safety management manual IALA.
+Guideline G1141 Operational Procedures for Delivering VTS IALA.
+Guideline 1111 Preparation of Operational and Technical Performance Requirements for VTS Systems [5] [6] EU Directive 2002/59/EC [7] EU Directive 2009/18/EC ISO.
+(2015) ISO 9001:2015 Quality Management System IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 11 3 C63-11.3.2.1 C63-11.3.2.1 MODELS AND FLOWCHARTS FOR MONITORING, RECORDING AND UNDERSTANDING DEVELOPING SITUATIONS Determination of criteria of “Normal Situation” Monitoring and Assessment of the REAL Situation REAL Situation Assessment Situation is under defined criteria R Situation is abnormal Recording of Incident /Near - VTS Actions Miss to improve situation Has Situation YES improved ?
+NO Monitoring & Remedial Actions until final resolution of the situation Recording (Logging ) of Result (Incident /Near - Miss Accident ) Analyzing Reporting Reporting Flowchart for monitoring, recording and understanding developing situations IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 12 (=N) Vv a (=R) <N_ ¥ Y ee Vv v — @ C63-11.3.2.1 C63-11.3.2.1 EXAMPLE OF CASUALTY/INCIDENT/NEAR-MISS VTS REPORT FORMAT Table 1 Example of casualty/incident/near-miss VTS report Date Time (UTC) VTS Area Position (lat.
+– long.) Type of incident Vessel information Grounding Name Collision Callsign Fire on board IMO No.
+Not under command LOA Near miss Beam Approach of shallow water Flag Violation of reporting requirements Type TSS violation Draught Violation of pilotage regulations Port of departure Ship dimensions exceeding fairway limits Next port of call Anchor dragging Port of destination Pollution Cargo No.
+of POB Other (specify) Pilot on board (Y/N) Weather information Wind direction (degrees) Wind speed (m/s) Direction of current (degrees) Speed of current (kt) Met.
+Stn.
+(by geographical Visibility (m) Water level (cm) Wave height (m) name) Incident information Description of incident Actions taken by VTS Name of VTS Operator/Supervisor VTS Centre Telephone IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 13
+<doc_end>

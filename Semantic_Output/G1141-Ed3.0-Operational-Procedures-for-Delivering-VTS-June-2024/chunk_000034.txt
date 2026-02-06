@@ -1,0 +1,29 @@
+<doc_start>
+9. REFERENCES
+P 17
+
+
+9. REFERENCES
+IALA.
+Recommendation R0127 (V-127) VTS Operations
+
+
+9. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+9. REFERENCES
+IALA.
+Guideline G1141 Operational Procedures for Vessel Traffic Services
+
+
+9. REFERENCES
+IALA.
+Standard S1040 Vessel Traffic Services
+
+
+9. REFERENCES
+IALA.
+Recommendation R0132 Quality Management for Aids to Navigation Authorities
+<doc_end>

@@ -1,0 +1,8 @@
+<doc_start>
+13. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+13. DEFINITIONS
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+<doc_end>

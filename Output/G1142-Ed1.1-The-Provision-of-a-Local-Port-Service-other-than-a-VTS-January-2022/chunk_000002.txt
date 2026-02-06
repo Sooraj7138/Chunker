@@ -1,0 +1,44 @@
+<doc_start>
+local port service to conform to international standards for qualifications and training such as that provide for a VTS by IALA Standards for Training and Certification of VTS Personnel and associated Recommendations.
+Capability - There is no requirement for a local port service to have the capability to: 
+• 
+• Generate a comprehensive overview of traffic in its service area combined with all traffic influencing factors.
+
+• Compile a traffic image to enable staff to evaluate situations and make decisions accordingly.
+Respond to traffic situations developing in the area and to decide upon appropriate actions.
+Employ suitably qualified and trained staff to international standards.
+
+4. PRINCIPLES FOR OPERATING A LOCAL PORT SERVICE To assist entities operate a local port service in a globally harmonized manner, the following principles are recommended as international best practice: 
+1. Identifier 
+2. Voice Communications 
+3. Promulgation 
+4. Qualifications and Training IALA Guideline G1142 The Provision of a Local Port Service other than a VTS Edition 1.1 urn:mrn:iala:pub:g1142:ed1.1 e P 6 4.1. IDENTIFIER To avoid confusion to the mariner, the IALA Guideline G1083 Standard Nomenclature to Identify and Refer to VTS Centres [9] states that any service that is not authorized as a VTS should not use the term “VTS” in its name identifier.
+For global harmonization, the title “Local Port Service” is strongly recommended, although it is recognized that alternative titles may be more appropriate under certain circumstances.
+It is therefore recommended that a local port service clearly distinguishes that it is not a VTS in communications with masters and stakeholders through adoption of a similar format using a “name identifier” and an associated “location” suffix or prefix to identify a local port service for example “Port Z LPS”.
+4.2. VOICE COMMUNICATIONS The following principles for voice communications are recommended when operating a local port service: 
+• Staff using radio communications equipment should be licenced and trained appropriately, for example, with a national radio operator’s certificate.
+
+• Communications should be in the form of concise factual information and staff should be aware of their authorization powers.
+4.3. PROMULGATION The details of any local service provided by an entity should be clearly described and promulgated in the appropriate navigational publications.
+4.4. QUALIFICATIONS AND TRAINING While there are no international standards relating to the qualifications and training for the provision of a local port service it is recommended that training should give due consideration to: 
+• The equipment in use 
+• Operational procedures The level of operator competence required The complexity of the information required to be exchanged For global consistency, it is suggested that training be based on the selection of appropriate and relevant modules (or elements within modules) from the C0103-1 (V-103/1) syllabus.
+Particular emphasis should be given to ensuring staff clearly understand the limitations of the local service being provided to ensure that the service delivered will not be mistaken for that of an authorized VTS.
+
+5. OTHER CONSIDERATIONS An entity operating a local port service should give due consideration to the legal framework they operate under and possible implications that may arise as a result of the provision of information to individual vessels in the event of a shipping incident where staff may have failed to carry out their duty competently.
+IALA Guideline G1142 The Provision of a Local Port Service other than a VTS Edition 1.1 urn:mrn:iala:pub:g1142:ed1.1 7) P 7 
+6. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+7. ABBREVIATIONS VTS A vessel traffic service or vessel traffic services (dependent on context) 
+8. REFERENCES IMO.
+International Convention for the Safety of Life At Sea, 1974 as amended IMO.
+Resolution A.572(14) General Provisions on Ships’ Routeing IMO.
+Resolution A.851(20) General Principles for Ship Reporting Systems and Ship Reporting Requirements IMO.
+Resolution MSC.433(98) Guideline and Criteria for Ship Reporting Systems IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IALA.
+Recommendation R0119 (V-119) Establishment of VTS IALA.
+Standard S1040 Vessel Traffic Services won IALA.
+Guideline G1150 Establishing, Planning and Implementing VTS IALA.
+Guideline G1083 Standard Nomenclature to Identify and Refer to VTS Centres IALA Guideline G1142 The Provision of a Local Port Service other than a VTS Edition 1.1 urn:mrn:iala:pub:g1142:ed1.1 e P 8
+<doc_end>

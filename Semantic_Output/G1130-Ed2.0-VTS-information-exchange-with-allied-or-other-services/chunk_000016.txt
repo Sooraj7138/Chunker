@@ -1,0 +1,29 @@
+<doc_start>
+6. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+6. ABBREVIATIONS
+EOS Electro-Optical System
+
+
+6. ABBREVIATIONS
+GI Geospatial Information Registry (IHO)
+
+
+6. ABBREVIATIONS
+IHO International Hydrographic Organization
+
+
+6. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+6. ABBREVIATIONS
+SOLAS International Convention for the Safety of Life at Sea (1974, as amended)
+
+
+6. ABBREVIATIONS
+S-100 IHO universal hydrographic data model (i.e.
+the product framework governing the Geospatial Information Registry)
+<doc_end>

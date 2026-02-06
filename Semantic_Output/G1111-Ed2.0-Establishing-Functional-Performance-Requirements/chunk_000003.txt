@@ -1,0 +1,95 @@
+<doc_start>
+urn:mrn:iala:pub:g1111:ed2.0
+10, rue des Gaudines – 78100 Saint Germaine en Laye, France Tél.
++33(0)1 34 51 70 01– contact@iala-aism.org www.iala-aism.org International Association of Marine Aids to Navigation and Lighthouse Authorities Association Internationale de Signalisation Maritime
+
+urn:mrn:iala:pub:g1111:ed2.0
+DOCUMENT REVISION
+
+urn:mrn:iala:pub:g1111:ed2.0
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Date Details First issue (edition 1.0) of Guideline 1111 on “Preparation of Operational and Technical Performance Requirements for VTS systems”.
+May 2015 Originated from IALA Recommendation V-128, edition 
+3. Annex from former Recommendation changed to Guideline and revised to include additional considerations, new technologies and emerging technologies.
+Additionally, consistency has been improved and duplications were removed.
+January 2022 Edition 1.1 - Editorial corrections published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Edition 2.0 - Due to the comprehensive content of G1111 (115 pages), the December 2022 document was split into one guideline and nine sub-guidelines and reviewed to describe the establishment of the functional requirements better.
+Title changed to “Establishing Functional and Performance Requirements for VTS Systems and Equipment” Approval Council 60 Council 74 Council 76
+
+urn:mrn:iala:pub:g1111:ed2.0
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+urn:mrn:iala:pub:g1111:ed2.0
+
+urn:mrn:iala:pub:g1111:ed2.0
+P 2
+
+urn:mrn:iala:pub:g1111:ed2.0
+CONTENTS
+
+urn:mrn:iala:pub:g1111:ed2.0
+INTRODUCTION ...................................................................................................................................
+4 Purpose ....................................................................................................................................................
+4 G1111 guideline series .............................................................................................................................
+4 
+2. ESTABLISHING THE FUNCTIONAL AND PERFORMANCE REQUIREMENTS FOR A VTS SYSTEM AND EQUIPMENT .........................................................................................................................................
+4 Project planning .......................................................................................................................................
+5 2.1.1. Project management steps ................................................................................................................................................
+5 Security requirements .............................................................................................................................
+6 Operational requirements .......................................................................................................................
+7 Deriving functional and performance requirements ...............................................................................
+7 IMPLEMENTATION CONSIDERATIONS ..................................................................................................
+8 Availability and reliability.........................................................................................................................
+9 Recording, archiving and replay ............................................................................................................
+10 Other considerations .............................................................................................................................
+10 3.3.1. Environmental considerations .........................................................................................................................................
+10 3.3.2. Equipment shelters ..........................................................................................................................................................
+10 3.3.3. Lightning protection ........................................................................................................................................................
+10 3.3.4. Site and equipment access ..............................................................................................................................................
+11 3.3.5. Electrical power ...............................................................................................................................................................
+11 3.3.6. Safety and security precautions ......................................................................................................................................
+11 3.3.7. Equipment preservation and monitoring ........................................................................................................................
+11 3.3.8. Marking and identification ..............................................................................................................................................
+12 3.3.9. Documentation ................................................................................................................................................................
+12 3.3.10. Equipment standards and approvals ...............................................................................................................................
+12 
+4. DEFINITIONS ......................................................................................................................................
+12 
+5. ABBREVIATIONS ................................................................................................................................
+13 
+6. REFERENCES ......................................................................................................................................
+17
+
+urn:mrn:iala:pub:g1111:ed2.0
+1.
+
+urn:mrn:iala:pub:g1111:ed2.0
+1.1.
+
+urn:mrn:iala:pub:g1111:ed2.0
+1.2.
+
+urn:mrn:iala:pub:g1111:ed2.0
+2.1.
+
+urn:mrn:iala:pub:g1111:ed2.0
+2.2.
+
+urn:mrn:iala:pub:g1111:ed2.0
+2.3.
+
+urn:mrn:iala:pub:g1111:ed2.0
+2.4.
+
+urn:mrn:iala:pub:g1111:ed2.0
+3.
+
+urn:mrn:iala:pub:g1111:ed2.0
+3.1.
+
+urn:mrn:iala:pub:g1111:ed2.0
+3.2.
+
+urn:mrn:iala:pub:g1111:ed2.0
+3.3.
+<doc_end>

@@ -1,0 +1,58 @@
+<doc_start>
+3.4. AVAILABILITY AND DATA INTEGRITY
+3.4.1. AVAILABILITY OF EQUIPMENT AND SERVICES
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+Careful consideration should be given to the required availability as part of the agreement between VTS and allied or other services.
+A trade-off should be made between availability and cost.
+High levels of availability require more complex system architectures and correspondingly higher costs.
+3.4. AVAILABILITY AND DATA INTEGRITY
+A simple means of improving availability is by having spare parts readily available (which reduces the repair time).
+More complex solutions use redundant hardware and/or services.
+3.4. AVAILABILITY AND DATA INTEGRITY
+3.4.2. AVAILABILITY OF DATA
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+Consideration should be given to proper backup of data.
+This means that data can be restored in case it gets
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+corrupted or deleted:
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+
+• Backup frequency (incremental/full)
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+
+• Backup media (disk/tape/cloud/paper punch)
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+
+• Retention of backup copies
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+Time needed to restore data from backup
+
+3.4. AVAILABILITY AND DATA INTEGRITY
+Safekeeping of backup copies (protection, geographic diversity)
+
+3.4.3. DATA INTEGRITY
+Data integrity is a key concern for both users and providers of data.
+This means that, in general,
+
+3.4.3. DATA INTEGRITY
+data should be traceable to its origin;
+
+3.4.3. DATA INTEGRITY
+data corruption/alteration should be detectable;
+
+3.4.3. DATA INTEGRITY
+data should be properly time-stamped and should, preferably, have a quality attribute; and
+
+3.4.3. DATA INTEGRITY
+
+• data providers should have procedures in place to ensure the proper functioning of the data capture/generation process.
+3.4.3. DATA INTEGRITY
+Data that is not available or is detected as invalid should be represented as such.
+<doc_end>

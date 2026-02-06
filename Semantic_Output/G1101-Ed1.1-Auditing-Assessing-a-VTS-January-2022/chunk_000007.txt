@@ -1,0 +1,52 @@
+<doc_start>
+7. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS
+AIS Universal Shipborne Automatic Identification System
+
+
+8. ABBREVIATIONS
+CCTV Closed-circuit television
+
+
+8. ABBREVIATIONS
+IALAACS IALA approved classification society
+
+
+8. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+8. ABBREVIATIONS
+QMS Quality management system
+
+
+8. ABBREVIATIONS
+SMS Safety management system
+
+
+8. ABBREVIATIONS
+SOLAS International Convention on the Safety of Life at Sea 74 (as amended)
+
+
+8. ABBREVIATIONS
+VTS
+
+
+8. ABBREVIATIONS
+Vessel traffic service or vessel traffic services (dependent on context)
+
+
+8. ABBREVIATIONS
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+
+8. ABBREVIATIONS
+®
+
+
+8. ABBREVIATIONS
+P 7
+<doc_end>

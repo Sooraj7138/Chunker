@@ -1,0 +1,4 @@
+<doc_start>
+7. ABBREVIATIONS
+VTS A vessel traffic service or vessel traffic services (dependent on context)
+<doc_end>

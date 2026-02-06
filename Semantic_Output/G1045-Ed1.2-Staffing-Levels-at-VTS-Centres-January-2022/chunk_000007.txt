@@ -1,0 +1,126 @@
+<doc_start>
+2.5. PROVISION OF A VTS
+Many variable factors relating to the provision of a VTS can influence the workload, for example:
+
+2.5. PROVISION OF A VTS
+Peak and lull periods in vessel traffic
+
+2.5. PROVISION OF A VTS
+Extreme weather and emergency situations
+
+2.5. PROVISION OF A VTS
+The size of the VTS Area, number of sectors
+
+2.5. PROVISION OF A VTS
+Type of traffic, traffic density and monitoring of the VTS traffic image
+
+2.5. PROVISION OF A VTS
+The frequency with which the VTS has to respond to developing unsafe situations
+
+2.5. PROVISION OF A VTS
+
+• The resolution and accuracy of the VTS equipment and the reliability of the VTS information being processed
+
+2.5. PROVISION OF A VTS
+
+• Requirements for the forward planning of movements
+
+2.5. PROVISION OF A VTS
+Enforcing adherence to governing rules and regulations
+
+2.5. PROVISION OF A VTS
+Issuing traffic clearances in respect of the priority of movements
+
+2.5. PROVISION OF A VTS
+Establishing routes to be followed
+
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+2.6.
+
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+The workload of VTS personnel is likely to be influenced significantly by the degree to which a VTS is required to co- operate with Allied Services, Port Operations, Emergency and Security services and adjacent VTS.
+Such activities can support the functions of the VTS, and therefore, increase safety and efficiency.
+To ensure that VTS personnel are not distracted from the primary responsibilities, it may be necessary to carry out a careful analysis of the workload associated with supporting Allied Services.
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+Co-operation with Allied Services reflects both safety and efficiency.
+It should be a continuous process and is of particular importance in cases where a passage plan is to be established, and action agreement between services is required.
+Procedures for the co-operation between parties should be established.
+The co-operation with port operations relates primarily to efficiency but may be an important factor in establishing a passage plan.
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+Co-operation with adjacent VTS can be of particular interest where two such services share a common area/region border.
+In these instances, the VTS may need to coordinate jointly with the master of a ship when the passage plan is being agreed.
+In other cases, it should be recognized that the exchange of data between VTS could give advance notice of arrivals, thus relieving the vessels the burden of reporting.
+It could also provide an administration with valuable information on future traffic and cargo flow in its intermediate sea area.
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+Co-operation with other services such as Search and Rescue, Emergency, Security and Pollution Control should be conducted in accordance with pre-established contingency plans which clearly state responsibilities and procedures for such co-operation.
+INTERACTION WITH ALLIED SERVICES AND ADJACENT VTS
+VTS providers should take into consideration that the main responsibility of VTS personnel should be, at all times, to interact with the traffic and respond to traffic situations developing in the VTS area.
+Appropriate staffing to cope with overlapping tasks should always be provided.
+2.7. TECHNOLOGY AND EQUIPMENT
+VTS providers should be aware of the fact that technical equipment may have either a positive or negative effect on workload.
+It should be noted that the complexity and sophistication of the software and hardware of the systems
+
+2.7. TECHNOLOGY AND EQUIPMENT
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2
+
+2.7. TECHNOLOGY AND EQUIPMENT
+e
+
+2.7. TECHNOLOGY AND EQUIPMENT
+P 7
+
+2.7. TECHNOLOGY AND EQUIPMENT
+used in the VTS Centre may require high levels of attention and concentration by VTS personnel, especially when new systems are installed.
+2.7. TECHNOLOGY AND EQUIPMENT
+When drawing up the specification for VTS equipment4, careful consideration should be given to ensure that the equipment is capable of maintaining a high level of reliability and flexible in order to keep up with technological advances.
+If this is not considered, the system will become less effective and thereby increase the workload of the user.
+The experience of VTS personnel in operating VTS equipment is useful when drawing up new specifications.
+When new or updated equipment is introduced, training for VTS personnel should always be considered.
+The need and degree of equipment redundancy necessary for specific VTS functions offered should be assessed.
+2.7. TECHNOLOGY AND EQUIPMENT
+Decision support tools (DST) may be used in VTS centres to enhance situational awareness.
+These tools can assist VTS personnel in decision making activities at operational, tactical and strategic levels.
+Interaction between VTS personnel and the equipment is through a human/machine Interface (HMI).
+The goal of the HMI is effective operation and control of the machine on the user’s end with feedback from the machine, to aid VTS personnel in making operational decisions5. There are elements of equipment or system design in VTS Centres that can significantly change the workload on the VTS personnel, for example:
+
+2.7. TECHNOLOGY AND EQUIPMENT
+
+• Presentation of information
+
+2.7. TECHNOLOGY AND EQUIPMENT
+Ergonomic design of interfaces and workstations
+
+2.7. TECHNOLOGY AND EQUIPMENT
+
+• Reliable voice communications
+
+2.7. TECHNOLOGY AND EQUIPMENT
+
+• Visual and audible indications
+
+2.7. TECHNOLOGY AND EQUIPMENT
+
+• Recording of voice and data
+
+2.7. TECHNOLOGY AND EQUIPMENT
+Implications of technology developments may also have an impact on staffing levels.
+These new technologies may increase or reduce the need for VTS personnel.
+2.8. COMMUNICATIONS
+Communications between ship and shore are an essential component of a VTS.
+Each type of communication handled by VTS personnel demands interpretation and action, generating workload.
+The VTS provider should consider the most effective method for composing and transmitting information.
+2.8.1. RADIO
+Effective radio communications directly contribute to navigational safety and efficiency; conversely, ineffective communication and misunderstandings may contribute to near misses and accidents.
+Effective communication is therefore, an essential part of the duties of VTS personnel6.
+
+2.8.1. RADIO
+A reduction in radio generated workload can be achieved by the introduction of written procedures based on IALA documentation.
+Radio communications should be conducted in a manner that is clear, concise and procedurally correct.
+Standardized communication significantly contributes to communication in different languages and aids time management.
+Standard Marine Communications Phrases (SMCP) - IMO Resolution A.918(22) [5] – includes message markers which should be used in standard communication practice.
+The use of phrases in IALA guidance and SMCP will often reduce workload for VTS personnel and participating vessels.
+2.8.1. RADIO
+Radio generated workload can be affected by the use of an alternative means of exchanging information between ship and shore, such as VHF/DSC and AIS.
+Text based radio messages are often easier to understand and can reduce communication difficulties caused by spoken English.
+However, text messages can be more time consuming to
+<doc_end>

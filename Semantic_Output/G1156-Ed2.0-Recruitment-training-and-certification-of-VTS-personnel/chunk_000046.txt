@@ -1,0 +1,22 @@
+<doc_start>
+ANNEX A TRAINING NEEDS ANALYSIS
+A Training Needs Analysis identifies and evaluates gaps between the current skills, knowledge, and competencies of individuals, and those required as a VTS operator.
+Its purpose is to pinpoint specific areas where training is needed to improve performance, align VTS personnel capabilities with VTS requirements, and ensure efficient, targeted training programs.
+This process helps to direct training efforts where they will have the greatest impact on individual or the organization.
+ANNEX A TRAINING NEEDS ANALYSIS
+Where performance issues are identified, then it is important to determine if they are due to gaps in knowledge, skills, or attitude, as training is just one of several solutions which may be available to address performance problems.
+Depending on the outcomes from the gap analysis, training programs can be tailored to focus on developing specific competencies or enhancing skills that require more attention while minimising time spent on those already mastered.
+ANNEX A TRAINING NEEDS ANALYSIS
+These are the key steps when conducting a training needs analysis for an individual is:
+
+ANNEX A TRAINING NEEDS ANALYSIS
+Determine objectives and skill set
+
+ANNEX A TRAINING NEEDS ANALYSIS
+
+• Identify the specific competencies, knowledge, and skills needed for a VTS personnel to perform their role effectively.
+ANNEX A TRAINING NEEDS ANALYSIS
+
+• Set clear and measurable training objectives based on the identified gaps.
+These objectives define what the individual should achieve after completing the training.
+<doc_end>

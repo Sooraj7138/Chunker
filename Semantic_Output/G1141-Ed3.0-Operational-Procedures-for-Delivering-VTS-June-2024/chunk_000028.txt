@@ -1,0 +1,10 @@
+<doc_start>
+5.2.6. SECURITY INCIDENT
+In the event of a security incident, processes and procedures should be established.
+Procedures should reflect any involvement of the VTS with the Port Facility Security Plan (PFSP) as per the International Ship and Port facility Security Code (ISPS)[7].
+5.2.6. SECURITY INCIDENT
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+5.2.6. SECURITY INCIDENT
+P 16
+<doc_end>

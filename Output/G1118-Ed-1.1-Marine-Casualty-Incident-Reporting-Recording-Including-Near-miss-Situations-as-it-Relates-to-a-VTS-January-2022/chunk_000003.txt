@@ -1,0 +1,57 @@
+<doc_start>
+be addressed to, amongst others, the following organizations in accordance with Casualty Investigation Code, regional or national rules and regulations: 
+• Competent authority 
+• Port authority 
+• VTS provider 
+• Adjacent VTS 
+• Port State Control authority (PSC) 
+• Marine Safety Investigation authority 
+• Law enforcement authority Flag State maritime authority 
+• Shipping company Class society delivering the ISM certification on behalf of the flag State 
+• Maritime Rescue Co-ordination Centre (MRCC) International Maritime Organization/Agreement (e.g., EMSA, PMoU, etc.) Pollution Monitoring and Response Centre Coastal State (Ref.
+to chapter 5 of Casualty Investigation Code) 
+• Any substantially interested States (i.e., because of the nationality of the crew, passengers, refer to chapter 5 of the Casualty Investigation Code).
+ADDRESSING NEAR-MISS REPORTS 4.2.4. Near-miss reports should be reported internally within VTS providers and/or competent authorities.
+The analysis and reporting of near-miss situations may result in corrective actions on the VTS operational procedures and additional training of VTS personnel.
+If certified under ISO 9001 [8], the certified body (i.e., VTS Centre) shall monitor, measure, analyse and improve quality management system of the VTS centre.
+The VTS provider and/or competent authorities should decide whether to report near-miss externally in compliance with established QMS/SMS and/or VTS operational procedures.
+4.3. SAFETY CULTURE Conducting investigations and gathering statistics on marine incidents and near-miss situations is a part of developing the safety culture within a VTS Centre.
+The overall performance of a VTS can be facilitated by implementing corrective actions (adapting procedures, organizing training based on these statistics, etc.).
+With respect to this, two aspects of safety culture are particularly important: a reporting culture and a just culture.
+A reporting culture actively encourages personnel to take the time to report issues, near-misses or anything that might influence the safety of the VTS.
+Encouragement can be in the form of incentives, but in order to make IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 8 3 reporting sustainable, organizations need to demonstrate that the report has been appropriately considered and responded to.
+An effective reporting system depends, crucially, upon how an organization handles blame and punishment.
+This lies at the heart of any safety culture.
+A prerequisite for a just culture is that all members of an organization should understand where the line must be drawn between unacceptable behaviour, deserving of disciplinary action, and the remainder, where punishment is neither appropriate nor helpful in furthering the cause of safety.
+It is not the objective to determine liability in VTS reports.
+The VTS provider should not refrain from fully reporting on the causal factors.
+4.4. CONTENT OF REPORTS At least the following basic information should be included in casualty/incident/near-miss VTS report: 
+• Who and what were involved (e.g., vessel data) 
+• What happened (e.g., grounding, striking, collision, close quarter situation) 
+• Where, when, and in what sequence 
+• Weather and hydrographic information VTS operator and/or VTS supervisor on duty Regardless of the nature of the casualty/incident/near-miss, the additional materials and/or VTS records may be enclosed, such as photographs, traffic image recordings, logs, etc.
+It is advisable to keep a VTS report format as simple as possible.
+See example of near-miss/incident/casualty VTS report format in annex B.
+The procedure of casualty notification is clearly defined in Chapter 5 of Res.MSC.255 (84) known as Casualty Investigation Code, including format and content of such notification.
+
+5. BENEFITS OF CASUALTY/INCIDENTS/NEAR-MISS REPORTS Benefits of marine casualty/incident/near-miss reporting are as follows: Enhancement of navigation safety in general.
+Prevention of casualties in future.
+Proactive protection of marine environment.
+
+• Further investigation.
+Emergency notification.
+Evidence (for insurance and/or other stakeholders in interest) 
+• Lessons learned and training.
+Collection of statistics to identify trends and risks.
+
+• Support of risk assessment.
+
+• Revision of VTS procedures.
+Improvement of a VTS decision support tool.
+Share a safety culture in the maritime sector.
+IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 9 3 Casualty reports together with relevant recorded VTS information can be used by Marine Safety Investigation Authority for further investigation (according to MSC.255(84) Casualty Investigation Code).
+Operational/law enforcement authorities may be interested in receiving information regarding marine incidents/casualties in their area of responsibility as soon as possible.
+Incident reports can serve as a source of experience for all stakeholders (VTS personnel, pilots, shipping companies, etc.) and contribute to safety culture.
+VTS providers and stakeholders can take into consideration the positive learning from casualty, incident and near- miss reports.
+These reports provide opportunities to how the VTS may further improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment and/or the adjacent shore area, worksites and offshore installations from possible adverse
+<doc_end>

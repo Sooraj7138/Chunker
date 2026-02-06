@@ -1,0 +1,9 @@
+<doc_start>
+5.1.8. DISTANCES
+To be expressed in nautical miles or cables (tenths of a nautical mile), the unit is always to be stated.
+5.1.9. SPEED
+To be expressed in knots (nautical mile per hour).
+5.1.9. SPEED
+‘Speed’ refers to speed through the water.
+If speed over the ground is intended, then this should be stated as ‘Speed over the Ground’ (SOG).
+<doc_end>

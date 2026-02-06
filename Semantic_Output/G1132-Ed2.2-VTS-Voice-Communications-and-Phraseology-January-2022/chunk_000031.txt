@@ -1,0 +1,7 @@
+<doc_start>
+SHOULD
+Do not say: “You should anchor in anchorage Z4”.
+SHOULD
+Say: “ADVICE.
+Anchor in anchorage Z4”.
+<doc_end>

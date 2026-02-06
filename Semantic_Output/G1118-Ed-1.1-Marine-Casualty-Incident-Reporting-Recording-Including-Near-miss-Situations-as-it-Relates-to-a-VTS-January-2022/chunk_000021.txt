@@ -1,0 +1,129 @@
+<doc_start>
+7. ABBREVIATIONS
+Circ.
+Circular (IMO)
+
+
+7. ABBREVIATIONS
+CPA Closest Point of Approach
+
+
+7. ABBREVIATIONS
+EMSA European Maritime Safety Agency
+
+
+7. ABBREVIATIONS
+EU European Union
+
+
+7. ABBREVIATIONS
+HFACS Human Factors Accident Classification System
+
+
+7. ABBREVIATIONS
+ICAO International Civil Aviation Organization
+
+
+7. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+7. ABBREVIATIONS
+ISO International Standardization Organization
+
+
+7. ABBREVIATIONS
+kt knot(s)
+
+
+7. ABBREVIATIONS
+LOA Length overall
+
+
+7. ABBREVIATIONS
+LOSA Line Operation Safety Audit
+
+
+7. ABBREVIATIONS
+metre
+
+
+7. ABBREVIATIONS
+m
+
+
+7. ABBREVIATIONS
+m/s metres per second
+
+
+7. ABBREVIATIONS
+MEPC Marine Environment Protection Committee (IMO)
+
+
+7. ABBREVIATIONS
+MRCC Maritime Rescue Co-ordination Centre
+
+
+7. ABBREVIATIONS
+MSC Maritime Safety Committee (IMO)
+
+
+7. ABBREVIATIONS
+N Normal situation
+
+
+7. ABBREVIATIONS
+PMoU Paris Memorandum of Understanding
+
+
+7. ABBREVIATIONS
+POB Persons on board
+
+
+7. ABBREVIATIONS
+PSC Port State Control
+
+
+7. ABBREVIATIONS
+QMS Quality management system
+
+
+7. ABBREVIATIONS
+R Real situation
+
+
+7. ABBREVIATIONS
+Res.
+Resolution (IMO)
+
+
+7. ABBREVIATIONS
+IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+
+7. ABBREVIATIONS
+P 10
+
+
+7. ABBREVIATIONS
+
+
+7. ABBREVIATIONS
+SMS Safety management system
+
+
+7. ABBREVIATIONS
+TCPA Time to Closest Point of Approach
+
+
+7. ABBREVIATIONS
+VHF Very high frequency (30 MHz to 300 MHz)
+
+
+7. ABBREVIATIONS
+Vessel traffic service or vessel traffic services (dependent on context)
+
+
+7. ABBREVIATIONS
+VTS
+<doc_end>

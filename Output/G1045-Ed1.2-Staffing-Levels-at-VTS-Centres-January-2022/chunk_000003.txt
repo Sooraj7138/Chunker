@@ -1,0 +1,43 @@
+<doc_start>
+be conducted in accordance with pre-established contingency plans which clearly state responsibilities and procedures for such co-operation.
+VTS providers should take into consideration that the main responsibility of VTS personnel should be, at all times, to interact with the traffic and respond to traffic situations developing in the VTS area.
+Appropriate staffing to cope with overlapping tasks should always be provided.
+2.7. TECHNOLOGY AND EQUIPMENT VTS providers should be aware of the fact that technical equipment may have either a positive or negative effect on workload.
+It should be noted that the complexity and sophistication of the software and hardware of the systems IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2 e P 7 used in the VTS Centre may require high levels of attention and concentration by VTS personnel, especially when new systems are installed.
+When drawing up the specification for VTS equipment4, careful consideration should be given to ensure that the equipment is capable of maintaining a high level of reliability and flexible in order to keep up with technological advances.
+If this is not considered, the system will become less effective and thereby increase the workload of the user.
+The experience of VTS personnel in operating VTS equipment is useful when drawing up new specifications.
+When new or updated equipment is introduced, training for VTS personnel should always be considered.
+The need and degree of equipment redundancy necessary for specific VTS functions offered should be assessed.
+Decision support tools (DST) may be used in VTS centres to enhance situational awareness.
+These tools can assist VTS personnel in decision making activities at operational, tactical and strategic levels.
+Interaction between VTS personnel and the equipment is through a human/machine Interface (HMI).
+The goal of the HMI is effective operation and control of the machine on the user’s end with feedback from the machine, to aid VTS personnel in making operational decisions5. There are elements of equipment or system design in VTS Centres that can significantly change the workload on the VTS personnel, for example: 
+• Presentation of information Ergonomic design of interfaces and workstations 
+• Reliable voice communications 
+• Visual and audible indications 
+• Recording of voice and data Implications of technology developments may also have an impact on staffing levels.
+These new technologies may increase or reduce the need for VTS personnel.
+2.8. COMMUNICATIONS Communications between ship and shore are an essential component of a VTS.
+Each type of communication handled by VTS personnel demands interpretation and action, generating workload.
+The VTS provider should consider the most effective method for composing and transmitting information.
+2.8.1. RADIO Effective radio communications directly contribute to navigational safety and efficiency; conversely, ineffective communication and misunderstandings may contribute to near misses and accidents.
+Effective communication is therefore, an essential part of the duties of VTS personnel6. A reduction in radio generated workload can be achieved by the introduction of written procedures based on IALA documentation.
+Radio communications should be conducted in a manner that is clear, concise and procedurally correct.
+Standardized communication significantly contributes to communication in different languages and aids time management.
+Standard Marine Communications Phrases (SMCP) - IMO Resolution A.918(22) [5] – includes message markers which should be used in standard communication practice.
+The use of phrases in IALA guidance and SMCP will often reduce workload for VTS personnel and participating vessels.
+Radio generated workload can be affected by the use of an alternative means of exchanging information between ship and shore, such as VHF/DSC and AIS.
+Text based radio messages are often easier to understand and can reduce communication difficulties caused by spoken English.
+However, text messages can be more time consuming to IALA Guideline G1111 Preparation of Operational and Technical Performance Requirements for VTS Systems refers.
+5 IALA Guideline G1110 Use of Decision Support Tools by VTS Personnel refers.
+IALA Recommendation R1012 VTS Communications and IALA Guideline G1132 VTS Voice Communication and Phraseology refer.
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2 3 P 8 compose and may increase workload.
+Similarly, the need for closed loop communications may generate an increase in workload and affect the staffing level.
+The level of radio communications is strongly influenced by the number of reporting points and traffic density and staffing levels should reflect this.
+The number and location of the reporting points should be kept under review in order to reduce radio communications.
+2.8.2. TELEPHONE AND OTHER COMMUNICATIONS The VTS Centre is the heart of a complex web of information, which can result in the reception of a large number of enquiries by telephone not directly connected with the VTS function.
+Each telephone call made or received by VTS personnel generates workload.
+Where VTS Centres have responsibility for tasks additional to vessel traffic services, staffing levels may need to be enhanced accordingly.
+VTS providers should develop
+<doc_end>

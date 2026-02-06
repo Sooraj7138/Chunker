@@ -1,0 +1,12 @@
+<doc_start>
+5.1.5. POSITIONS
+Positions may be passed either in latitude and longitude or relative to a mark.
+In considering which method is most appropriate, the sender should recognize that the recipient will first have to plot a position passed in latitude and longitude in order to assimilate the information.
+5.1.5. POSITIONS
+When latitude and longitude are used, these shall be expressed in degrees and minutes (and decimals of a minute if necessary), north or south of the Equator, and East or West of zero degrees longitude.
+5.1.5. POSITIONS
+VTS WARNING.
+Dangerous wreck reported in position 15 degrees 34 minutes North, 61 degrees 29 minutes West.
+5.1.5. POSITIONS
+When the position is related to a mark, the mark should be a defined charted object.
+<doc_end>

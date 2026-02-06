@@ -1,0 +1,126 @@
+<doc_start>
+LIGHTNING PROTECTION 3.3.3.
+Lightning protection is often subject to national or local legislation taking into account local conditions, severity, earth conductivity, power grid constraints etc.
+The guidance from country to country differs depending on lightning strike frequency and severity.
+As a consequence, requirements for the number and type of lightning arrestors, the number of earthing points and the minimum cross sectional area of conductors vary to suit local conditions.
+LIGHTNING PROTECTION 3.3.3.
+The general principles include:
+
+LIGHTNING PROTECTION 3.3.3.
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+LIGHTNING PROTECTION 3.3.3.
+P 10
+
+LIGHTNING PROTECTION 3.3.3.
+®
+
+LIGHTNING PROTECTION 3.3.3.
+
+• Lightning arrestors and/or conductors should be positioned higher than other equipment and be designed to protect the entire installation.
+LIGHTNING PROTECTION 3.3.3.
+Separate down conductor(s) on the exterior of buildings should not be connected to metal parts of buildings such as steel reinforcements, handrails and antenna masts.
+LIGHTNING PROTECTION 3.3.3.
+•
+
+LIGHTNING PROTECTION 3.3.3.
+Safety grounding of equipment should be kept separate from lightning protection.
+LIGHTNING PROTECTION 3.3.3.
+•
+
+LIGHTNING PROTECTION 3.3.3.
+Potential equalization should be achieved in earth and never at the top of the equipment.
+See Guideline G1012 The Protection of Lighthouses and Other Aids to Navigation against Damage from Lightning for further information.
+LIGHTNING PROTECTION 3.3.3.
+
+• Warning lights.
+LIGHTNING PROTECTION 3.3.3.
+High structures, such as RADAR towers, may require warning lights for air traffic.
+Some light arrangements may also be disturbing to both vessel traffic, the general public and to birds and animals.
+It is therefore recommended to consult local authorities for specific requirements or restrictions in the area.
+LIGHTNING PROTECTION 3.3.3.
+SITE AND EQUIPMENT ACCESS 3.3.4.
+
+LIGHTNING PROTECTION 3.3.3.
+As part of the selection of a VTS system location, the VTS provider should analyse the need for site access for installation and maintenance.
+Fencing and other protective means against illegal intrusion may also be needed in many cases.
+ELECTRICAL POWER 3.3.5.
+The VTS system could require a reliable source of electrical power, which could include a backup power source such as an Uninterruptable Power Supply (UPS) and/or generator.
+ELECTRICAL POWER 3.3.5.
+Renewable sources should be used where appropriate.
+ELECTRICAL POWER 3.3.5.
+SAFETY AND SECURITY PRECAUTIONS 3.3.6.
+
+ELECTRICAL POWER 3.3.5.
+For each location, the VTS provider should implement safety and security requirements in accordance with relevant legislation.
+ELECTRICAL POWER 3.3.5.
+Safety requirements should, at least, consider but are not limited to:
+
+ELECTRICAL POWER 3.3.5.
+safety procedures, such as instructions to personnel performing maintenance;
+
+ELECTRICAL POWER 3.3.5.
+personnel protection equipment for working at heights;
+
+ELECTRICAL POWER 3.3.5.
+•
+
+ELECTRICAL POWER 3.3.5.
+lone working on remote sites;
+
+ELECTRICAL POWER 3.3.5.
+safety switches to isolate equipment and to stop rotating antennas;
+
+ELECTRICAL POWER 3.3.5.
+•
+
+ELECTRICAL POWER 3.3.5.
+precautions regarding electromagnetic radiation, rotating machinery and electrical shock, railings on masts etc.; and
+
+ELECTRICAL POWER 3.3.5.
+
+• protection of the general public.
+ELECTRICAL POWER 3.3.5.
+Security requirements should, at least, consider:
+
+ELECTRICAL POWER 3.3.5.
+physical restrictions, e.g., fences, locks, motion sensors, monitoring (CCTV); and
+
+ELECTRICAL POWER 3.3.5.
+access procedures, i.e., restrictions imposed by ISPS.
+ELECTRICAL POWER 3.3.5.
+EQUIPMENT PRESERVATION AND MONITORING 3.3.7.
+
+ELECTRICAL POWER 3.3.5.
+The VTS provider should also consider the following:
+
+ELECTRICAL POWER 3.3.5.
+fire detection and (remote) alarms;
+
+ELECTRICAL POWER 3.3.5.
+
+• automated fire extinguishers;
+
+ELECTRICAL POWER 3.3.5.
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+ELECTRICAL POWER 3.3.5.
+P 11
+
+ELECTRICAL POWER 3.3.5.
+4)
+
+ELECTRICAL POWER 3.3.5.
+remote monitoring of site status (power, fuel, temperature, site environmental conditions etc.); and
+
+ELECTRICAL POWER 3.3.5.
+
+• remote monitoring of equipment status.
+ELECTRICAL POWER 3.3.5.
+MARKING AND IDENTIFICATION 3.3.8.
+
+ELECTRICAL POWER 3.3.5.
+VTS equipment should be marked with manufacturer name, type and serial number.
+ELECTRICAL POWER 3.3.5.
+Legislation may require additional marking or identification, signposts etc.
+<doc_end>

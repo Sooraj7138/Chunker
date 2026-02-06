@@ -1,0 +1,53 @@
+<doc_start>
+4.1. TIMELY AND RELEVANT INFORMATION
+The provision of timely and relevant information on factors that may influence the ship's movements and assist on-board decision making should be provided where:
+
+4.1. TIMELY AND RELEVANT INFORMATION
+deemed necessary by the VTS; or
+
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• requested by the participating ship.
+4.1. TIMELY AND RELEVANT INFORMATION
+Timely and relevant information may include but is not limited to:
+
+4.1. TIMELY AND RELEVANT INFORMATION
+The position, identity, intention, and movements of ships.
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• Maritime Safety Information (MSI) such as meteorological and hydrological conditions, notices to mariners, status of marine aids to navigation.
+4.1. TIMELY AND RELEVANT INFORMATION
+Scheduling information to enable a ship to optimize its overall passage efficiency.
+4.1. TIMELY AND RELEVANT INFORMATION
+•
+
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• Limitations of ships in the VTS area that may impose restrictions on the navigation of other ships (e.g., manoeuvrability), or any other potential hindrances.
+4.1. TIMELY AND RELEVANT INFORMATION
+Information concerning the safe navigation of the ship.
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• Other information such as:
+
+4.1. TIMELY AND RELEVANT INFORMATION
+Reporting formalities and International Ship and Port Facility Security Code details.
+4.1. TIMELY AND RELEVANT INFORMATION
+Information to and from allied services.
+4.1. TIMELY AND RELEVANT INFORMATION
+
+• Amendments and changes in promulgated information concerning the VTS area such as boundaries, procedures, radio frequencies, reporting points.
+4.1. TIMELY AND RELEVANT INFORMATION
+4.1.1. DELIVERY OF INFORMATION
+
+4.1. TIMELY AND RELEVANT INFORMATION
+Depending on the type of information and the situation, this may be delivered by:
+
+4.1. TIMELY AND RELEVANT INFORMATION
+•
+
+4.1. TIMELY AND RELEVANT INFORMATION
+Broadcasting the information at fixed times and intervals, as promulgated in the appropriate navigational publications.
+4.1. TIMELY AND RELEVANT INFORMATION
+Communicating directly with individual ship(s).
+<doc_end>

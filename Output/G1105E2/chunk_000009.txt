@@ -1,0 +1,72 @@
+<doc_start>
+or symbols on which operations are performed by a computer, being stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media.
+Merriam-Webster Dict.
+– factual information output by a sensing device that must be processed to be meaningful; information in numerical form that can be digitally transmitted or processed.
+Example/context: data is a raw collection of unprocessed facts.
+Display Oxford English Dict.
+- (of a computer or other device) show (information) on a screen.
+- an electronic device [used] for the visual presentation of data.
+Merriam-Webster Dict.
+– show; an electronic device that presents information in visual form.
+Example/context: An ECDIS display is capable of portraying both chart and navigation-related information.
+Feature ISO 19117 - abstraction of real-world phenomena.
+Feature attribute ISO 19117 - characteristic of a feature.
+Geographic information ISO 19117 - information concerning phenomena implicitly or explicitly associated with a location relative to the Earth.
+Icon 5 http://oxforddictionaries.com 6 http://www.merriam-webster.com 7 http://hd.iho.int/en/index.php/Main_Page IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 P 18 Oxford English Dict.
+– a representative symbol of something; a graphic representation on a [computer] screen.
+Merriam-Webster Dict.
+– a graphic symbol whose form suggests it meaning; a graphic symbol on a computer screen.
+ISO 80416 – a graphic symbol with a particular meaning used to transmit information independently of language presented on a screen or display.
+Example/context: The own-ship icon (i.e., symbol) on ECDIS represents the location of the vessel in real-time.
+Information Oxford English Dict.
+– Computing data [that is] processed, stored, or transmitted by a computer.
+Merriam-Webster Dict.
+– the communication or reception of knowledge or intelligence.
+Example/context: Data becomes information when it is processed and presented in a manner which can be better understood by humans.
+Intuitive Oxford English Dict.
+– instinctive; based on what one feels is true, even without conscious reasoning.
+Merriam-Webster Dict.
+– known or perceived by intuition; readily learned or understood.
+Example/context: Showing water as blue and land as orange/brown is an intuitive electronic chart colour scheme.
+Obvious Oxford English Dict.
+– easily perceived or understood; clear, self-evident or apparent.
+Merriam-Webster Dict.
+– easily discovered, seen or understood; apparent.
+Example/context: The use of blue for water and orange/brown colours for land is both intuitive and obvious as to meaning.
+Portrayal Oxford English Dict.
+– a description or depiction of something in a particular way (example: realistic portrayal of a real-world object).
+Merriam-Webster Dict.
+– act or process of portraying or depicting; representation synonyms: definition, delineation, depiction, picture, portrait, rendering.
+ISO 19117 – presentation of information to humans.
+IMO SN.1.Circ.290 - the process of representing or depicting (i.e., showing an example of what is or could be).
+Presentation Oxford English Dict.
+– the manner in which something is displayed; the method by which radio, navigation or radar information is given to the operator.
+Merriam-Webster Dict.
+– a symbol or image that represents something.
+Example/context: The IHO S-52 Colours and Symbols Presentation Library is a prescriptive standard for ECDIS.
+Symbol IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 19 Oxford English Dict.
+– a thing that represents or stands for something else; a mark or character used as a conventional representation of an object, function, or process.
+Merriam-Webster Dict.
+– an arbitrary or conventional sign to represent operations, quantities, elements, relations or qualities.
+ISO 80416 – A graphical symbol is a visually perceptible figure used to transmit information independently of language.
+Example/context: There should be a clear difference in the type of symbol used to represent something that physically exists in the real-world (e.g., physical) versus a “virtual” representation.
+Unambiguous Oxford English Dict.
+– not open to more than one interpretation.
+Merriam-Webster Dict.
+– clear, precise; apparent; unmistakable, straight-forward.
+Example/context: the use of both “standard” and “simplified” symbols could lead to ambiguity.
+Uniform Oxford English Dict.
+– not changing in form or character; remaining the same in all cases and at all times; of a similar form or character to another or others.
+Merriam-Webster Dict.
+– having always the same form, manner, or degree; not varying or variable; consistent; constant.
+Example/context: Portraying information in a uniform manner reduces confusion as to meaning or intent.
+Uniqueness Oxford English Dict.
+– being the only one of its kind; unlike anything else.
+Merriam-Webster Dict.
+– distinctively characteristic.
+User selected presentation IMO MSC 191(79) - An auxiliary presentation configured by the user for a specific task-at-hand.
+The presentation may include radar and/or chart information, in combination with other navigation or ship related data.
+Data vs.
+Information Portrayal In addition to specific, individual definitions, it is important to make a clear distinction between what is “data” and what is “information”.
+In the strictest sense, data can be simply a raw collection of facts,
+<doc_end>

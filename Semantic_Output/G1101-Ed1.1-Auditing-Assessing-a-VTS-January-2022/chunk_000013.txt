@@ -1,0 +1,42 @@
+<doc_start>
+A.3.2. PERSONNEL, TRAINING AND QUALIFICATION
+No.
+Issue/question Is the VTS appropriately staffed, according to an 1. established ratio of operators and supervisors?
+(if any) (ref: IALA Guideline G1045 On Staffing levels at a VTS) 
+2. How do you manage personnel rosters and schedules?
+Provide documents.
+Are training courses for VTS personnel delivered according to IALA Recommendation R0103, 
+3. Guideline G1156and associated Model Courses?
+Provide documentation such as certificates and records of training.
+Is the training provided by an accredited 4. organization (ref: IALA Guideline 1014 On the accreditation and approval process for VTS training)?
+What is your VTS operator/supervisor on the job 5. training program?
+Provide documentation of qualifications.
+
+6. Do you have a policy regarding the use of drugs and alcohol?
+
+7. Do you have a policy on managing / preventing fatigue amongst your VTS personnel?
+
+8. Any other issues to discuss?
+VTS notes Auditor notes/comments
+
+A.3.3. EQUIPMENT
+No.
+Issue/question List your operational equipment e.g., radar, AIS, CCTV, remote sites, etc.
+(ref: IALA Recommendation R0128 (V-128) On Operational 1. and Technical Performance of VTS Systems and Guideline G1111 – Preparation of Operational and Technical Performance Requirements for VTS Systems) 
+2. What is your maintenance program, i.e., how do you ensure reliability of your equipment?
+Do you have any systems not covered by IALA 
+3. Recommendation R0128 (V-128)?
+If Yes, please provide justification.
+
+4. Any other issues to discuss?
+VTS notes Auditor notes/comments
+
+A.3.3. EQUIPMENT
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+A.3.3. EQUIPMENT
+®
+
+A.3.3. EQUIPMENT
+P 12
+<doc_end>

@@ -1,0 +1,13 @@
+<doc_start>
+6. REFERENCES
+IALA.
+Recommendation R0128 VTS Systems and Equipment (V-128).
+
+6. REFERENCES
+IALA.
+Guideline G1150 Establishing, Planning and Implementing a VTS.
+
+6. REFERENCES
+[3] IALA.
+Guideline G1012 The Protection of Lighthouses and Other Aids to Navigation against Damage from Lightning.
+<doc_end>

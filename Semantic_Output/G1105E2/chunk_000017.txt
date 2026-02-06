@@ -1,0 +1,35 @@
+<doc_start>
+5.2. GUIDING PRINCIPLES
+In order to achieve closer alignment in the portrayal of IALA related navigation information for both shipborne and shore-based users, there are several guiding principles to consider:
+
+5.2. GUIDING PRINCIPLES
+The portrayal of information depends on the particular tasks, function, and needs of the various users on ship and ashore.
+5.2. GUIDING PRINCIPLES
+Critical and non-critical Information should be able to be categorized for the various users as required.
+5.2. GUIDING PRINCIPLES
+The portrayal of IALA information onboard ships or ashore does not have to be identical.
+However, there is benefit to all users if information is displayed in a consistent and unambiguous manner.
+This includes the use of standard symbology, icons, and colour schemes as to be defined in IHO GI Registry (S-100 Registry).
+5.2. GUIDING PRINCIPLES
+Displaying too much supplemental information can obscure critical information or lead to confusion.
+As such users should be able to determine the volume or types of non-critical information on the display for their operating tasks and navigational decision making processes.
+5.2. GUIDING PRINCIPLES
+The portrayal should allow a user to control the system, input data and take action efficiently.
+5.2. GUIDING PRINCIPLES
+Where possible, the portrayal should indicate invalid and erroneous user input.
+5.2. GUIDING PRINCIPLES
+The portrayal should be able to display and log significant events.
+5.2. GUIDING PRINCIPLES
+The portrayal should support the playback of recorded data.
+5.2. GUIDING PRINCIPLES
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+5.2. GUIDING PRINCIPLES
+7)
+
+5.2. GUIDING PRINCIPLES
+P 9
+
+5.2. GUIDING PRINCIPLES
+5.3.
+<doc_end>

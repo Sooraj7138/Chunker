@@ -1,0 +1,20 @@
+<doc_start>
+Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 28 Application Function Conditions Mode An area to be avoided by certain classes of ships or a vessel routing measure that Marking of comprises an area within Areas to be defined limits in which either Avoided navigation is particularly hazardous or it is exceptionally important to avoid casualties.
+Marking of Drifting Objects that are not AtoN Virtual MAtoN can be effectively utilized to mark a floating hazard.
+Suggested Type of Virtual AIS AtoN Special Marks A new MAtoN mark is being developed to be added to the Maritime Buoyage System.
+A new coding type will need to be used when broadcasting the Message 21 Consideration broadcasting a state of Off Position in the area of the charted position.
+
+• This should be considered only as a supplementary measure when it is targeted to all users.
+
+• Timely deployment required.
+
+• Usage of Virtual AIS AtoN requires the application of firm rules regarding the position update, such as having the capability of reporting the moving object every three minutes at minimum.
+
+• This application will possibly require the utilization of an AIS base station network to cover the largest possible area for the broadcast.
+
+• Refer to IALA R1016. Virtual AtoN will be useful in Temporary Temporary Pilot Boarding marking a pilot boarding station where the position is dependent on sea/ice.
+
+• Timely deployment required.
+conditions.
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 29
+<doc_end>

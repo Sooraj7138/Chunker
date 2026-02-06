@@ -1,0 +1,8 @@
+<doc_start>
+SHOULD
+Do not say: “Can you adjust your ETD from the berth by 20 minutes?”
+
+SHOULD
+Say: “QUESTION.
+Are you able to adjust your ETD 20 minutes earlier?”
+<doc_end>

@@ -1,0 +1,33 @@
+<doc_start>
+time and position of incident, nature of emergency, type of assistance required; Incident / Emergency − Communication with VTS is clear and concise; − Further information requested by the VTS is provided; − Request for navigational assistance (if required); − VTS is kept informed as the situation develop; and − VTS is advised when the incident / emergency has been resolved.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 12 6.6. FAMILIARIZATION ACTIVITIES Familiarization activities may include visiting a VTS centre or arranging for a presentation from a representative of a VTS.
+The objective of the familiarization is to explain the purpose of VTS to the deck officer, thereby enhancing VTS awareness.
+To achieve the objective, familiarization activities should be structured, and may use a workbook or other process.
+The familiarization activity may include: 
+• Equipment used 
+• Procedures followed Legal and regulatory requirements of the VTS 
+• How the VTS monitors and interacts with traffic in the VTS area Joint case study reviews 
+• How the deck officer can work most effectively with the VTS FAMILIARIZATION BETWEEN ALLIED SERVICES AND VTS 6.7. The involvement of allied services, including pilots, in the work of the VTS will promote the safety of navigation in the VTS area.
+Therefore, the above familiarization activities may also be of benefit for the providers of such allied services.
+
+7. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS AIS Automatic Identification System DSC Digital Selective Calling ECDIS Electronic Chart Display and Information System IMO International Maritime Organization MF/HF Medium frequency/High frequency (radio) SMCP Standard Marine Communication Phrases SRS Ship reporting system STCW International Convention on Standards of Training, Certification and Watchkeeping for Seafarers TSS Traffic Separation Scheme VHF Very high frequency (radio) VTS Vessel traffic service VTSO Vessel traffic service operator IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 13 
+9. REFERENCES [1] IMO.
+SOLAS International Convention for the Safety of Life at Sea Chapter V, Regulation 12 Vessel Traffic Services [2] IMO.
+STCW International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, as amended IMO.
+International Convention on Maritime Search and Rescue ITU.
+Radio Regulations, volume five, Recommendation ITU.R.M.1171.0 and subsequent chapters IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases (SMCP) [6] IALA.
+Recommendation R0120 Vessel Traffic Services in Inland Waters (V-120) IALA.
+Recommendation R0127 Operational Procedures for Vessel Traffic Services IALA.
+Guideline G1071 Establishment of a Vessel Traffic Service beyond Territorial Seas IALA.
+Guideline G1089 Provision of VTS Services [11] IALA.
+Guideline G1102 VTS Interaction with Allied or other services [12] IALA.
+Guideline G1131 Setting and measuring VTS objectives [13] IALA.
+Guideline G1132 VTS VHF Voice Communication [14] IALA.
+VTS Manual IALA.
+Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template [16] Admiralty List of Radio Signals (ALRS) IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 14
+<doc_end>

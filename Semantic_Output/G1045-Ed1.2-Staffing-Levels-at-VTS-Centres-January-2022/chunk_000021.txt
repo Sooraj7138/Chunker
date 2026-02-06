@@ -1,0 +1,15 @@
+<doc_start>
+5. DEFINITIONS
+VTS provider VTS provider means the organization or entity authorized by the Government or competent authority to provide a vessel traffic service.
+VTS centre A VTS centre is the centre from which the VTS is operated.
+Each sub-area of the VTS may have its own sub-centre.
+VTS Manager Some VTS organizations may require the appointment of a manager to administer and interface with regional or port management authorities.
+In such circumstances the manager should possess managerial qualifications to the satisfaction of the competent authority.
+VTS Operator (VTSO) A VTS Operator is an appropriately qualified person performing one or more tasks contributing to the services of the VTS.
+VTS personnel VTS personnel means persons performing tasks associated with vessel traffic services, trained in vessel traffic services operations and appropriately qualified.
+VTS Supervisor An appropriately qualified VTSO carrying out supervisory duties in a VTS Centre on behalf of a VTS provider.
+VTS traffic image A VTS traffic image is the surface picture of vessels and their movements in a VTS area.
+VTS workstation A VTS workstation is the place in a VTS Centre from which VTS personnel carry out their duties.
+Watchkeeping Watchkeeping standards, including punctuality, handover, general responsibilities on watch and log-keeping.
+Technical watchkeeping requirements at a VTS workstation, include standard target tracking routines, VHF/DF monitoring and checks, navigation and operational checks, and equipment performance checks.
+<doc_end>

@@ -1,0 +1,165 @@
+<doc_start>
+IALA
+
+IALA GUIDELINE
+
+Edition 1.1 January 2022
+urn:mrn:iala:pub:g1131:ed1.1
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+DOCUMENT REVISION
+
+Edition 1.1 January 2022
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Edition 1.1 January 2022
+Date Details December 2017 First issue.
+January 2022 Edition 1.1 Approved by Council December 2021 and published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 65 Council 74
+
+Edition 1.1 January 2022
+IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+P 2
+
+Edition 1.1 January 2022
+
+Edition 1.1 January 2022
+2.1.1. 2.1.2. 2.1.3. 2.1.4. 2.1.5. 2.1.6. 2.1.7. 2.1.8. 2.1.9.
+
+Edition 1.1 January 2022
+
+1. Edition 1.1 January 2022
+INTRODUCTION ...................................................................................................................................
+4
+
+Edition 1.1 January 2022
+
+2. AIMS AND OBJECTIVES ........................................................................................................................
+4
+
+Edition 1.1 January 2022
+2.1.
+
+Edition 1.1 January 2022
+International framework .........................................................................................................................
+4
+
+Edition 1.1 January 2022
+International Convention for the Safety of Life at Sea (SOLAS) .........................................................................................
+4
+
+Edition 1.1 January 2022
+IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services ....................................................................................
+4
+
+Edition 1.1 January 2022
+IMO Member State Audit Scheme (IMSAS) .......................................................................................................................
+5
+
+Edition 1.1 January 2022
+Resolution A.1067(28) on the Framework and Procedures for the IMO Member State Audit Scheme ............................
+5
+
+Edition 1.1 January 2022
+Resolution A.1070(28) on IMO Instruments Implementation Code (III Code) [4] .............................................................
+5
+
+Edition 1.1 January 2022
+IMO Circular Letter No.
+3425 ‐ Auditor’s Manual for the IMO Member State Audit Scheme (IMSAS) [5] ........................
+5
+
+Edition 1.1 January 2022
+IALA Guideline G1150 on Establishing, Planning and Implementing a VTS [6] ..................................................................
+5
+
+Edition 1.1 January 2022
+IALA Guideline G1101 on Auditing and Assessing a VTS [7] ..............................................................................................
+5
+
+Edition 1.1 January 2022
+IALA Guideline G1115 on Preparing for an IMO Member State Audit Scheme (IMSAS) on a VTS [8] ...............................
+6
+
+Edition 1.1 January 2022
+
+3. SETTING OBJECTIVES FOR A VTS ...........................................................................................................
+6
+
+Edition 1.1 January 2022
+3.1. What are VTS objectives?
+........................................................................................................................
+6
+
+Edition 1.1 January 2022
+3.2.
+
+Edition 1.1 January 2022
+The purpose of VTS ..................................................................................................................................
+6
+
+Edition 1.1 January 2022
+3.3.
+
+Edition 1.1 January 2022
+Operational considerations .....................................................................................................................
+7
+
+Edition 1.1 January 2022
+
+4. SETTING GUIDELINES TO MEASURE OBJECTIVES ..................................................................................
+7
+
+Edition 1.1 January 2022
+4.1. Measuring the objectives ........................................................................................................................
+7
+
+Edition 1.1 January 2022
+4.2.
+
+Edition 1.1 January 2022
+Defining performance measures .............................................................................................................
+8
+
+Edition 1.1 January 2022
+4.3.
+
+Edition 1.1 January 2022
+Review ......................................................................................................................................................
+8
+
+Edition 1.1 January 2022
+
+5. DEFINITIONS ........................................................................................................................................
+8
+
+Edition 1.1 January 2022
+
+6. ABBREVIATIONS ..................................................................................................................................
+8
+
+Edition 1.1 January 2022
+
+7. REFERENCES ........................................................................................................................................
+9
+
+Edition 1.1 January 2022
+ANNEX A
+
+Edition 1.1 January 2022
+EXAMPLES FOR SETTING OBJECTIVES AND MEASURING THEM ..............................................
+10
+
+Edition 1.1 January 2022
+IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1
+
+Edition 1.1 January 2022
+P 3
+
+Edition 1.1 January 2022
+<doc_end>

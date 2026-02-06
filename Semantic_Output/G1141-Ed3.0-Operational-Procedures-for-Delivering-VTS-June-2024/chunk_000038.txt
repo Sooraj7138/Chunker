@@ -1,0 +1,47 @@
+<doc_start>
+9. REFERENCES
+IMO.
+International Convention for the Safety of Life At Sea
+
+
+9. REFERENCES
+IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases
+
+
+9. REFERENCES
+[13]
+
+
+9. REFERENCES
+IMO.
+Resolution A.954(23) Proper use of VHF channels at sea
+
+
+9. REFERENCES
+[14]
+
+
+9. REFERENCES
+IALA.
+Guideline G1132 VTS Voice Communications and Phraseology
+
+
+9. REFERENCES
+[15] IALA.
+Guideline G1089 Provision of a VTS
+
+
+9. REFERENCES
+[16]
+
+
+9. REFERENCES
+IALA.
+Guideline G1102 VTS Interaction with Allied or Other Services
+
+
+9. REFERENCES
+IMO.
+Resolution A.949(23) Guideline on Places of Refuge for Ships in Need of Assistance
+<doc_end>

@@ -1,0 +1,187 @@
+<doc_start>
+4.2. VTS PROVIDERS
+VTS providers should:
+
+4.2. VTS PROVIDERS
+ensure that VTS conform with the regulatory framework set by the competent authority for VTS;
+
+4.2. VTS PROVIDERS
+•
+
+4.2. VTS PROVIDERS
+set operational objectives for VTS that are consistent with improving the safety and efficiency of ship traffic and the protection of the environment.
+The objectives set should be routinely evaluated to demonstrate that they are being achieved;
+
+4.2. VTS PROVIDERS
+ensure that appropriate VTS equipment, systems and facilities for the delivery of VTS are provided;
+
+4.2. VTS PROVIDERS
+
+• ensure that VTS are adequately staffed and that VTS personnel are appropriately trained and qualified; and
+
+4.2. VTS PROVIDERS
+
+• ensure that information regarding requirements and procedures of VTS and the categories of ships required to participate in VTS are promulgated in appropriate nautical publications.
+4.2. VTS PROVIDERS
+The VTS should be operated under a quality management system (QMS) and the VTS provider should ensure the on-going integrity of the QMS through periodic review/audit as described in the VTS Manual and IALA Recommendation R0132 Quality Management for Aids to Navigation Authorities (O-132) [3].
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+The framework for auditing and assessing a VTS and the subsequent on-going assessment and evaluation of safe and effective provision of the service/s provided should be comprised of the following elements:
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+The use of a quality management system (QMS)
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+®
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+P 5
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+The use of a safety management system (SMS)
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+The audit checklist for the assessment of a VTS, which may be found at annex A
+
+
+5. FRAMEWORK FOR AUDITING AND ASSESSING
+
+• The guidance provided in the VTS Manual and IALA recommendations and guidelines regarding the establishment and operation of a VTS
+
+5.1. CHECKLIST FOR AUDITING AND ASSESSING A VTS
+The checklist at annex A provides a tool to assess and monitor the delivery of a VTS with regards to international obligations, the IALA recommendations, guidelines and VTS Manual.
+5.1. CHECKLIST FOR AUDITING AND ASSESSING A VTS
+The QMS that an individual VTS provider operates under may have a corporate focus and a scope that does not fully cover the specific delivery of a VTS.
+The checklist provides a robust, yet flexible, framework to ensure the VTS can be assessed and monitored in a way that facilitates consistency in the delivery of a VTS.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+IMO Resolution A.1158(32) describes the principles and general provisions for the operation of a VTS and participating vessels, in addition to the roles and responsibilities of Contracting Governments, competent authorities and VTS providers.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+Audits and assessments are an essential management tool to be used for verifying objective evidence of processes, to assess how successfully processes have been implemented, for judging the effectiveness of achieving any defined target levels, to provide evidence concerning reduction and elimination of problem areas.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The criteria for auditing and assessment of a VTS provider should be made available by the competent authority.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The following procedures provide competent authorities with guidelines for auditing and assessing a VTS:
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 1 – Request
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The entity1 submits a request to the competent authority.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+Prior to submission of an audit and/or assessment request, it is recommended that the entity conducts its own internal check using the audit checklist at annex A.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+Step 2 – Pre-audit documentation
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The entity submits completed pre-audit documentation.
+The entity should ensure that the checklist and the supporting documentation are submitted in sufficient time to allow the competent authority to properly assess the submission.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+Step 3 – Evaluation of pre-audit documentation
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The competent authority evaluates the pre-audit documentation and the supporting documentation to ensure conformance with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services, IALA recommendations and guidelines, and any additional requirements.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+Does pre-audit documentation comply with the requirements?
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+If “Yes”, the audit can take place at an agreed time.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+If “No”, the competent authority notifies the entity and provides reasons to serve as a basis for corrective actions.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+1 Entity is the organization seeking to be audited and/or assessed
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+®
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+P 6
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 4 – Audit
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The competent authority or a body appointed conducts an audit.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 5 – Audit findings
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The competent authority investigates if the entity complies with the set requirements.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The competent authority notifies the entity about the results of the findings in writing and if necessary, provides reasons to serve as a basis for corrective actions.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+A time limit should be set for when the entity should provide an answer with the corrective
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+actions taken.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 6 – Respond to findings
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The entity replies and gives information about the corrective actions taken as a result of the
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+findings.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 7 – Additional audit
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+After the entity responds to audit findings, the competent authority or appointed body conducts an additional audit in order to ensure that the corrective actions resulting from the audit findings have been taken.
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+
+• Step 8 – Approval
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+The competent authority issues a document or confirmation that the entity is approved as a
+
+
+6. PROCEDURES FOR AUDITING AND ASSESSING A VTS
+VTS provider.
+<doc_end>

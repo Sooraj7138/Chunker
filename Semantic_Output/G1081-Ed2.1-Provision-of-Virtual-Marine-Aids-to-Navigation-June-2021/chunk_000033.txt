@@ -1,0 +1,27 @@
+<doc_start>
+10.2.1. GNSS VULNERABILITY
+Ships may lose their positioning capability when the GNSS service is lost due to jamming or interference unless they have an alternative positioning system.
+Poor installation or failure of shipborne equipment can similarly interfere with or degrade GNSS reception which could lead to a loss of the Virtual AtoN or a positional offset of the AIS AtoN symbol (more details in section c).
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+Some spoofing methods can be detected through careful monitoring of the transmission channel.
+One possibility is to monitor MMSI numbers within the service coverage area.
+Duplicated or non-existent MMSI numbers within the coverage area may indicate spoofing.
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+P 16
+
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+Increased spoofing detection capability can be achieved through regional co-operation between neighbouring countries, exchanging valid MMSI numbers and co-operating on identifying invalid MMSI numbers, for example, handing over MMSI numbers from one competent authority to another competent authority when vessels cross the administrative boundaries of these authorities.
+Such a scheme is implemented on the administrative boundary between the Malacca and Singapore Straits.
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+Competent authorities who provide Virtual AtoN services should maintain a database of all valid MMSI numbers assigned to Virtual AtoN.
+This database should be shared with such stakeholders as neighbouring countries.
+10.2.2. SPOOFING AND JAMMING OF VIRTUAL ATON
+Both spoofing and jamming can compromise and/or shut down a Virtual AtoN service.
+Jamming will typically block the service in a certain geographic region.
+Spoofing is more sinister since the targeted receiver cannot detect the deception (i.e., the signal appears to be genuine), which could mislead the navigator.
+<doc_end>

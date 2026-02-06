@@ -1,0 +1,21 @@
+<doc_start>
+11. DEFINITIONS
+Updating training is a tailored made program aimed at refreshing or improving specific areas of competency.
+It allows VTS personnel to regain professional knowledge and skills, while reinforcing previous training.
+(Reference – G1156 Section 9.2.2)
+
+
+11. DEFINITIONS
+VTS provider means the organization or entity authorized by the Government or competent authority to provide vessel traffic services.
+(Reference – IMO Resolution A.1158(32))
+
+
+11. DEFINITIONS
+VTS certification log is a record of course certificates and training activities of VTS personnel.
+(Reference – G1156 Section 8.6)
+
+
+11. DEFINITIONS
+VTS personnel means persons performing tasks associated with vessel traffic services, trained in vessel traffic service operations and appropriately qualified.
+(Reference – IMO Resolution A.1158(32))
+<doc_end>

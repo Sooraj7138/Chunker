@@ -1,0 +1,33 @@
+<doc_start>
+2.3.2. ATTENTION/CONCENTRATION LEVELS
+The performance requirements may demand high levels of attention and concentration, for extended periods of time, where consequences of error may be critical.
+2.3.2. ATTENTION/CONCENTRATION LEVELS
+2.3.3. ERGONOMIC DESIGN
+
+2.3.2. ATTENTION/CONCENTRATION LEVELS
+The immediate environment within which the VTS personnel work should reflect an ergonomic assessment in order to facilitate effective delivery of services and to support the health and well-being of VTS personnel.
+An analysis should include the optimum ergonomic design of workstations and placement of equipment within the VTS work area.
+2.3.4. NOISE/DISTRACTIONS/LIGHTING
+Consideration should be given to minimizing noise levels and other possible distractions within the VTS Centre.
+Careful management of lighting levels may also improve the overall working environment.
+2.3.4. NOISE/DISTRACTIONS/LIGHTING
+An inadequate working environment will have a negative impact on the performance of the VTS personnel and may affect their ability to discharge their responsibilities.
+2.4. HUMAN RESOURCES
+Collective agreements, contracts and terms of employment for VTS personnel should be taken into consideration when determining the staffing levels.
+2.4. HUMAN RESOURCES
+Staffing levels may need to accommodate training and assessment activities.
+2.4. HUMAN RESOURCES
+Careful assessment of the functions required of VTS personnel should be considered to ensure that their primary safety role is not compromised.
+The requirement for additional or “call-in” personnel should also be considered when necessary to ensure the primary role is maintained.
+2.4. HUMAN RESOURCES
+Consideration should be given to the rotation of watchkeeping VTS personnel and the need for rest breaks, depending on the intensity of work and the overall working environment.
+Due to the unique circumstances in each VTS Centre, it is not appropriate, nor possible, to specify the length or number of breaks necessary to avoid fatigue.
+2.4. HUMAN RESOURCES
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2
+
+2.4. HUMAN RESOURCES
+7)
+
+2.4. HUMAN RESOURCES
+P 6
+<doc_end>

@@ -1,0 +1,14 @@
+<doc_start>
+3.1. AVAILABILITY AND RELIABILITY
+The VTS provider should define an overall availability and reliability target for the VTS system, including the elements to be considered based on the risk assessment results.
+The relationship between downtime and availability figures is given by Table 1.
+
+3.1. AVAILABILITY AND RELIABILITY
+Table 1 Relationship between downtime and availability
+
+3.1. AVAILABILITY AND RELIABILITY
+Availability
+
+3.1. AVAILABILITY AND RELIABILITY
+Annual downtime 87.6 hours 24 hours 8 hours 4 hours Corresponding Availability 99% 99.7% 99.9% 99.95%
+<doc_end>

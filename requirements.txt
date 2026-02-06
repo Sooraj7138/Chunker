@@ -1,0 +1,9 @@
+PyPDF2
+unstructured[pdf]
+pandas
+transformers
+datasets
+python-dotenv
+pyarrow
+chromadb
+sentence-transformers

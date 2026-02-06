@@ -1,0 +1,53 @@
+<doc_start>
+the abilities needed to perform tasks proficiently.
+This includes being able to keep up with changes in technology, regulations, or the operating environment as well ensuring VTS personnel can apply this knowledge effectively into real-world scenarios.
+VTS providers should determine the type of training required for their operations to build the skills, knowledge and capabilities of their VTS personnel.
+The common types of training are: 
+• Adaption Training 
+• Updating Training 
+• Other Training To identify specific skills gaps and development needs for VTS personnel it is recommended that a training needs analysis should be undertaken.
+Annex A provides an example of how a training needs analysis for an individual may be completed.
+9.2.1. ADAPTATION TRAINING Adaptation training is carried out whenever significant changes to VTS operations are expected or when changes have been made, concerning equipment, regulations, operational procedures or any other matter which is relevant to the performance of VTS personnel.
+This training should preferably be delivered before any changes occur to ensure smooth implementation of the changes.
+Adaptation training should be tailored to each situation, considering the complexity and nature of the change.
+Key considerations include: 
+• Designing and developing appropriate training.
+
+• Preparing a structured program with detailed lesson plans and clear learning objectives based on the training needs analysis.
+
+• Identifying the most suitable party to develop and deliver the training, which could be in-house, a training organization, a service provider (e.g.
+the company installing VTS equipment), or a combination of these.
+
+• Developing assessment approach suitable to the training provided.
+9.2.2. UPDATING TRAINING Updating training is a tailored made program aimed at refreshing or improving specific areas of competency.
+It allows VTS personnel to regain professional knowledge and skills, while reinforcing previous training.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 @ P 18 VTS providers should establish processes and procedures to identify when updating training is required to ensure VTS personnel maintain competency and may be required in circumstances such as: a break in service 
+• an unsatisfactory performance assessment or proficiency check 
+• upon request 
+• when deemed necessary by the VTS provider When an event triggers the need for updating training, a training needs analysis should be conducted to identify performance gaps, establish training goals, and define the required performance levels.
+Before the training begins, VTS personnel should be informed about the program's objectives, duration, and format.
+For example, after a break in service of three months or more, a VTS provider could conduct a training needs analysis to determine if updating training is necessary, considering recent changes, the complexity of the VTS area and the individual's duties.
+Updating training may cover both generic and area-specific competency elements.
+These training activities may be enhanced through the use of case studies and by incorporating simulation exercises tailored to specific tasks performed by VTS personnel.
+These exercises can range from low-level simulation approaches, such as role-playing scenarios, to full mission options that utilise interactive computer-based simulations [13].
+The exercises may cover various areas, including: 
+• Responding to developing unsafe situations 
+• Emergency response to equip individuals with the skills and knowledge necessary to respond effectively to emergencies by ensuring safety and preparedness in crisis situations.
+
+• Joint operation exercises involving multiple parties such as VTS, tugs, pilots, response agencies are involved.
+VTS providers need to identify who would be best positioned to develop and deliver update training, whether in-house, through a Training Organization or a combination of both.
+9.2.3. OTHER TRAINING Other training may be designed to address the specific learning needs and requirements of personnel at a particular VTS, ensuring they remain competent for their duties.
+These programs may focus on area-specific competencies, tools, and procedures relevant to the immediate work environment, such as: 
+• Familiarization trips on vessels with pilots or other stakeholders, visits to allied services, adjacent VTS centres, or other similar organizations to increase knowledge of operations in the VTS area.
+
+• Regular updates of regulatory, procedural and technological developments.
+
+• Attendance and participation in relevant emergency, business continuity, fail over or operational procedural exercises.
+
+• Workplace safety, including induction and first aid courses.
+Where appropriate, practical activities may be accompanied by a workbook in which the learning goal of the activity is linked to several questions, thereby enhancing the learning and integration of this experience into their role.
+9.3. REVALIDATION TRAINING Revalidation training is the periodic, structured training designed to refresh, maintain, and enhance skills, knowledge and competencies of VTS personnel, ensuring the ongoing validity of their VTS qualifications.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 19 Revalidation training provides a mechanism to: 
+• Focus on the retention of critical skills and knowledge to ensure VTS personnel can continue to perform in their roles effectively.
+•
+<doc_end>

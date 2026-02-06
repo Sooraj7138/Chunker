@@ -1,0 +1,4 @@
+<doc_start>
+8.2.2. LIMITATIONS
+AIS NAVIGATION AID ILEE Aid Type: Reference Point MMSI: 993166029 Position: 46°11.407'N 072°52.705'W Positional Accuracy: High (< 10 m) Position Type: Surveyed RAIM Flag: RAIM not in use Virtual: Yes
+<doc_end>

@@ -1,0 +1,9 @@
+<doc_start>
+5.1.1.
+In using Virtual AtoN, the following are among the issues that need to be considered by users:
+
+5.1.1.
+
+• There could be some position offsets in the display of the Virtual AtoN due to shipborne equipment issues such as the quality of GNSS, GNSS smoothing, antenna offsets, gyro and radar error, etc.
+(section 10 provides further details).
+<doc_end>

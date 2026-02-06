@@ -1,0 +1,4 @@
+<doc_start>
+5. ABBREVIATIONS
+XML Extensible Mark-up Language
+<doc_end>

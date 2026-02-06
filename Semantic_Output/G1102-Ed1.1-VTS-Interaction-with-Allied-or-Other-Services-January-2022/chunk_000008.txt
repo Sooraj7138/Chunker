@@ -1,0 +1,145 @@
+<doc_start>
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Interaction of a VTS with allied or other services should be based on at least the following principles or criteria:
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+There should be a clear need for interaction between a VTS and allied or other services:
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+The interaction should not affect the integrity of the services concerned2;
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+The interaction should be based on an arrangement that clearly defines the objective and scope of the interaction, the data and information exchanged, the purpose for (re)use of the data and information, and an external procedure with the operational details as in Annex C;
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+
+• There should be a mechanism or protocol that triggers the interaction, and the period of the interaction (when it is commencing and finishing).
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+VTS data input and output should not interfere with the VTS operational task.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+In case the data output to a stakeholder could result indirectly in a change of vessel behaviour, the VTS provider and this stakeholder should analyse the processes involved and co-ordinate their interaction, to provide the vessel with unambiguous information.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Legal, security and confidentiality considerations and constraints should be taken into account when the interaction arrangement is being established.
+See annex D.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+The capabilities of VTS systems can create value to allied and other services, even to satisfy business needs from stakeholders, which are normally not associated with the VTS:
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+
+• Import of voyage information.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Export of the general traffic image interfacing with the voyage information.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Export of the information of the vessels automatically connected to the available dangerous and polluting cargo and voyage information.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Capability to automatically connect vessels to the available route information.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Providing or relaying specific messages.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+•
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Export of ETA/ATA (Estimated/Actual Time of Arrival) and ETD/ATD (Estimated/Actual Time of Departure) information, as indicating the time-dependent availability of resources available.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+1
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+UN/CEFACT recommendation (33) and Guidelines on establishing a Single Window to enhance the efficient exchange of information between trade and government.
+United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT).
+See http://www.unece.org/cefact.html
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+2 This includes the integrity of the technical infrastructure and systems used in the interaction.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+ai ww
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+P 5
+
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES
+Nevertheless, the VTS provider may choose to respond to those business needs, as long as the above-mentioned principles or criteria underlying the interaction are respected.
+
+4. INTERACTION WITH ALLIED AND OTHER SERVICES
+It should be taken into account, that interaction between a VTS and allied or other services – inside or outside the maritime domain – could be necessary to sustain those services.
+In such a case, an arrangement between the VTS provider and the provider(s) of those services should be in place.
+
+4. INTERACTION WITH ALLIED AND OTHER SERVICES
+In some cases, when considered necessary, support from a VTS may extend outside the VTS area.
+This could result from national, regional or international arrangements.
+
+4. INTERACTION WITH ALLIED AND OTHER SERVICES
+Some examples of possible interaction between a VTS and allied or other services are described at annex B.
+
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS
+The core capability of a VTS is to interact and respond to traffic situations developing in the VTS area.
+However, there are other stakeholders who may wish to interact with a VTS or with whom the VTS wishes to interact.
+
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS
+In this case, an arrangement should be set up between the VTS provider and the stakeholder(s), and it may be expected that issues and consideration to specific details should be given, as in chapter 3, in order to avoid unintended action, which may impair the VTS services.
+This may vary, depending on the country and legislation applicable.
+
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS
+In addition to the given possible stakeholders as at annex A, the VTS provider may become involved, if not already, in the exchange of traffic related information with state, provincial or local government, and associated agencies or organizations, for purposes less familiar to the maritime domain; such as monitoring emissions from shipping, securing vital supply chains for society and assessing the risks associated with maritime transport of dangerous or polluting cargo close to coastal or port communities.
+
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS
+Examples of possible stakeholders are described in annex A.
+
+6. LEGAL ASPECTS AND CONSTRAINTS
+IALA Guideline G1086 Global Sharing of Maritime Data and Information [1] already provides valuable guidance on legal aspects.
+
+6. LEGAL ASPECTS AND CONSTRAINTS
+Actually, there is a range of potential legal aspects and constraints that could affect the merit of and ability to use VTS information for allied and other services.
+The nature of these will vary between different countries and has to be taken into consideration.
+
+6. LEGAL ASPECTS AND CONSTRAINTS
+Further considerations in this respect are provided at annex D.
+<doc_end>

@@ -1,0 +1,55 @@
+<doc_start>
+Administrations shall ensure that the staff on duty in coast stations and in coast earth stations are adequately qualified to operate the stations efficiently.” VTS personnel should hold appropriate national qualifications to operate the VHF marine radiotelephony equipment.
+These qualifications should include operating procedures relating to distress, urgency, safety and routine communications.
+4.2. LANGUAGE English language should be used for all VTS communications with ships and allied services unless use of an alternative language has been agreed.
+If an alternative language be used, VTS personnel should be mindful that not all participants may understand what is being communicated.
+4.3. CONSISTENCY Attention should be given to the correct use of phraseology where applicable to establish efficient, clear, concise, and unambiguous communications.
+VTS Authorities should implement appropriate procedures to ensure the consistent and correct use of VTS phraseology in all instances in which they are applicable.
+4.4. IMPORTANCE OF USING STANDARD PHRASEOLOGY The use of standard phraseology is important in order to avoid: IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 7 
+• The receiver/s not hearing the message correctly.
+When the standard phrases were adopted, consideration was given to choosing words and phrases that sound distinctly different and therefore cannot be confused under any readability circumstances.
+
+• The receiver/s not understanding the message.
+This may be due to e.g., using phrasal verbs or other words that are not commonly known.
+The different levels of knowledge of the English language contributes to this as well.
+
+• Ambiguity, i.e., the transmitting person may mean one thing and the receiving person may understand something else.
+The message having to be repeated, resulting in delay in response and frequency congestion.
+Parts of the message being incorrectly acted upon.
+4.5. CULTURAL DIFFERENCES Differing cultural experiences and backgrounds may result in different responses to situations.
+A lack of awareness of these differences could increase the possibility of errors and misunderstandings.
+When VTS personnel communicate cross-culturally special attention should be made to: 
+• Share crucial information with ships to create a common perception of potential dangers, even if this information seems “obvious”.
+
+• Use closed loop (or Read-back) techniques when information may be misunderstood such as the number of persons on-board or information that would benefit others using the VTS area, instructions or advice.
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 8 
+5. PART B MESSAGE COMPILATION, DELIVERY AND INTERPRETATION 5.1. COMPILING A MESSAGE The purpose of standard phraseology is to convey information or instructions unambiguously to a specific recipient or recipients.
+Use of standard format and content will help to achieve this purpose.
+Standard phrases are identified in Part C for use in operational circumstances where time may be critical or where misunderstandings might compromize safety, however there will be many situations where such urgency does not apply and no standard phrase has been identified.
+In such circumstances, plain language1 or locally adopted phrases should be used following the general guidance on phraseology below.
+5.1.1. MESSAGE STRUCTURE Message structure provides the framework to convey information or instructions unambiguously using a standard format and content structure.
+Radio communications messages should have the structure as shown in Table 1: Table 1 Radio communications message structure 
+1. Establish contact (Name of ship/Call sign) this is (name) VTS 
+2. Exchange information a.
+Message marker See 5.1.2 Message markers b.
+Phrase(s) 
+3. End of message Over When expecting a reply 
+4. End of conversation Out When expecting no reply Note (1): Further information is available in Recommendation ITU-R M.1171: Radiotelephony procedures in the maritime mobile service (M.1171-0 (10/95)) [6] and IMO Resolution A.954(23) Proper use of VHF Channels at sea [4].
+Note (2): All relevant ITU regulations for the maritime service are contained in the ITU’s Manual for use by the Maritime Mobile and Maritime Mobile-Satellite Services (Maritime Manual) [8], which is required to be held on- board every ship.
+There are some general rules for construction and content of messages, which should be considered: 
+• Use message markers.
+
+• Use standard phraseology.
+Some standard phrases and the message intent are detailed in Part C.
+
+• Avoid unnecessary words (e.g., “what time do you think your ETA is at the pilot station, thank you”, should be: “what is your ETA at the pilot station”).
+Keep the subject, verb, and object as near to one another as possible.
+
+• Use the active form (such as “INFORMATION.
+Ship BRAVO is overtaking you” instead of passive “INFORMATION.
+You are being overtaken by ship BRAVO).
+
+• The use of action words (e.g., PROCEED) should come before the condition (e.g., time or location).
+1 Plain language is writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience.
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+<doc_end>

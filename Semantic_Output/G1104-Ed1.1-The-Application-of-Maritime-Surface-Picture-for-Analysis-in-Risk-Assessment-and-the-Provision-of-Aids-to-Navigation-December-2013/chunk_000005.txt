@@ -1,0 +1,14 @@
+<doc_start>
+DOCUMENT REVISION
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+DOCUMENT REVISION
+Date Details Approval December 2013 First issue.
+Council 56 July 2022 Edition 1.1 Editorial corrections.
+DOCUMENT REVISION
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+DOCUMENT REVISION
+P 2
+
+DOCUMENT REVISION
+<doc_end>

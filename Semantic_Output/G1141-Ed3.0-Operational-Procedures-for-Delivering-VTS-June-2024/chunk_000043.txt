@@ -1,0 +1,26 @@
+<doc_start>
+Operational Considerations:
+Positive identification of ship to be supported.
+Operational Considerations:
+Alternative options (e.g., anchor, provision of pilot, amendment to voyage or passage plan).
+Operational Considerations:
+3 Cargo carried.
+Operational Considerations:
+Risk if navigational support is not provided.
+Operational Considerations:
+Environmental conditions (wind, day/night, visibility, tidal height, tidal stream).
+Operational Considerations:
+6 Other ship traffic.
+Operational Considerations:
+Communications channel for navigational support.
+Checks:
+1 Master’s understanding that VTS navigational support does not absolve the master from responsibility for the safety of their vessel or for collision avoidance.
+Checks:
+Master’s acceptance of navigational support.
+Checks:
+Commencement of navigational support.
+Checks:
+Completion of navigational support.
+Checks:
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+<doc_end>

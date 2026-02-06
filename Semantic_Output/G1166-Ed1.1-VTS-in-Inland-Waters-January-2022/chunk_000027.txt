@@ -1,0 +1,38 @@
+<doc_start>
+7. REFERENCES
+UN.
+United Nations Convention on the Law of the Sea of 10 December 1982
+
+
+7. REFERENCES
+IMO.
+International Convention for the Safety of Life at Sea (SOLAS)
+
+
+7. REFERENCES
+[2]
+
+
+7. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+7. REFERENCES
+[4] IALA.
+VTS Manual
+
+
+7. REFERENCES
+PIANC.
+InCom WG 125/I: Guidelines and Recommendations for River Information Services (2019)
+
+
+7. REFERENCES
+PIANC.
+InCom WG 156: E-Navigation for Inland Waterways (2017)
+
+
+7. REFERENCES
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+<doc_end>

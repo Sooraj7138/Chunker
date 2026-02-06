@@ -1,0 +1,8 @@
+<doc_start>
+2.8.1. RADIO
+compose and may increase workload.
+Similarly, the need for closed loop communications may generate an increase in workload and affect the staffing level.
+2.8.1. RADIO
+The level of radio communications is strongly influenced by the number of reporting points and traffic density and staffing levels should reflect this.
+The number and location of the reporting points should be kept under review in order to reduce radio communications.
+<doc_end>

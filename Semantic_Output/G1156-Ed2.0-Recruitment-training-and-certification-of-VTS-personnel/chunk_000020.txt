@@ -1,0 +1,50 @@
+<doc_start>
+9.3. REVALIDATION TRAINING
+Revalidation training is the periodic, structured training designed to refresh, maintain, and enhance skills, knowledge and competencies of VTS personnel, ensuring the ongoing validity of their VTS qualifications.
+9.3. REVALIDATION TRAINING
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+9.3. REVALIDATION TRAINING
+
+9.3. REVALIDATION TRAINING
+P 19
+
+9.3. REVALIDATION TRAINING
+Revalidation training provides a mechanism to:
+
+9.3. REVALIDATION TRAINING
+
+• Focus on the retention of critical skills and knowledge to ensure VTS personnel can continue to perform in their roles effectively.
+9.3. REVALIDATION TRAINING
+
+• Refresh specific skills, particularly those that may degrade over time without use.
+9.3. REVALIDATION TRAINING
+
+• Assess the competency of VTS personnel through a structured and standardised programme.
+9.3. REVALIDATION TRAINING
+Competent Authorities are responsible for ensuring that revalidation training is carried out at intervals of between three to five years, and for providing guidance on how revalidation training may be delivered.
+This guidance can include, for example, the use of structured courses, simulation exercises, or other approved formats.
+9.3. REVALIDATION TRAINING
+VTS providers should have processes and procedures in place to ensure that VTS personnel complete revalidation training within the timeframes and guidance provided by the competent authority.
+9.3. REVALIDATION TRAINING
+Where VTS personnel hold additional qualifications, such as VTS supervisors or OJT instructors, they are expected to maintain the competencies required for these roles.
+Competent Authorities may determine the revalidation requirements, which could include attending a structured revalidation course aligned with the original model course (e.g.
+C0103-2 and C0103-4) or other comparable approaches such as:
+
+9.3. REVALIDATION TRAINING
+
+• Demonstrating continued competence through active supervisory duties or instructional activities.
+9.3. REVALIDATION TRAINING
+
+• Participation in relevant professional development activities (e.g.
+leadership, crisis management, decision-making, coaching, or instructional design), or
+
+9.3. REVALIDATION TRAINING
+
+• Using other approved methods that ensure continued competence in leadership, mentoring, and assessment.
+9.3. REVALIDATION TRAINING
+Revalidation training may be delivered either by an accredited VTS Training Organization, or a VTS provider approved to provide revalidation training for their own personnel.
+It is acknowledged that, depending on how the training program is structured, both an accredited VTS Training Organization and the VTS provider may be involved in developing and delivering training activities.
+9.3. REVALIDATION TRAINING
+IALA Model Course C0103-5 Revalidation training for VTS Personnel provides further guidance on how this training may be established.
+<doc_end>

@@ -1,0 +1,44 @@
+<doc_start>
+12. ABBREVIATIONS
+CPD Continual professional development
+
+
+12. ABBREVIATIONS
+IELTS International English Language Testing System
+
+
+12. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+12. ABBREVIATIONS
+OJT On-the-job training
+
+
+12. ABBREVIATIONS
+SMCP Standard Marine Communication Phrases
+
+
+12. ABBREVIATIONS
+VTS Vessel Traffic Services
+
+
+13. REFERENCES
+IMO.
+Resolution A.1158(32) on Guidelines for Vessel Traffic Services
+
+
+13. REFERENCES
+IALA.
+Standard S1050 Training and Certification
+
+
+13. REFERENCES
+IALA.
+Recommendation R0103 Training and Certification of VTS Personnel
+
+
+13. REFERENCES
+IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases
+<doc_end>

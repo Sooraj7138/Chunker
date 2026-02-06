@@ -1,0 +1,154 @@
+<doc_start>
+Edition 2.0 January 2022
+urn:mrn:iala:pub:g1089:ed2.0
+
+Edition 2.0 January 2022
+
+Edition 2.0 January 2022
+DOCUMENT REVISION
+
+Edition 2.0 January 2022
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Edition 2.0 January 2022
+Date Details December 2012 1st issue January 2022 Edition 2.0 Approved by Council December 2021 and published January 
+2022. Major review to align with new/revised IALA documentation since Edition 1 was released and IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 74
+
+Edition 2.0 January 2022
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+
+Edition 2.0 January 2022
+
+Edition 2.0 January 2022
+P 2
+
+Edition 2.0 January 2022
+CONTENTS
+
+Edition 2.0 January 2022
+4.1.1. 4.1.2. 4.2.1. 4.3.2. 4.3.3. 4.3.4.
+
+Edition 2.0 January 2022
+
+1. Edition 2.0 January 2022
+INTRODUCTION ...................................................................................................................................
+4
+
+Edition 2.0 January 2022
+
+2. DOCUMENT PURPOSE ..........................................................................................................................
+4
+
+Edition 2.0 January 2022
+
+3. CONSIDERATIONS ................................................................................................................................
+4
+
+Edition 2.0 January 2022
+Regulatory and Legal Framework ............................................................................................................
+4
+
+Edition 2.0 January 2022
+3.1.
+
+Edition 2.0 January 2022
+3.2.
+
+Edition 2.0 January 2022
+Interaction with participating ships .........................................................................................................
+5
+
+Edition 2.0 January 2022
+3.2.1. Message Markers ..............................................................................................................................................................
+5
+
+Edition 2.0 January 2022
+
+4. PROVISION OF VTS TO PARTICIPATING SHIPS.......................................................................................
+6
+
+Edition 2.0 January 2022
+4.1.
+
+Edition 2.0 January 2022
+Timely and relevant information .............................................................................................................
+6
+
+Edition 2.0 January 2022
+Delivery of Information .....................................................................................................................................................
+6
+
+Edition 2.0 January 2022
+Examples of timely and relevant information ..................................................................................................................
+7
+
+Edition 2.0 January 2022
+4.2. Monitoring and management of ship traffic ...........................................................................................
+7
+
+Edition 2.0 January 2022
+Examples of the Monitoring and Management of Ship Traffic ..........................................................................................
+8
+
+Edition 2.0 January 2022
+Responding to developing unsafe situations ...........................................................................................
+9
+
+Edition 2.0 January 2022
+4.3.
+
+Edition 2.0 January 2022
+4.3.1. When Observed ...............................................................................................................................................................
+10
+
+Edition 2.0 January 2022
+On Request ......................................................................................................................................................................
+10
+
+Edition 2.0 January 2022
+Procedural .......................................................................................................................................................................
+10
+
+Edition 2.0 January 2022
+Examples of Responding to Developing Unsafe Situations ..............................................................................................
+10
+
+Edition 2.0 January 2022
+
+5. VTS BEYOND TERRITORIAL SEAS ........................................................................................................
+11
+
+Edition 2.0 January 2022
+VTS in association with an IMO adopted system ...................................................................................
+11
+
+Edition 2.0 January 2022
+5.1.
+
+Edition 2.0 January 2022
+5.2.
+
+Edition 2.0 January 2022
+VTS on the basis of voluntary participation ...........................................................................................
+11
+
+Edition 2.0 January 2022
+
+6. OTHER CONSIDERATIONS ..................................................................................................................
+11
+
+Edition 2.0 January 2022
+
+7. DEFINITIONS ......................................................................................................................................
+12
+
+Edition 2.0 January 2022
+
+8. ABBREVIATIONS ................................................................................................................................
+12
+
+Edition 2.0 January 2022
+
+9. REFERENCES ......................................................................................................................................
+12
+<doc_end>

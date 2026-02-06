@@ -1,0 +1,84 @@
+<doc_start>
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Types of shore-based tasks (examples) that should be portrayed.
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Do a command
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Radar acquire target
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Identify a radar track
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Modify data
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Create or modify a vessel trip
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Manage the portrayal
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Chart pan, zoom in, zoom out, etc.
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Perform measurements ; CPA, Distance,…,
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Handling of Alarms (grounding etc.) received
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Handling from Alarms received by MOB’s etc.
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Handling of (system)errors on inputs (radar, AIS, ..)
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Filtering of information
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Managing AtoN
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Managing (temporary) obstructions
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Support tasks
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Recent information playback
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Reporting dangerous situations/accidents
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Auxiliary tasks
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Shift on and shift off operators
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Maintenance tasks and diagnostics
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Sensor controls
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Housekeeping tasks
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+Examples of new applications or systems that may be related to portrayal of IALA information and data were compiled in conjunction with the preparation of this Guideline and can now be found at:
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+https://www.iala-aism.org/technical/information-portrayal/portrayal-examples/
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+https://www.iala-aism.org/technical/information-portrayal/iala-portrayal-guideline/
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+
+ANNEX A PORTRAYAL EXAMPLES (specific to shore-based systems)
+P 21
+<doc_end>

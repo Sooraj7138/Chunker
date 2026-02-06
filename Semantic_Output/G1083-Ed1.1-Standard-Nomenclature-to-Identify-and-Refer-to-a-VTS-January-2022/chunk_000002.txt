@@ -1,0 +1,7 @@
+<doc_start>
+4. LOCAL PORT SERVICES
+IALA makes provision for Local Port Services but makes it clear that it is not an authorised VTS and therefore should not use the term “VTS” in its name identifier.
+
+4. LOCAL PORT SERVICES
+However, it is recommended that the same format be used with location forming part of the name identifier with a prefix or suffix other than VTS.
+<doc_end>

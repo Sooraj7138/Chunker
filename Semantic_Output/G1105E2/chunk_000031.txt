@@ -1,0 +1,132 @@
+<doc_start>
+9. ABBREVIATIONS
+AIS Universal Shipborne Automatic Identification System
+
+
+9. ABBREVIATIONS
+ARPA Automatic Radar Plotting Aid
+
+
+9. ABBREVIATIONS
+ASM Application Specific Message
+
+
+9. ABBREVIATIONS
+AtoN Marine Aids to Navigation
+
+
+9. ABBREVIATIONS
+Circ.
+Circular (IMO document)
+
+
+9. ABBREVIATIONS
+COMSAR Sub-Committee on Communications and Search and Rescue (IMO)
+
+
+9. ABBREVIATIONS
+ECDIS Electronic Chart Display and Information System
+
+
+9. ABBREVIATIONS
+ECS Electronic Chart System
+
+
+9. ABBREVIATIONS
+EPFS Electronic Position Fixing System
+
+
+9. ABBREVIATIONS
+ENC Electronic Navigation Chart
+
+
+9. ABBREVIATIONS
+GI Geospatial Information (IHO)
+
+
+9. ABBREVIATIONS
+GPS Global Positioning System
+
+
+9. ABBREVIATIONS
+HCD Human Centred Design
+
+
+9. ABBREVIATIONS
+HEAP Human Element Analysing Process
+
+
+9. ABBREVIATIONS
+HMI Human Machine Interface
+
+
+9. ABBREVIATIONS
+IEC International Electrotechnical Commission
+
+
+9. ABBREVIATIONS
+IHO International Hydrographic Organization
+
+
+9. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+9. ABBREVIATIONS
+INS Integrated Navigation System
+
+
+9. ABBREVIATIONS
+ISO International Organization for Standardization
+
+
+9. ABBREVIATIONS
+MSC Maritime Safety Committee (IMO)
+
+
+9. ABBREVIATIONS
+NAV Sub-Committee on Safety-of-Navigation (IMO)
+
+
+9. ABBREVIATIONS
+SENC System Electronic Navigation Chart
+
+
+9. ABBREVIATIONS
+SN Safety of Navigation (IMO)
+
+
+9. ABBREVIATIONS
+S-52 Standard and the portrayal of colours and symbols in ECDIS (IHO)
+
+
+9. ABBREVIATIONS
+S-57 Transfer Standard for Digital Hydrographic Data (IHO)
+
+
+9. ABBREVIATIONS
+S-100 Universal Hydrographic Data Model (IHO)
+
+
+9. ABBREVIATIONS
+SOLAS International Convention for the Safety of Life at Sea
+
+
+9. ABBREVIATIONS
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+
+9. ABBREVIATIONS
+
+
+9. ABBREVIATIONS
+P 15
+
+
+9. ABBREVIATIONS
+VTS Vessel Traffic Services
+
+
+9. ABBREVIATIONS
+WG Working Group
+<doc_end>

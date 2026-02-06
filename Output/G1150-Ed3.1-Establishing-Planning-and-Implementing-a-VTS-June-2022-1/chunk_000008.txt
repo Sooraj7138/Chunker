@@ -1,0 +1,26 @@
+<doc_start>
+Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 15 responsibilities of VTS personnel; health and safety considerations; structure of information flows; operational procedures; and physical security of the VTS centre and remote sites.
+A.7. DESIGN AND TECHNOLOGY Elements to consider include: system users and user requirements; 
+• general outline for a VTS database; and, if appropriate, a general outline for means to retain and retrieve the traffic image, radio and other communication methods and other relevant information; 
+• VTS equipment life cycle, warranty, and maintenance (including training for operational use and maintenance); basic functional design, including reliability and availability targets; 
+• back-up and redundancy arrangements for critical equipment such as surveillance and communications equipment to meet reliability and availability targets; and 
+• man/machine interface and human factors.
+A.8. ALLIED SERVICES Support from allied services should be assessed in terms of their contributions, limitations and potential effectiveness, which may include: pilotage, including pilot boarding arrangements; availability of tug assistance; and 
+• co-operation between authorities, allied services, and the port community, including government agencies such as immigration, customs, coastguard etc.
+A.9. LEGAL Elements to consider include: legal framework, consistent with national law; policy with respect to violations of VTS regulatory requirements; and 
+• liability.
+A.10. VTS PERSONNEL, RECRUITMENT AND TRAINING Elements to consider include: 
+• staffing level; 
+• recruitment; qualifications, training and certification; and/ 
+• managerial requirements.
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 16 A.11. FUTURE REQUIREMENTS Elements to consider include: Trends in maritime traffic and future developments which could have an impact on: the number of ships operating in or passing the area; types and sizes of ships required to participate with the VTS; and cargo carried and possible restrictions for other traffic.
+
+• developments in VTS and navigation-related technology; and 
+• implications of future SOLAS carriage requirements for navigational and/or communication equipment onboard and their applicability to ships expected in the VTS Area.
+Note: The SOLAS Convention is not applicable to small craft.
+A.12. FINANCIAL Elements to consider include: funding, including source(s); and implementation (including staffing levels and training) and ongoing operating costs.
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 17 ANNEX B PASSIVE TRAFFIC MANAGEMENT MEASURES Examples of passive traffic management measures to consider as additional or alternative risk mitigation measures to a VTS to address the issues and problems associated with the volume of traffic and degree of risk in the waterway include: 
+• enhancement of the existing legal and organizational framework, such as adjustments in local by- laws, rules and recommendations; space allocation policy; ships’ routeing (SOLAS V/10 and IMO resolution A.572(14), as amended; ship reporting systems (SOLAS V/11 and resolution A.572(14), as amended; enhancements to physical and electronic aids to navigation; enhanced pilotage requirements; 
+• dredging or full/partial clearance of navigational hazards to improve safety within navigational channels; and implementation or enhancement of emergency response organization.
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1 P 18
+<doc_end>

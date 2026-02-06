@@ -1,0 +1,9 @@
+<doc_start>
+5. DEFINITIONS
+(UNECE resolution No.
+63, International Standard for Tracking and Tracing on Inland Waterways (VTT), revision 2)
+
+
+5. DEFINITIONS
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+<doc_end>

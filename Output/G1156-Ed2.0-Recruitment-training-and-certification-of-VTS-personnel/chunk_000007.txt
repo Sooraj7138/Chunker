@@ -1,0 +1,43 @@
+<doc_start>
+Periodic tests are to be completed to assess competency with standard message structure and phrases.
+As determined by the VTS Provider - Annually, or more frequently SKILLS AND DEVELOPMENT TRAINING Training to be completed when significant changes to VTS As determined by the VTS Adaptation training operations are expected, such as changes associated with provider, preferably before equipment, regulations, operational procedures etc.
+the change(s) takes place.
+Updating training A tailor-made programme based on a training needs analysis which identifies that an individual requires additional training to maintain competency.
+As determined by the VTS provider within the requirements of the Competent Authority Other training Additional training programs that may address specific learning needs of personnel at a VTS.
+As determined by the VTS provider, requirements of IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 16 Component Requirement Frequency the relevant qualification or national requirements REVALIDATION TRAINING Revalidation training Structured training course or program that ensures the ongoing validity of VTS qualifications (Model Course C0103-5 – Revalidation training for VTS Personnel).
+Training to be delivered by Training Organizations or may be delivered by a VTS provider.
+As determined by the Competent Authority - Intervals between 3 to 5 years.
+9.1. PERIODIC ASSESSMENTS Once VTS personnel are trained and qualified, regular performance and competency assessments should be undertaken to ensure that established standards continue to be met.
+These periodic assessments may identify areas for improvements that can trigger a need for additional skills and development training.
+9.1.1. PERFORMANCE ASSESSMENT Performance assessment is a process used to evaluate an individual’s job performance in carrying out specific tasks or functions associated with VTS duties.
+This assessment provides insights into their effectiveness and skills, while also identifying areas for improvement and development.
+Performance assessments may be carried out using different approaches, including as part of the annual assessment of personnel, through a 360° assessment process or other methods.
+Regardless of the approach used, performance assessment of VTS personnel should be carried out at regular intervals to evaluate an individual’s competence to carry out their VTS duties.
+These assessments may include a combination of elements, for example: 
+• Proficiency checks to measure specific levels of skill or knowledge 
+• Scenario/ Simulation exercises 
+• Structured peer reviews conducted by VTS Personnel trained as a VTS On-the-Job Training Instructor 
+• Review organised and/or conducted by a VTS Supervisor 
+• Review of reports and voice recordings If a performance assessment shows that established competency is not being met, then updating training with the individual should be considered to help maintain their qualifications.
+The content of this training can be identified through a training needs analysis (see annex A).
+To demonstrate the performance of VTS personnel is being observed and monitored, VTS providers should ensure: 
+• The framework and assessment methods used to undertake performance assessments is documented.
+
+• Processes and procedures are in place to ensure performance assessments are completed.
+
+• The assessment that an individual VTS operator has satisfactorily completed a performance assessment should be documented / signed off by nominated staff member/s.
+
+• The outcomes are reflected in training records.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 17 VTS ENGLISH COMMUNICATIONS COMPETENCY TESTING VTS Communications competency tests are designed to monitor that VTS personnel continue to conform with the practices for VTS communications as outlined in IMO Standard Marine Communication Phrases (SMCP)[4] and IALA G1132 on VTS Voice Communications and Phraseology [16].
+VTS providers should monitor that VTS personnel continue to conform with the practices for VTS communications as outlined in IMO Standard Marine Communication Phrases (SMCP) and IALA G1132. IALA Guideline on VTS English Communication Competency Testing [13] provides a framework for VTS providers to assess competency with standard message structure and phrases.
+SKILLS AND DEVELOPMENT TRAINING Skills and development training focuses on building the abilities needed to perform tasks proficiently.
+This includes being able to keep up with changes in technology, regulations, or the operating environment as well ensuring VTS personnel can apply this knowledge effectively into real-world scenarios.
+VTS providers should determine the type of training required for their operations to build the skills, knowledge and capabilities of their VTS personnel.
+The common types of training are: 
+• Adaption Training 
+• Updating Training 
+• Other Training To identify specific skills gaps and development needs for VTS personnel it is recommended that a training needs analysis should be undertaken.
+Annex A provides an example of how a training needs analysis for an individual may be completed.
+9.2.1. ADAPTATION TRAINING Adaptation training is carried out whenever significant changes to VTS operations are expected or when changes have been made, concerning equipment, regulations, operational procedures or any other matter which is relevant to the performance of VTS personnel.
+This training should preferably be delivered before
+<doc_end>

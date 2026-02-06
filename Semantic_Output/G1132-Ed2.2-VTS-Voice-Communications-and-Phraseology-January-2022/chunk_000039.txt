@@ -1,0 +1,136 @@
+<doc_start>
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+Guidance on distress and safety communications is provided in the ITU publication Radio Regulations Volume 1 (2020) Chapter VII.
+[6]This includes distress (MAYDAY), urgency (PAN PAN) and safety (SECURITÉ) calls and messages and operational procedures for such calls over Digital Selective Calling (DSC) or voice channels.
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+More detailed guidance is published by IMO in the GMDSS Manual [10] which includes:
+
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+
+• “distress, … urgency … and safety ….
+communications shall have absolute priority over all other transmissions”.
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+
+• “All stations which receive a distress alert or a call transmitted on the distress and safety frequencies … shall immediately cease any transmission capable of interfering, ….
+set watch on the radiotelephone frequency associated ….
+and prepare for subsequent traffic”.
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+
+• “Coast station … in receipt of distress alerts or distress calls shall ensure that they are routed as soon as possible to a rescue coordination centre”.
+5.2.11. DISTRESS AND SAFETY COMMUNICATIONS
+A VTS may receive distress and safety communications (e.g., VTS working channel or VHF channel 16).
+VTS personnel should, therefore, be trained and practiced in responding to distress and safety communications.
+5.3. HOW TO INTERPRET A MESSAGE
+Interpretation of the message requires skills such as encoding in order to achieve effective communications.
+Just as confusion can arise from errors in encoding, it can also arise from decoding especially during emergency situations.
+There could be a number of reasons (internal/external factors) that influence the decoding procedures which should be considered, see Figure 1 below.
+5.3. HOW TO INTERPRET A MESSAGE
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+5.3. HOW TO INTERPRET A MESSAGE
+
+5.3. HOW TO INTERPRET A MESSAGE
+P 17
+
+5.3. HOW TO INTERPRET A MESSAGE
+SENDER RECEIVER intention meaning 1 t code decode Relationship FEEDBACK <n’ Surroundings
+
+5.3. HOW TO INTERPRET A MESSAGE
+Figure 1 Communication process
+
+5.3.1. EFFECTIVE LISTENING SKILLS
+Effective listening skills are used to actively understand information provided by the speaker and it can be categorized into the following steps:
+
+5.3.1.1. Listening
+Listening involves the reception of sounds from the sender by:
+
+5.3.1.1. Listening
+
+• avoiding interruptions;
+
+5.3.1.1. Listening
+
+• clearing one's mind of distractions; and
+
+5.3.1.1. Listening
+
+• focusing on the speaker.
+5.3.1.2. Clarity
+The sender and receiver both have a responsibility to ensure that what is said is understood:
+
+5.3.1.2. Clarity
+Ask open questions to probe for further detail if required.
+5.3.1.2. Clarity
+Avoid asking leading questions.
+5.3.1.2. Clarity
+Avoid coming to conclusions before the sender finishes.
+5.3.1.2. Clarity
+Be aware of the sender’s choice and application of words.
+5.3.1.2. Clarity
+Encourage feedback through questioning.
+5.3.1.3. Interpretation
+Interpretation not only requires verification of what the sender has said, but also the understanding of the information given.
+5.3.1.3. Interpretation
+Steps to ensure understanding are:
+
+5.3.1.3. Interpretation
+Communicate your interpretation and verify its accuracy.
+5.3.1.3. Interpretation
+
+• Identify the main issues.
+5.3.1.3. Interpretation
+
+• Do not assume what the sender will say, particularly when receiving routine communications.
+5.3.1.3. Interpretation
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+5.3.1.3. Interpretation
+
+5.3.1.3. Interpretation
+P 18
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+Misunderstandings in messages received may include half-heard words or guessed-at numbers.
+The potential for misunderstanding increases with the complexity of messages and may cause the bridge team to:
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+accept inadequate information received; or
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+
+• determine for themselves the most probable interpretation.
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+Closed-loop communication is a technique used to avoid misunderstandings.
+The sender gives a message, the receiver repeats a received message, or an appropriate part thereof, back to the sender to obtain confirmation of correct reception.
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+When the receiver correctly repeats the message back, the sender will say “YES” (a response in the affirmative).
+When the receiver incorrectly repeats the message back, the sender will say “NO” (a response in the negative) and repeat the correct message.
+If the sender, the person giving the message, does not get a reply back, the sender must repeat it until the receiver starts closing the loop.
+If there is difficulty in confirming reception of a message, the sender may need to consider rephrasing the message.
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+Closed-loop communication should be used to confirm that messages from VTS personnel are correctly received and understood.
+This can be achieved through the following steps:
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+
+• The VTS operator requesting the recipient to repeat back important information (for example, repeat advice, repeat instruction or repeat back).
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+•
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+The recipient reading back or acknowledging in a manner to clearly indicate they have understood the message and will take appropriate action.
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+•
+
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+The VTS operator listening to the read-back to ascertain that the message has been correctly acknowledged and take immediate action to correct any discrepancies revealed by the read-back.
+5.3.2. CLOSED LOOP COMMUNICATIONS [READ-BACK]
+VTS INFORMATION.
+Berth changed to Elm five, read back over.
+SHIP Berth changed to Acorn five, over.
+VTS NO.
+Berth changed to Elm five, read back over.
+SHIP Berth changed to Elm five, over.
+VTS YES.
+Out
+<doc_end>

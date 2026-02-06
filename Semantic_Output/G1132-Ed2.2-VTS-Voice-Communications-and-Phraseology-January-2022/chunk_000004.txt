@@ -1,0 +1,37 @@
+<doc_start>
+1. INTRODUCTION
+Effective communication is an essential component for operations in the maritime environment and is achieved when the intended meaning of the sender and the perceived meaning of the receiver is the same.
+
+1. INTRODUCTION
+The use of standard messaging structure and phrases enables us to communicate quickly and effectively despite differences in language and reduces the risk for misunderstanding.
+
+1. INTRODUCTION
+These principles are essential for the safe and efficient communication, noting:
+
+
+1. INTRODUCTION
+IMO Resolution A.1158(32) Guidelines for vessel traffic services [1] states:
+
+
+1. INTRODUCTION
+“VTS communications should be timely, clear, concise and unambiguous.”.
+
+1. INTRODUCTION
+IMO Resolution A.918(22) IMO Standard Marine Communication Phrases [2] states:
+
+
+1. INTRODUCTION
+“As navigational and safety communications from ship to shore and vice versa, from ship to ship, and on board ship must be precise, simple and unambiguous so as to avoid confusion and error, there is a need to
+
+
+1. INTRODUCTION
+standardize the language used.”
+
+
+1. INTRODUCTION
+IALA Recommendation R1012 VTS Communications [3] states:
+
+
+1. INTRODUCTION
+“The level of safety and efficiency in the movement of maritime traffic within an area covered by a vessel traffic service would be enhanced by ensuring that VTS communications are harmonized through standard phraseology, procedures and technology for the delivery of precise, simple and unambiguous communications
+<doc_end>

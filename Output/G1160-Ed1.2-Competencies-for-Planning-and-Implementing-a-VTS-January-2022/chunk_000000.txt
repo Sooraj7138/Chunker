@@ -1,0 +1,51 @@
+<doc_start>
+IALA IALA GUIDELINE G1160 COMPETENCIES FOR PLANNING AND IMPLEMENTING A VTS Edition 1.2 January 2022 urn:mrn:iala:pub:g1160:ed1.2 10, rue des Gaudines – 78100 Saint Germain en Laye, France Tél.
++33 (0)1 34 51 70 01 – contact@iala-aism.org www.iala-aism.org International Association of Marine Aids to Navigation and Lighthouse Authorities Association Internationale de Signalisation Maritime DOCUMENT REVISION Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Date Details June 2021 First issue.
+Edition 1.1 Approved by Council December 2021 and published January 2022 January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+July 2022 Edition 1.2 Editorial corrections Approval Council 73 Council 74 IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2 P 2 CONTENTS 
+1. DOCUMENT PURPOSE ........................................................................................................................
+4 1.1. Relationship to other documents ............................................................................................................
+4 
+2. INTRODUCTION .................................................................................................................................
+4 
+3. OVERVIEW .........................................................................................................................................
+5 
+4. ESTABLISHING ...................................................................................................................................
+5 4.1. What knowledge and competence are required to establishing VTS?
+...................................................
+6 
+5. PLANNING AND IMPLEMENTING ........................................................................................................
+8 5.1. What knowledge and competencies are required when planning and implementing a VTS?
+...............
+9 
+6. DEFINTIONS .....................................................................................................................................
+10 
+7. ABBREVIATIONS ..............................................................................................................................
+10 
+8. REFERENCES ....................................................................................................................................
+11 List of Tables Table 1 Key areas in establishing, planning and implementing a VTS .......................................................
+5 Table 2 Competencies for establishing a VTS .............................................................................................
+6 Table 3 Competencies for planning and implementing VTS .......................................................................
+9 List of Figures International framework for establishing VTS ...............................................................................
+5 IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2 P 3 
+1. DOCUMENT PURPOSE The purpose of the guidance is to assist Contracting Governments, competent authorities for VTS and VTS providers in establishing, planning and implementing a VTS effectively in a manner consistent with their international obligations under SOLAS and to conform with IALA Standards.
+In particular, the guidance provides a mechanism to ensure those responsible for the planning and implementation are competent in the practices described in Recommendation R0119 (V-119) Establishment of a VTS [1] and associated Guideline G1150 Establishing, Planning and Implementing a VTS [2] 
+• Recommendation R0119 specifies the practices associated with the establishment of a VTS as prescribed in SOLAS regulation V/12 (Vessel Traffic Services) [3] 
+• Guideline G1150 provides the framework to assist authorities in implementing practices specified in Recommendation R0119, including arranging for establishing, planning and implementing VTS.
+For the purpose of this guidance, competence is the application of knowledge, skills, attitude and personal attributes to effectively and efficiently establish, plan and implement VTS to expected and recognized standards.
+The Guideline will also assist: 
+• VTS providers to prepare any necessary “On-the-Job” training for staff deemed necessary; 
+• VTS providers to identify possible external training needs (e.g., project management); and 
+• VTS training organizations to prepare courses upon request.
+1.1. RELATIONSHIP TO OTHER DOCUMENTS Please note, this Guideline describes knowledge, skills, attitudes and personal attributes required to assist in implementing the practices described in Recommendation R0119 for establishing, planning and implementing VTS and the associated Guideline G1150. This Guideline is informative in nature and is to encourage best practice.
+It is not necessary to conform to in order to claim compliance to Recommendation R0119. 
+2. INTRODUCTION The IMO Convention for the Safety of Life at Sea (SOLAS) 1974 - Chapter V (Safety of Navigation), Regulation 12 provides for Vessel Traffic Services and states that: “Contracting Governments undertake to arrange for the establishment of Vessel Traffic Services where, in their opinion, the volume of traffic or the degree of risk justifies such services”.
+Under the general provisions of treaty law and of IMO conventions, States are responsible for promulgating laws and regulations and for taking all other steps which may be necessary to give those instruments full and complete effect so as to ensure safety of life at sea and protection of the marine environment.
+IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [4] recommends Contracting Governments and Members of the Organization which are not Contracting Governments to the Convention to take into account the Guidelines contained in the annex when planning and implementing vessel traffic services in accordance with regulation V/12 of the Convention.
+IALA Guideline G1150 provides the framework to assist authorities in implementing practices specified in IALA R0119. This includes arranging for establishing, planning and implementing a VTS.
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2 P 4 
+3. OVERVIEW The implementation of a VTS to improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment, and its ongoing operation, is a significant investment.
+Careful planning should be undertaken to ensure a VTS is implemented effectively, achieves its objectives and is sufficiently resourced and funded on an ongoing basis.
+A key factor in achieving this is ensuring that those involved
+<doc_end>

@@ -1,0 +1,22 @@
+<doc_start>
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+3.5.
+
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+A VTS has real-time knowledge and provides the following benefits for the bridge team:
+
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+
+• Information about coastal, port and inland waterways and infrastructures and its key and vulnerable locations, thereby improving maritime traffic efficiency.
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+
+• Information about ship activities, including ship position and intention, etc., thereby improving the situational awareness between ships.
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+
+• Navigational assistance in difficult navigation conditions to ensure the safety of ships.
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+
+• Knowledge of conventional port operations, including ship voyage and passage planning and port interface activities, thereby reducing the pressure in voyage and passage planning and help deck officers fully understand the navigation environment in complex traffic situations.
+BENEFITS OF VTS FOR THE BRIDGE TEAM
+Information concerning the coordination of medical assistance in emergency situations.
+<doc_end>

@@ -1,0 +1,58 @@
+<doc_start>
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+The overarching purpose of a good portrayal is to improve safety and efficiency.
+To reach this goal, the following non-exhaustive list of items may be considered when determining user requirements:
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A defined area of interest
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Information that is provided when and where needed
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Standardization of portrayal configuration, which supports consistent application of operational procedures
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Role definition capabilities to support different portrayal profiles, such as Operators, Supervisors, and/or other users as required
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Ergonomic HMI considerations with the goal of reducing and mitigating operator fatigue, distraction, and other factors that may negatively impact overall safety and efficiency
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Minimizing non-essential administrative tasks in order to support the ability of the operator to focus upon critical tasks
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Where possible, automatic validation of data integrity should occur prior to presentation
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+Minimal steps needed to navigate the shore-based equipment in order to retrieve the necessary information to assist in real-time decision making
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+In a portrayal, a distinction should be made between operational alarms (related to navigation safety) and system alarms (related to technical deficiencies with the operating system).
+These alarms should be configured and displayed in an appropriate manner to ensure that they are relevant to users
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A log of warnings and alarms should be maintained and readily accessible to the user
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A portrayal should not restrict the innovation of equipment manufacturers and unnecessarily interfere with the individual operational and risk-based requirements of individual shore-based Authorities
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A portrayal may also contain considerations regarding system failures and recovery, and if possible/appropriately describe business continuity measures
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A portrayal should consider local regulations considering storage and access of data
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A portrayal should consider measures to be taken against unauthorized access to the system
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+A portrayal should have some flexibility to consider advanced technologies that may be adopted in the future for AtoN requirements and management (ARM), ships, VTS, etc..
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+
+EXAMPLES OF ITEMS THAT MAY CONTRIBUTE TO A GOOD PORTRAYAL
+P 14
+<doc_end>

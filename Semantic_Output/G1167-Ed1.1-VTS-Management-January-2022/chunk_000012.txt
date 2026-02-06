@@ -1,0 +1,16 @@
+<doc_start>
+4.4. TECHNICAL
+IALA Guideline G1167 VTS Management Edition 1.0 urn:mrn:iala:pub:g1167:ed1.0
+
+4.4. TECHNICAL
+
+4.4. TECHNICAL
+P 7
+
+4.4. TECHNICAL
+
+• responding to equipment outages and ensuring helpdesk functions are 24/7 available to support the VTS centre; and
+
+4.4. TECHNICAL
+ensuring training equipment is provided.
+<doc_end>

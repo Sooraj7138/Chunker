@@ -1,0 +1,90 @@
+<doc_start>
+5.3. REQUIREMENTS OF COMMUNICATIONS
+communication should be concise and unambiguous.
+5.3. REQUIREMENTS OF COMMUNICATIONS
+It should be noted that information provided by the VTS centre does not affect the statutory responsibilities and duties of deck officers.
+5.3. REQUIREMENTS OF COMMUNICATIONS
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1
+
+5.3. REQUIREMENTS OF COMMUNICATIONS
+P 9
+
+5.4. VOICE COMMUNICATION IN VTS
+To ensure the communication efficiency, deck officers should make use of SMCP, including the use of message markers, and IALA Guideline G1132 VHF Voice Communication.
+Several tools are provided in the Guideline to improve the effectiveness of communication.
+5.4. VOICE COMMUNICATION IN VTS
+Communication should:
+
+5.4. VOICE COMMUNICATION IN VTS
+
+• Clearly indicate the identity of the ship and the VTS centre.
+5.4. VOICE COMMUNICATION IN VTS
+
+• Use the assigned frequencies/channels of the VTS.
+5.4. VOICE COMMUNICATION IN VTS
+
+• Use the correct reporting procedures of the VTS.
+5.4. VOICE COMMUNICATION IN VTS
+
+• Take into account the limitations within radio telecommunication, both when receiving and transmitting communication with a VTS.
+
+6. TRAINING ACTIVITIES
+VTS should be included in the mandatory national training programmes for deck officers developed in accordance with the provisions of the STCW Code and be reflected in examination and assessment.
+VTS should also be included in other types of training such as bridge resource management, voyage planning, and voice communication.
+6.1. THEORY TRAINING
+Theory training on VTS should include the following:
+
+6.1. THEORY TRAINING
+Introduction of VTS, including functions, responsibilities, and procedures of VTS.
+6.1. THEORY TRAINING
+
+• Requirements for transiting through the VTS area.
+6.1. THEORY TRAINING
+
+• Benefits of VTS for the bridge team.
+6.1. THEORY TRAINING
+
+• Communication methods and standard phraseology between the bridge team and VTS.
+6.1. THEORY TRAINING
+
+• Where to find information on VTS.
+6.2. PRACTICAL TRAINING
+Ships navigating in an area where VTS is provided should make use of these services.
+The introduction of VTS in practical training is helpful for deck officers to be familiar with the operation of ships in the VTS area.
+Examples of elements for training are provided in table 1.
+
+6.2. PRACTICAL TRAINING
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1
+
+6.2. PRACTICAL TRAINING
+P 10
+
+6.2. PRACTICAL TRAINING
+Table 1 Examples of practical training elements
+
+6.2. PRACTICAL TRAINING
+Training activity Specific items Evaluation elements about VTS Evaluation requirements − Obtain the necessary VTS information Voyage or passage plan Develop a voyage or passage plan Develop a contingency plan − Identify the relevant VTS interaction(s) − Include the VTS information in the voyage or passage plan − Consider possible incidents in the VTS area − Identify contingencies that take into account how VTS can assist VTS influencing factors should be fully considered and reflected in the formulation of the voyage or passage plan.
+Actual operation through a specific VTS area Entry into the VTS area Passage through the VTS area Incidents within the − Contact VTS − Include relevant VTS information in your decision making − Maintain communication with VTS − Actively participate in the VTS − Contact VTS − Include relevant VTS information in your In the VTS area, ships should report to VTS as required, seek assistance from VTS, and cooperate with VTS to deal with incidents.
+VTS area decision making − Maintain communication with VTS
+
+6.3.1. VHF
+Effective VTS VHF communication directly contributes to navigational safety and efficiency.
+VHF communication training improves coordination and understanding between ships and the VTS centre.
+This training may also be carried out as simulation.
+6.3.2. ECDIS
+The use of ECDIS assists in the identification of VTS coverage, and location of the VTS reporting line/point.
+Training on ECDIS should include reference to the use of ECDIS in a VTS area.
+Examples of elements for training are provided in table 2.
+
+6.3.2. ECDIS
+Table 2 Examples of VTS factors that can be considered in ECDIS practical training
+
+6.3.2. ECDIS
+Training activity Evaluation elements Voyage or passage plan through the VTS area − Clarify coverage of VTS and location of VTS reporting points − Voyage or passage planning should include information on the VTS area Monitoring the movement of the ship in the VTS area − Take note of the VTS area and VTS reporting lines/points
+
+6.3.2. ECDIS
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1
+
+6.3.2. ECDIS
+P 11
+<doc_end>

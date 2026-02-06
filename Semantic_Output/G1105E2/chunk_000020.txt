@@ -1,0 +1,18 @@
+<doc_start>
+6.3.
+This standard includes seven (7) types of messages that were to be used during a four-year trial period.
+This standard was superseded by IMO SN.1/Circ.289.
+
+6.3.
+IMO SN.1/Circ.289, Guidance on the Use of AIS Application-Specific Messages, 2 June 2010.
+
+6.3.
+Formerly called AIS Binary Messages, AIS Application-Specific Messages (ASMs) are transmitted and received by shipborne mobile AIS devices and AIS base stations.
+Over 19 AIS message types are described capable of conveying a wide range of hydrographic, meteorological, VTS, area notice, and route information.
+The display, generation and transmission of the information transmitted by AIS Application-Specific Messages requires external hardware and dedicated software in addition to the AIS equipment (e.g., ECDIS, ECS or VTS display).
+6.3.
+IMO SN.1/Circ.290, Guidance for the Presentation and Display of AIS Application-Specific Message information, 2 June 2010.
+
+6.3.
+4
+<doc_end>

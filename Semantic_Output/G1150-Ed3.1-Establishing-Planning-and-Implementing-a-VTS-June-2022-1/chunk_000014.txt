@@ -1,0 +1,15 @@
+<doc_start>
+5.1. PHASE 1: INITIATING
+
+• IWRAP - The IALA Waterway Risk Assessment Program (IWRAP) risk assessment process provides a standardized, quantitative method to evaluate the probability of collisions and groundings in a given waterway.
+Using AIS data IWRAP is a Windows-based software program, allowing for different scenarios to be developed, so that changes such as those in traffic volume or composition, route geometry, aids to navigation or the introduction of other mitigating measures, can be modelled.
+5.1. PHASE 1: INITIATING
+A comprehensive explanation of IWRAP can be found in IALA Guideline G1123 [12].
+5.1. PHASE 1: INITIATING
+
+• SIRA - The Simplified IALA Risk Assessment (SIRA) is a simplified qualitative method to assess the volume of traffic and degree of risk and identify potential risk mitigation options to reduce the risks to acceptable levels.
+5.1. PHASE 1: INITIATING
+SIRA is particularly applicable where good quality AIS data, on which IWRAP depends, is not available or where access to individuals with the necessary level of experience in the risk categories used by PAWSA is limited.
+5.1. PHASE 1: INITIATING
+A comprehensive explanation of SIRA can be found in IALA Guideline G1138 [13].
+<doc_end>

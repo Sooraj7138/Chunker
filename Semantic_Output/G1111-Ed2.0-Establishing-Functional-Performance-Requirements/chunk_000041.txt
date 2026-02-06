@@ -1,0 +1,20 @@
+<doc_start>
+5. ABBREVIATIONS
+watt
+
+
+5. ABBREVIATIONS
+W
+
+
+5. ABBREVIATIONS
+WGS84 World Geodetic System 1984 (Reference coordinate system used by GPS)
+
+
+5. ABBREVIATIONS
+WMO World Meteorological Organization
+
+
+5. ABBREVIATIONS
+X-band 8.0 – 12.0 GHz (Note: military designation is I-band)
+<doc_end>

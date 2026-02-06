@@ -1,0 +1,28 @@
+<doc_start>
+3.1. CONTENTS OF THE FRAMEWORK
+In setting this framework, it was recognised that information about a VTS is published in a variety of nautical publications that are widely made available to the mariner in addition to being published by individual VTS providers.
+In the latter case, the data provided may refer only to the local VTS area.
+It is important that mariners have timely access to the range of information and procedures that may be required when entering or passing through a VTS area, this may include information about vessels that may be encountered in the area.
+3.1. CONTENTS OF THE FRAMEWORK
+VTS providers are advised to consider the extent and means of publishing information about the services that they provide.
+In particular, they should ensure that all potential VTS users are fully informed about the services, the facilities available and the reporting requirements on the vessels and their movements when approaching or entering a VTS area.
+3.1. CONTENTS OF THE FRAMEWORK
+IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1
+
+3.1. CONTENTS OF THE FRAMEWORK
+P 4
+
+3.1. CONTENTS OF THE FRAMEWORK
+)
+
+3.1. CONTENTS OF THE FRAMEWORK
+VTS providers should maintain up-to-date information in the appropriate nautical publications, e.g., Admiralty List
+
+3.1. CONTENTS OF THE FRAMEWORK
+of Radio Signals.
+3.1. CONTENTS OF THE FRAMEWORK
+A template for promulgating this information is at annex A.
+3.1. CONTENTS OF THE FRAMEWORK
+Reports required should be consistent with IMO Resolution A.
+1158(32).
+<doc_end>

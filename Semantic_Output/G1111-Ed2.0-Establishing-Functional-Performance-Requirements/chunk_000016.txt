@@ -1,0 +1,5 @@
+<doc_start>
+DOCUMENTATION 3.3.9.
+The VTS provider should specify deliverable documentation to accompany the VTS equipment, which should be available for appropriate personnel.
+As a minimum, documentation should include:
+<doc_end>

@@ -1,0 +1,27 @@
+<doc_start>
+should be based on the number of days leave granted multiplied only by the shift hours per day (not the full 24 hours).
+
+4. Hours sickness per year ('g') is an estimate based on historic records and averaged across the VTS department.
+
+5. Hours training per year ('h') should include the training hours scheduled for the year.
+
+6. Individual minutes lost per shift for meals, handovers and breaks etc.
+('i') should be based only on the individual.
+This will generate the necessary increase in staff required to enable staff rotation.
+Next Steps: The total, 'T', generated giving the “number of VTSOs/Supervisors required for staffing a VTS Centre” is the theoretical minimum to provide continuous cover of all workstations whilst also enabling all the criteria of leave, sickness, training, breaks and handover that have been set into the formula to be met.
+It is then necessary to design a roster that will achieve this.
+In practice, designing a practical and workable roster is likely to result in a higher number of staff in order to meet this theoretical minimum requirement.
+There are, however, other practical considerations that may also need to be addressed in developing a tailored roster that meets the specific requirements of each individual VTS Centre.
+Some of these considerations may result in increases over the theoretical staffing level and others may result in reductions; these include: Consideration of local and cultural issues.
+
+• Consideration of other shift-working arrangements that are already be in place within the organization.
+
+• Consideration of activity levels in office hours during the working week compared with activity levels outside these hours.
+Consideration of varying but predictable traffic levels e.g., those due to tidal constraints.
+The use of a “day-worker” during periods of increased activity levels to enable staff rotation.
+Allowing staff to be stood down selectively but on immediate recall in periods of low activity.
+Substitution of a VTSO with a VTS Supervisor to allow breaks to be taken.
+
+• Using certificated VTS Staff to support other shift work roles collocated with the VTS resulting in greater staffing efficiencies overall in a port’s control and/or administration centre.
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2 P 14
+<doc_end>

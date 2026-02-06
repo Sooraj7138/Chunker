@@ -1,0 +1,11 @@
+<doc_start>
+2.6. TRAINING
+The VTS provider should ensure that VTS personnel are adequately trained in the use of DSTs.
+2.6. TRAINING
+General training on the general principles of types and common uses of DSTs should be provided in IALA Model Course C0103-1 VTS Operator Training (V103/1) [6].
+2.6. TRAINING
+Specific training on the use and application of DSTs within specific VTS centres should be provided as a component of IALA Model Course C0103-3 VTS On-the-Job Training (V103/3) [7].
+Additionally, further training should be provided when new DSTs are introduced, or modifications are made to existing DSTs and covered within C0103-5 Revalidation Process for VTS Qualification and Certification (V103/5) [8].
+2.6. TRAINING
+Emphasis should be given on the inputs and limitations of the DSTs.
+<doc_end>

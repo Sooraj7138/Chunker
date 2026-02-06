@@ -1,0 +1,10 @@
+<doc_start>
+15. REFERENCES
+IHO.
+S-4 Regulations of the IHO for International (INT) charts and charts specifications of the IHO
+
+
+15. REFERENCES
+IHO.
+S-52 Specifications for Chart Content and Display Aspects of ECDIS
+<doc_end>

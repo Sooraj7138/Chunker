@@ -1,0 +1,30 @@
+<doc_start>
+8. ABBREVIATIONS
+VTS Vessel traffic service or vessel traffic services (dependent on context)
+
+
+9. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+9. REFERENCES
+[2] IALA.
+VTS Manual
+
+
+9. REFERENCES
+IALA.
+Guideline G1156 Recruitment, Training and Assessment of VTS Personnel
+
+
+9. REFERENCES
+IALA Guideline G1167 VTS Management Edition 1.0 urn:mrn:iala:pub:g1167:ed1.0
+
+
+9. REFERENCES
+
+
+9. REFERENCES
+P 10
+<doc_end>

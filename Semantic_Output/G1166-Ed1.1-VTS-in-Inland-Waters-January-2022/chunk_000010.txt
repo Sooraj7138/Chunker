@@ -1,0 +1,34 @@
+<doc_start>
+4.2.1. IALA GUIDANCE
+IALA provides guidance on planning and implementing a VTS.
+References relevant to implementation include:
+
+4.2.1. IALA GUIDANCE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.2.1. IALA GUIDANCE
+P 8
+
+4.2.1. IALA GUIDANCE
+Recommendation R0119 Establishment of VTS
+
+4.2.1. IALA GUIDANCE
+
+• Guideline G1150 Establishing, planning and implementing a VTS
+
+4.2.1. IALA GUIDANCE
+
+• Guideline G1160 Competencies for planning and implementing VTS
+
+4.2.1. IALA GUIDANCE
+In waterways where a national authority is of the opinion that the navigational complexity, volume of traffic or the degree of risk does not justify the establishment of a VTS, a Local Port Service (LPS) may be implemented.
+In such circumstances, IALA provides guidance in Guideline G1142, The Provision of Local Port Services other than VTS.
+4.2.1. IALA GUIDANCE
+Further guidance is also provided in Guideline G1083 Standard Nomenclature to Identify and Refer to a VTS.
+4.2.2. INLAND WATERS CONSIDERATIONS
+IMO Resolution A.1158(32) states the responsibilities of a VTS provider and those of participating ships which may also be relevant to an inland VTS.
+In particular, an inland VTS should be provided with appropriate equipment, systems and facilities for the delivery of the inland VTS and should be adequately staffed with inland VTS personnel who are appropriately trained and qualified.
+This is further expanded in IALA guidance.
+4.2.2. INLAND WATERS CONSIDERATIONS
+If it is assessed that the navigational complexity, volume of traffic or the degree of risk does not justify the establishment of an inland VTS but that some form of co-ordination of local services is required, then note should be taken of the provisions of Guideline G1142 for the establishment of a local port service or equivalent noting the provisions of Guideline G1083 that any service that is not authorized as a VTS should not use the term “VTS” in its name identifier.
+<doc_end>

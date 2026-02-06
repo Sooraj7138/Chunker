@@ -1,0 +1,53 @@
+<doc_start>
+IALA GUIDELINE G1144 PROMULGATING THE REQUIREMENTS OF A VTS TO MARINERS – A VTS USERS GUIDE TEMPLATE Edition 1.1 January 2022 urn:mrn:iala:pub:g1144:ed1.1 DOCUMENT REVISION Revisions to this document are to be noted in the table prior to the issue of a revised document.
+Date Details June 2019 First issue.
+January 2022 Edition 1.1 Approved by Council December 2021 and published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 69 Council 74 IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1 P 2 CONTENTS 
+1. INTRODUCTION ...................................................................................................................................
+4 
+2. AIMS AND OBJECTIVES ........................................................................................................................
+4 
+3. INTERNATIONAL FRAMEWORK ............................................................................................................
+4 3.1. Contents of the framework .....................................................................................................................
+4 3.2. Promulgation and delivery of the information ........................................................................................
+5 
+4. DEFINTIONS .........................................................................................................................................
+5 
+5. ABBREVIATIONS ..................................................................................................................................
+5 
+6. REFERENCES ........................................................................................................................................
+5 ANNEX A VTS USERS GUIDE TEMPLATE ...................................................................................................
+6 IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1 P 3 
+1. INTRODUCTION IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [1] states that the VTS provider should “ensure that information regarding requirements and procedures of VTS and the categories of ships required to participate in VTS are promulgated in appropriate nautical publications”.
+This includes such items as: the categories of vessels required or expected to participate; communication means to be used for reporting and the interaction between ship and shore; 
+• areas of applicability; the times and geographical positions for submitting reports; the format and content of the required reports; 
+• the VTS provider responsible for the operation of the service; and services to be provided to participating ships.
+This information is currently provided through various sources (e.g., port user guides, Admiralty List of Radio Signals, etc.) and in a manner that has no standardized structure or format.
+It should however be recognized that the organization of the service provision may differ on national, regional or local level due to e.g., traffic density and geographical circumstances.
+The use of differing vessel traffic service procedures may cause confusion to masters of vessels moving from one vessel traffic service area to another.
+
+2. AIMS AND OBJECTIVES The aim of this document is to provide guidance for VTS providers to promulgate the information related to a VTS in a concise and globally harmonized manner to: reduce the burden on masters in obtaining the requirements of a VTS; and 
+• minimize confusion to the masters of vessels moving from one vessel traffic service area to another.
+
+3. INTERNATIONAL FRAMEWORK 3.1. CONTENTS OF THE FRAMEWORK In setting this framework, it was recognised that information about a VTS is published in a variety of nautical publications that are widely made available to the mariner in addition to being published by individual VTS providers.
+In the latter case, the data provided may refer only to the local VTS area.
+It is important that mariners have timely access to the range of information and procedures that may be required when entering or passing through a VTS area, this may include information about vessels that may be encountered in the area.
+VTS providers are advised to consider the extent and means of publishing information about the services that they provide.
+In particular, they should ensure that all potential VTS users are fully informed about the services, the facilities available and the reporting requirements on the vessels and their movements when approaching or entering a VTS area.
+IALA Guideline G1144 Promulgating the Requirements of a VTS to Mariners – A VTS Users Guide Template Edition 1.1 urn:mrn:iala:pub:g1144:ed1.1 P 4 ) VTS providers should maintain up-to-date information in the appropriate nautical publications, e.g., Admiralty List of Radio Signals.
+A template for promulgating this information is at annex A.
+Reports required should be consistent with IMO Resolution A.
+1158(32).
+3.2. PROMULGATION AND DELIVERY OF THE INFORMATION This information should be promulgated and published in the appropriate nautical publications or by other means, e.g., websites, AIS, ECDIS, and other digital transfer media, etc.
+
+4. DEFINTIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+5. ABBREVIATIONS IMO International Maritime Organization VTS Vessel traffic service or vessel traffic services (dependent on context) SOLAS IMO Convention on Safety of Life at Sea, as amended 
+6. REFERENCES IMO.
+Resolution A.
+1158(32) Guidelines for Vessel Traffic Services.
+IMO.
+Resolution A.851(20) General Principles for Ship Reporting Systems and Ship Reporting Requirements Including Guidelines for Reporting Incidents Involving Dangerous Goods, Harmful Substances and/or Marine Pollutants.
+[2] IALA Guideline G1144
+<doc_end>

@@ -1,0 +1,40 @@
+<doc_start>
+C.1. OPERATIONAL EMERGENCY PROCEDURES
+The VTS functions according to IALA Guideline G1141 Operational Procedures for Delivering a VTS [2] are subdivided into internal and external.
+External Procedures cover procedures that govern the interaction with participating vessels and allied services.
+The VTS should be maintained during any emergency response.
+C.1. OPERATIONAL EMERGENCY PROCEDURES
+Incidental co-operation with emergency services, such as Search and Rescue and Pollution Control may be conducted in accordance with pre-established contingency plans in which the procedures for interaction with allied or other services are laid down and responsibilities established.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+Procedures may be established to deal with incidents such as collision, capsize, sinking, grounding, fire on vessel, “man overboard”, which may include the following actions:
+
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+1 Alert MRCC.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+2 Inform relevant regulatory authority/ies.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+3 Support on-scene coordination.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+4 Consider back-up VTS personnel.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+Promulgate information concerning incident to vessels in the VTS area.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+6 Restrict traffic in the area.
+C.2. COLLISION, CAPSIZE, SINKING, GROUNDING, FIRE ON VESSEL, MAN OVERBOARD
+Inform pilot boats, tugboats and other support units.
+C.3. POLLUTION
+Pollution incident procedures may be established.
+The following actions may be included:
+
+C.3. POLLUTION
+Alert or Inform relevant regulatory authority/ies.
+C.3. POLLUTION
+Instigate or support actions to contain the pollution and further pollution response.
+C.3. POLLUTION
+2
+
+C.3. POLLUTION
+Promulgate information concerning incident to vessels in the VTS area.
+C.3. POLLUTION
+4 Restrict traffic in the area.
+<doc_end>

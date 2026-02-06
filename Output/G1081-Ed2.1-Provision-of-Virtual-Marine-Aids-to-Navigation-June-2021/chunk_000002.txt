@@ -1,0 +1,70 @@
+<doc_start>
+physical AtoN.
+Historically, as stated in the IMO Policy on use of AIS AtoN, permanent usage was restricted.
+National competent authorities, after gaining better understanding and experience in the use of AIS AtoN, have identified applications where use of permanent Virtual AIS AtoN are beneficial for mariners and, therefore, deployed.
+These two applications of Virtual AtoN, temporary and permanent, should be reflected in Maritime Safety Information (MSI).
+The IHO recommends that any temporary status which continues for more than six months should be charted accordingly and treated as permanent.
+This should be shown on all relevant nautical paper charts, Electronic Navigational Charts (ENCs) and other relevant nautical publications in due course.
+In some countries, permanent status is sub-categorized into annual and seasonal periods.
+Virtual is one of the three types of AIS AtoN that can be used for marking.
+Physical (Real) and Synthetic (Predicted and Monitored) are the other two types.
+More information on the three types of AIS AtoN is available in other IALA documentation, such as Recommendation R0126 Use of the AIS in Marine Aids to Navigation Service (A-126) [22].
+
+5. APPLICATION OF VIRTUAL ATON Virtual AtoN can provide early notification to the mariner of urgent, temporary or dynamic information.
+Virtual AtoN should not, in general, be considered as a replacement for other forms of MSI but can provide a valuable supplementary delivery mechanism, enabling an automated graphical display of MSI otherwise only available in textual form.
+Specific applications are described in Annex A of this Guideline.
+5.1. USER NEEDS Users will include mariners and shore side authorities.
+User needs may include presentation of information on: 
+• new hazards (fixed or dynamic); temporary channels or routes; 
+• temporary areas to be avoided (e.g., restricted areas (i.e., military exercises), survey, dredging, fishing, special marine events); changed hydrography, such as shifting banks; 
+• temporary replacement of gone from position physical AtoN; 
+• dynamic areas (e.g., reduced visibility, presence of protected species); 
+• polar navigation, provided there is sufficient means of radio communication broadcast and charting; ice conditions and navigation; IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 3 P 6 incident response (e.g., environmental, search and rescue); 
+• port specific applications (e.g., passage planning, amended pilot boarding location, etc.); 
+• measures for the protection of the marine environment; and 
+• security.
+5.1.1. ADVICE TO COMPETENT AUTHORITIES AND OTHER PROVIDERS In using Virtual AtoN, the following are among the issues that need to be considered by providers: 
+• Carrying out a proper risk assessment to ascertain the need for Virtual AtoN over a more traditional physical aid.
+
+• A sole economic reason should not be the justification for using them.
+
+• Awareness of over-proliferation, using Virtual AtoN only where appropriate.
+
+• Vulnerability of Global Navigation Satellite System (GNSS), etc.
+
+• Quality assurance verification through monitoring, consideration of cyber security risks, etc.
+
+• The limitations of shipborne navigational equipment required to be equipped with AIS (non-graphical display, old shipborne AIS firmware, wrong symbol or no symbol at all).
+
+• It is not mandatory for certain vessels to be equipped with AIS equipment or vessels may be fitted with equipment not capable of receiving the AIS AtoN.
+
+• Promulgation of the information widely to different users using MSI, AtoN competent authority Web or Portal, etc.
+
+• Mixture of other types of AtoN located in such area.
+
+• The limitation of Virtual AtoN technology with regards to the lack of flexibility in using free text to add complementary information.
+
+• The limitations of data link load, numbers allocated, e.g., Maritime Mobile Service Identity (MMSI) numbers for AIS.
+
+• That the primary function of AIS technology is to prevent collisions.
+5.1.2. ADVICE TO MARINERS In using Virtual AtoN, the following are among the issues that need to be considered by users: 
+• There could be some position offsets in the display of the Virtual AtoN due to shipborne equipment issues such as the quality of GNSS, GNSS smoothing, antenna offsets, gyro and radar error, etc.
+(section 10 provides further details).
+
+• Reference to MSI to validate that the correct information is being broadcast.
+
+• The possibility exists of different symbols on different systems.
+
+• The limitations of Virtual AtoN provision and presentation.
+
+• The difference between Virtual, synthetic and physical/real AIS AtoN.
+
+• The need to maintain situational awareness by comparing electronic and non-electronic means and avoidance of reliance on single sources of information.
+
+• The potential cluttering effect caused by too many AIS targets.
+
+• Many systems, including AIS, are GNSS dependent for position and timing and subject to the same vulnerabilities.
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 7 
+• The possibility of ECDIS dangerous target alarms triggered by AIS AtoN.
+Shipborne systems require the capability of filtering for this through
+<doc_end>

@@ -1,0 +1,59 @@
+<doc_start>
+on national requirements and the particular arrangements arising out of the implementation of IMO Resolution A.949(23) Guidelines on Places of Refuge for Ships in Need of Assistance [17].
+5.2.4. MEDICAL EMERGENCY Processes and procedures for medical emergencies should be established.
+Actions may include: 
+• Inform MRCC ; Inform coast radio station; Consider special manoeuvring requirements; and 
+• Relay information from responsible health authority to arriving vessels suspected of being infected with a contagious disease that requires special care e.g., quarantine.
+5.2.5. VESSEL NOT UNDER COMMAND (NUC) Processes and procedures in the event of a “vessel not under command” should be established.
+Actions may include: Promulgate information concerning incident to vessels in the VTS area; 
+• Obtain detailed information about onboard situation; 
+• Maintain communication with vessel; Assess vessel’s proximity to danger (danger to vessel itself and other traffic); and Alert allied services and other support units, if appropriate.
+5.2.6. SECURITY INCIDENT In the event of a security incident, processes and procedures should be established.
+Procedures should reflect any involvement of the VTS with the Port Facility Security Plan (PFSP) as per the International Ship and Port facility Security Code (ISPS)[7].
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 16 5.2.7. PROTEST ACTION Processes and procedures should be established to respond to protest action in the VTS area.
+Throughout any protest action, the safety of vessels and protestors is paramount.
+Actions may include: Alert responsible authority; Act on local call-out procedures, including but not limited to VTS manager; and Promulgate information concerning incidents to vessels in the VTS area.
+5.2.8. NATURAL DISASTER Natural disaster procedures should be established to deal with situations such as earthquakes, tidal waves, fire, and exceptional weather conditions.
+Actions may include: Promulgate information to vessels in the VTS area; Act on local call-out procedures; and 
+• Inform MRCC.
+EVALUATION OF PROCEDURES All processes and procedures should be regularly reviewed and evaluated for their adequacy and to support the objectives of the VTS.
+Such relevant times may include: 
+• Changes to regulatory requirements 
+• Changes to VTS infrastructure, including systems and equipment changes and upgrades 
+• Changes of VTS areas and sectors 
+• Changes of port or fairway infrastructure 
+• After a significant near-miss or incident 
+• As part of the ongoing evaluation of the VTS The VTS provider should also ensure that VTS personnel are updated with changes to procedures and competence verified through revalidation training.
+
+7. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary).
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS Vessel Traffic Service or Vessel Traffic Services (dependent on context) 
+9. REFERENCES IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 17 IALA.
+Recommendation R0127 (V-127) VTS Operations IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IALA.
+Guideline G1141 Operational Procedures for Vessel Traffic Services IALA.
+Standard S1040 Vessel Traffic Services IALA.
+Recommendation R0132 Quality Management for Aids to Navigation Authorities on DH [6] IALA.
+Guideline G1052 Quality Management in AtoN Service Delivery [7] The International Ship and Port Facility (ISPS) Code [8] IALA.
+Guideline G1156 Recruitment, Training and Assessment of VTS Personnel [9] IALA.
+Guideline G1118 Marine Casualty/Incident Reporting and Recording, Including Near-Miss Situations as it Relates to VTS IALA.
+Guideline G1131 Setting and Measuring VTS Objectives IMO.
+International Convention for the Safety of Life At Sea IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases [13] IMO.
+Resolution A.954(23) Proper use of VHF channels at sea [14] IALA.
+Guideline G1132 VTS Voice Communications and Phraseology [15] IALA.
+Guideline G1089 Provision of a VTS [16] IALA.
+Guideline G1102 VTS Interaction with Allied or Other Services IMO.
+Resolution A.949(23) Guideline on Places of Refuge for Ships in Need of Assistance IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 18 ANNEX A NAVIGATIONAL SUPPORT – PRE-ASSESSMENT CONSIDERATIONS Examples of considerations for making a pre-assessment prior to the provision of navigational support may include: Capabilities: 1 VTS operator workload.
+VTS equipment capabilities and limitations, performance, serviceability and back-up (particularly key elements of communications, radar and AIS).
+2 3 Capability of the vessel and bridge staff to continue passage under navigational support: Status of the ship’s navigational/communications equipment and machinery; Knowledge and understanding of VTS and knowledge of the local area; c Language ability; and d Carriage of up-to-date charts.
+Operational Considerations: Positive identification of ship to be supported.
+Alternative options (e.g., anchor, provision of pilot, amendment to voyage or passage plan).
+3 Cargo carried.
+Risk if navigational support is not provided.
+Environmental conditions (wind, day/night, visibility, tidal height, tidal stream).
+6 Other ship traffic.
+Communications channel for navigational support.
+Checks: 1 Master’s understanding that VTS navigational support does
+<doc_end>

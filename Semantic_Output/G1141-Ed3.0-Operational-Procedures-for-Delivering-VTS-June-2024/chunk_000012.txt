@@ -1,0 +1,7 @@
+<doc_start>
+CONTENTS
+a
+
+CONTENTS
+P 4
+<doc_end>

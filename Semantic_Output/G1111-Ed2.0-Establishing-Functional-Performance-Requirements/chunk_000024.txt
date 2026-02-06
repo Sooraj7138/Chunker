@@ -1,0 +1,40 @@
+<doc_start>
+5. ABBREVIATIONS
+º Degree
+
+
+5. ABBREVIATIONS
+> Greater than
+
+
+5. ABBREVIATIONS
+≤ Less than or equal to
+
+
+5. ABBREVIATIONS
+≥ Greater than or equal to
+
+
+5. ABBREVIATIONS
+% percent
+
+
+5. ABBREVIATIONS
+µs microsecond
+
+
+5. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+5. ABBREVIATIONS
+AREPS Advanced Refractive Effects Prediction System
+
+
+5. ABBREVIATIONS
+ASL Above Sea Level
+
+
+5. ABBREVIATIONS
+AtoN Marine Aid(s) to Navigation
+<doc_end>

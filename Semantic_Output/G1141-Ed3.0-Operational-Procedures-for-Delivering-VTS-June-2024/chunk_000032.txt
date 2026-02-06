@@ -1,0 +1,8 @@
+<doc_start>
+7. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary).
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS
+Vessel Traffic Service or Vessel Traffic Services (dependent on context)
+<doc_end>

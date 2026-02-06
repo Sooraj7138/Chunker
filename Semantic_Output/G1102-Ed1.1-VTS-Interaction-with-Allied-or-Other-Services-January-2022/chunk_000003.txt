@@ -1,0 +1,65 @@
+<doc_start>
+urn:mrn:iala:pub:g1102:ed1.1
+
+urn:mrn:iala:pub:g1102:ed1.1
+DOCUMENT REVISION
+
+urn:mrn:iala:pub:g1102:ed1.1
+Revisions to this document are to be noted in the table prior to the issue of a revised document.
+urn:mrn:iala:pub:g1102:ed1.1
+Date Details December 2013 First issue.
+January 2022 Edition 1.1 Approved by Council December 2021 and published January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+Approval Council 74
+
+urn:mrn:iala:pub:g1102:ed1.1
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+urn:mrn:iala:pub:g1102:ed1.1
+
+urn:mrn:iala:pub:g1102:ed1.1
+P 2
+
+urn:mrn:iala:pub:g1102:ed1.1
+CONTENTS
+
+urn:mrn:iala:pub:g1102:ed1.1
+
+1. INTRODUCTION ...................................................................................................................................
+4 1.1. Preamble ..................................................................................................................................................
+4 1.2. Objective ..................................................................................................................................................
+4 
+2. GUIDELINE DEFINITIONS ......................................................................................................................
+4 
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES ................................................
+5 
+4. INTERACTION WITH ALLIED AND OTHER SERVICES ...............................................................................
+6 
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS .....................................................................................
+6 
+6. LEGAL ASPECTS AND CONSTRAINTS .....................................................................................................
+6 
+7. DEFINITIONS ........................................................................................................................................
+6 
+8. ABBREVIATIONS ..................................................................................................................................
+7 
+9. REFERENCES ........................................................................................................................................
+7 ANNEX A EXAMPLES OF POSSIBLE STAKEHOLDERS ..................................................................................
+8 ANNEX B POSSIBLE INTERACTION BETWEEN A VTS AND ALLIED OR OTHER SERVICES .............................
+9 ANNEX C EXAMPLES OF OPERATING PROCEDURES ...............................................................................
+11
+
+urn:mrn:iala:pub:g1102:ed1.1
+ANNEX D
+
+urn:mrn:iala:pub:g1102:ed1.1
+FURTHER LEGAL AND SECURITY CONSIDERATIONS ................................................................
+14
+
+urn:mrn:iala:pub:g1102:ed1.1
+IALA Guideline G1102 – VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+urn:mrn:iala:pub:g1102:ed1.1
+
+urn:mrn:iala:pub:g1102:ed1.1
+P 3
+<doc_end>

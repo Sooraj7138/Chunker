@@ -1,0 +1,37 @@
+<doc_start>
+watch-keeping personnel in their tasks.
+While these guidelines were primarily intended for shipborne equipment, much of the guidance applies to shore-based workstations as well.
+IEC 60945, Maritime navigation and radiocommunication equipment and systems- General Requirements, Methods of testing and required test results, Edition 4, 2002. (Corrigendum 1 in April,2008).
+This standard specifies the general requirements, methods of testing, and required test results, for shipborne radio navigation equipment and electronic navigation aids in support of IMO Resolution A.694. More specifically, it specifies minimum performance requirements for equipment that are required carriage under SOLAS 1974, Chapter V.
+Key sections that pertain to the presentation, display or portrayal of navigation-related information include: Ergonomics and Human Machine Interface (HMI) Screen display and indicators Alarms and Indicators Illumination IEC 62288, Maritime navigation and radiocommunication equipment and systems - Presentation of navigation- related information on shipborne navigational displays - General requirements, methods of testing and required test results, Edition 3.0, 
+2021. This standard specifies the general requirements, methods of testing, and required test results for the presentation of navigation-related information on shipborne navigational displays in support of IMO resolution MSC.191(79).
+This standard also addresses ergonomic criteria published in circular MSC/Circ.982. OPERATIONAL REQUIREMENTS The primary factor that influences the portrayal of navigation information is the operational situation.
+In turn, what information is required depends on the voyage requirements, situational needs, operational perspective (shipborne or shore-based), and levels of information.
+4.1. VOYAGE REQUIREMENTS The type or amount of navigation-related information that will be portrayed by shipborne or shore-based users falls into two main categories: strategic and tactical overviews.
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 6 Strategic overview is associated with maintaining overall situational awareness within the surrounding areas.
+This can include both monitoring and active engagement.
+Tactical overview involves more direct action and decision-support within the immediate or designated area.
+4.2. SITUATIONAL NEEDS “Current situation” includes the various phases of navigation during a voyage and can be related to the prevailing conditions.
+Examples of different navigation phases include open-ocean, coastal, and approach.
+Prevailing conditions can include, but are not limited to, traffic density, alerts, time of day ship movement, and meteorological and hydrological conditions.
+Regardless of the current situation, the task-at-hand can be the determining factor in deciding what information is crucial in making informed decisions.
+This includes time-critical information necessary for grounding avoidance, collision avoidance, or maintaining overall situational awareness.
+Information based on a planning system may also be part of this process.
+Special attention should be given to Maritime Safety Information and emergency warning systems regarding EPIRB, MOB devices, and other devices providing emergency alert functionality.
+Also, communication capabilities such as VHF, AIS, Mobile AtoN, etc.
+should be considered according to the situational needs.
+General principles for the presentation of symbology on shore-based displays: The international onboard symbology and chart standards should be used as much as possible.
+Symbology already identified for existing onboard use should not normally be assigned a different meaning for shore-based purposes; however, these symbols may be adapted to suit specific requirements.
+Any adaptations to symbology must not modify the agreed standard for data transfer.
+The clarity of the presentation and operator workload should be carefully considered.
+CATEGORIES OF INFORMATION Three different categories of navigational information, both at the present time and likely in the future, could be considered.
+While these categorizations are focused on ship-based information and not related to shore-based portrayal, the knowledge of these potential categories may be considered useful when aligning portrayals on shore with those on ship:2 1 Required by IMO – Information on systems required onboard ships mainly through SOLAS Chapter IV and SOLAS Chapter V.
+2 Required by Flag or Port States in national waters – Additional information may be required by individual Flag or Port States due to individual conditions in those areas or regions.
+' e-Navigation: A vision and its Practical Implementation', Dr.
+Andy Norris, (IALA eNAV11/11/4).
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 7 3 Innovative or future applications – New innovations and systems in development, for example during test bed execution, may provide additional information not mandated but useful for the development of IALA related navigation applications.
+BASIC GUIDANCE ON PORTRAYAL 5.1. SIX BASIC WAYS There are six (6) basic ways to visually portray any type of IALA related navigation information.
+1 Alpha-numeric Du wWwNnN 2 Graphical Point, line or polygon 4 Symbol 5 Geo-spatial 6 Imagery The following sections provide basic guidance with an example for each.
+5.1.1. ALPHA-NUMERIC Unless there is a need to display pre-formatted text or numbers, use the best readable font taking into account Human Centred Design (HCD) as referred to in MSC-MEPC.2/Circ.12/Rev.2 and MSCMEPC.2/Circ.13 concerning Human Element Analysing Process (HEAP) as well as MSC.1-Circ.
+1512 Guideline
+<doc_end>

@@ -1,0 +1,24 @@
+<doc_start>
+5. DEFINITIONS
+Convoy
+
+
+5. DEFINITIONS
+“Convoy” means a towed convoy, a pushed convoy or a side-by-side formation;
+
+
+5. DEFINITIONS
+a.
+“towed convoy” means an assembly of one or more vessels, floating establishments or assemblies of floating material towed by one or more motorized vessels, the later forming part of the convoy and being known as tugs;
+
+
+5. DEFINITIONS
+b.
+“pushed convoy” means a rigid assembly of vessels, of which at least one is placed in front of the motorized vessel propelling the convoy and is known as a pusher.
+A convoy composed of a pusher and a pushed craft so as to permit guided articulation is also considered as rigid;
+
+
+5. DEFINITIONS
+c.
+“side-by-side formation” means an assembly of vessels coupled side-by-side, none of which is placed in front of the motorized vessel propelling the assembly.
+<doc_end>

@@ -1,0 +1,7 @@
+<doc_start>
+5.1.2.2. Advice
+VTS INFORMATION.
+Container Ship Maersk Dusseldorf [position] inbound and will take tugs at Swanson Dock swing basin.
+VTS ADVICE.
+Reduce to safe speed.
+<doc_end>

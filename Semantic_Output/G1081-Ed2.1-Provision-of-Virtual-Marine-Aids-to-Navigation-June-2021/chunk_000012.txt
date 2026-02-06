@@ -1,0 +1,5 @@
+<doc_start>
+5.1.1.
+
+• The limitations of data link load, numbers allocated, e.g., Maritime Mobile Service Identity (MMSI) numbers for AIS.
+<doc_end>

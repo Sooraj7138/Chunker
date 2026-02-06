@@ -1,0 +1,48 @@
+<doc_start>
+4.12.1. IALA GUIDANCE
+IALA provides guidance on risk assessment processes that assist in assessing the need for a VTS through risk
+
+4.12.1. IALA GUIDANCE
+management in:
+
+4.12.1. IALA GUIDANCE
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.12.1. IALA GUIDANCE
+P 14
+
+4.12.1. IALA GUIDANCE
+The generic Recommendation R1002 Risk Management for Marine Aids to Navigation; and
+
+4.12.1. IALA GUIDANCE
+
+• Guideline G1018 Risk Management.
+4.12.1. IALA GUIDANCE
+Three risk management tools are offered in guidelines:
+
+4.12.1. IALA GUIDANCE
+
+• G1123 The Use of IALA Waterway Risk Assessment Programme (IWRAP Mk II);
+
+4.12.1. IALA GUIDANCE
+
+• G1124 The Use of Ports and Waterways Safety Assessment (PAWSA) Mk II Tool; and
+
+4.12.1. IALA GUIDANCE
+
+• G1138 The Use of the Simplified IALA Risk Assessment Method (SIRA).
+4.12.2. INLAND WATERS CONSIDERATIONS
+The guidance on the assessment of risk is based on international, territorial and coastal areas and in ports/harbours.
+The tools set out in the IWRAP and PAWSA models may prove to be too sophisticated for an inland waterway.
+However, SIRA provides a simpler process that may be more relevant.
+Nevertheless, all draw on the capture of AIS information as important source data and this may still be very relevant to risk assessment of inland waters where such data can be gathered.
+4.12.2. INLAND WATERS CONSIDERATIONS
+While the IALA recommendation R0119 on the establishment of a VTS and the associated Guideline G1150 on establishing, planning and implementing a VTS are based on the requirements for SOLAS vessels and IMO provisions, these documents set out basic principles, many of which will also be of significant relevance to an inland
+
+4.12.2. INLAND WATERS CONSIDERATIONS
+VTS.
+4.12.2. INLAND WATERS CONSIDERATIONS
+The traffic characteristics of inland waters and the requirements of local, regional and national rules, regulations and conventions relating to inland waters should be taken into consideration when conducting risk assessment.
+4.12.2. INLAND WATERS CONSIDERATIONS
+4.13. QUALITY MANAGEMENT
+<doc_end>

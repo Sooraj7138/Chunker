@@ -1,0 +1,27 @@
+<doc_start>
+2. DOCUMENT PURPOSE
+The purpose of this document is to provide guidance for the provision of VTS to participating ships in a harmonized manner, in accordance with IMO Resolution A.1158(32) and IALA standards.
+
+2. DOCUMENT PURPOSE
+This Guideline is associated with IALA Recommendation R0127 VTS Operations [3] a normative provision of IALA Standard S1040 Vessel Traffic Services[4] To demonstrate compliance with Recommendation R0127, the provisions of this Guideline need to be implemented.
+
+3. CONSIDERATIONS
+IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services defines VTS as:
+
+
+3. CONSIDERATIONS
+“services implemented by a Government with the capability to interact with vessel traffic and respond to developing situations within a VTS area to improve the safety and efficiency of navigation, contribute to safety of life at sea and support the protection of the environment.”
+
+
+3. CONSIDERATIONS
+A VTS operates within a comprehensive environment in which ships, ports, allied services, and other organizations fulfil their respective roles as appropriate.
+Key factors in delivering a VTS include:
+
+
+3. CONSIDERATIONS
+the regulatory and legal framework for VTS; and
+
+
+3. CONSIDERATIONS
+how interactions are conducted between VTS and participating ships.
+<doc_end>

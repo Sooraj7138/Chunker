@@ -1,0 +1,12 @@
+<doc_start>
+4. ESTABLISHING
+SOLAS _ Establishment of VTS Principles and general provisions for the operation of a VTS Refers to IALA VTS Documents Framework for harmonising magenta VTS technologies and services worldwide Recommendations / Guidelines / Model courses
+
+
+4. ESTABLISHING
+Figure 1 International framework for establishing a VTS
+
+
+4. ESTABLISHING
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2
+<doc_end>

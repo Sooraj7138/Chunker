@@ -1,0 +1,59 @@
+<doc_start>
+9. REFERENCES
+IALA.
+Guideline G1141 Operational Procedures for Vessel Traffic Services
+
+
+9. REFERENCES
+[6]
+
+
+9. REFERENCES
+ITU.
+(2020) Radio Regulations, Volumes 1 and 4, Recommendation ITU-R M.1171-0 and subsequent chapters
+
+
+9. REFERENCES
+IMO.
+Resolution A.954(23) Proper use of VHF channels at sea
+
+
+9. REFERENCES
+[8]
+
+
+9. REFERENCES
+ITU.
+(2020) Manual for use by the Maritime Mobile and Maritime Mobile-Satellite Services (Maritime Manual)
+
+
+9. REFERENCES
+IMO.
+Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs)
+
+
+9. REFERENCES
+[10] IMO.
+GMDSS Manual
+
+
+9. REFERENCES
+[11]
+
+
+9. REFERENCES
+IMO.
+International Code of Signals
+
+
+9. REFERENCES
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+
+9. REFERENCES
+3
+
+
+9. REFERENCES
+P 31
+<doc_end>

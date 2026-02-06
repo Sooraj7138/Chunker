@@ -1,0 +1,14 @@
+<doc_start>
+5.1.1.
+
+• A sole economic reason should not be the justification for using them.
+5.1.1.
+
+• Awareness of over-proliferation, using Virtual AtoN only where appropriate.
+5.1.1.
+
+• Vulnerability of Global Navigation Satellite System (GNSS), etc.
+5.1.1.
+
+• Quality assurance verification through monitoring, consideration of cyber security risks, etc.
+<doc_end>

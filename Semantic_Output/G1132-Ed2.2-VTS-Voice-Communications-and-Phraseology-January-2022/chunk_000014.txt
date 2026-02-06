@@ -1,0 +1,10 @@
+<doc_start>
+5.1.2.1. Information
+Note: This marker is normally used for navigational and traffic information, etc.
+Information is to assist on-board decision-making process.
+5.1.2.2. Advice
+This indicates that the following message implies the intention of the sender to influence others and may include a
+
+5.1.2.2. Advice
+recommendation.
+<doc_end>

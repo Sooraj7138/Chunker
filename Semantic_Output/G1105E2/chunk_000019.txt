@@ -1,0 +1,86 @@
+<doc_start>
+CURRENT PRESENTATION/DISPLAY STANDARDS
+The following is a list of shipborne and shore based equipment, systems, and services based on what is mentioned in existing SOLAS V/19 & 20, IMO MSC, IMO NAV,3 and IALA related documents.
+The existing standards should be considered “minimum standards” in terms of what is required;
+
+CURRENT PRESENTATION/DISPLAY STANDARDS
+It should be noted that the existing standards should not be reviewed in isolation but collectively with all relevant standards to gain the full picture (e.g., IEC and ISO standards);
+
+CURRENT PRESENTATION/DISPLAY STANDARDS
+Besides the below existing standards, other aspects (e.g., Data Quality assurance, availability and reliability of systems and signals) and as a result of development or increasing user needs (HCD), may be considered.
+6.1. ECDIS
+IMO MSC.232(82), Revised performance standards for electronic chart display and information systems (ECDIS), 5 December 2006.
+
+6.1. ECDIS
+This performance standard applies to ECDIS equipment carried on all ships including dedicated stand-alone workstations or multi-function workstations as part of an INS and the presentation requirements set out in resolution MSC.191(79)
+
+6.1. ECDIS
+IMO Resolution MSC.466(101), Amendments to the Performance Standards for the presentation of navigation- related information on shipborne navigational display,14 June 2019 (Resolution MSC.191(79))
+
+6.1. ECDIS
+IHO S-52, Specifications for Chart Content and Display aspects of ECDIS Edition 6.1.1, October2014
+
+6.1. ECDIS
+IHO S-52 contains several parts, and all pertain to the presentation/display of chart and navigation-related information.
+6.1. ECDIS
+IHO S-100 IHO Universal Hydrographic Data Model Edition 4.0.0, December 2018.
+
+6.1. ECDIS
+IHO S-100 part 9 and part 9a specifies the portrayal model for defining and organizing symbols and portrayal rules necessary to portray S-100 product Features.
+6.1. ECDIS
+IHO S-101 IHO S-101 ENC Product Specification Edition 1.0.0, December 2018
+
+6.1. ECDIS
+IEC 61174, Maritime navigation and radiocommunication equipment and systems – Electronic chart display and information system (ECDIS) – Operational and performance requirements, methods of testing and required test results, Edition 4, August 2015.
+
+6.1. ECDIS
+This standard specifies the performance requirements, methods of testing and required test results of equipment conforming to performance standards adopted by the IMO in resolution MSC.232(82).
+This standard is also
+
+6.1. ECDIS
+IMO NAV 54-WP.2, Annex 1 (Existing Components of e-Navigation).
+6.1. ECDIS
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0
+
+6.1. ECDIS
+
+6.1. ECDIS
+P 10
+
+6.1. ECDIS
+associated with IMO resolution A.694(17) and IEC 
+60945. This standard includes extracts from IHO S-52 when they are applicable to ECDIS.
+6.2. RADAR
+IMO Resolution MSC.192(79), Revised Recommendation on Performance Standards for Radar Equipment, 6 December 2004.
+
+6.2. RADAR
+This Performance Standard applies to all ship-borne radar installations as mandated by the 1974 SOLAS Convention for this purpose, radar should provide the integration and display of radar video, target tracking information, positional data derived from own ship’s Electronic Position Fixing System (EPFS) and geo-referenced data.
+6.2. RADAR
+IEC 62388, Maritime navigation and radiocommunication equipment and systems –Shipborne radar – Performance requirements, methods of testing and required test results, Edition 2.0 Corrigendum 1 12th February 2014
+
+6.2. RADAR
+IMO resolution A.823(19), Performance Standards for automatic radar plotting aids, 23 November 1995
+
+6.2. RADAR
+This performance standard deals with the use of Automatic Radar Plotting Aids (ARPA) to improve the standard of collision-avoidance at sea.
+6.3.
+AIS
+
+6.3.
+IMO Resolution MSC.74(69), Annex 3, Performance Standards for a Universal Shipborne Automatic Identification System (AIS), 19 May 1998.
+
+6.3.
+IMO Resolution A.1106(29), Revised Guidelines for the On board Operational Use of Shipborne Automatic Identification Systems (AIS), 2 December 2015.
+
+6.3.
+IMO SN/Circ.217, Display of AIS Target Information, 11 July 2001.
+
+6.3.
+This guideline deals with the graphical presentation and display of AIS target data in stand-alone or integrated navigational aids or systems.
+6.3.
+IMO SN/Circ.236, Guidance of the Application of AIS Binary Messages, 28 May 2004.4
+
+6.3.
+AIS can also be used as a means to communicate Binary Messages for certain types of specific applications.
+Binary Messages may provide a variety of capabilities for pre-defined information packages.
+<doc_end>

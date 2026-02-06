@@ -1,0 +1,29 @@
+<doc_start>
+that, based on the information available, the VTS assesses that it is safe and gives approval for the vessel to proceed on its intended course of action, subject to the discretion of the master.
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 12 Permission for a vessel to proceed may be subject to conditions (e.g., details received from the vessel, known fairway and traffic) which may be contained in the message.
+Refusal for a vessel to proceed should be unambiguous, clear and may be issued as an instruction.
+RESPONDING TO DEVELOPING UNSAFE SITUATIONS Procedures for responding to developing unsafe situations should be established, and may include: A vessel unsure of its route or position A vessel deviating from the route A vessel requiring guidance to an anchoring position A vessel that has defects or deficiencies, such as navigation or manoeuvring equipment failure 
+• Meteorological conditions (e.g., low visibility, strong winds) A vessel at risk of grounding or collision Emergency response or support to emergency services A vessel deviating from passage plan Assistance to a vessel to support the unexpected incapacity of a key member of the bridge team IALA Guideline G1089 Provision of VTS Services [15]states that “before navigational support is provided and if time permits, a VTS should make an assessment of capabilities and conduct other relevant checks” whilst recognizing that, when the need is observed to be necessary by the VTS, early intervention is likely to be necessary, which may preclude pre-assessment checks being carried out.
+Some considerations for making a pre-assessment prior to the provision of navigational support are provided in annex A.
+Please note, Guideline G1089 Provision of VTS Services provides further guidance on the provision of a VTS to participating ships in a harmonized manner in accordance with IMO Resolution A.1158(32) and IALA Standards.
+5.1.8. VESSELS AT ANCHOR Procedures should be established for vessels at anchor in a VTS area.
+Depending on the capability of the VTS to monitor the vessel position under prevailing conditions, these may include: Anchorage assignment Communication requirements Reporting requirements for vessels prior to leaving the anchorage 
+• Non-compliance with the requirements and procedures for the VTS area Information exchange/update on allied services 5.1.9. VESSELS AT BERTH Processes and procedures should be established for vessels at berth in a VTS area.
+Depending on the capability of the VTS to monitor the vessel position under prevailing conditions, these may include: Reporting requirements for vessels on arrival at berth 
+• Non-compliance with reporting requirements Security requirements, including security level Special requirements to maintain a communication watch IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 13 
+• Need for restrictions for other vessels passing the berth (e.g., during bunkering or crane operations) Reporting requirements for vessels prior to leaving the berth Information exchange/update on allied services 5.1.10. VESSELS DEPARTING THE VTS AREA Processes and procedures should be established for vessels departing the VTS area.
+These may include: Reporting requirements for vessels prior to departing the area 
+• Non-compliance with reporting requirements 
+• Handover requirements with adjacent or next VTS TRANSITION BETWEEN ADJACENT VTS AREAS Processes and procedures should be established for vessels transiting between adjacent VTS areas.
+The handover arrangements may include: Transfer of vessel information such as identification, cargo, destination and ETA Process for communication procedures Process to ensure vessel monitoring 5.1.12. ADVERSE ENVIRONMENTAL CONDITIONS In situations of adverse environmental conditions within the VTS area, such as poor visibility, strong currents or tidal streams, high winds, ice, etc.
+special processes and procedures may be required.
+These may include: Restriction or prohibition on vessel movements Additional reporting requirements Additional separation between vessels Additional requirements (e.g., mandatory tug service, pilot, etc.) Special consideration may need to be given depending on vessel characteristics and local geography and conditions.
+5.1.13. ENVIRONMENTAL PROTECTION The role of VTS to assist with environmental protection may include marine conservation measures is increasingly being recognized internationally as a means to: 
+• mitigate risks such as ship collisions with cetaceans and disturbance of marine mammals in nursery areas; 
+• mitigate the effect of ship wash on the shores in the vicinity of low-lying communities; and 
+• support the protection of Particularly Sensitive Sea Areas (PSSAs) or locally declared environmentally sensitive areas.
+It may be appropriate to develop processes and procedures to: broadcast relevant information on times and locations; interact with individual vessels in the vicinity of marine mammals; keep protected areas clear of traffic; 
+• advise speed restrictions where marine mammals have been sighted, or to reduce ship wash on the shores; IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 14 re-route traffic away from sightings; and 
+• collect information to identify potential interaction hotspots to assist in planning future mitigation measures.
+5.1.14. DIGITAL MARITIME SERVICES Where the VTS provides information
+<doc_end>

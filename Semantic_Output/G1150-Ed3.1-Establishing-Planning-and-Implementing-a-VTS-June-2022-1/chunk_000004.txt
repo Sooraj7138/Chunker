@@ -1,0 +1,119 @@
+<doc_start>
+DOCUMENT REVISION
+Date Details New Guideline – Contains the content formerly in IALA Recommendation V-119 following splitting V-119 into a December 2019 Recommendation (Recommendation 0119 - The implementation of Vessel Traffic) and an associated Guideline (G-1150) to align with the new IALA document structure.
+Edition 2.0 Major revision of new Guideline following splitting December 2020 former Recommendation V-119 into a Recommendation and associated Guideline as above.
+Edition 2.1 Approved by Council December 2021 and published January 2022 January 2022, in alignment with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services.
+June 2022 Edition 3.0 Update on the post implementation evaluation chapter July 2022 Edition 3.1 Editorial corrections.
+Approval Council 70 Council 72 Council 74 Council 75
+
+DOCUMENT REVISION
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1
+
+DOCUMENT REVISION
+
+DOCUMENT REVISION
+P 2
+
+CONTENTS
+2. 4.1. 4.2. 4.3. 4.3.1. 4.3.2. 4.4. 5.1. 5.2. 5.3. 5.4. 5.5.
+
+CONTENTS
+
+1. DOCUMENT PURPOSE ........................................................................................................................
+4
+
+CONTENTS
+INTRODUCTION .................................................................................................................................
+4
+
+CONTENTS
+
+3. OVERVIEW .........................................................................................................................................
+4
+
+CONTENTS
+
+4. ESTABLISHING ...................................................................................................................................
+5
+
+CONTENTS
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA (SOLAS) .............................................
+5
+
+CONTENTS
+IMO RESOLUTION A.1158(32) GUIDELINES FOR VESSEL TRAFFIC SERVICES ...........................................
+6
+
+CONTENTS
+IALA standards .........................................................................................................................................
+6
+
+CONTENTS
+Recommendations .............................................................................................................................................................
+7
+
+CONTENTS
+Guidelines ..........................................................................................................................................................................
+7
+
+CONTENTS
+4.3.3. Model Courses ...................................................................................................................................................................
+7
+
+CONTENTS
+National law .............................................................................................................................................
+7
+
+CONTENTS
+
+5. PLANNING AND IMPLEMENTING ........................................................................................................
+8
+
+CONTENTS
+PHASE 1: INITIATING ................................................................................................................................
+8
+
+CONTENTS
+PHASE 2: PLANNING ..............................................................................................................................
+10
+
+CONTENTS
+PHASE 3: IMPLEMENTING ......................................................................................................................
+11
+
+CONTENTS
+PHASE 4: CONTROLLING ........................................................................................................................
+11
+
+CONTENTS
+PHASE 5: CLOSING .................................................................................................................................
+11
+
+CONTENTS
+
+6. POST IMPLEMENTATION EVALUATION .............................................................................................
+12
+
+CONTENTS
+
+7. DEFINITIONS ....................................................................................................................................
+13
+
+CONTENTS
+
+8. ABBREVIATIONS ..............................................................................................................................
+13
+
+CONTENTS
+
+9. REFERENCES ....................................................................................................................................
+13
+
+CONTENTS
+ANNEX A CONSIDERATIONS WHEN INITIATING AND PLANNING A VTS .............................................
+14
+
+CONTENTS
+ANNEX B PASSIVE TRAFFIC MANAGEMENT MEASURES ....................................................................
+18
+<doc_end>

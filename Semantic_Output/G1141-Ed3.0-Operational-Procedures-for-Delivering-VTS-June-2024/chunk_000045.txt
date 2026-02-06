@@ -1,0 +1,108 @@
+<doc_start>
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+When a VTS is the first to become aware of an actual or potential emergency, the International Aeronautical and Maritime Search and Rescue Manual (IMSAR) Volume II notes that "the information collected and the initial action taken are often critical to successful operations” It also notes that:
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+“The success of a SAR operation depends on the speed with which the operation is planned and carried out.
+Information should be gathered to help the competent response authority to determine the nature of distress, the appropriate emergency phase and what action should be taken”.
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+In gathering information, the VTS should ensure safety of other traffic in the VTS area and provide details to the relevant authority such as a rescue coordination centre.
+Some considerations for information that a VTS may request from a vessel under emergency situations are listed below.
+These considerations are not intended to be exhaustive or mandatory:
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Situation Considerations COLLISION When and where did the accident happen Any injuries to persons?
+Any dangerous or polluting cargo?
+Is there any pollution?
+Are you taking water?
+Are you flooding?
+Are you sounding your tanks?
+Can you proceed by yourself?
+What is the damage/casualty situation?
+What assistance is required?
+Are you venting hazardous / polluting gases?
+GROUNDING When and where did the accident happen?
+Any dangerous or polluting cargo?
+Is there any pollution?
+Are you aground?
+Are you attempting to re-float?
+Are you taking water?
+Are you flooding?
+Are you sounding your tanks?
+Do you have any list?
+What is the damage/casualty situation?
+What assistance is required?
+FLOODING / SINKING Is the flooding under control?
+Can you proceed by yourself?
+What assistance is required?
+FIRE / EXPLOSION When and where did the accident happen?
+What part of the ship is on fire/has exploded?
+Is the fire under control?
+What is the damage/casualty situation?
+Is there any pollution?
+What assistance is required?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+P 20
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Situation MARINE POLLUTION MAN OVERBOARD NOT UNDER COMMAND (NUC) CONTAINERS / CARGO OVERBOARD MEDICAL ASSISTANCE Considerations When and where did the pollution/discharge happen?
+What type of oil (diesel, oil, HFO, bilge) / dangerous goods or hazardous substances have been discharged?
+What is the approximate size of the spill (length and breadth)?
+What direction is it heading?
+If the source of pollution is from the reporting ship: - What time did the discharge occur?
+- How did the discharge occur?
+- How much oil / dangerous goods or hazardous substances have been discharged?
+- Has the discharge stopped?
+- Can you stop the discharge?
+- What assistance is required?
+When and where the accident happen?
+How many persons overboard?
+Can you still see them?
+Did anyone see the person go overboard?
+When was the person last seen?
+Was the person overboard wearing a life jacket?
+What assistance is required?
+What problems do you have?
+(e.g., , nature of the mechanical failure) Can you repair by yourself?
+How long [will it take] to repair?
+What kind of assistance is required?
+When and where the accident happen?
+What kind of cargo overboard?
+Any dangerous or polluting cargo?
+How much cargo/ how many containers overboard?
+Are the containers visible?
+Floating or sinking?
+What assistance is required?
+Is the casualty conscious and breathing?
+Is the casualty male /female?
+What is their age?
+Does the casualty speak English?
+Does the casualty have any known health problems?
+What treatment has been provided to the casualty on board?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Has the casualty been taking any medication?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Is your vessel able to accept a helicopter (i.e., to land or use of winch
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+only)?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+LOSS OF PROPULSION
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Are you in danger of grounding?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+Do you need towage assistance?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+What is the cause for loss of propulsion?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+When will propulsion be restored?
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+ANNEX B CONSIDERATIONS FOR INFORMATION THAT A VTS MAY REQUEST FROM A VESSEL IN EMERGENCY SITUATIONS
+P 21
+<doc_end>

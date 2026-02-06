@@ -1,0 +1,24 @@
+<doc_start>
+RELATIONSHIP TO OTHER DOCUMENTS
+This Guideline, G1132 VTS Voice Communications and Phraseology, is associated with Recommendation R1012 VTS Communications, a normative provision of IALA Standard S1040 Vessel Traffic Services [4].
+To demonstrate compliance with the Recommendation the provisions of this Guideline need to be implemented.
+RELATIONSHIP TO OTHER DOCUMENTS
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+RELATIONSHIP TO OTHER DOCUMENTS
+
+RELATIONSHIP TO OTHER DOCUMENTS
+P 6
+
+RELATIONSHIP TO OTHER DOCUMENTS
+The Guideline will also assist:
+
+RELATIONSHIP TO OTHER DOCUMENTS
+VTS authorities prepare standardized operating procedures for communication and should be read in conjunction with IALA Guideline G1141 Operational Procedures for Vessel Traffic Services [5].
+RELATIONSHIP TO OTHER DOCUMENTS
+•
+
+RELATIONSHIP TO OTHER DOCUMENTS
+
+• VTS Training organizations incorporate the use of standard VTS phraseology into their course curriculums.
+<doc_end>

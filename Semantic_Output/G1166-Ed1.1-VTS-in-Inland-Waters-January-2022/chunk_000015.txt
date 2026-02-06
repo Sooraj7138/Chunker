@@ -1,0 +1,93 @@
+<doc_start>
+4.10.1. IALA GUIDANCE
+IALA has established international standards for VTS training set out in:
+
+4.10.1. IALA GUIDANCE
+Recommendation R0103 Training and Certification of VTS personnel;
+
+4.10.1. IALA GUIDANCE
+
+• Guideline G1156 Recruitment Training and Certification of VTS personnel:
+
+4.10.1. IALA GUIDANCE
+
+• Guideline G1017 Assessment for Recognition of Prior Learning in VTS Training; and
+
+4.10.1. IALA GUIDANCE
+
+• Guideline G1027 Simulation in VTS Training.
+4.10.1. IALA GUIDANCE
+VTS Model Courses have been designed and are set out in model courses for:
+
+4.10.1. IALA GUIDANCE
+C0103-1 VTS operator Training (V-103/1);
+
+4.10.1. IALA GUIDANCE
+C0103- 2 VTS supervisor Training (V-103/2);
+
+4.10.1. IALA GUIDANCE
+C0103-3 VTS On-the-Job-Training (V-103/3);
+
+4.10.1. IALA GUIDANCE
+C0103-4 VTS On-the-Job Training Instructor (V-103-4); and
+
+4.10.1. IALA GUIDANCE
+C0103-5 The Revalidation Process for VTS Qualification and Certification (V-103-5).
+4.10.2. INLAND WATERS CONSIDERATIONS
+While it is for the national administration to mandate the training and certification requirements for inland VTS personnel in inland waters, there is a clear benefit in drawing on the international standards set by IALA for training and certification, which includes guidance on the management and accreditation of training establishments.
+4.10.2. INLAND WATERS CONSIDERATIONS
+The use of IALA modules within the model courses may serve as the basis for training and certification of inland VTS personnel in inland waters and enable them to transition more easily to other VTS centres as part of their career
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+progression.
+4.10.2. INLAND WATERS CONSIDERATIONS
+The closer an inland VTS is aligned to the international standard, the greater the potential for all training to be conducted to the same model course standard, thus achieving equivalent levels of safety, economies of scale and international/worldwide recognition of certification.
+4.10.2. INLAND WATERS CONSIDERATIONS
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+P 13
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+Where it is assessed that the establishment of an inland VTS is not justified but that some form of co-ordination of local services is required, the principles for qualification and training set out in the Guideline G1142 Local Port Services other than VTS should be considered.
+4.10.2. INLAND WATERS CONSIDERATIONS
+Inland VTS personnel may need additional skills, which should be taken into account when developing training
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+courses.
+These include:
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• the characteristics of inland waters;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• tracking and tracing of vessels;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• vessel reporting;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• routeing schemes;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• local rules and regulations;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+special requirements and procedures for pilotage, including cooperation skills with pilots;
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+the competencies of the crews of inland waterway vessels; and
+
+4.10.2. INLAND WATERS CONSIDERATIONS
+
+• specific network equipment and systems identified in other parts of this guideline such as CCTV, VTT and short range, high-definition radar.
+4.10.2. INLAND WATERS CONSIDERATIONS
+Simulation training is an equally effective measure in the training of inland VTS personnel, and the IALA guidance is similarly applicable.
+4.10.2. INLAND WATERS CONSIDERATIONS
+Consideration should be given to the promotion of communications skills to skippers and other persons responsible for the navigation of inland waterway vessels.
+<doc_end>

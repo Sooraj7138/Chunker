@@ -1,0 +1,28 @@
+<doc_start>
+Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 10 Table 1 Examples of practical training elements Training activity Specific items Evaluation elements about VTS Evaluation requirements − Obtain the necessary VTS information Voyage or passage plan Develop a voyage or passage plan Develop a contingency plan − Identify the relevant VTS interaction(s) − Include the VTS information in the voyage or passage plan − Consider possible incidents in the VTS area − Identify contingencies that take into account how VTS can assist VTS influencing factors should be fully considered and reflected in the formulation of the voyage or passage plan.
+Actual operation through a specific VTS area Entry into the VTS area Passage through the VTS area Incidents within the − Contact VTS − Include relevant VTS information in your decision making − Maintain communication with VTS − Actively participate in the VTS − Contact VTS − Include relevant VTS information in your In the VTS area, ships should report to VTS as required, seek assistance from VTS, and cooperate with VTS to deal with incidents.
+VTS area decision making − Maintain communication with VTS 6.3. EQUIPMENT TRAINING 6.3.1. VHF Effective VTS VHF communication directly contributes to navigational safety and efficiency.
+VHF communication training improves coordination and understanding between ships and the VTS centre.
+This training may also be carried out as simulation.
+6.3.2. ECDIS The use of ECDIS assists in the identification of VTS coverage, and location of the VTS reporting line/point.
+Training on ECDIS should include reference to the use of ECDIS in a VTS area.
+Examples of elements for training are provided in table 
+2. Table 2 Examples of VTS factors that can be considered in ECDIS practical training Training activity Evaluation elements Voyage or passage plan through the VTS area − Clarify coverage of VTS and location of VTS reporting points − Voyage or passage planning should include information on the VTS area Monitoring the movement of the ship in the VTS area − Take note of the VTS area and VTS reporting lines/points IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 11 6.4. CONSIDERATIONS FOR SHIPS IN THE VTS AREA There are a number of factors that should be taken into account by the bridge team when a ship is in a VTS area.
+Examples of elements for training are provided in Table 
+3. Table 3 VTS factors that may be considered when a ship is in a VTS area Training activity Evaluation elements − Providing estimated arrival / departure from VTS area，including format, content and Considerations – format of the estimated arrival / departure report; entering the VTS area − Procedure to follow when entering VTS area，including establishing contact with the VTS centre, communications and reporting requirements.
+− Movement within a VTS area，including the mandatory requirements for ships in the VTS area, communication and reporting requirements; Considerations – − Anchoring in VTS area, including the designated anchorage, communications and reporting within the VTS area requirements; − Berthing / unberthing in VTS area, including the arrival berth report, traffic clearance, speed or other restrictions and reporting requirements.
+Considerations – departing the VTS area − Procedures to follow when departing the VTS area, including reporting requirements.
+6.5. INCIDENTS AND EMERGENCIES A VTS supports safety of navigation and protects the environment through active monitoring and interaction with ships.
+VTS can assist with the coordination of response during incidents and emergencies, while ensuring the safety of the waterway.
+Incidents or emergencies may include search and rescue/man overboard, engine failure, steering gear failure, collision or grounding, encountering adverse weather that may affect safe voyage.
+Examples of elements for training are provided in table 
+4. Table 4 Examples of incidents and emergencies Training activity Evaluation elements − Report made to VTS in a timely manner; − Relevant information included, depending on the situation.
+Information may include: time and position of incident, nature of emergency, type of assistance required; Incident / Emergency − Communication with VTS is clear and concise; − Further information requested by the VTS is provided; − Request for navigational assistance (if required); − VTS is kept informed as the situation develop; and − VTS is advised when the incident / emergency has been resolved.
+IALA Guideline G1149 VTS Training for Deck Officers Edition 1.1 urn:mrn:iala:pub:g1149:ed1.1 P 12 6.6. FAMILIARIZATION ACTIVITIES Familiarization activities may include visiting a VTS centre or arranging for a presentation from a representative of a VTS.
+The objective of the familiarization is to explain the purpose of VTS to the deck officer, thereby enhancing VTS awareness.
+To achieve the objective, familiarization activities should be structured, and may use a workbook or other process.
+The familiarization activity may include: 
+• Equipment used 
+• Procedures followed Legal and regulatory requirements of the VTS 
+• How the VTS monitors and interacts with traffic
+<doc_end>

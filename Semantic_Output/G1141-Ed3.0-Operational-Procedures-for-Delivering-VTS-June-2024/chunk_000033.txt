@@ -1,0 +1,4 @@
+<doc_start>
+9. REFERENCES
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+<doc_end>

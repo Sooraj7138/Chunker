@@ -1,0 +1,36 @@
+<doc_start>
+Service (LPS) may be implemented.
+In such circumstances, IALA provides guidance in Guideline G1142, The Provision of Local Port Services other than VTS.
+Further guidance is also provided in Guideline G1083 Standard Nomenclature to Identify and Refer to a VTS.
+4.2.2. INLAND WATERS CONSIDERATIONS IMO Resolution A.1158(32) states the responsibilities of a VTS provider and those of participating ships which may also be relevant to an inland VTS.
+In particular, an inland VTS should be provided with appropriate equipment, systems and facilities for the delivery of the inland VTS and should be adequately staffed with inland VTS personnel who are appropriately trained and qualified.
+This is further expanded in IALA guidance.
+If it is assessed that the navigational complexity, volume of traffic or the degree of risk does not justify the establishment of an inland VTS but that some form of co-ordination of local services is required, then note should be taken of the provisions of Guideline G1142 for the establishment of a local port service or equivalent noting the provisions of Guideline G1083 that any service that is not authorized as a VTS should not use the term “VTS” in its name identifier.
+4.3. INLAND VTS OPERATIONS 4.3.1. IALA GUIDANCE IALA provides a number of documents relating to key operational considerations.
+These include: 
+• Recommendation R0127 VTS Operations and an associated Guideline G1141 Operational Procedures for a VTS; 
+• Guideline G1089 Provision of a VTS that sets out advice on providing a VTS including the responsibilities and purpose; 
+• Guideline G1110 Use of Decision Support Tools for VTS Personnel; 
+• Guideline G1131 Setting and measuring VTS objectives; 
+• Guideline G1045 Staffing Levels at VTS Centres; 
+• Guideline G1118 Marine Casualty/Incident Reporting and Recording, Including Near Miss Situations; and 
+• Guideline G1144 Promulgating the Requirements of a VTS to Mariners A VTS Users Guide Template 4.3.2. INLAND WATERS CONSIDERATIONS Many of the detailed considerations for operational procedures listed in the IALA guidance may not be relevant to inland waters.
+However, the need for operational guidance is of equal importance to inland VTS personnel, and the principle of setting out operational procedures should be followed and the basic principles of the IALA guidelines adapted as appropriate and suitable objectives set.
+The Guideline G1089 expands further on how to provide a VTS.
+Particular note should be made of the further explanation given on the purpose of a VTS in the provision of timely and relevant information, the monitoring and managing of vessel traffic and responding to developing situations.
+The close confines of many inland waterways and the ability to maintain a comprehensive traffic image may result in a more limited ability to respond to IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1 P 9 developing situations.
+Nevertheless, as long as the possibility exists that such interaction might be necessary, then it is important that inland VTS personnel are appropriately trained and certified for such interventions.
+While decision support tools may differ, the use of decision support tools is likely to be of similar value to an inland VTS as it is to a VTS in coastal waters and port/harbour areas and the IALA guidance of equal relevance.
+Where an inland waterway is managed by multiple inland VTS centres, coordination between adjacent inland VTS centres or sub-centres is essential.
+Information promulgating the requirements of an inland VTS should be publicized in a concise and harmonized format to reduce the burden on masters, skippers and other persons responsible for the navigation of seagoing ships or inland waterway vessels and to minimize misunderstandings when moving from one inland VTS area to another.
+The IALA guidance with a standardized format should, therefore, be used.
+4.4. INLAND VTS COMMUNICATIONS 4.4.1. IALA GUIDANCE A major factor in the effective delivery of VTS is the provision of precise and unambiguous voice communication.
+IALA provides: Recommendation R1012 VTS Communications; and 
+• an associated Guideline G1132 providing greater detail on “VTS Voice Communications and Phraseology”.
+4.4.2. INLAND WATERS CONSIDERATIONS IALA documentation seeks to ensure the harmonization of procedures and communications worldwide.
+Both inland waterway vessels and seagoing ships may operate in inland waters and may transit both inland and port/harbour VTS areas.
+National administrations should ensure that inland VTS providers follow the IALA guidance as far as is reasonably practicable.
+It is recognized that local language may be the primary language for an inland VTS, but the principles of phraseology and standardized phrases recommended by IALA should still be used when translated into the local language and the principles for VTS nomenclature should be followed.
+Local, regional and national agreements and recommendations of river commissions on the use of the language in radio communications on inland waterways may apply.
+Inland waterway administrations may consider the application of the provisions of the IALA recommendations and guideline relating to the voice
+<doc_end>

@@ -1,0 +1,54 @@
+<doc_start>
+4.1. IDENTIFIER
+To avoid confusion to the mariner, the IALA Guideline G1083 Standard Nomenclature to Identify and Refer to VTS Centres [9] states that any service that is not authorized as a VTS should not use the term “VTS” in its name identifier.
+4.1. IDENTIFIER
+For global harmonization, the title “Local Port Service” is strongly recommended, although it is recognized that alternative titles may be more appropriate under certain circumstances.
+4.1. IDENTIFIER
+It is therefore recommended that a local port service clearly distinguishes that it is not a VTS in communications with masters and stakeholders through adoption of a similar format using a “name identifier” and an associated “location” suffix or prefix to identify a local port service for example “Port Z LPS”.
+4.2. VOICE COMMUNICATIONS
+The following principles for voice communications are recommended when operating a local port service:
+
+4.2. VOICE COMMUNICATIONS
+
+• Staff using radio communications equipment should be licenced and trained appropriately, for example, with a national radio operator’s certificate.
+4.2. VOICE COMMUNICATIONS
+
+• Communications should be in the form of concise factual information and staff should be aware of their authorization powers.
+4.3. PROMULGATION
+The details of any local service provided by an entity should be clearly described and promulgated in the appropriate navigational publications.
+4.4. QUALIFICATIONS AND TRAINING
+While there are no international standards relating to the qualifications and training for the provision of a local port service it is recommended that training should give due consideration to:
+
+4.4. QUALIFICATIONS AND TRAINING
+
+• The equipment in use
+
+4.4. QUALIFICATIONS AND TRAINING
+
+• Operational procedures
+
+4.4. QUALIFICATIONS AND TRAINING
+The level of operator competence required
+
+4.4. QUALIFICATIONS AND TRAINING
+The complexity of the information required to be exchanged
+
+4.4. QUALIFICATIONS AND TRAINING
+For global consistency, it is suggested that training be based on the selection of appropriate and relevant modules (or elements within modules) from the C0103-1 (V-103/1) syllabus.
+4.4. QUALIFICATIONS AND TRAINING
+Particular emphasis should be given to ensuring staff clearly understand the limitations of the local service being provided to ensure that the service delivered will not be mistaken for that of an authorized VTS.
+
+5. OTHER CONSIDERATIONS
+An entity operating a local port service should give due consideration to the legal framework they operate under and possible implications that may arise as a result of the provision of information to individual vessels in the event of a shipping incident where staff may have failed to carry out their duty competently.
+
+5. OTHER CONSIDERATIONS
+IALA Guideline G1142 The Provision of a Local Port Service other than a VTS Edition 1.1 urn:mrn:iala:pub:g1142:ed1.1
+
+
+5. OTHER CONSIDERATIONS
+7)
+
+
+5. OTHER CONSIDERATIONS
+P 7
+<doc_end>

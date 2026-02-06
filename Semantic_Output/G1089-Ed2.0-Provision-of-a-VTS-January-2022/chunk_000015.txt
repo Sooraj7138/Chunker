@@ -1,0 +1,4 @@
+<doc_start>
+4.3.3. PROCEDURAL
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+<doc_end>

@@ -1,0 +1,74 @@
+<doc_start>
+15. REFERENCES
+[20] IALA.
+Recommendation R0121 For the performance and monitoring of a DGNSS Service in the band 283.5 – 325 kHz
+
+
+15. REFERENCES
+IALA.
+Recommendation R0124 The AIS Service (A-124)
+
+
+15. REFERENCES
+[22] IALA.
+Recommendation R0126 The Use of the Automatic Identification System (AIS) (A-126) in Marine Aids to Navigation Services
+
+
+15. REFERENCES
+[23] IALA.
+Recommendation R0130 Categorisation and Availability Objectives for Short Range Aids to Navigation (R-130)
+
+
+15. REFERENCES
+IALA.
+Guideline G1062 The Establishment of AIS as an Aid to Navigation
+
+
+15. REFERENCES
+IALA.
+Guideline G1084 Authorisation of AIS AtoN
+
+
+15. REFERENCES
+IALA.
+Guideline G1143 Unique Identifiers for Maritime Resources
+
+
+15. REFERENCES
+IALA.
+Recommendation R0125 The Use and Presentation of Symbology at a VTS Centre (including AIS)
+
+
+15. REFERENCES
+IALA.
+Recommendation R1016 Mobile Marine AtoN (MAtoN)
+
+
+15. REFERENCES
+IEC.
+61174 ECDIS Operational and Performance Requirements, Methods of Testing and Required Test Results
+
+
+15. REFERENCES
+[30] IEC.
+61193-2 Class A shipborne equipment of the universal automatic identification system (AIS) - Operational and performance requirements, methods of test and required test results AIS Class A
+
+
+15. REFERENCES
+IEC.
+62288 Presentation of navigation-related information on shipborne navigational displays
+
+
+15. REFERENCES
+[32] IEC.
+62320-2 AIS AtoN stations - Minimum operational and performance requirements -methods of test and required test results
+
+
+15. REFERENCES
+[33] IEC.
+62388 Maritime navigation and radio-communication equipment and systems – Shipborne radar - Performance requirements, methods of testing and required test results
+
+
+15. REFERENCES
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+<doc_end>

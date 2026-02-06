@@ -1,0 +1,27 @@
+<doc_start>
+15. REFERENCES
+[17]
+
+
+15. REFERENCES
+IHO.
+S-100 Universal Hydrographic Data Model
+
+
+15. REFERENCES
+[18]
+
+
+15. REFERENCES
+IHO.
+S-101 ENC Product Specification
+
+
+15. REFERENCES
+[19]
+
+
+15. REFERENCES
+IHO.
+S-101 Feature and Portrayal Catalogues
+<doc_end>

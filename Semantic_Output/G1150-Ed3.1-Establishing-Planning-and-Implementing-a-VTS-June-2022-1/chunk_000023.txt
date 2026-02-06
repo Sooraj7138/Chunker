@@ -1,0 +1,5 @@
+<doc_start>
+THE GEOGRAPHY OF THE AREA
+The maritime area should be defined and described in terms of geography.
+The following areas should be considered:
+<doc_end>

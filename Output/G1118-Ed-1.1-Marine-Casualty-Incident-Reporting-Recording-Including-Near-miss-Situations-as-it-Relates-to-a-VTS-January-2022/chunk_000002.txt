@@ -1,0 +1,53 @@
+<doc_start>
+visibility conditions 
+• Density of traffic 
+• Dangerousness of the cargo on board 
+• Proximity of shallow waters 
+• Manoeuvrability of the vessel When casualty/incident/near-miss do occur, it is appropriate to use a coding scheme or a framework to both guide the investigation and to categorize the contributing factors.
+The results of these investigations should be placed in a form that allows a VTS provider to detect patterns over time.
+Frameworks that might be appropriate for this include the: 
+• Human Factors Accident Classification System (HFACS) 
+• Root Cause Analysis 
+• “Five Whys” or any approach that is comprehensive, assesses contributing factors at multiple levels of organization (i.e., individual, team, organization, system), which attempt to understand how the responses to the situation were considered logical and reasonable under the circumstances, and consider the event in the context of the complex maritime system.
+REQUIRED TECHNICAL ABILITY OF VTS SYSTEM FOR DATA RECORDING, STORAGE AND RETRIEVAL 3.2. It is essential that a VTS should have the ability to record and store all relevant information regarding recognized casualty/incident/near-miss situations.
+This should include: IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 6 
+• Sensors data recordings 
+• VHF and telephone communication recordings 
+• Recording and storing of other relevant information It may also include (within legal limitations): Recordings of the internal conversations of VTS personnel inside VTS Centre 
+• Recordings of the actions of VTS personnel IALA recommends a minimum of 30-day storage period of VTS data (IALA Guideline G1111 Preparation of Operational and Technical Performance Requirements for VTS Systems [5]) as the time-period to allow for the full retrieval of data post-incident.
+It can be assumed that this requirement is appropriate for all data sets that may be used for incident replay.
+As this data will be recorded in a rolling loop of, for example the most recent 30-days data, there should be a procedure to store recordings to safeguard recorded data in case of a casualty, an incident or a near-miss.
+Technical means of a VTS should be in line with relevant technical requirements to ensure proper data recording and storage (refer to IALA Guideline G1111).
+VTS systems may also have the capability for data analysing and automated report generation.
+
+4. REPORTING PROCESS The reporting process could be influenced by limitations and constraints.
+The reporting process could be internal or external, and mandatory or voluntary, and may depend on the nature of the situation.
+4.1. LIMITATIONS AND CONSTRAINTS Areas to be considered include: 
+• Legal issues 
+• Confidentiality and data protection 
+• VTS provider responsibility level 
+• Technical issues 
+• Administrative issues 
+• Organizational issues 4.2. NATURE OF REPORTING 4.2.1. MANDATORY REPORTING There are mandatory standards for notification of marine casualty in chapter 5 of IMO-Res.
+MSC.255(84) known as Casualty Investigation Code.
+VTS providers should implement the mandatory requirements as defined in national regulations.
+VOLUNTARY REPORTING 4.2.2. There is no mandatory international standard for notification of marine incidents or near-miss situations by a VTS, but there are some regional and national requirements to notify incidents (e.g., EU Directives 2002/59/EC [6] and 2009/18/EC Article 6 [7]) by Flag State, masters of ships involved and coastal State.
+For those States, which do not IALA Guideline G1118 Marine Casualty / Incident Reporting and Recording, Including Near-miss Situations as it Relates to a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 P 7 3 have requirements regarding incident situation reporting, it is advised to take into consideration establishing national regulations.
+The analysis and reporting of near-miss situations can be used for assessment of safety of navigation in the VTS area.
+This can also be used as a component of a safety management or a quality management system and measuring the current effectiveness of a VTS.
+ADDRESSING OF THE CASUALTY/INCIDENT REPORTS 4.2.3. VTS casualty/incident reports may be addressed to, amongst others, the following organizations in accordance with Casualty Investigation Code, regional or national rules and regulations: 
+• Competent authority 
+• Port authority 
+• VTS provider 
+• Adjacent VTS 
+• Port State Control authority (PSC) 
+• Marine Safety Investigation authority 
+• Law enforcement authority Flag State maritime authority 
+• Shipping company Class society delivering the ISM certification on behalf of the flag State 
+• Maritime Rescue Co-ordination Centre (MRCC) International Maritime Organization/Agreement (e.g., EMSA, PMoU, etc.) Pollution Monitoring and Response Centre Coastal State (Ref.
+to chapter 5 of Casualty Investigation Code) 
+• Any substantially interested States (i.e., because of the nationality of the crew, passengers, refer to chapter 5 of the Casualty Investigation Code).
+ADDRESSING NEAR-MISS REPORTS 4.2.4. Near-miss reports should be reported internally within VTS providers and/or competent authorities.
+The analysis and reporting of near-miss situations may result in corrective actions on the VTS operational procedures and additional training of VTS personnel.
+If certified under ISO
+<doc_end>

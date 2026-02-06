@@ -1,0 +1,90 @@
+<doc_start>
+CONTENTS
+
+1. INTRODUCTION .................................................................................................................................
+4 
+2. SCOPE ...............................................................................................................................................
+4 
+3. OVERVIEW OF GIS METHODOLOGY ....................................................................................................
+4 
+4. APPLICATIONS ...................................................................................................................................
+5 4.1. Introduction .............................................................................................................................................
+5 4.2. Assessment of wrecks and obstructions ..................................................................................................
+5 4.3. Assessment of marking requirements for new or existing shoals and shallow areas subsequent to hydrographic survey ................................................................................................................................
+7 4.4. Determining and reviewing the appropriate overall requirements, number and mix of Aids to Navigation in existing and new applications ...........................................................................................
+7 4.5. Determining the need for new routing measures or traffic separation schemes ...................................
+8 4.6. Post Implementation Analysis .................................................................................................................
+9 
+5. OTHER CONSIDERATIONS .................................................................................................................
+10 5.1. Possible limitations to be considered with AIS data ..............................................................................
+10 
+6. CONCLUSION ...................................................................................................................................
+10 
+7. DEFINITIONS ....................................................................................................................................
+10
+
+CONTENTS
+
+8. ABBREVIATIONS ..............................................................................................................................
+11
+
+List of Figures
+Initial position of the wreck plotted ...............................................................................................
+6 Wreck together with 28 days AIS data traffic ...............................................................................
+6 Vessels passing within 3nm of the wreck ......................................................................................
+6 Vessels over 5 metres draught ......................................................................................................
+6 Traffic analysis by draught(1) ........................................................................................................
+6 Traffic analysis by draught(2) ........................................................................................................
+6 5 metres contours over a 4 year period .........................................................................................
+7 Original traffic patterns with contours ..........................................................................................
+7 An example of adjacent lighthouses showing range and sector details .......................................
+8 Lighthouse data with 28 days of traffic shown .............................................................................
+8 Vessel traffic filtered to show 1 day ..............................................................................................
+8 AIS density plot before the implementation of Traffic Separation Scheme (TSS) Bornholmsgat between Denmark and Sweden .....................................................................................................
+9
+
+List of Figures
+Figure 1
+
+List of Figures
+Figure 2
+
+List of Figures
+Figure 3
+
+List of Figures
+Figure 4
+
+List of Figures
+Figure 5
+
+List of Figures
+Figure 6
+
+List of Figures
+Figure 7
+
+List of Figures
+Figure 8
+
+List of Figures
+Figure 9
+
+List of Figures
+Figure 10
+
+List of Figures
+Figure 11
+
+List of Figures
+Figure 12
+
+List of Figures
+Figure 13
+
+List of Figures
+AIS density plot after the implementation of TSS Bornholmsgat between Denmark and Sweden 9
+
+List of Figures
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+<doc_end>

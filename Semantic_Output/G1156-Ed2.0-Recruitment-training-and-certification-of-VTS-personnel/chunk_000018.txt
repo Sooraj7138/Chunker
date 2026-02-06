@@ -1,0 +1,265 @@
+<doc_start>
+8.6. TRAINING RECORDS
+The VTS provider should maintain a register of training records for VTS personnel.
+These records should include details of (but not be limited to):
+
+8.6. TRAINING RECORDS
+
+• OJT for each VTS area and VTS centre at which the holder is employed, and the date the training was completed
+
+8.6. TRAINING RECORDS
+
+• VTS model courses successfully completed, including the name of the accredited training organization where the course was undertaken, when the course was undertaken and copies of the course certification
+
+8.6. TRAINING RECORDS
+
+• periodic assessments (e.g.
+performance assessments, competency based tests)
+
+8.6. TRAINING RECORDS
+revalidation records
+
+8.6. TRAINING RECORDS
+
+• any other relevant course or training successfully completed (e.g., first aid training)
+
+8.6. TRAINING RECORDS
+Competent Authorities or VTS providers may consider issuing a VTS certification log as a means to formally record course certificates and training activities of VTS personnel.
+The log should include (but not be limited to):
+
+8.6. TRAINING RECORDS
+the holder’s full name
+
+8.6. TRAINING RECORDS
+the country in which it was awarded
+
+8.6. TRAINING RECORDS
+
+• date of birth and/or unique identification information
+
+8.6. TRAINING RECORDS
+•
+
+8.6. TRAINING RECORDS
+the date of issue
+
+8.6. TRAINING RECORDS
+
+• a unique certificate number
+
+8.6. TRAINING RECORDS
+
+• brief details of the VTS qualifications held, including the certificate number
+
+8.6. TRAINING RECORDS
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+8.6. TRAINING RECORDS
+
+8.6. TRAINING RECORDS
+P 14
+
+
+9. MAINTAINING QUALIFICATIONS
+As indicated in IMO Resolution A.1158(32)
+
+
+9. MAINTAINING QUALIFICATIONS
+8.2 - VTS personnel should only be considered competent when appropriately trained and qualified for their VTS duties, and,
+
+
+9. MAINTAINING QUALIFICATIONS
+8.2.3 undergoing periodic assessments and revalidation training to ensure competence is maintained.
+
+9. MAINTAINING QUALIFICATIONS
+In this context, “revalidation” refers to the process required to maintain a VTS qualification.
+
+9. MAINTAINING QUALIFICATIONS
+A structured process for revalidation and continued professional development ensures that holders of VTS qualifications maintain and develop skills, improve their competency, and prevents skills and knowledge from degrading over time.
+
+9. MAINTAINING QUALIFICATIONS
+To ensure qualifications remain current VTS personnel should participate in required training, stay informed about new procedures, refresh knowledge, and demonstrate ongoing competency.
+
+9. MAINTAINING QUALIFICATIONS
+VTS providers should establish processes and procedures for maintaining qualifications and continual professional development to ensure VTS personnel remain qualified to conduct their VTS duties taking into account of any additional requirements identified by the Competent Authority.
+
+9. MAINTAINING QUALIFICATIONS
+Consideration should be given to the following areas:
+
+
+9. MAINTAINING QUALIFICATIONS
+
+• Periodic assessments to verify competence and address cases where personnel fall below required competency levels.
+
+9. MAINTAINING QUALIFICATIONS
+
+• A training strategy to continue the development of skills.
+
+9. MAINTAINING QUALIFICATIONS
+
+• A training strategy to cope with changes in the VTS environment, including regulatory, operational and technical (adaptation training).
+
+9. MAINTAINING QUALIFICATIONS
+
+• Revalidation training within the time frame as determined by the competent authority.
+
+9. MAINTAINING QUALIFICATIONS
+
+• Procedures for personnel returning after a break in service.
+
+9. MAINTAINING QUALIFICATIONS
+
+• Maintenance of additional qualifications where VTS personnel hold VTS supervisor or OJT Instructor certificates.
+
+9. MAINTAINING QUALIFICATIONS
+The process for maintaining qualifications should address the VTS duties carried out by VTS personnel.
+This includes initial VTS training (C0103-1 VTS Operator and C0103-3 VTS OJT) as well as role specific training (C0103-2 VTS Supervisor and C0103-4 VTS OJT Instructor).
+The process for maintaining qualifications may vary depending on the requirements of the competent authority, the operational requirements of the VTS provider, and the individual’s training needs.
+This includes an approach including periodic assessments as well as specific revalidation training.
+The training activities to maintain qualifications are presented in figure 1.
+
+
+9. MAINTAINING QUALIFICATIONS
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+
+9. MAINTAINING QUALIFICATIONS
+
+
+9. MAINTAINING QUALIFICATIONS
+P 15
+
+
+9. MAINTAINING QUALIFICATIONS
+Initial Training   (C0103-1 VTS operator, C0103-3 OJT)
+
+
+9. MAINTAINING QUALIFICATIONS
++------~;| OJT Instructor) | Additional VTS Qualifications (C0103-2 VTS Supervisor, CO103-4 1 1 1 1 -!
+
+9. MAINTAINING QUALIFICATIONS
+Maintaining Qualifications
+
+
+9. MAINTAINING QUALIFICATIONS
+Periodic   Assessments
+
+
+9. MAINTAINING QUALIFICATIONS
+Skills and   Development
+
+
+9. MAINTAINING QUALIFICATIONS
+Revalidation   Training
+
+
+9. MAINTAINING QUALIFICATIONS
+Unstructured Learning
+
+
+9. MAINTAINING QUALIFICATIONS
+Figure 1 Process to maintain qualifications
+
+
+9. MAINTAINING QUALIFICATIONS
+VTS providers should ensure that VTS personnel holding C0103-2 VTS Supervisor and C0103-4 On-the-Job Training (OJT) Instructor certificates also maintain their qualifications to confirm ongoing competence in those areas.
+A training needs analysis process may be used to identify any additional training requirements that may be required to ensure VTS personnel refresh, maintain, and enhance skills, knowledge and competencies ensuring the ongoing validity of their VTS qualifications.
+
+9. MAINTAINING QUALIFICATIONS
+Table 1 provides an overview of the different training components, requirements and frequency to assist VTS personnel to ensure competence is maintained.
+
+9. MAINTAINING QUALIFICATIONS
+Table 1 Overview of Training Components, Requirements and Frequency
+
+
+9. MAINTAINING QUALIFICATIONS
+Component Requirement Frequency PERIODIC ASSESSMENTS Performance assessments Once trained and qualified, regular performance assessments of VTS personnel are undertaken to ensure that the established standards continue to be met.
+As determined by the VTS Provider - Annually, or more frequently.
+Assessing Competency in VTS Communications Periodic tests are to be completed to assess competency with standard message structure and phrases.
+As determined by the VTS Provider - Annually, or more frequently
+
+
+9. MAINTAINING QUALIFICATIONS
+SKILLS AND DEVELOPMENT TRAINING
+
+
+9. MAINTAINING QUALIFICATIONS
+Training to be completed when significant changes to VTS As determined by the VTS Adaptation training operations are expected, such as changes associated with provider, preferably before equipment, regulations, operational procedures etc.
+the change(s) takes place.
+Updating training A tailor-made programme based on a training needs analysis which identifies that an individual requires additional training to maintain competency.
+As determined by the VTS provider within the requirements of the Competent Authority Other training Additional training programs that may address specific learning needs of personnel at a VTS.
+As determined by the VTS provider, requirements of
+
+
+9. MAINTAINING QUALIFICATIONS
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+
+9. MAINTAINING QUALIFICATIONS
+
+
+9. MAINTAINING QUALIFICATIONS
+P 16
+
+
+9. MAINTAINING QUALIFICATIONS
+Component Requirement Frequency the relevant qualification or national requirements REVALIDATION TRAINING Revalidation training Structured training course or program that ensures the ongoing validity of VTS qualifications (Model Course C0103-5 – Revalidation training for VTS Personnel).
+Training to be delivered by Training Organizations or may be delivered by a VTS provider.
+As determined by the Competent Authority - Intervals between 3 to 5 years.
+9.1. PERIODIC ASSESSMENTS
+Once VTS personnel are trained and qualified, regular performance and competency assessments should be undertaken to ensure that established standards continue to be met.
+These periodic assessments may identify areas for improvements that can trigger a need for additional skills and development training.
+9.1.1. PERFORMANCE ASSESSMENT
+Performance assessment is a process used to evaluate an individual’s job performance in carrying out specific tasks or functions associated with VTS duties.
+This assessment provides insights into their effectiveness and skills, while also identifying areas for improvement and development.
+9.1.1. PERFORMANCE ASSESSMENT
+Performance assessments may be carried out using different approaches, including as part of the annual assessment of personnel, through a 360° assessment process or other methods.
+Regardless of the approach used, performance assessment of VTS personnel should be carried out at regular intervals to evaluate an individual’s competence to carry out their VTS duties.
+These assessments may include a combination of elements, for example:
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Proficiency checks to measure specific levels of skill or knowledge
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Scenario/ Simulation exercises
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Structured peer reviews conducted by VTS Personnel trained as a VTS On-the-Job Training Instructor
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Review organised and/or conducted by a VTS Supervisor
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Review of reports and voice recordings
+
+9.1.1. PERFORMANCE ASSESSMENT
+If a performance assessment shows that established competency is not being met, then updating training with the individual should be considered to help maintain their qualifications.
+The content of this training can be identified through a training needs analysis (see annex A).
+9.1.1. PERFORMANCE ASSESSMENT
+To demonstrate the performance of VTS personnel is being observed and monitored, VTS providers should ensure:
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+• The framework and assessment methods used to undertake performance assessments is documented.
+9.1.1. PERFORMANCE ASSESSMENT
+
+• Processes and procedures are in place to ensure performance assessments are completed.
+9.1.1. PERFORMANCE ASSESSMENT
+
+• The assessment that an individual VTS operator has satisfactorily completed a performance assessment should be documented / signed off by nominated staff member/s.
+9.1.1. PERFORMANCE ASSESSMENT
+
+• The outcomes are reflected in training records.
+9.1.1. PERFORMANCE ASSESSMENT
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+9.1.1. PERFORMANCE ASSESSMENT
+
+9.1.1. PERFORMANCE ASSESSMENT
+P 17
+<doc_end>

@@ -1,0 +1,29 @@
+<doc_start>
+A.4. ACCIDENT AND INCIDENT DATA
+Information should be obtained on:
+
+A.4. ACCIDENT AND INCIDENT DATA
+
+• maritime accidents/incidents in the area, including information on the economic consequences;
+
+A.4. ACCIDENT AND INCIDENT DATA
+areas with a high frequency of accidents/incidents;
+
+A.4. ACCIDENT AND INCIDENT DATA
+results of accident/incident investigations;
+
+A.4. ACCIDENT AND INCIDENT DATA
+the recorded root causes of the accidents/incidents;
+
+A.4. ACCIDENT AND INCIDENT DATA
+•
+
+A.4. ACCIDENT AND INCIDENT DATA
+any recommendations contained in reports on accidents/incidents, and implementation status of these recommendations;
+
+A.4. ACCIDENT AND INCIDENT DATA
+the competency of the crew manning ships entering the area; and
+
+A.4. ACCIDENT AND INCIDENT DATA
+the opinions of stakeholders regarding traffic safety in the area.
+<doc_end>

@@ -1,0 +1,167 @@
+<doc_start>
+2.2. SECURITY REQUIREMENTS
+The security requirements needed to derive the functional and performance requirements should include, but not
+
+2.2. SECURITY REQUIREMENTS
+be limited to:
+
+2.2. SECURITY REQUIREMENTS
+
+• Physical security of the VTS Centre and remote sites
+
+2.2. SECURITY REQUIREMENTS
+
+• Cyber security
+
+2.2. SECURITY REQUIREMENTS
+Business continuity, availability, reliability and disaster recovery
+
+2.2. SECURITY REQUIREMENTS
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+2.2. SECURITY REQUIREMENTS
+P 6
+
+2.2. SECURITY REQUIREMENTS
+o)
+
+2.3. OPERATIONAL REQUIREMENTS
+The operational requirements needed to derive the functional and performance requirements should include, but
+
+2.3. OPERATIONAL REQUIREMENTS
+not be limited to:
+
+2.3. OPERATIONAL REQUIREMENTS
+
+• Delineating the VTS area and, if appropriate, VTS sub-areas or sectors
+
+2.3. OPERATIONAL REQUIREMENTS
+Types and sizes of ships required or expected to participate in the VTS
+
+2.3. OPERATIONAL REQUIREMENTS
+
+• Navigational hazards and traffic patterns
+
+2.3. OPERATIONAL REQUIREMENTS
+
+• Human/machine interface and human factors, including health and safety issues
+
+2.3. OPERATIONAL REQUIREMENTS
+Tasks to be performed by VTS operators and/or supervisors
+
+2.3. OPERATIONAL REQUIREMENTS
+
+• Operational procedures, including communication, staffing level and operating hours of the VTS
+
+2.3. OPERATIONAL REQUIREMENTS
+Information sharing and co-operation with external stakeholders
+
+2.3. OPERATIONAL REQUIREMENTS
+
+• Legal framework
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+The functional and performance requirements for a VTS system should be derived from the operational requirements.
+This may be an iterative process, which can be aligned with the phases of Guideline G1150.
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+In order to define functional and performance requirements, the operational requirements may be grouped into:
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• communications
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• situational awareness
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• recording and playback
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• reliability and availability
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+The grouping of operational requirements facilitates the creation of functional and performance requirements, for example, divided into:
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• voice and data communication
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+the VTS Centre, sites, sensors and processing
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+recording and replay, including post situational analysis
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• redundancy and resilience
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+Deriving system concepts may involve various mathematical, functional and simulation models to visualize different characteristics of the system.
+Models to consider might include, but not be limited to:
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Radio communications coverage
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Sensor coverage
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Communications network infrastructure
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Data architecture and interfaces
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+Reliability and availability, including any redundancy options
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Lifecycle costs
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+P 7
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+4)
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+The models could assist in establishing the relationship between the system concepts, associated functional and performance requirements and operational requirements.
+Feasibility studies (site surveys, equipment trials etc.) may also be appropriate to reduce technical risks which may otherwise not be apparent until implementation.
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+Additional functional and performance requirements may come from, but not be limited to:
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+Environmental considerations
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Legal obligations
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Ergonomic issues
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+Safety (other than navigational safety)
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Security requirements, e.g., physical security, personnel security, cyber security incl.
+software updates during operation
+
+2.4. DERIVING FUNCTIONAL AND PERFORMANCE REQUIREMENTS
+
+• Operational business rules or operational procedures
+<doc_end>

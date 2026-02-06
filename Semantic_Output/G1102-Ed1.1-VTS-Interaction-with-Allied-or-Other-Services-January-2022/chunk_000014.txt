@@ -1,0 +1,63 @@
+<doc_start>
+B.1. SECURITY
+Through routine VTS operations and interaction with maritime traffic, VTS personnel are aware of the situation and circumstances in the VTS area and may be in a position to detect and report events out of the ordinary.
+B.1. SECURITY
+Though much has been written about Maritime Security in all relevant documents, there is no existing definition.
+SOLAS Chapter XI only provides a definition on Security Incident:
+
+B.1. SECURITY
+'Security incident means any suspicious act or circumstance threatening the security of a ship, including a mobile offshore drilling unit and a high-speed craft, or of a port facility or of any ship/port interface or any ship-to-ship
+
+B.1. SECURITY
+activity.'
+
+B.1. SECURITY
+A VTS may assist security assessments through:
+
+B.1. SECURITY
+
+• VTS in-depth knowledge of coastal, port and inland waterway infrastructure and its critical and vulnerable locations.
+B.1. SECURITY
+
+• VTS real-time knowledge of vessel activity, including scheduled movements, vessel locations and intentions.
+B.1. SECURITY
+VTS-capability to interact with law enforcement authorities.
+B.1. SECURITY
+
+• VTS in-depth knowledge of regular port operations, including vessel routes and ship-port interface activities.
+B.1. SECURITY
+The VTS maintains regular and continuous communications with vessels in case a vessel is denied access to a port or restricted area for security reasons.
+The VTS may determine a safe anchorage, holding area or designated / alternative route.
+The VTS may communicate this information to the vessel and to the appropriate security authority, and monitor the vessel’s status while anchored or in the holding area, or its progress and compliance to the designated route.
+B.2. SAFETY AND PROTECTION OF THE MARINE ENVIRONMENT
+Prevention of harm to vessels, waterways and infrastructure will contribute to the safety of personnel, vessels, cargo, and to the protection of the marine environment and of investments in port or waterway infrastructure.
+B.3. EFFICIENCY OF MARITIME TRAFFIC
+Next to the support given by a VTS for improving safety and the fluency of maritime traffic, support from a VTS may also contribute to efficient information management in the maritime transport chain at large.
+For instance, when information and data contained in or captured by the VTS database is made available for re-use in a Single Window environment, multiple reporting and processing of the same information or data for different stakeholders can be avoided.
+(e.g., notice of arrival to coastguard, customs, immigration, etc.).
+B.3. EFFICIENCY OF MARITIME TRAFFIC
+It should be noted that it is important to avoid confusion between allied and other services and the services provided by a VTS.
+B.4. SEARCH AND RESCUE
+VTS personnel are aware of the situation and circumstances in the VTS area and may be in a position to detect and report the present information of the SAR / emergency situation.
+A VTS may collect information from all vessels concerned in the SAR area.
+B.4. SEARCH AND RESCUE
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+B.4. SEARCH AND RESCUE
+)
+
+B.4. SEARCH AND RESCUE
+P 9
+
+B.4. SEARCH AND RESCUE
+In this manner a VTS may assist, by providing and exchange of information to the MRCC for SAR and emergency operations in the VTS area.
+Examples of good practice operational procedures concerning SAR and emergency situations are given in annex C.
+B.4. SEARCH AND RESCUE
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+B.4. SEARCH AND RESCUE
+4)
+
+B.4. SEARCH AND RESCUE
+P 10
+<doc_end>

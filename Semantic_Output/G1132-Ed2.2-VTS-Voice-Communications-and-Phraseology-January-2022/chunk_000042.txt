@@ -1,0 +1,25 @@
+<doc_start>
+6.1. OVERVIEW
+The following typographical conventions are used throughout this part to clearly emphasize the recommended
+
+6.1. OVERVIEW
+phrases:
+
+6.1. OVERVIEW
+( ) brackets indicate that the part of the message enclosed within the brackets may be added where relevant;
+
+6.1. OVERVIEW
+[ ] square brackets indicate optional content;
+
+6.1. OVERVIEW
+oblique strokes indicate that the items on either side of the stroke are alternatives;
+
+6.1. OVERVIEW
+/
+
+6.1. OVERVIEW
+dots indicate that the relevant information is to be filled in where the dots occur;
+
+6.1. OVERVIEW
+(italic letters) indicate the kind of information requested; and
+<doc_end>

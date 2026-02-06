@@ -1,0 +1,97 @@
+<doc_start>
+ANNEX A VTS STAFFING CALCULATION SPREADSHEET
+This annex is a separate Excel spreadsheet and accompanies this Guideline automating the calculations from Annex B after data has been inputted.
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+This formula is designed to guide a VTS provider towards the general considerations that should be addressed in assessing appropriate staffing levels for a VTS Centre.
+It provides a theoretical starting point for more detailed decision making.
+Adjustments will then be necessary to convert this theoretical outcome into a practical solution.
+This approach provides a degree of objectivity in setting and establishing staffing levels.
+This formula is applicable to both VTS Operator and VTS Supervisor staffing levels.
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Given Input Data:
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+= hours per day (normally 24)
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+'a'
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+'b' = actual days per week (normally 7) 'c' = actual days per year (normally 365.25) 'd' = Individual (contracted) hours per working week 1 'e' = normal hours per shift 2 'f' = hours leave per year 3 'g' = hours sickness per year 4 'h' = hours training per year 5 'i' = Individual mins lost per shift (meals, handovers, position breaks etc.) 6 'j' = number of operational VTS work stations Calculate (see calculation stages below): 'k' = Individual hours per year before deductions 'l' = Individual hours after deductions for leave, sickness and training 'm' = working shifts per year 'n' = Individual hours lost per shift (break & handover) 'o' = total hours lost per year 'p' = total duty hours per VTSO/Supervisor per workstation per year 'q' = actual hours per year 'r' = number of VTSOs/Supervisors required per VTS workstation 'T' = Total number of VTSOs/Supervisors required for staffing a VTS Centre Stage 1: k = d * (c / b) Stage 6 p = l - o Stage 2: l = k - (f + g + h) Stage 7: q = a * c
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Calculation:
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Stage 1: k = d * (c / b) Stage 6 p = l - o Stage 2: l = k - (f + g + h) Stage 7: q = a * c Stage 3: m = l / e Stage 8: r = q / p Stage 4: n = i /60 Stage 9: T = r * j Stage 5 o = m * n
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Stage 1: k = d * (c / b)
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+p = l - o
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Stage 6
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Stage 2:
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+l = k - (f + g + h)
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Stage 7: q = a * c
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Input data - Normally
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+fixed for a 24/7/365 VTS
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Input data - Variable
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+Calculated
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+P 13
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+(A separate Excel spreadsheet accompanies this Annex automating the calculations above after data has been
+
+ANNEX B POSSIBLE FORMULA FOR DETERMINING THE NUMBER OF VTS PERSONNEL REQUIRED FOR STAFFING A VTS CENTRE
+inputted)
+
+Notes:
+
+1. Individual (contracted) hours per working week ('d') are the terms of employment for an individual VTSO or Supervisor; typically, between 35 – 45 hrs per week.
+Notes:
+
+2. Normal hours per shift ('e') is typically 6 – 12 hours.
+Notes:
+
+3. Hours leave per year ('f') should be based on the number of days leave granted multiplied only by the shift hours per day (not the full 24 hours).
+Notes:
+
+4. Hours sickness per year ('g') is an estimate based on historic records and averaged across the VTS department.
+Notes:
+
+5. Hours training per year ('h') should include the training hours scheduled for the year.
+Notes:
+
+6. Individual minutes lost per shift for meals, handovers and breaks etc.
+('i') should be based only on the individual.
+This will generate the necessary increase in staff required to enable staff rotation.
+Next Steps:
+The total, 'T', generated giving the “number of VTSOs/Supervisors required for staffing a VTS Centre” is the theoretical minimum to provide continuous cover of all workstations whilst also enabling all the criteria of leave, sickness, training, breaks and handover that have been set into the formula to be met.
+Next Steps:
+It is then necessary to design a roster that will achieve this.
+In practice, designing a practical and workable roster is likely to result in a higher number of staff in order to meet this theoretical minimum requirement.
+There are, however, other practical considerations that may also need to be addressed in developing a tailored roster that meets the specific requirements of each individual VTS Centre.
+Some of these considerations may result in increases over the theoretical staffing level and others may result in reductions; these include:
+<doc_end>

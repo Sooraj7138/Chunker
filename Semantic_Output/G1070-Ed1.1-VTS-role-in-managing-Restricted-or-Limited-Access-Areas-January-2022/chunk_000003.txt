@@ -1,0 +1,78 @@
+<doc_start>
+1. SCOPE
+This Guideline aims at defining a special application of measures and procedures for establishing and managing vessel traffic in particular areas where limitations to normal navigation may need to be or have been established and the role of a VTS therein.
+This can be both on a permanent or temporary basis.
+In order to better consider the effects or impact to shipping the VTS authority should participate in the process of establishing and managing any kind of restrictions to navigation.
+
+1. SCOPE
+The purpose of this Guideline is to assist VTS authorities in defining appropriate procedures to manage traffic around and inside areas with particular restrictions to navigation.
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+A comprehensive risk assessment should be carried out before establishing a restricted or limited access area, and in the establishing of the appropriate measures.
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+An authority other than a VTS may have the responsibility for establishing a restricted or limited access area (e.g., Harbour Master, Coastguard, Ministry of Environment), however the VTS should have a consultative or supportive role in the establishment process of such areas.
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+As VTS has the most expertise and experience regarding traffic movement in its area, it should advise the establishing authority about the consequences for shipping and for the access to harbours.
+In some cases, a VTS authority may advise that establishing such an area is not appropriate.
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+The VTS authority can provide an analysis of statistical traffic data and of potential dangerous situations that may occur in the area concerned to inform the risk assessment process and to evaluate the consequences related to shipping interests and/or the goods to be protected (e.g., shipping, human, environment, offshore installations, etc.) in terms of frequency and outcome.
+Consideration must be given to the location of the area, in particular, the applicability of legislation (e.g., UNCLOS).
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+A VTS should also participate in the evaluation process so that adjustments can be made to the areas/limitations.
+ROLE OF A VTS IN ESTABLISHING A RESTRICTED OR LIMITED ACCESS AREA
+While assessing the need to establish restrictions to navigation, responsible authorities should consider the necessity to make modifications to an existing VTS system or even to establish a new one, in order to minimize all the risks to as low as reasonably practicable.
+For example, this may include an increase in the VTS area, installation of new equipment and changes to the services that the VTS provides.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+
+3. ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+In circumstances where the risk related to navigation is increased, VTS is one of the most efficient instruments through which such a risk may be dealt with in order to reduce it to an acceptable level.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+The objectives are protecting the traffic through monitoring, enforcing the regulations, protecting the marine environment and the interests of other authorities, stakeholders and third parties.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+To this end, it may be necessary to adopt particular provisions such as to:
+
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Impose specific navigation measures (e.g., recommended route).
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Implement specific reporting obligations.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Arrange for the exchange of related information with other organizations involved.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1
+
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+e
+
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+P 4
+
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+
+• Monitor/co-ordinate safety zone.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Insert boundary co-ordinates and set appropriate alarms for the area.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+
+• Update existing operating procedures.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Arrange appropriate response measures.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Provide information of violations to enforcement authorities.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+
+• Assist in the prevention of unauthorized access.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Establish a ship safety zone around a certain vessel.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Promulgate the existence of such area to shipping and relevant authorities.
+ROLE OF A VTS IN THE MANAGEMENT OF A RESTRICTED OR LIMITED ACCESS AREA
+Examples of such areas are listed in annex A and examples of VTS management tools for these areas in annex B.
+
+4. DEFINITIONS AND CLARIFICATIONS
+Restricted or limited access areas are intended to further enhance the common protection of shipping, other environmental interests and third party interests by addressing the unique risks and vulnerabilities in these areas.
+Furthermore, the establishing of such areas aim at ensuring that these interests are better protected from potential threats and that vulnerabilities are limited by those protections.
+Examples of such are offshore installations, offshore renewable energy installations (OREI), national parks, military exercise areas, Particularly Sensitive Sea Areas (PSSA).
+
+4. DEFINITIONS AND CLARIFICATIONS
+Frequency and/or type of shipping in the vicinity of such areas can potentially increase risks and vulnerabilities and therefore should be taken into consideration when determining the restricted or limited area.
+Particular care should be given to make sure that control measures will prevent/limit shipping to enter this area and to monitor and report possible violations to such limitations.
+<doc_end>

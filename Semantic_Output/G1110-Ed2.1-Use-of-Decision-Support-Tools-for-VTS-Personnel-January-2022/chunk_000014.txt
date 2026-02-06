@@ -1,0 +1,21 @@
+<doc_start>
+4. DEFINITIONS
+Alarm A high priority alert requiring immediate attention and action (IMO Res.
+A.1021(26)).
+Alert An announcement of abnormal situations and conditions requiring attentions (IMO Res.
+A.1021(26)).
+Caution Lowest priority of an alert.
+Awareness of a condition which does not warrant an alarm or warning condition, but still requires attention out of the ordinary consideration of the situation or of given information (IMO Res.
+A.1021(26)).
+Decision-maker A person or group authorized to make decisions.
+Decision support tool (DST) A tool to assist the decision-maker at an operational, tactical and strategic level.
+This may be in real-time or at a tactical or strategic level.
+Emergency alarm Highest priority of an alert.
+Alarms which indicate immediate danger to human life or to the ship and its machinery exits and require immediate action (IMO Res.
+A.1021(26)).
+Long term planning Refers to the action of analysing currently available information to proactively manage predicted future events.
+Near real-time Refers to predictions of developing situations.
+Real-time Refers to the immediate action taken to respond to current or developing situations.
+Warning Condition requiring immediate attention, but not immediate action (IMO Res.
+A.1021(26)).
+<doc_end>

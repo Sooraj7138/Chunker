@@ -1,0 +1,6 @@
+<doc_start>
+4.1. IMO
+A VTS is recognized internationally as a navigational safety measure through SOLAS.
+In particular, the provision in SOLAS Chapter V (Safety of Navigation) Regulation 12 provides for vessel traffic services.
+Key IMO documents regarding IMSAS include:
+<doc_end>

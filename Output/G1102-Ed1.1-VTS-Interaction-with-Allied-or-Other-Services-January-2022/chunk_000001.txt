@@ -1,0 +1,46 @@
+<doc_start>
+action that occurs as two or more services have an effect upon one other.
+“Single Window” - within the context of UN/CEFACT recommendation 331, a Single Window is defined as a facility that allows parties involved in trade and transport to lodge standardized information and documents with a single- entry point to fulfil all import, export, and transit-related regulatory requirements.
+If information is electronic, then individual data elements should only be submitted once.
+
+3. CRITERIA FOR A VTS TO INTERACT WITH ALLIED AND OTHER SERVICES Interaction of a VTS with allied or other services should be based on at least the following principles or criteria: 
+• There should be a clear need for interaction between a VTS and allied or other services: The interaction should not affect the integrity of the services concerned2; 
+• The interaction should be based on an arrangement that clearly defines the objective and scope of the interaction, the data and information exchanged, the purpose for (re)use of the data and information, and an external procedure with the operational details as in Annex C; 
+• There should be a mechanism or protocol that triggers the interaction, and the period of the interaction (when it is commencing and finishing).
+
+• VTS data input and output should not interfere with the VTS operational task.
+
+• In case the data output to a stakeholder could result indirectly in a change of vessel behaviour, the VTS provider and this stakeholder should analyse the processes involved and co-ordinate their interaction, to provide the vessel with unambiguous information.
+
+• Legal, security and confidentiality considerations and constraints should be taken into account when the interaction arrangement is being established.
+See annex D.
+The capabilities of VTS systems can create value to allied and other services, even to satisfy business needs from stakeholders, which are normally not associated with the VTS: 
+• Import of voyage information.
+Export of the general traffic image interfacing with the voyage information.
+
+• Export of the information of the vessels automatically connected to the available dangerous and polluting cargo and voyage information.
+Capability to automatically connect vessels to the available route information.
+Providing or relaying specific messages.
+
+• Export of ETA/ATA (Estimated/Actual Time of Arrival) and ETD/ATD (Estimated/Actual Time of Departure) information, as indicating the time-dependent availability of resources available.
+1 UN/CEFACT recommendation (33) and Guidelines on establishing a Single Window to enhance the efficient exchange of information between trade and government.
+United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT).
+See http://www.unece.org/cefact.html 2 This includes the integrity of the technical infrastructure and systems used in the interaction.
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1 ai ww P 5 Nevertheless, the VTS provider may choose to respond to those business needs, as long as the above-mentioned principles or criteria underlying the interaction are respected.
+
+4. INTERACTION WITH ALLIED AND OTHER SERVICES It should be taken into account, that interaction between a VTS and allied or other services – inside or outside the maritime domain – could be necessary to sustain those services.
+In such a case, an arrangement between the VTS provider and the provider(s) of those services should be in place.
+In some cases, when considered necessary, support from a VTS may extend outside the VTS area.
+This could result from national, regional or international arrangements.
+Some examples of possible interaction between a VTS and allied or other services are described at annex B.
+
+5. IDENTIFICATION OF POSSIBLE STAKEHOLDERS The core capability of a VTS is to interact and respond to traffic situations developing in the VTS area.
+However, there are other stakeholders who may wish to interact with a VTS or with whom the VTS wishes to interact.
+In this case, an arrangement should be set up between the VTS provider and the stakeholder(s), and it may be expected that issues and consideration to specific details should be given, as in chapter 3, in order to avoid unintended action, which may impair the VTS services.
+This may vary, depending on the country and legislation applicable.
+In addition to the given possible stakeholders as at annex A, the VTS provider may become involved, if not already, in the exchange of traffic related information with state, provincial or local government, and associated agencies or organizations, for purposes less familiar to the maritime domain; such as monitoring emissions from shipping, securing vital supply chains for society and assessing the risks associated with maritime transport of dangerous or polluting cargo close to coastal or port communities.
+Examples of possible stakeholders are described in annex A.
+
+6. LEGAL ASPECTS AND CONSTRAINTS IALA Guideline G1086 Global Sharing of Maritime Data and Information [1] already provides valuable guidance on legal aspects.
+Actually, there is a range of potential legal aspects and constraints that could affect the merit
+<doc_end>

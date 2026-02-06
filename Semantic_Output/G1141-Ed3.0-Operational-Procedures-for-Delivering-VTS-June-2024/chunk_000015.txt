@@ -1,0 +1,17 @@
+<doc_start>
+1. INTRODUCTION
+IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [2] states that:
+
+
+1. INTRODUCTION
+a.
+Vessel traffic services are provided worldwide and make a valuable contribution to the safety of navigation, improved efficiency of traffic flow and the protection of the marine environment.
+
+1. INTRODUCTION
+b.
+The level of safety and efficiency in the movement of maritime traffic within an area covered by vessel traffic services is dependent upon close cooperation between those operating the vessel traffic services and participating ships.
+
+1. INTRODUCTION
+c.
+The use of differing procedures may cause confusion to ship masters, and that Vessel Traffic Services should be established and operated in a harmonized manner and in accordance with internationally approved guidelines.
+<doc_end>

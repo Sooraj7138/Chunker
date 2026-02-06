@@ -1,0 +1,24 @@
+<doc_start>
+8.1. TECHNICAL ASPECTS
+This Guideline addresses near-term and long-term options for delivery of a Virtual AtoN service.
+8.1. TECHNICAL ASPECTS
+In the near term, shore-based AIS networks provide competent authorities with the means to operate an information service for shore-based VTS, traffic management schemes, ship reporting systems and other shore- based safety-related services, including Virtual AtoN services.
+This service consists of information delivery from ship-to-shore and vice versa.
+8.1. TECHNICAL ASPECTS
+Technical details of the AIS technology and of the layout and local configuration of shore-based AIS are described in IALA Recommendation R0124 The AIS Service (A-124) [21].
+8.1. TECHNICAL ASPECTS
+In the longer term, competent authorities may expect that other media for information services will become available.
+This would enable Virtual AtoN services to be transmitted via means other than AIS, for example: satcom /internet; WiMAX; VDES, VDE-SAT, NAVDAT, IALA maritime beacon system; cell phone data transmission protocol, etc.
+8.1. TECHNICAL ASPECTS
+In the near term, not all vessels can be expected to be able to effectively display Virtual AtoN information.
+As of July 2008, SOLAS radars are required to interface to AIS and display AIS information, as in MSC Resolution 192(79) [3].
+Although ECDIS is capable of displaying AIS information, it is not required to do so.
+Based on current rates of navigational system upgrades, it is expected to take at least some years before a substantial percentage of the international commercial fleet will have this capability.
+Changes in mandatory carriage requirements may accelerate this development for SOLAS vessels.
+PPU Navigational Systems may facilitate implementation on the charting side for pilots but not on radar.
+Economic benefit to the shipping industry could also provide an impetus to early adoption of this technology.
+8.1. TECHNICAL ASPECTS
+The nominal report rate of Virtual AIS AtoN broadcasts is specified in ITU-R-M.1371. However, due to the limitations in data link capacity, IALA Recommendation R0126 [22] recommends a more flexible approach to be considered, taking data link capacity and power consumption at transmitting stations into account.
+8.1. TECHNICAL ASPECTS
+In the longer term, different report rates may be implemented on different communication media, as appropriate.
+<doc_end>

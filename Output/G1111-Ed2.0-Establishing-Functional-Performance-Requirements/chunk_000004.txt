@@ -1,0 +1,52 @@
+<doc_start>
+archiving may be considered for traffic statistics, risks evaluation, strategic planning etc.
+3.3. OTHER CONSIDERATIONS ENVIRONMENTAL CONSIDERATIONS 3.3.1. The VTS provider should specify the local environmental conditions for VTS system performance, design and outdoor installations.
+EQUIPMENT SHELTERS 3.3.2. A shelter can provide a protective environment with characteristics that depend on the location and design of the shelter.
+In situations where contained equipment is reliant on the environment created by the shelter, the shelter facilities (e.g., cooling or heating) may become critical to the achieved availability of the equipment.
+LIGHTNING PROTECTION 3.3.3. Lightning protection is often subject to national or local legislation taking into account local conditions, severity, earth conductivity, power grid constraints etc.
+The guidance from country to country differs depending on lightning strike frequency and severity.
+As a consequence, requirements for the number and type of lightning arrestors, the number of earthing points and the minimum cross sectional area of conductors vary to suit local conditions.
+The general principles include: IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 10 ® 
+• Lightning arrestors and/or conductors should be positioned higher than other equipment and be designed to protect the entire installation.
+Separate down conductor(s) on the exterior of buildings should not be connected to metal parts of buildings such as steel reinforcements, handrails and antenna masts.
+
+• Safety grounding of equipment should be kept separate from lightning protection.
+
+• Potential equalization should be achieved in earth and never at the top of the equipment.
+See Guideline G1012 The Protection of Lighthouses and Other Aids to Navigation against Damage from Lightning for further information.
+
+• Warning lights.
+High structures, such as RADAR towers, may require warning lights for air traffic.
+Some light arrangements may also be disturbing to both vessel traffic, the general public and to birds and animals.
+It is therefore recommended to consult local authorities for specific requirements or restrictions in the area.
+SITE AND EQUIPMENT ACCESS 3.3.4. As part of the selection of a VTS system location, the VTS provider should analyse the need for site access for installation and maintenance.
+Fencing and other protective means against illegal intrusion may also be needed in many cases.
+ELECTRICAL POWER 3.3.5. The VTS system could require a reliable source of electrical power, which could include a backup power source such as an Uninterruptable Power Supply (UPS) and/or generator.
+Renewable sources should be used where appropriate.
+SAFETY AND SECURITY PRECAUTIONS 3.3.6. For each location, the VTS provider should implement safety and security requirements in accordance with relevant legislation.
+Safety requirements should, at least, consider but are not limited to: safety procedures, such as instructions to personnel performing maintenance; personnel protection equipment for working at heights; 
+• lone working on remote sites; safety switches to isolate equipment and to stop rotating antennas; 
+• precautions regarding electromagnetic radiation, rotating machinery and electrical shock, railings on masts etc.; and 
+• protection of the general public.
+Security requirements should, at least, consider: physical restrictions, e.g., fences, locks, motion sensors, monitoring (CCTV); and access procedures, i.e., restrictions imposed by ISPS.
+EQUIPMENT PRESERVATION AND MONITORING 3.3.7. The VTS provider should also consider the following: fire detection and (remote) alarms; 
+• automated fire extinguishers; IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 11 4) remote monitoring of site status (power, fuel, temperature, site environmental conditions etc.); and 
+• remote monitoring of equipment status.
+MARKING AND IDENTIFICATION 3.3.8. VTS equipment should be marked with manufacturer name, type and serial number.
+Legislation may require additional marking or identification, signposts etc.
+DOCUMENTATION 3.3.9. The VTS provider should specify deliverable documentation to accompany the VTS equipment, which should be available for appropriate personnel.
+As a minimum, documentation should include: 
+• operating instructions; 
+• maintenance instructions (preventive and corrective) inclusive of procedures and spare parts catalogue; safety information (e.g., regarding radiation, electrical safety and rotating machinery); certificates and permissions as required by relevant legislation; 
+• test procedures, test certificates; and “As built” documentation comprising drawings, equipment configurations, software versions, etc.
+EQUIPMENT STANDARDS AND APPROVALS 3.3.10. Legal requirements for equipment standards and approval (or statements of conformity) vary from country to country.
+It is the responsibility of the VTS provider to ensure compliance to local, regional and international standards.
+The VTS Provider should state any applicable standards as part of the acquisition process.
+VTS providers should ensure that all appropriate standards and approvals for their VTS area have been considered.
+Typical standards and approvals may include the following: 
+• Electrical Safety 
+• Mechanical Safety 
+• Radiation Safety Electromagnetic Compatibility Radio Spectrum licensing 
+• Hazardous / Chemical Substances 
+4. DEFINITIONS The following definitions apply within this document and in all the G1111 series of guideline documents: the VTS system is the VTS software, hardware, communications and sensors.
+<doc_end>

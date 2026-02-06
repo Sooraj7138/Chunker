@@ -1,0 +1,197 @@
+<doc_start>
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+The monitoring and management of ship traffic to ensure the safety and efficiency of ship movements may include:
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+P 7
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+• Forward planning and prioritization of ship movements to prevent congestion or dangerous situations and improve overall efficiency.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+• Organizing ships underway noting that special transports or ships with hazardous or polluting cargo may affect the flow of other traffic.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+• Organizing space allocation.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Establishing a system of traffic clearances.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Establishing a system of voyage or passage plans.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+• Providing route advice.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Establishing mandatory reporting of movements in the VTS area.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Establishing recommended or advisory routes to be followed.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Establishing speed limits to be observed.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+• Organizing nautical activities (e.g., sailing regattas) or marine works in-progress (such as dredging or submarine cable-laying) to avoid interference with the flow of ship traffic.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Ensuring compliance with and enforcement of regulatory provisions for which they are empowered.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+4.2.1. EXAMPLES OF THE MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Examples of when the monitoring and management of ship traffic might be required include those shown in Table 2:
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Table 2 Examples of situations that may require monitoring and management of ship traffic
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Information related to: Examples: 
+• On or prior to entering a VTS area.
+
+• Departing from a berth or an anchorage within a VTS area.
+Traffic clearance 
+• Entering into a fairway within a VTS area.
+
+• Prior to commencing a manoeuvre that may be detrimental to safe navigation.
+
+• Organizing the movements to/from an anchorage position/area.
+Anchorage 
+• Assigning an anchorage position.
+
+• Assisting ships into anchorage position.
+
+• Ensuring adherence to speed limits.
+
+• Ensuring adherence to rules regarding traffic routeing measures.
+Enforcement 
+• Ensuring adherence to pilotage requirements.
+
+• Ensuring adherence to traffic regulations and local by-laws.
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+P 8
+
+4.2. MONITORING AND MANAGEMENT OF SHIP TRAFFIC
+Information related to: Examples: 
+• Requiring a passage plan before entering a VTS area.
+
+• Planning lock and bridge passages.
+
+• Reporting position at determined reporting point/line/pilot station.
+
+• Dredging or compass swing in confined waterway.
+
+• Organizing other traffic when a ship has passed point of no return.
+waterway management (sea, channels, and fairway) 
+• Organizing the traffic concerning ship dimensions in comparison to fairway restrictions and under keel clearance.
+
+• Establishing and organizing ship safety zones in case of particular operations.
+
+• Establishing and organizing exclusion zones.
+
+• Instructing ships to keep clear from special areas or positions.
+
+• Organizing the traffic as regards to meteorological, hydrographical, or other restrictions such as visibility, wind speed, current and sea state.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Responding to developing unsafe situations involves support to the navigational safety of the ship through the provision of essential navigational information to assist on board navigational decision-making.
+It may also involve the provision of navigational advice and/or instruction.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Developing unsafe situations may include:
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• A ship unsure of its route or position
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• A ship deviating from the route
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+A ship requiring guidance to an anchoring position
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+A ship that has defects or deficiencies, such as navigation or manoeuvring equipment failure
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Meteorological conditions (e.g., low visibility, strong winds)
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• A ship at risk of grounding or collision
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Emergency response or support to emergency services
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+A ship deviating from the passage plan
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Assistance to a ship to support the unexpected incapacity of a key member of the bridge team
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Key considerations in responding to developing unsafe situations include:
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Navigational support should not be considered to be an alternative to pilotage.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+•
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+If VTS interaction is considered necessary or navigational support requested, the general principle should be that it is used to get the ship to a place of safety to enable the ship to recover from the situation for which navigational support was initially required.
+This could include regaining situational awareness, effecting repairs or embarking a pilot to continue its passage.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Navigational support depends on many factors including:
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Status of the waterway, including other ships in the area and weather conditions
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Equipment capabilities and limitations
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Clarity of communications between VTS and ship
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Navigational support may be carried out on the main working channel or an alternative to avoid overloading the working frequency.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+IALA Guideline G1089 Provision of a VTS Edition 2.0 urn:mrn:iala:pub:g1089:ed2.0
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+P 9
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+•
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+Before navigational support is provided and if time permits, a VTS should make an assessment of capabilities and conduct other relevant checks.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• The commencement and conclusion of direct navigational support should be formalized if time permits.
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+The provision of navigational support is likely to be required in three generic circumstances:
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• When observed
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• On request
+
+4.3. RESPONDING TO DEVELOPING UNSAFE SITUATIONS
+
+• Procedural
+<doc_end>

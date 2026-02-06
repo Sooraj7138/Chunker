@@ -1,0 +1,84 @@
+<doc_start>
+6. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+6. ABBREVIATIONS
+DSC Digital selective calling
+
+
+6. ABBREVIATIONS
+DST Decision support tool
+
+
+6. ABBREVIATIONS
+HMI Human/machine Interface
+
+
+6. ABBREVIATIONS
+ILO International Labour Organization
+
+
+6. ABBREVIATIONS
+IMO International Maritime Organization.
+
+6. ABBREVIATIONS
+ITU International Telecommunication Union
+
+
+6. ABBREVIATIONS
+SAR Search and Rescue
+
+
+6. ABBREVIATIONS
+SMCP Standard Marine Communication Phrases
+
+
+6. ABBREVIATIONS
+VHF Very high frequency (30 MHz to 300 MHz)
+
+
+6. ABBREVIATIONS
+VTS Vessel traffic service or vessel traffic services (dependent on context)
+
+
+6. ABBREVIATIONS
+VTSO VTS operator
+
+
+7. REFERENCES
+IALA.
+Guideline G1111 Preparation of Operational and Technical Performance Requirements for VTS Systems
+
+
+7. REFERENCES
+IALA.
+Guideline G1110 Use of Decision Support Tools by VTS Personnel
+
+
+7. REFERENCES
+IALA.
+Recommendation R1012 VTS Communications
+
+
+7. REFERENCES
+IALA Guideline G1045 Staffing Levels at VTS Centres Edition 1.2 urn:mrn:iala:pub:g1045:ed1.2
+
+
+7. REFERENCES
+e
+
+
+7. REFERENCES
+P 11
+
+
+7. REFERENCES
+IALA.
+Guideline G1132 VTS Voice Communication and Phraseology
+
+
+7. REFERENCES
+IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases
+<doc_end>

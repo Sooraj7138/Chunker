@@ -1,0 +1,47 @@
+<doc_start>
+4.8.1. IALA GUIDANCE
+A significant proportion of the investment associated with the implementation and on-going operation of a VTS is the equipment and relevant systems.
+Once the need for a VTS has been established, it will be necessary to set out the requirements for procurement, especially as regards the technical requirements.
+4.8.1. IALA GUIDANCE
+IALA documents relating to setting the technical requirements include:
+
+4.8.1. IALA GUIDANCE
+Recommendation R0128 Operational and Technical Performance Standards of VTS systems; and
+
+4.8.1. IALA GUIDANCE
+•
+
+4.8.1. IALA GUIDANCE
+
+• Guideline G1111 Establishing Functional & Performance Requirements for VTS Systems.
+4.8.2. INLAND WATERS CONSIDERATIONS
+IALA guidance on the procurement, technical specifications and performance standards for a VTS assume the need for continuous and uninterrupted surveillance of the entire area for which it is responsible with a high degree of reliability and redundancy.
+The technical specifications, particularly for radar, relate to relatively open waters.
+Not all of these may relate to inland waters; equally, there may be additional requirements unique to inland waters, such the management of locks and bridges that require additional consideration.
+Furthermore, gapless coverage may not be feasible or necessary.
+The guidance does, however, provide a useful baseline on which to draw in developing the specifications for an inland VTS.
+4.8.2. INLAND WATERS CONSIDERATIONS
+Equipment and facilities should be equipped in accordance with regional/local requirements.
+The technical performance of the inland VTS equipment should meet the objectives of the inland VTS.
+Authorities and providers should consider the following items when implementing an inland VTS:
+
+4.8.2. INLAND WATERS CONSIDERATIONS
+
+• The technical requirements for inland VTS may vary in different countries or in different waters.
+Inland VTS providers should evaluate the detailed technical requirements.
+4.8.2. INLAND WATERS CONSIDERATIONS
+
+• There may be a requirement for the output power of AIS, VHF and other equipment of all vessels in certain inland water areas to be lower than the default value, although the navigable environment of inland waters is often complex.
+These factors should be taken into account by competent authorities and inland VTS providers during the design and operation of shore-based facilities such as VHF base stations, AIS base stations and radar stations.
+4.8.2. INLAND WATERS CONSIDERATIONS
+The performance of radar, target tracking and associated decision support warnings may be seriously diminished in the inland environment.
+The use of short range, high-definition radar may, therefore, also be considered.
+Greater emphasis may also be needed on the use of other monitoring equipment such as CCTV and Virtual Reality video.
+4.8.2. INLAND WATERS CONSIDERATIONS
+The technical specifications for VHF radiotelephone installations, radar installations and AIS in inland waters can be found in the relevant international, national or regional provisions.
+4.8.2. INLAND WATERS CONSIDERATIONS
+IALA Guideline G1166 VTS in Inland Waters Edition 1.1 urn:mrn:iala:pub:g1166:ed1.1
+
+4.8.2. INLAND WATERS CONSIDERATIONS
+P 12
+<doc_end>

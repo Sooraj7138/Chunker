@@ -1,0 +1,11 @@
+<doc_start>
+4. SUMMARY
+A VTS Centre should have a sufficient number of VTS personnel to ensure that the VTS operations can be carried out efficiently and safely under all conditions, with due regard to the safety of navigation within the VTS area.
+Every VTS Centre should be staffed by personnel appropriately qualified for the tasks required, and with a number corresponding to the size of the VTS Centre and VTS area to be managed.
+
+4. SUMMARY
+When determining, approving or revising staffing levels, the VTS provider should consider the principles in applicable international and national instruments on staffing levels, as well as the need to avoid or minimize excessive hours of work to ensure sufficient rest and to limit fatigue.
+
+4. SUMMARY
+Further details concerning labour regulations may be found in national/regional or international legislation.
+<doc_end>

@@ -1,0 +1,10 @@
+<doc_start>
+4.9.1 IALA GUIDANCE
+An IALA Recommendation R0145 The Inter-VTS Exchange Format (IVEF) Service provides a framework with formats and protocols for data exchange between VTS systems, stakeholders and relevant external parties to assist in the efficient deployment of services to the mariner and to the maritime community by facilitating the harmonization, connectivity and the integration of different components.
+4.9.2 INLAND WATERS CONSIDERATIONS
+With the increasing globalization and digitalization of maritime operations, the increasing emphasis on data management is likely to be of high importance in inland waters and the IALA guidance on IVEF is of significant relevance.
+4.9.2 INLAND WATERS CONSIDERATIONS
+Network information systems in inland waters are widely used, and the compatibility of data exchange should be considered when building network information systems.
+4.9.2 INLAND WATERS CONSIDERATIONS
+Inland VTS may also consider collecting or updating such data from vessels passing through or navigating on fixed routes in order to establish a database and facilitate traffic management.
+<doc_end>

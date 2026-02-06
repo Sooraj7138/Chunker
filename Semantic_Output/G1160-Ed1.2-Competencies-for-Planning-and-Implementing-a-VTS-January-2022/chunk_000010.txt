@@ -1,0 +1,25 @@
+<doc_start>
+4. ESTABLISHING
+Competencies within the international framework for establishing a VTS Topic Element 
+• Establishing appropriate standards for shore and offshore based equipment.
+
+• Ensuring the VTS Provider is provided with sufficient staff, appropriately qualified, suitably trained and capable of performing the tasks required.
+
+• Establishing appropriate qualifications and training requirements for VTS personnel.
+
+• Instructing the VTS Provider to operate the VTS in accordance with relevant IMO Resolutions.
+The principal components of the IALA document structure relating to VTS including: 
+• Standards relating to VTS, that is: 
+• S1040 Vessel Traffic Services [9] ; 
+• S1010 Marine Aids to Navigation Planning and Service Requirements [10] ; 
+• S1050 Training and Certification [11] ; and IALA Standards 
+• S1070 Information Services [12] .
+
+• Recommendations – In particular, the practices that shall be carried out in order to comply with a recommendation.
+
+• Guidelines – In particular, how to implement practices normally specified in a recommendation.
+
+• Model Courses - training documents which define the level of training and knowledge needed to reach levels of competence defined by IALA.
+National law, including the regulatory, compliance and enforcement framework within the context of VTS to: 
+• Ensure that a legal basis for the operation of a VTS is provided for and that the VTS is operated in accordance with national and international law.
+<doc_end>

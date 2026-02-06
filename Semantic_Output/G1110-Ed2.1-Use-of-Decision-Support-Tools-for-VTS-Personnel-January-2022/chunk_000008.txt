@@ -1,0 +1,61 @@
+<doc_start>
+2.3.4. CAUTIONS
+In a routine condition, the DST should provide a caution alert.
+A caution alert is a condition of awareness which does not warrant an alarm or warning condition, but still requires attention out of the ordinary consideration of the situation or of given information.
+2.3.4. CAUTIONS
+Example of caution:
+
+2.3.4. CAUTIONS
+“Speed vector gives basic information which can be set by the VTS personnel.”
+
+2.4. ADMINISTRATION OF DECISION SUPPORT TOOLS
+Administrator functionalities should be provided to authorized users to enable the adjustment of alert thresholds and management of other pre-determined requirement parameters.
+Alert parameters should be set at levels appropriate to support the goals of the VTS service, being careful to avoid excessive notifications that may cause operator fatigue, distraction, and other factors that may negatively impact overall safety and efficiency.
+2.4. ADMINISTRATION OF DECISION SUPPORT TOOLS
+Management reports may be generated from alert statistics and/or VTSO actions for analysis.
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+DSTs may be based upon real-time, near real-time and long-term planning assessment of risks associated with navigational safety and efficiency and the prediction of traffic situations.
+The DST should:
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+provide alerts and indicators (audible and / or visible);
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+
+• reduce the workload;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+
+• enhance efficiency;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+be accurate and in real time;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+be configurable with local VTS operational procedures;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+
+• facilitate the result-oriented decision making by VTS personnel in accordance with the purpose of the VTS;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+use the available data to predict future situations;
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+
+• comply with IALA Recommendation R0125 The use and presentation of Symbology at a VTS Centre [4]; and
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+
+• have recording capability.
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+When the risk level exceeds a pre-defined threshold, the VTSO may be advised of the recommended risk mitigation options.
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+IALA Guideline G1110 Use of Decision Support Tools for VTS Personnel Edition 2.1 urn:mrn:iala:pub:g1110:ed2.1
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+4)
+
+2.5. OPERATIONAL REQUIREMENTS OF DECISION SUPPORT TOOLS
+P 6
+<doc_end>

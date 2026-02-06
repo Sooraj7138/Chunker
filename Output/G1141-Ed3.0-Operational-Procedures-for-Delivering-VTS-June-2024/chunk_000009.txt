@@ -1,0 +1,35 @@
+<doc_start>
+stop the discharge?
+- What assistance is required?
+When and where the accident happen?
+How many persons overboard?
+Can you still see them?
+Did anyone see the person go overboard?
+When was the person last seen?
+Was the person overboard wearing a life jacket?
+What assistance is required?
+What problems do you have?
+(e.g., , nature of the mechanical failure) Can you repair by yourself?
+How long [will it take] to repair?
+What kind of assistance is required?
+When and where the accident happen?
+What kind of cargo overboard?
+Any dangerous or polluting cargo?
+How much cargo/ how many containers overboard?
+Are the containers visible?
+Floating or sinking?
+What assistance is required?
+Is the casualty conscious and breathing?
+Is the casualty male /female?
+What is their age?
+Does the casualty speak English?
+Does the casualty have any known health problems?
+What treatment has been provided to the casualty on board?
+Has the casualty been taking any medication?
+Is your vessel able to accept a helicopter (i.e., to land or use of winch only)?
+LOSS OF PROPULSION Are you in danger of grounding?
+Do you need towage assistance?
+What is the cause for loss of propulsion?
+When will propulsion be restored?
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 21
+<doc_end>

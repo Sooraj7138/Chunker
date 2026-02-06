@@ -1,0 +1,162 @@
+<doc_start>
+6. DEFINTIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+7. ABBREVIATIONS
+COLREG Convention on the International Regulations for Preventing Collisions at Sea
+
+
+7. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+7. ABBREVIATIONS
+ISO International Organization for Standardization
+
+
+7. ABBREVIATIONS
+IWRAP IALA Waterway Risk Assessment Programme
+
+
+7. ABBREVIATIONS
+MARPOL International Convention for the Prevention of Pollution from Ships
+
+
+7. ABBREVIATIONS
+NGO Non-Governmental International Organization
+
+
+7. ABBREVIATIONS
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2
+
+
+7. ABBREVIATIONS
+
+
+7. ABBREVIATIONS
+P 10
+
+
+7. ABBREVIATIONS
+PAWSA Ports and Waterways Safety Assessment (PAWSA)
+
+
+7. ABBREVIATIONS
+SIRA Simplified IALA Risk Assessment Method (SIRA)
+
+
+7. ABBREVIATIONS
+SOLAS International Convention for the Safety of Life at Sea
+
+
+7. ABBREVIATIONS
+VTS Vessel Traffic Service or Vessel Traffic Services (dependent on context)
+
+
+8. REFERENCES
+IALA.
+Recommendation R0119 (V-119) Establishment of a VTS
+
+
+8. REFERENCES
+IALA.
+Guideline G1150 Establishing, Planning and Implementing a VTS
+
+
+8. REFERENCES
+IMO.
+International Convention for the Safety of Life At Sea
+
+
+8. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+8. REFERENCES
+IALA.
+Guideline G1115 Preparing for an IMO Member State Audit Scheme (IMSAS) on Vessel Traffic Services
+
+
+8. REFERENCES
+IALA Guideline G1101 Auditing and Assessing VTS
+
+
+8. REFERENCES
+IMO.
+International Convention for the Prevention of Pollution on Ships (MARPOL)
+
+
+8. REFERENCES
+IMO.
+Convention on the International Regulations for Preventing Collisions at Sea (COLREGS)
+
+
+8. REFERENCES
+IALA.
+Standard S1040 Vessel Traffic Services
+
+
+8. REFERENCES
+[10] IALA.
+Standard S1010 AtoN Planning and Service Requirement
+
+
+8. REFERENCES
+[11]
+
+
+8. REFERENCES
+IALA.
+Standard S1050 Training and Certification
+
+
+8. REFERENCES
+[12] IALA.
+Standard S1070 Information Services Ed
+
+
+8. REFERENCES
+[13]
+
+
+8. REFERENCES
+ISO.
+(2021) 21500 Guidance on Project Management
+
+
+8. REFERENCES
+IALA.
+Recommendation R1002 Risk Management for Marine Aids to Navigation
+
+
+8. REFERENCES
+[15]
+
+
+8. REFERENCES
+IALA.
+Guideline G1123 The Use of IALA Waterway Risk Assessment Programme (IWRAP MKII)
+
+
+8. REFERENCES
+IALA.
+Guideline G1124 The Use of Ports and Waterways Safety Assessment (PAWSA) MKII Tool
+
+
+8. REFERENCES
+IALA.
+Guideline G1138 The Use of the Simplified IALA Risk Assessment Method (SIRA)
+
+
+8. REFERENCES
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2
+
+
+8. REFERENCES
+
+
+8. REFERENCES
+P 11
+<doc_end>

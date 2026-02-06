@@ -1,0 +1,46 @@
+<doc_start>
+System AtoN Aid(s) to Navigation CCRP Consistent Common Reference Point CPA Closest Point of Approach DGPS Differential Global Positioning System EBL Electronic Bearing Line ECDIS Electronic Chart Display and Information System ECS Electronic Chart System EGC Enhanced Group Calling FATDMA Fixed Access Time Division Multiple Access GNSS Global Navigation Satellite System GPRS General Packet Radio Service GPS Global Positioning System HF High Frequency IALA International Association of Marine Aids to Navigation and Lighthouse Authorities IBS Integrated Bridge System IEC International Electro-technical Commission IHO International Hydrographic Organization IMO International Maritime Organization INMARSAT International Maritime Satellite Organization ITU International Telecommunication Union ITU-R ITU Radiocommunications Sector ITU-R-M ITU-R M series Recommendations and ITU-R M series Reports LORAN LOng RAnge Navigation MF Medium Frequency MID Maritime Identification Digits MIO Marine Information Overlay MKD Minimum Keyboard and Display MMSI Maritime Mobile Service Identity MRN Maritime Resource Name MSC Maritime Safety Committee (IMO) MSI Maritime Safety Information MAtoN Mobile Aid(s) to Navigation NAV Sub-Committee on Safety of Navigation (IMO) NAVTEX Navigational Telex PPI Plan Position Indicator PPU Portable Pilot Unit RAIM Receiver Autonomous Integrity Monitoring RCC Rescue Co-ordination Centre SafetyNET Is in international automatic direct printing satellite-based service for e.g., navigational warnings SAR Search and Rescue IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 23 SN/Circ.
+Safety of Navigation Circular (IMO) SOLAS United Nations Convention on Safety of Life at Sea t.b.d.
+to be decided TCPA Time to Closest Point of Approach TSS Traffic Separation Scheme TT Target Tracking Virtual AtoN Virtual Aid to Navigation VDL VHF Data Link VHF Very High Frequency VRM Variable Range Marker VTS Vessel Traffic Services VTSO Vessel Traffic Services Operator WiMAX Worldwide Interoperability for Microwave Access 
+15. REFERENCES [1] IMO.
+(2015) Res.
+A.1106(29) Revised Guidelines for the onboard use of shipborne automatic identification systems AIS [2] IMO.
+MSC 232(82) Performance Standards for ECDIS IMO.
+MSC.192(79) Performance standards for radar equipment [4] IMO.
+MSC.191(79) as amended, Performance Standards for the Presentation of Navigation-Related Information on Shipborne Navigational displays [5] IMO.
+MSC SN.1/Circ.243/Rev.1 Amended Guidelines for the Presentation of Navigation-Related Symbols, Terms and Abbreviations IMO.
+MSC.1/Circ.
+1503/Rev.1 ECDIS – Guidance for good practice IMO.
+SN.1/Circ.
+289 Guidance of the Use of AIS Application Specific Messages [8] IMO.
+SN.1/Circ.
+290 Guidance for the presentation and display of AIS Application Specific Messages information IMO.
+MSC.1/Circ.
+1473 Policy on use of AIS Aids to Navigation [10] ITU-R M.1371 Technical Characteristics for an Automatic Identification System using Time Division Multiple Access in the VHF Maritime Mobile Band IHO.
+S-4 Regulations of the IHO for International (INT) charts and charts specifications of the IHO IHO.
+S-52 Specifications for Chart Content and Display Aspects of ECDIS [13] IHO.
+S-52 Chart Presentation Bulletin No.
+10 (S-52-CPB-No 10): Portrayal of Virtual AIS aids to navigation IHO.
+S-57 Transfer Standard for Digital Hydrographic Data IHO.
+S-57 Appendix B.1 ENC Product Specification [16] IHO.
+S-57 Edition 3.1 Encoding Bulletin 54: UOC Clause 12.14.1 AIS equipped aids to navigation [17] IHO.
+S-100 Universal Hydrographic Data Model [18] IHO.
+S-101 ENC Product Specification [19] IHO.
+S-101 Feature and Portrayal Catalogues IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 24 [20] IALA.
+Recommendation R0121 For the performance and monitoring of a DGNSS Service in the band 283.5 – 325 kHz IALA.
+Recommendation R0124 The AIS Service (A-124) [22] IALA.
+Recommendation R0126 The Use of the Automatic Identification System (AIS) (A-126) in Marine Aids to Navigation Services [23] IALA.
+Recommendation R0130 Categorisation and Availability Objectives for Short Range Aids to Navigation (R-130) IALA.
+Guideline G1062 The Establishment of AIS as an Aid to Navigation IALA.
+Guideline G1084 Authorisation of AIS AtoN IALA.
+Guideline G1143 Unique Identifiers for Maritime Resources IALA.
+Recommendation R0125 The Use and Presentation of Symbology at a VTS Centre (including AIS) IALA.
+Recommendation R1016 Mobile Marine AtoN (MAtoN) IEC.
+61174 ECDIS Operational and Performance Requirements, Methods of Testing and Required Test Results [30] IEC.
+61193-2 Class A shipborne equipment of the universal automatic identification system (AIS) - Operational and performance requirements, methods of test and required test results AIS Class A IEC.
+62288 Presentation of navigation-related information on shipborne navigational displays [32] IEC.
+62320-2 AIS AtoN stations - Minimum operational and performance requirements -methods of test and required test results [33] IEC.
+62388 Maritime navigation and radio-communication equipment and systems – Shipborne radar - Performance requirements, methods of testing and required test results IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 3 P 25 ANNEX A APPLICATION OF VIRTUAL AIDS TO NAVIGATION Note that the use of virtual AtoN is only suitable for vessels that have appropriate display equipment.
+Application Function Conditions Suggested Type Consideration Mode of Virtual AIS AtoN 
+• Conditions could be sea state such as crashing waves and submerged reef, strong current, water
+<doc_end>

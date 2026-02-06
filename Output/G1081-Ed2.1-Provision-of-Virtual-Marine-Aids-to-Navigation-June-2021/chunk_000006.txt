@@ -1,0 +1,33 @@
+<doc_start>
+diamond with crossed lines centred at the reported position of the AtoN is specified for AIS AtoN.
+This symbol will be implemented as an overlay on navigational equipment (ECDIS, radar etc.) compliant with these specifications.
+Generally, the symbols indicate the type of AtoN, and the attached text information indicates that the Virtual flag is active.
+The MMSI numbering scheme is another way to recognize that a Virtual AIS AtoN is being broadcast, with the number 6 being displayed right after the MID: 99MID6XXX.
+New symbology for AIS AtoN has been issued where the type of AtoN, identified by a topmark (purpose), has been added to the basic diamond shape.
+The latest IEC 62288 [31] provides further details.
+as a ‘os v .
+oo ¢ s Se Nae, Ld id Emergency wreck mark North cardinal mark Figure 4 New symbology for AIS AtoN The new symbol is distinctive and shows the purpose (characteristic) of the AtoN as a topmark on the diamond shape (ref.
+IEC 62288 [31]).
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 12 AIS NAVIGATION AID ILEE Aid Type: Reference Point MMSI: 993166029 Position: 46°11.407'N 072°52.705'W Positional Accuracy: High (< 10 m) Position Type: Surveyed RAIM Flag: RAIM not in use Virtual: Yes Source: Canadian Coast Guard Figure 5 Example of symbology information text In Figure 5, the attached text information appears when the user clicks on the Virtual AIS AtoN symbol, in this example marking an artificial island.
+The user can authenticate the Virtual AIS AtoN by the thin dashed line diamond along with the Virtual flag as active (Yes) in the text information.
+The ECDIS performance standard requires that overlay symbols be readily distinguishable from chart symbols.
+Chart symbols for Virtual AIS AtoN have been developed and chart manufacturers are free to incorporate them according to the existing S-57 Appendix B.1 – Annex A (Edition 4.1.0) [14].
+Source: IHO Figure 6 Examples of Virtual AIS as displayed on ECDIS Figure 6 shows examples of the Virtual AIS AtoN portrayal that can be displayed on ECDIS.
+The basic colour for the Virtual AtoN symbols is the normal colour of an AIS AtoN symbol.
+IMO does not specify exact colours but the interpretation is that it should be the same colour, for example, all being green, and avoid red and yellow which are reserved for special purposes.
+The absence of a charted physical AtoN is communicated as a combined state of “Virtual” and “off position”.
+This shall be indicated with yellow text “Missing” above the dotted outline diamond using the colour yellow.
+The symbol shall have no crosshair at the position centre.
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 13 Intended location of missing AtoN Source: Corporation des pilotes du Bas St-Laurent, Canada Figure 7 Missing virtual AIS AtoN symbol versus display on ECDIS In Figure 7, on the left, from the IEC standard, the Missing Virtual AIS AtoN symbol for an absent charted physical AtoN.
+On the right, an actual display on a vessel ECDIS.
+8.2.4. POINT AND AREA REPRESENTATION In addition to the use of the AtoN Report Message 21, emerging AIS Application Specific Messages (ASM) could be used to provide a representation of a point position, line, area, or other forms that may be displayed graphically.
+The portrayal has been developed in the latest IEC 62288 [31].
+As navigational display manufacturers incorporate them into their systems, users will be able to fully benefit from this feature.
+Example of area symbol Source: Canadian Coast Guard Figure 8 Example (left to right) of ASM route, Area Notice and actual ASM ice route In Figure 8 the ASM Route information from the IEC is shown on the left, the ASM Area Notice from the IEC in the centre and an actual ASM ice route is shown on the right.
+8.2.5. EXPIRY AND CANCELLATION OF VIRTUAL ATON OBJECTS Some Virtual AtoN objects like the Application Specific Messages (ASM) may themselves contain a definition of their own lifetime, such as a start date and time with a duration from a few minutes up to 182 days, with the capability to cancel at any time.
+When the lifetime of a Virtual AtoN object is timed out or cancelled, it should be removed from the displays of shipborne navigational systems.
+Objects relying on repeated transmissions that have exceeded the nominal reporting rate but have not yet reached the timeout should clearly indicate that the information may not be current.
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 P 14 
+9. NOTIFICATION Having elected to deploy Virtual AtoN, competent authorities should arrange for detailed information related to such aids to be made available to all concerned.
+Competent authorities should use all available means to ensure
+<doc_end>

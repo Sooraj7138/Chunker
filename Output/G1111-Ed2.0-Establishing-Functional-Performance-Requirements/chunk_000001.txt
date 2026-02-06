@@ -1,0 +1,44 @@
+<doc_start>
+titled as follows: 
+• G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment 
+• G1111-1 Producing Requirements for the Core VTS System 
+• G1111-2 Producing Requirements for Voice Communications 
+• G1111-3 Producing Requirements for RADAR 
+• G1111-4 Producing Requirements for AIS 
+• G1111-5 Producing Requirements for Environment Monitoring Systems 
+• G1111-6 Producing Requirements for Electro Optical Systems 
+• G1111-7 Producing Requirements for Radio Direction Finders 
+• G1111-8 Producing Requirements for Long Range Sensors 
+• G1111-9 Framework for Acceptance of VTS Systems and Equipment 
+2. ESTABLISHING THE FUNCTIONAL AND PERFORMANCE REQUIREMENTS FOR A VTS SYSTEM AND EQUIPMENT IALA Guideline G1150 Establishing, Planning and Implementing VTS [2] advises on the planning and implementation of a VTS related to the definition of operational, functional, performance and acceptance requirements of a VTS system.
+These requirements should be: IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 4 ® derived from a business case and feasibility study in the initiating phase; and defined in the planning phase of the overall VTS project before the procurement of the VTS system.
+The competent authority for VTS and/or the VTS provider should establish operational, functional and performance requirements and acceptance plan for a VTS system at the same time as they establish their procurement plan.
+These requirements should form the basis for the entire system lifecycle, its definition and its acceptance following implementation.
+The G1111 Guideline Series provide generic guidance for all potential equipment and sensors that may be used in designing a VTS system.
+The guidance is not prescriptive, and the capabilities required may vary between VTS, VTS area and VTS sectors or even specific parts of a VTS area or sector.
+VTS capability should be linked to a risk assessment which will identify the degree of mitigation expected of a VTS, together with other mitigation measures, in addressing a specific hazard or hazards.
+The extent of risk mitigation will be determined by a number of factors that include the equipment fit, equipment capability, local geography and operator authorization/training.
+This Guideline focuses on an overview of the key areas for consideration related to the establishment of a VTS system.
+IALA sub-guidelines G1111-1 to G1111-8 provide specific guidance on initiating and planning functional and performance requirements and implementing VTS systems and equipment, based on operational requirements.
+Acceptance steps are typically conducted on the proposed or implemented VTS to ensure compliance with the requirements.
+These acceptance steps are discussed in G1111-9 Framework for Acceptance of VTS Systems and Equipment.
+2.1. PROJECT PLANNING IALA Guideline G1150 recommends a project management approach to ensure that major deliverables, assumptions and constraints are clearly documented when planning and implementing a VTS.
+This will assist in defining the scope of the VTS, its goals and objectives that need to be met.
+Project management is considered as a discipline with the purpose to achieve specific goals and objectives by planning, organizing, motivating, and controlling resources.
+Relevant international guidance prepared and published by appropriate international organizations regarding project management should be considered, or, where there are national requirements for project management, these should be used.
+PROJECT MANAGEMENT STEPS 2.1.1. Project management is undertaken in different steps in order to improve control and quality.
+Guideline G1150 provides an overview of the five project management phases and the key areas for consideration as they relate to VTS: 
+• Initiating 
+• Planning 
+• Implementing 
+• Controlling 
+• Closing It is noted that before completing each stage to define functional and performance requirements, these results could be re-evaluated by risk assessment and cost benefit analysis.
+The core practice in the planning phase is finalising the requirements.
+This involves combining the relevant operational requirements with the functional and performance requirements, without unintentionally restricting flexibility in the implementation.
+It is important to write well-structured, individual requirement statements within the published requirements documentation.
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0 P 5 4) Note that, for the implementation phase, several possible technical solutions may be identified to achieve the defined requirements and each of these solutions may have different strengths and weaknesses.
+Scoring systems to address the most critical aspects of the operational requirements may need to be considered when preparing a procurement plan.
+Establishing (Regulatory Framework) Planning & Implementing Initiating & Plannning (Operational & Functional & Performance Requirement) Implementation ¥ Controlling ¥v Closing ~ Operational Use S Figure 1 Project management steps in establishing VTS systems 2.2. SECURITY REQUIREMENTS The security requirements needed to derive the functional and performance requirements should include, but not be limited to: 
+• Physical security of the VTS Centre and remote sites 
+• Cyber security Business continuity, availability, reliability and disaster recovery IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+<doc_end>

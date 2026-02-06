@@ -1,0 +1,83 @@
+<doc_start>
+and amended performance standards for navigational equipment.
+[10] IMO.
+Resolution A.694(17) General requirements for shipborne radio equipment forming part of the global maritime distress and safety system (GMDSS) and for electronic navigational aids.
+IMO.
+Resolution A.823(19) Performance standards for automatic radar plotting aids (ARPAs).
+[12] IMO.
+Resolution A.1106(29) Revised Guidelines for the Onboard Operational Use of Shipborne Automatic Identification Systems (AIS).
+[13] IMO.
+MSC-MEPC.2/ Circ.12/Rev.2 Revised Guidelines for Formal Safety Assessment (FSA) for use in the IMO Rule-making Process.
+[14] IMO.
+MSC-MEPC.2/ Circ.13 Guidelines for the Application of the Human Element Analysing Process(HEAP) to the IMO Rule-making Process.
+[15] IMO.
+SN.1/Circ.243/Rev.2 Amended Guidelines for the Presentation of navigation-related symbols, terms and abbreviations.
+IMO.
+SN/Circ.217 Interim Guidelines for The Presentation and Display of AIS Target Information.
+IMO.
+SN/Circ.236 Guidance of the Application of AIS Binary Messages.
+IMO.
+SN.1/Circ.289 Guidance on the Use of AIS Application-Specific Messages.
+[19] IMO.
+SN.1/Circ.290 Guidance for the Presentation and Display Of AIS Application-Specific Messages Information.
+[20] IEC.
+62288, series Maritime navigation and radiocommunication equipment and systems - Presentation of navigation-related information on shipborne navigational displays - General requirements, methods of testing and required test results.
+[21] IEC.
+60945, series Maritime navigation and radiocommunication equipment and systems – general requirements – methods of testing and required test results.
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 P 16 [22] IEC.
+61174, series Maritime navigation and radiocommunication equipment and systems – Electronic chart display and information system (ECDIS) – Operational and performance requirements, methods of testing and required test results.
+[23] IEC.
+62388, series Maritime navigation and radiocommunication equipment and systems –Shipborne radar – Performance requirements, methods of testing and required test results.
+[24] IEC.
+61924-2, series Maritime navigation and radiocommunication equipment and systems - Integrated navigation systems (INS) - Part 2: Modular structure for INS - Operational and performance requirements, methods of testing and required test results.
+IHO.
+S-52, series Specifications for chart content and display aspects of ECDIS.
+IHO.
+S-100, series IHO Universal Hydrographic Data Model.
+IHO.
+S-101, series IHO S-101 ENC Product Specification.
+IALA.
+Recommendation R0125 (V-125) The Use and Presentation of Symbology at a VTS Centre.
+IALA.
+Recommendation R0128 (V-128) Operational and Technical Performance of VTS Systems.
+IALA.
+Guideline 1095 Harmonized implementation of Application-Specific Messages (ASMs).
+IALA.
+Recommendation R0127 (V-127) VTS Operations.
+IALA.
+Recommendation R0119 (V-119) Establishment of VTS.
+[33] IALA.
+Guideline 1111 Preparation of Operational and Technical Performance Requirements for VTS Systems.
+(Chapter10: VTS Human/Machine Interface and Chapter 11: Decision Support).
+[34] Report of the IALA Workshop on the Portrayal of Data and Information at a VTS” [Bremen, 2013].
+[35] Report of the IALA Workshop on Human Factor and Ergonomics in VTS” [Gothenburg 2015].
+IALA.
+Recommendation R1014, Edition 1.1 Portrayal of VTS Information and Data.
+[37] IMO.
+MSC.1-Circ 1512 Guideline on Software Quality Assurance and Human-Centered Design for e- Navigation.
+IALA Guideline G1105 Shore-side Portrayal Ensuring Harmonization with e-Navigation Related Information Edition 2.0 urn:mrn:iala:pub:g1105:ed2.0 7) P 17 APPENDIX 1 DEFINITIONS OF PORTRAYAL RELATED TERMINOLOGY The following terms are defined based on what is contained in widely recognized dictionaries or technical references.
+This includes the Oxford English Dictionary, 5 Merriam Webster Dictionary, 6 IALA Dictionary, IHO Dictionary,7 and relevant ISO standards.
+For ease of reference, the following terms are listed in alphabetical order.
+Further guidance is also provided by way of an example or context of use of these terms associated with the portrayal of IALA related information.
+Since there are differences in the way some terms are defined, grey highlights indicate the definition(s) that are used in conjunction with this Guideline.
+Consistent Oxford English Dict.
+- unchanging in effect over a period of time.
+Merriam-Webster Dict.
+– showing steady conformity to character; constant.
+Example/context: The use of consistent symbology across all displays helps to reduce misunderstanding and confusion.
+Data Oxford English Dict.
+– computing the quantities, characters, or symbols on which operations are performed by a computer, being stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media.
+Merriam-Webster Dict.
+– factual information output by a sensing device that must be processed to be meaningful; information in numerical form that can be digitally transmitted or processed.
+Example/context: data is a raw collection of unprocessed facts.
+Display Oxford English Dict.
+- (of a computer or other device) show (information) on a screen.
+- an electronic device [used] for the visual presentation of data.
+Merriam-Webster Dict.
+– show; an electronic device that presents information in visual form.
+Example/context: An ECDIS display is capable of portraying both chart and navigation-related information.
+Feature ISO 19117 - abstraction of real-world phenomena.
+Feature attribute ISO 19117 - characteristic of a feature.
+Geographic information ISO 19117 - information concerning phenomena implicitly or explicitly associated with a location relative to the Earth.
+Icon 5 http://oxforddictionaries.com 6 http://www.merriam-webster.com
+<doc_end>

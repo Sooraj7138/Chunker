@@ -1,0 +1,96 @@
+<doc_start>
+5.1. SELECTION PROCESS
+The selection process should provide a mechanism for VTS providers to assesses the suitability of candidates to perform the required VTS tasks.
+The selection process may include assessing personal attributes, aptitude testing, assessment of prior learning and satisfying the medical/physical requirements.
+5.1.1. PERSONAL ATTRIBUTES
+Personal attributes are an important component of the selection process, and the following elements should be assessed when determining the suitability of a candidate:
+
+5.1.1. PERSONAL ATTRIBUTES
+
+• Personality as a prediction of future workplace behaviour
+
+5.1.1. PERSONAL ATTRIBUTES
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+5.1.1. PERSONAL ATTRIBUTES
+
+5.1.1. PERSONAL ATTRIBUTES
+P 7
+
+5.1.1. PERSONAL ATTRIBUTES
+o Behaviour, where candidates should demonstrate a strong sense of responsibility, the ability to work independently, and a willingness to collaborate effectively as part of a team
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+The VTS provider should consider testing for personal aptitude, attributes and overall suitability requirements, even if they have previous maritime experience.
+Different types of tests and evaluations may be used such as:
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• interviews
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• written tests
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• practical tests or exercises
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• psychometric tests
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+Assessments should be designed to evaluate the suitability of a candidate within a VTS environment by:
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• distinguishing among relevant and irrelevant information (e.g., assess the relative movement of fixed and moving objects);
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+combining auditory and visual information;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• demonstrating spatial and situational awareness;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• demonstrating alertness and decisiveness when required;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+carrying out several tasks simultaneously (multi-tasking);
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+carrying out routine work without losing situational awareness;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• prioritising and deciding what situations require immediate action;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• show initiative and make decisions whilst working within a framework of standards, regulations and structured procedures;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• working under conditions of stress;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• demonstrating effective participation as a member of a team;
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+
+• demonstrating appropriate communication, literacy (written and oral) and numeracy skills.
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+To assess the aptitude, attributes and suitability of a candidate, the assistance of specialists may be required to ensure appropriate tests and exercises are in place to complement the interview process conducted by the VTS
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+provider.
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+5.1.3. MEDICAL/PHYSICAL REQUIREMENTS
+
+5.1.2. APTITUDE/PSYCHOMETRIC TESTING
+The VTS provider should establish policies on medical and physical requirements which candidates and VTS personnel need to meet such as medical, hearing and vision requirements.
+<doc_end>

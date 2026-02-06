@@ -1,0 +1,166 @@
+<doc_start>
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+When a new wreck or obstruction has been announced a formal assessment must be made on whether;
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+a vessel and personnel need to be deployed to accurately survey or guard the wreck or obstruction; and
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+an appropriate AtoN needs to be deployed.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Before traffic data was available, this decision relied almost entirely on the expertise of the assessor with no supporting evidence to underpin the decision.
+Information is, and has been available for many years regarding vessel trading routes which helped to inform the process, but this information was not able to provide quantitative data on specific traffic movements or indeed an assessment of the dimension of vessels actually passing over a particular location.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Considering each situation, those assessing the risk must make a rapid but informed decision based on the worst possible scenario.
+An assessment of the clearance between the wreck and the sea surface at chart datum or Lowest Astronomical Tide (LAT) must be made.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Using an appropriate analysis tool, and compiling AIS traffic data over a significant period, the assessor will be able to extract the volume and type of vessels over a specific draft that passes in the vicinity of the wreck.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+As an example, referring to Figure 1:
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+If it is considered that an obstruction has been reported with a maximum height above the seabed of 15 metres, which is located in an area with surrounding depths of 22 metres, then the available depth over the obstruction is 7 metres and therefore, vessels with a draught over 5 metres maybe considered to be in danger.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+P 5
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 1 Initial position of the wreck plotted
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 2 Wreck together with 28 days AIS data traffic
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+12, (} [St WNT ini ta
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 3 Vessels passing within 3nm of the wreck
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 4 Vessels over 5 metres draught
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Filtering of the AIS data layer to show only vessels with a draught in excess of 5 metres can then inform the risk assessment to determine whether further action is required which may include the deployment of AtoN to mitigate
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+the risk.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+100% 90% - em _iia Percentage ~ Ne & z 30% 20% 10% 0% Unspecified <4 4106 6to9 Sto 12 >12 Vessel Draught (m)
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+in| aa |e a ee ee ee J4to6 | CC [gto12_ | | Ey a | [Total 8 100 %
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 5 Traffic analysis by draught(1)
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 6 Traffic analysis by draught(2)
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+P 6
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Further filtering of vessels types, including the consideration of AIS class A and B will also provide for a more in depth assessment of the risk and mitigation measures required.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+4.3. ASSESSMENT OF MARKING REQUIREMENTS FOR NEW OR EXISTING SHOALS AND SHALLOW AREAS SUBSEQUENT TO HYDROGRAPHIC SURVEY
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+When new survey information is received it is necessary to make an assessment as to whether both charting and AtoN requirements needs to be amended.
+This may have relevance to the AtoN already deployed.
+A decision shall be made on whether new or amended AtoN are required and the time frame within which they must be deployed.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+When new survey information is received the GIS can be used to overlay survey and contour information from both the recent survey and historical data available.
+The rate of change and consideration of AtoN in the area can then be clearly examined to make an informed assessment of any changes that may be required.
+For example, the number, type, and draught of vessels, will have an impact on the decision for amending the current location of the AtoN or deployment of new AtoN.
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+tt Nn NOM, | LE 187 S00 ag Ne a Lg y — It 1 eo _ 18) N18 P) mee \ Bas © 6p \) 10 Sy-—}-—esansn_- USC, 1, pit tay i; a t ‘i “Changing | 15, Bn x piotioe AVe8 1) —— Authority -_—- igndo ru Aor al SH, Depths A 185 60 A hin lO 1S.bkSh, oy nye pane “ 4 @ ‘1230 eh) it / / L af "3 + a N AZ m we
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+te / Message (39) 102 Mor20—
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 7 5 metres contours over a 4 year period
+
+ASSESSMENT OF WRECKS AND OBSTRUCTIONS
+Figure 8 Original traffic patterns with contours
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+By considering the actual coverage of current AtoN provided, including accurate assessment of nominal ranges of both charted and uncharted sectors of fixed lights, together with floating AtoN, then, combining this data with up to date traffic patterns an informed decision on the on-going requirements for existing AtoN and the requirement for additional or different AtoN can be made.
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+7)
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+P 7
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+An on-going assessment will always be required to ensure that any changes, including bathymetry and new offshore dangers are addressed to ensure the continued safety of the mariner.
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+Figure 9 An example of adjacent lighthouses showing range and sector details
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+Figure 10 Lighthouse data with 28 days of traffic shown
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+Figure 11 Vessel traffic filtered to show 1 day
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+From figure 10 and figure 11 it can be seen that initial overlays of extensive traffic data require careful filtering for example on period, type of vessel and draughts to make a more informed assessment of requirements.
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+4.5. DETERMINING THE NEED FOR NEW ROUTING MEASURES OR TRAFFIC SEPARATION SCHEMES
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+AIS data and other traffic information can assist in determining whether a new routing measure or separation scheme is required.
+The responsible authority, by analysing the AIS data for a specific area of interest, can determine the routes used by different types of vessels.
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+7)
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+P 8
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+
+4.4. DETERMINING AND REVIEWING THE APPROPRIATE OVERALL REQUIREMENTS, NUMBER AND MIX OF AIDS TO NAVIGATION IN EXISTING AND NEW APPLICATIONS
+Figure 12 AIS density plot before the implementation of Traffic Separation Scheme (TSS) Bornholmsgat between Denmark and Sweden
+
+4.6. POST IMPLEMENTATION ANALYSIS
+Once changes to the shipping routes or the AtoN have been implemented, AIS overlays provide a useful tool to measure the effectiveness of the new measure(s) introduced.
+4.6. POST IMPLEMENTATION ANALYSIS
+
+4.6. POST IMPLEMENTATION ANALYSIS
+Figure 13 AIS density plot after the implementation of TSS Bornholmsgat between Denmark and Sweden
+
+4.6. POST IMPLEMENTATION ANALYSIS
+IALA Guideline G1104 The Application of Maritime Surface Picture for Analysis in Risk Assessment and the Provision of Aids to Navigation Edition 1.1 urn:mrn:iala:pub:g1104:ed1.1
+
+4.6. POST IMPLEMENTATION ANALYSIS
+
+4.6. POST IMPLEMENTATION ANALYSIS
+P 9
+<doc_end>

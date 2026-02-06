@@ -1,0 +1,47 @@
+<doc_start>
+the interests of other authorities, stakeholders and third parties.
+To this end, it may be necessary to adopt particular provisions such as to: Impose specific navigation measures (e.g., recommended route).
+Implement specific reporting obligations.
+Arrange for the exchange of related information with other organizations involved.
+IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1 e P 4 
+• Monitor/co-ordinate safety zone.
+Insert boundary co-ordinates and set appropriate alarms for the area.
+
+• Update existing operating procedures.
+Arrange appropriate response measures.
+Provide information of violations to enforcement authorities.
+
+• Assist in the prevention of unauthorized access.
+Establish a ship safety zone around a certain vessel.
+Promulgate the existence of such area to shipping and relevant authorities.
+Examples of such areas are listed in annex A and examples of VTS management tools for these areas in annex B.
+
+4. DEFINITIONS AND CLARIFICATIONS Restricted or limited access areas are intended to further enhance the common protection of shipping, other environmental interests and third party interests by addressing the unique risks and vulnerabilities in these areas.
+Furthermore, the establishing of such areas aim at ensuring that these interests are better protected from potential threats and that vulnerabilities are limited by those protections.
+Examples of such are offshore installations, offshore renewable energy installations (OREI), national parks, military exercise areas, Particularly Sensitive Sea Areas (PSSA).
+Frequency and/or type of shipping in the vicinity of such areas can potentially increase risks and vulnerabilities and therefore should be taken into consideration when determining the restricted or limited area.
+Particular care should be given to make sure that control measures will prevent/limit shipping to enter this area and to monitor and report possible violations to such limitations.
+
+5. DOCUMENT DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+6. ABBREVIATIONS AIS Automatic Identification System ATBA Area to be avoided CCTV Closed-circuit television IMO International Maritime Organization NtM Notices to Mariners OREI Offshore renewable energy installation(s) PSSA Particularly Sensitive Sea Area(s) UNCLOS The United Nations Convention on the Law of the Sea VTS Vessel traffic service(s) IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1 e P 5 
+7. REFERENCES IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services [2] IMO.
+Ships’ Routeing [3] IALA.
+VTS Manual IALA.
+Guideline G1018 Risk Management IALA Guideline G1070 VTS Role in Managing Restricted or Limited Access Areas Edition 1.1 urn:mrn:iala:pub:g1070:ed1.1 e P 6 ANNEX A EXAMPLES OF RESTRICTED OR LIMITED ACCESS AREAS A.1. PROHIBITED ANCHORAGE A prohibited anchorage (or “no anchoring” area) is an area within defined limits where anchoring is considered hazardous or could result in unacceptable damage to the marine environment.
+Anchoring should be avoided by all ships or certain classes of ships.
+An example of a prohibited anchorage may be in the vicinity of gas pipelines and other pipelines and cables.
+The area will be determined by an authority which has considered the risk.
+A.2. AREA TO BE AVOIDED (ATBA) A routeing measure comprising an area within defined limits in which either navigation is particularly hazardous, or it is exceptionally important to avoid casualties and which should be avoided by all ships, or certain classes of ship.
+An example of an ATBA would be around a critical navigation aid in a busy shipping channel which can be liable to accidental collision.
+A.3. SAFETY ZONE A safety zone is an area usually extending 500 metres from any part of an offshore oil, gas or renewable energy installation and is established around all installations which project above the sea at any state of the tide.
+Subsea installations may also have safety zones to protect them.
+A.4. PARTICULARLY SENSITIVE SEA AREA (PSSA) A PSSA is an area of the marine environment that needs special protection through action by the International Maritime Organization (IMO) because of its significance for recognized ecological, socio-economic, or scientific attributes where such attributes may be vulnerable to damage by international shipping activities.
+A.5. MILITARY EXERCISE AREA (OR FIRING RANGE) A military exercise area may involve the firing of live ammunition in an area within defined limits but may allow restricted access for vessels at designated times.
+A.6. NATIONAL PARK A national park is a reserve of land or water, usually declared and owned by a national government, protected from most human development and pollution.
+A.7. EXCLUSION ZONE An exclusion zone is a geographical area, within which all other vessels should remain clear unless authorized.
+The size and shape of the area may vary depending on the risks involved.
+A.8. SHIP SAFETY
+<doc_end>

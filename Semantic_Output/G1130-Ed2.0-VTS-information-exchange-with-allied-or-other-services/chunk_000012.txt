@@ -1,0 +1,47 @@
+<doc_start>
+3.5. SECURITY
+IALA Guideline G1130 Technical Aspects of Information Exchange Between VTS and Allied or Other Services Edition 2.0 urn:mrn:iala:pub:g1130:ed2.0
+
+3.5. SECURITY
+3
+
+3.5. SECURITY
+P 7
+
+3.5.1. CYBER SECURITY
+It is recommended to adopt an appropriate cyber-security framework that defines the measures to safeguard uncompromised system operation and to prevent unauthorised access.
+These measures may include:
+
+3.5.1. CYBER SECURITY
+revising system and network architecture;
+
+3.5.1. CYBER SECURITY
+reconsidering system access procedures for both internal and external users;
+
+3.5.1. CYBER SECURITY
+
+• establishing procedures to maintain software updated to the latest security patches, including software on network- and housekeeping devices;
+
+3.5.1. CYBER SECURITY
+
+• monitoring and validating system network dataflows; and
+
+3.5.1. CYBER SECURITY
+properly safeguarding legacy systems that are still in operation.
+3.5.1. CYBER SECURITY
+Where, traditionally, systems operated in closed environments, increasingly, VTS systems need to share data with external stakeholders.
+This requires due consideration of authentication and authorisation of these external stakeholder, but also of measures to protect the data exchange as outlined in the following sections.
+3.5.2. DATA CONFIDENTIALITY
+The data exchanged between VTS, and allied or other services may have considerable business value and/or contain data that is privacy-sensitive.
+Therefore, proper care should be taken to protect this data while stored and during transmission.
+3.5.2. DATA CONFIDENTIALITY
+It is recommended to use an appropriately secured transmission channel, e.g., a virtual private network (VPN), to avoid unauthorized access during data transmission.
+Also, when sensitive data is stored, it may be appropriate to encrypt the data.
+3.5.2. DATA CONFIDENTIALITY
+Specific legal constraints may apply to data that can be related to the identity of persons.
+3.5.3. DATA ACCESSIBILITY
+Access to data should be properly governed, which means that proper procedures should be set-up to limit access to sensitive data to authorized personnel only.
+3.5.4. AUDIT TRAILS
+It may be appropriate to maintain audit trails of access to sensitive data.
+Additionally, it may be necessary to attach audit trails to the sensitive data itself, e.g., recording all transactions that were executed with that particular data.
+<doc_end>

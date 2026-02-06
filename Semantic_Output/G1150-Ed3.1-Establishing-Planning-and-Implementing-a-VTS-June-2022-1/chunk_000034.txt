@@ -1,0 +1,27 @@
+<doc_start>
+A.11. FUTURE REQUIREMENTS
+Elements to consider include:
+
+A.11. FUTURE REQUIREMENTS
+Trends in maritime traffic and future developments which could have an impact on:
+
+A.11. FUTURE REQUIREMENTS
+the number of ships operating in or passing the area;
+
+A.11. FUTURE REQUIREMENTS
+types and sizes of ships required to participate with the VTS; and
+
+A.11. FUTURE REQUIREMENTS
+cargo carried and possible restrictions for other traffic.
+A.11. FUTURE REQUIREMENTS
+•
+
+A.11. FUTURE REQUIREMENTS
+developments in VTS and navigation-related technology; and
+
+A.11. FUTURE REQUIREMENTS
+
+• implications of future SOLAS carriage requirements for navigational and/or communication equipment onboard and their applicability to ships expected in the VTS Area.
+A.11. FUTURE REQUIREMENTS
+Note: The SOLAS Convention is not applicable to small craft.
+<doc_end>

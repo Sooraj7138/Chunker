@@ -1,0 +1,5 @@
+<doc_start>
+7. DEFINITIONS
+Nominal range The luminous range when the meteorological visibility is 10 nm.
+Nominal range assumes that the light is observed against a dark background, free of background lighting.
+<doc_end>

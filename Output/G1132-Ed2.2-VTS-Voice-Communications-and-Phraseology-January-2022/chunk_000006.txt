@@ -1,0 +1,69 @@
+<doc_start>
+as what words are used.
+Transmissions should be sent with a polite tone of calm confidence, and professionalism.
+VTS personnel must always remain professional even if they receive overly familiar or aggressive transmissions.
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 14 The volume of the voice is important.
+The volume of a transmission should be at a level used for normal conversation.
+Shouting is unprofessional and causes distortion, whilst speaking too quietly could result in the message not being heard.
+5.2.3. EMPHASIS ON KEYWORDS The keyword is the most important part of the message.
+This should be spoken slightly louder and longer than its neighbouring words to provide emphasis (e.g., WARNING SHALLOW water AHEAD of you).
+5.2.4. SPEECH RATE Speech rate is the speed at which a speaker conveys the message.
+Key points for speech rate are: 
+• Modulating speech at a slower rate of around 120 words per minute (WPM) is highly recommended for clear and effective communication.
+
+• In emergency situations and in developing unsafe situations, a slower rate of 100 WPM should be applied so important information can be clearly and accurately delivered under high-pressure and cognitively challenging conditions.
+In an international environment where people from different linguistic backgrounds speak with their own accents, intonation and pronunciation, it is crucial to maintain an appropriate rate of speech.
+This increases the likelihood of comprehension and reduces anxiety.
+5.2.5. WORD GROUPING AND PAUSING It is generally recognized that the use of four words in a short phrase is best understood by listeners.
+Therefore, understanding can be enhanced considerably by dividing sentences into smaller groups, or phrases, and by pausing briefly between word groups.
+VTS personnel can also moderate their speech rates by pausing between each word group.
+The effect of word grouping and pausing is important for the following reasons: It gives listeners the time to process each pack of information that is delivered.
+It enables speakers to prepare subsequent information for delivery.
+
+• 
+• It decreases the use of unnecessary fillers like ‘um, hm, uh, …’, which hinders mutual intelligibility.
+VTS INFORMATION.
+(pause) Container ship Stardust (pause) not under command in position (pause) 2.1 nautical miles (pause) southeast from Morrison lighthouse (pause)… 1 word+(pause)+3words+(pause)+5 words+(pause)+5 words+(pause) +4 words+(pause) 5.2.6. QUESTIONING TECHNIQUES Information flow within a VTS is paramount.
+A VTS often gathers and disseminates information based on real time situations within the VTS area.
+In the computer world the term ‘garbage in, garbage out’ is often used.
+The same applies to VTS communications, if you ask the wrong questions, you will probably get the wrong answer.
+To ensure effective questioning the following techniques should be used: 
+• Closed Questions 
+• Open Questions 
+• Funnel Questions 5.2.6.1. Closed questions A closed question usually receives a one-word answer, or a short factual statement.
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 3 P 15 VTS VTS QUESTION.
+Do you have any defects?
+VTS VTS QUESTION.
+Are you able to see the entrance beacon?
+5.2.6.2. Open questions Generally open questions deliberately seek longer answers and are the opposite of closed questions.
+Open questions usually contain terms to elicit further information.
+VTS VTS QUESTION.
+What is the nature of your problem?
+5.2.6.3. Funnel questions This questioning technique involves the use of a series of questions.
+Initially general questions are asked which increase in detail with each subsequent question.
+With funnel questioning it may be useful to start with one or more closed questions before following up with more open questions.
+VTS QUESTION.
+Do you see the Princes Inner Buoy?
+VTS QUESTION.
+Is the buoy lit?
+VTS QUESTION.
+Is the buoy in the correct position?
+VTS QUESTION.
+Describe the damage?
+5.2.7. AMBIGUOUS TERMINOLOGY Some words in English have meanings depending on the context in which they appear.
+Misunderstandings frequently occur, especially in VTS communications, and have resulted in accidents.
+The use of local terminology should be avoided as this can lead to confusion.
+For example: MAY/MIGHT Do not say: “You may/might enter the fairway”.
+Say: “ANSWER.
+You have permission to enter the fairway”.
+SHOULD Do not say: “You should anchor in anchorage Z4”.
+Say: “ADVICE.
+Anchor in anchorage Z4”.
+COULD Do not say: “You could be running into danger”.
+Say: “WARNING.
+You are running into danger”.
+CAN The word “CAN” describes the possibility, or the capability of doing something.
+Do not say: “Can you adjust your ETD from the berth by 20 minutes?” Say: “QUESTION.
+Are you able to adjust your ETD 20 minutes earlier?” 5.2.8. RESPONSES When the answer to a closed question is in the affirmative or negative, consider the need to repeat the appropriate phrase or add an explanation in the response.
+For a response in the affirmative say: IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 16
+<doc_end>

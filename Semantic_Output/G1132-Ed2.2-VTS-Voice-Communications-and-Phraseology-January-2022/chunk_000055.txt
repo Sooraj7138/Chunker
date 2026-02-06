@@ -1,0 +1,57 @@
+<doc_start>
+6.5. RESPONDING TO DEVELOPING UNSAFE SITUATION
+Careful consideration should be given regarding the most appropriate message marker to be used.
+See Table 26.
+
+6.5. RESPONDING TO DEVELOPING UNSAFE SITUATION
+Table 26 Responding to developing unsafe situation messages
+
+6.5. RESPONDING TO DEVELOPING UNSAFE SITUATION
+Message Element Message Intent COURSE TO MAKE GOOD (details) Advising the ship about a recommended course DANGER OF CLOSE QUARTER SITUATION Advising the ship is passing close to another ship WITH (details) YOU ARE APPROACHING (details) Advising the ship by continuing in the same direction it will approach some obstacle / danger (e.g., submerged wreck) ~ shallow water ...
+bearing … distance ….
+NM ~ submerged wreck ...
+(cardinal points) of you YOU ARE LEAVING (details) Inform the ship that it is about to leave an area (e.g., fairway/recommended route/track) YOU HAVE DEVIATED FROM (details) Advising the ship has deviated from intended route (e.g., passage plan) YOU HAVE LEFT (details) Inform the ship that it has left an area (e.g., fairway / recommended route/track) YOUR POSITION (details) Advising the ship its current position relative to a location/landmark - .../ bearing ...
+degrees Distance … nautical miles/cables...
+kilometres /metres from ....
+~ in the centre of the fairway ~ on / not on the radar reference line (of the fairway) ~ on the ...
+(cardinal points) side of the fairway
+
+
+7. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS
+Vessel Traffic Service or Vessel Traffic Services (dependent on context)
+
+
+9. REFERENCES
+IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services
+
+
+9. REFERENCES
+IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases
+
+
+9. REFERENCES
+IALA.
+Recommendation R1012 VTS Communications
+
+
+9. REFERENCES
+IALA.
+Standard S1040 Vessel Traffic Services
+
+
+9. REFERENCES
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+
+9. REFERENCES
+
+
+9. REFERENCES
+P 30
+<doc_end>

@@ -1,0 +1,95 @@
+<doc_start>
+4.3. IALA STANDARDS
+To achieve world-wide harmonization and improvement of VTS, IALA has developed a document structure to be used in order to develop and publish documents specifically related to the development, implementation, and operation of VTS.
+The principal components to the IALA document structure include:
+
+4.3. IALA STANDARDS
+
+• Standards
+
+4.3. IALA STANDARDS
+Recommendations
+
+4.3. IALA STANDARDS
+
+• Guidelines
+
+4.3. IALA STANDARDS
+
+• Model courses
+
+4.3. IALA STANDARDS
+IALA standards are not mandatory; if an organization wishes to claim compliance with an IALA standard however, then it should implement the normative recommendations referenced in the Standard.
+4.3. IALA STANDARDS
+IALA standards relating to VTS include:
+
+4.3. IALA STANDARDS
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1
+
+4.3. IALA STANDARDS
+@
+
+4.3. IALA STANDARDS
+P 6
+
+4.3. IALA STANDARDS
+S1040 - Vessel Traffic Services
+
+4.3. IALA STANDARDS
+S1010 - AtoN Planning and Service Requirements [6]
+
+4.3. IALA STANDARDS
+S1050 - Training and Certification [7]
+
+4.3. IALA STANDARDS
+S1070 – Information Services [8]
+
+4.3.1. RECOMMENDATIONS
+IALA recommendations specify what practices shall be carried out in order to comply with a recommendation, and may be referenced, in full or in part, in an IALA standard.
+4.3.1. RECOMMENDATIONS
+Recommendations may be referenced as normative or informative, where:
+
+4.3.1. RECOMMENDATIONS
+
+• normative provisions are those with which it is necessary to conform to claim compliance to the standard; and
+
+4.3.1. RECOMMENDATIONS
+
+• informative provisions are those which specify additional desirable practices but with which it is not necessary to conform to claim compliance to the standard.
+4.3.1. RECOMMENDATIONS
+4.3.2. GUIDELINES
+
+4.3.1. RECOMMENDATIONS
+IALA guidelines describe how to implement practices normally specified in a recommendation.
+These documents provide detailed, in depth information on an aspect of a specific subject, indicating options, best practices and suggestions for implementation.
+IALA guidelines relate to planning, operating, and managing marine aids to navigation.
+4.3.3. MODEL COURSES
+IALA model courses are training documents which define the level of training and knowledge needed to reach levels of competence defined by IALA.
+Model courses for VTS include training programmes on the specific knowledge and skill requirements necessary for the qualification of VTS personnel.
+4.3.3. MODEL COURSES
+IALA DOCUMENTATION RELATING TO VTS - A reference list of the standards, recommendations, guidelines and model courses specifically related to the implementation and operation of a VTS is available on the IALA website.
+4.4. NATIONAL LAW
+Key responsibilities of Contracting Governments and competent authorities in planning and establishing a VTS described in IMO Resolution A.1158(32) include:
+
+4.4. NATIONAL LAW
+
+• Ensuring that a legal basis for the operation of a VTS is provided for and that the VTS is operated in accordance with national and international law.
+4.4. NATIONAL LAW
+Ensuring that a VTS provider is appointed and legally empowered.
+4.4. NATIONAL LAW
+Instructing the VTS provider to operate the VTS in accordance with relevant IMO resolutions.
+4.4. NATIONAL LAW
+
+• Establishing a policy with respect to violations of VTS regulatory requirements and ensure that this policy is consistent with national law.
+4.4. NATIONAL LAW
+Note: It is recognized that where a legal basis for a VTS has not been established in national law it may take some time for this to be established.
+4.4. NATIONAL LAW
+In such situations consideration could be given to proceeding with section 5 (Planning and Implementing) as described below to determine whether or not a VTS is the appropriate mechanism to improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment for a particular waterway.
+4.4. NATIONAL LAW
+IALA Guideline G1150 Establishing, Planning and Implementing a VTS Edition 3.1 urn:mrn:iala:pub:g1150:ed3.1
+
+4.4. NATIONAL LAW
+
+4.4. NATIONAL LAW
+P 7
+<doc_end>

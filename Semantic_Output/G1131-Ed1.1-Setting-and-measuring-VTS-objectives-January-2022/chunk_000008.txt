@@ -1,0 +1,50 @@
+<doc_start>
+4.1. MEASURING THE OBJECTIVES
+IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1
+
+4.1. MEASURING THE OBJECTIVES
+P 7
+
+4.1. MEASURING THE OBJECTIVES
+
+4.2. DEFINING PERFORMANCE MEASURES
+When testing the suitability of key performance measures the following issues should be considered:
+
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are they relevant?
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are they clearly defined?
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are they readily measurable?
+4.2. DEFINING PERFORMANCE MEASURES
+Are they acceptable to people across the organization?
+4.2. DEFINING PERFORMANCE MEASURES
+Are they comparable from one measurement to the next?
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are they unambiguous?
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are they statistically valid?
+4.2. DEFINING PERFORMANCE MEASURES
+Can it be collected in a timely and cost‐effective manner?
+4.2. DEFINING PERFORMANCE MEASURES
+This should lead to a set of measures which:
+
+4.2. DEFINING PERFORMANCE MEASURES
+Accurately and consistently measure the parameter to monitor.
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are easily understood by users.
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are relatively simple to collect.
+4.2. DEFINING PERFORMANCE MEASURES
+
+• Are timely in that they support Authorities to identify and implement a response that can influence the outcome.
+4.2. DEFINING PERFORMANCE MEASURES
+Readily relate to the objectives of the organization.
+<doc_end>

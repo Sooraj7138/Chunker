@@ -1,0 +1,14 @@
+<doc_start>
+6.2.7. REPORTING OF SHIP IDENTIFICATION AND PARTICULARS
+When entering the VTS area a ship’s identity and particulars should have been passed in advance.
+If not, these may need to be clarified through an instruction to report or a question asking for specific details.
+6.2.7. REPORTING OF SHIP IDENTIFICATION AND PARTICULARS
+The message marker QUESTION would normally be used prior to these message elements.
+See Table 11
+
+6.2.7. REPORTING OF SHIP IDENTIFICATION AND PARTICULARS
+Table 11 Reporting of ship identification and particulars messages
+
+6.2.7. REPORTING OF SHIP IDENTIFICATION AND PARTICULARS
+Message Element Message Intent WHAT IS YOUR (details) Request specific information (such as last port of call, route, maximum draft etc.) DO YOU HAVE (details) Request for specific information (e.g., Pilot Exemption Certificate)
+<doc_end>

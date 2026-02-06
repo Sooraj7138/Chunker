@@ -1,0 +1,6 @@
+<doc_start>
+5.2. DELIVERING A MESSAGE
+VTS communications should be professional, clear, concise, consistent, and accurate.
+5.2. DELIVERING A MESSAGE
+Speech and vocal patterns should be adjusted in order to increase the likelihood of mutual understanding regardless of experience or native language.
+<doc_end>

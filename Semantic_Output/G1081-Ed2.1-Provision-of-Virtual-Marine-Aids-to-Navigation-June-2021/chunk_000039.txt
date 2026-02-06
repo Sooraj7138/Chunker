@@ -1,0 +1,112 @@
+<doc_start>
+14. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+14. ABBREVIATIONS
+AtoN Aid(s) to Navigation
+
+
+14. ABBREVIATIONS
+CCRP Consistent Common Reference Point
+
+
+14. ABBREVIATIONS
+CPA Closest Point of Approach
+
+
+14. ABBREVIATIONS
+DGPS Differential Global Positioning System
+
+
+14. ABBREVIATIONS
+EBL Electronic Bearing Line
+
+
+14. ABBREVIATIONS
+ECDIS Electronic Chart Display and Information System
+
+
+14. ABBREVIATIONS
+ECS Electronic Chart System
+
+
+14. ABBREVIATIONS
+EGC Enhanced Group Calling
+
+
+14. ABBREVIATIONS
+FATDMA Fixed Access Time Division Multiple Access
+
+
+14. ABBREVIATIONS
+GNSS Global Navigation Satellite System
+
+
+14. ABBREVIATIONS
+GPRS General Packet Radio Service
+
+
+14. ABBREVIATIONS
+GPS Global Positioning System
+
+
+14. ABBREVIATIONS
+HF High Frequency
+
+
+14. ABBREVIATIONS
+IALA International Association of Marine Aids to Navigation and Lighthouse Authorities
+
+
+14. ABBREVIATIONS
+IBS Integrated Bridge System
+
+
+14. ABBREVIATIONS
+IEC International Electro-technical Commission
+
+
+14. ABBREVIATIONS
+IHO International Hydrographic Organization
+
+
+14. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+14. ABBREVIATIONS
+INMARSAT International Maritime Satellite Organization
+
+
+14. ABBREVIATIONS
+ITU International Telecommunication Union
+
+
+14. ABBREVIATIONS
+ITU-R ITU Radiocommunications Sector
+
+
+14. ABBREVIATIONS
+ITU-R-M ITU-R M series Recommendations and ITU-R M series Reports
+
+
+14. ABBREVIATIONS
+LORAN LOng RAnge Navigation
+
+
+14. ABBREVIATIONS
+MF Medium Frequency
+
+
+14. ABBREVIATIONS
+MID Maritime Identification Digits
+
+
+14. ABBREVIATIONS
+MIO Marine Information Overlay
+
+
+14. ABBREVIATIONS
+MKD Minimum Keyboard and Display
+<doc_end>

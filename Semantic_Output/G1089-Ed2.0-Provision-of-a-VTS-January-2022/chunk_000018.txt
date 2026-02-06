@@ -1,0 +1,4 @@
+<doc_start>
+6. OTHER CONSIDERATIONS
+“Ships not designated as participating ships may take part in a VTS subject to complying with the requirements of the VTS and any guidance issued by the VTS provider”.
+<doc_end>

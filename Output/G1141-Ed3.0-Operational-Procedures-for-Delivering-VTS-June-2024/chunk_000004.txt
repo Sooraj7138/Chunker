@@ -1,0 +1,42 @@
+<doc_start>
+VTS area.
+When simplex channels are unavailable due to insufficient channels or interference, duplex channels may be used.
+1 5.1.2. PRE-ARRIVAL INFORMATION Prior to arriving at the VTS area, a vessel may be required to provide information and notify of its intent to enter the VTS area.
+The VTS provider should specify the format and timing of pre-arrival information, if possible, by non-verbal means, see section 5.1.14. This may, for example, include: 
+• Route information 
+• ETA Vessel Identity (Name, IMO number, Call Sign, MMSI) Vessel dimensions as relevant 
+• Vessel draft 
+• Air draft 
+• Hazardous, dangerous or polluting goods details ISPS security level Information about any vessel defects or deficiencies 
+• Other specified details Further, processes and procedures to support the arrival of vessels to the VTS area should be established.
+These should include: communication requirements for participating ships; reporting requirements for pre-arrival information; non-compliance with reporting requirements; and information exchange with allied services 5.1.3. VESSELS ENTERING VTS AREA Processes and procedures should be established for when vessels enter the VTS Area.
+These may include: Establishing communications and verifying vessel identity, position and intention.
+Information exchange, such as: Reporting requirements Provide relevant traffic information Provide navigational / fairway information Vessel defects or deficiencies, such as navigation or manoeuvring equipment failure 
+• Updating information with allied services 5.1.4. VESSEL’S MOVEMENTS WITHIN VTS AREA Procedures should be established for vessel movements within a VTS area.
+These may include: 1 Duplex channels should instantaneously be retransmitted on the outgoing frequency to ensure that both sides of any exchange can be heard by other ships, thus replicating a simplex channel (refer to Guideline G1111-2 Producing Requirements for Voice Communications).
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 11 Reporting formalities 
+• Provision or exchange (AIS, VDES or other means) of relevant information to participating ships at regular intervals, on request or as deemed necessary by the VTS, including: environmental conditions; 
+• traffic situation; navigational conditions; 
+• traffic separations; overtaking restrictions; 
+• warnings and restrictions concerning the movement of traffic in the area; and 
+• Maritime Safety Information.
+Special provisions for vessels carrying hazardous, dangerous or polluting cargo Compliance with pilotage requirements 
+• Non-compliance with the requirements and procedures in the VTS area 
+• Monitor and, if possible, communicate with vessels not required to participate in the VTS Information exchange/update on allied services 5.1.5. MONITORING AND MANAGEMENT OF VESSEL TRAFFIC Procedures for the monitoring and management of vessel traffic should be established.
+These may include: 
+• Forward planning of vessel movements 
+• Organizing vessels underway 
+• Organizing space allocation 
+• Establishing a system of voyage or passage plans 
+• Ensuring compliance with the regulatory provisions PERMISSION TO PROCEED FROM OR TO AN ALONGSIDE BERTH OR ANCHORAGE A vessel’s departure from or arrival to a berth or anchorage or when entering a lock or confined waterway is a critical moment when a vessel’s movements may have a direct influence on other vessels nearby.
+In particular, the departure of a vessel from a berth is a critical moment when situational awareness of bridge staff on the departing vessel may be diverted and impaired by internal or jetty-side issues and when other vessels in the immediate vicinity might be surprised by the unexpected movement of another vessel into the fairway.
+Processes and procedures for a VTS responding to a request from a vessel for permission to proceed from or to a berth or anchorage may include: 
+• Requirements for a vessel to request permission to proceed when it is ready to depart 
+• Provision of relevant traffic information to the departing vessel prior to departure 
+• Standard and formal message for approval from the VTS for a vessel to proceed 
+• Standard and formal message for refusal from the VTS for a vessel to proceed Permission for a vessel to proceed means that, based on the information available, the VTS assesses that it is safe and gives approval for the vessel to proceed on its intended course of action, subject to the discretion of the master.
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0 P 12 Permission for a vessel to proceed may be subject to conditions (e.g., details received from the vessel, known fairway and traffic) which may be contained in the message.
+Refusal for a vessel to proceed should be unambiguous, clear and may be issued as an instruction.
+RESPONDING TO DEVELOPING UNSAFE SITUATIONS Procedures for responding to developing unsafe situations should be established, and may include: A vessel unsure of its route or position A vessel deviating from the route A vessel requiring guidance to an anchoring position A vessel that has defects or deficiencies, such as navigation or manoeuvring equipment failure 
+• Meteorological conditions (e.g., low visibility, strong winds) A vessel at risk of grounding
+<doc_end>

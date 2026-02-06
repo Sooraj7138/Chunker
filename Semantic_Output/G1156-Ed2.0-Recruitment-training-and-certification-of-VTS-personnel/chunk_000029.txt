@@ -1,0 +1,5 @@
+<doc_start>
+11. DEFINITIONS
+Adaptation training is carried out whenever significant changes to VTS operations are expected or when changes have been made, concerning equipment, regulations, operational procedures or any other matter which is relevant to the performance of VTS personnel.
+(Reference – G1156 Section 9.1)
+<doc_end>

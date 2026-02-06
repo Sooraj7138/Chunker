@@ -1,0 +1,41 @@
+<doc_start>
+7.1. AUTHORITY TO DEPLOY
+SOLAS Chapter V Regulation 13 (Establishment and operation of aids to navigation) states, in part, that:
+
+7.1. AUTHORITY TO DEPLOY
+“‘Each Contracting Government undertakes to provide, as it deems practical and necessary, either individually or in co-operation with other Contracting Governments, such aids to navigation as the volume of traffic justifies and the degree of risk requires.”
+
+7.1. AUTHORITY TO DEPLOY
+Under SOLAS, Contracting Governments are obliged to provide aids to navigation, subject to IALA recommendations and guidelines and based on the navigational requirements for waters under their jurisdiction.
+However, SOLAS allows competent authorities significant discretion in determining what would be an appropriate mix of visual, radio and AIS AtoN, including Virtual aids to navigation, to meet the needs of mariners.
+Some national competent authorities have established their own policies and levels of service for the provision of AtoN services.
+7.1. AUTHORITY TO DEPLOY
+Section c of this document is intended to assist competent authorities in assessing the risks associated with Virtual AtoN for this purpose.
+7.2. CAPABILITY
+A Contracting Government has an obligation under SOLAS to provide AtoN.
+This obligation is exercised by the appropriate entity (usually a national administration).
+This entity should also be responsible for determining who may be permitted to deploy Virtual AtoN.
+Typically, a VTS, Harbour Master, Rescue Co-ordination Centre (RCC) or other entity may have the capability to deploy Virtual AtoN.
+Further guidelines may be necessary to help governments manage these other requests.
+7.2. CAPABILITY
+The lines of authority between the Contracting Government and the entity deploying Virtual AtoN should be clearly delineated.
+Roles and responsibilities at all levels should be clearly defined.
+7.3. LIABILITY
+Virtual AtoN are simply another type of Aid to Navigation.
+Having elected to deploy a Virtual AtoN, a competent authority should be able to establish that the Virtual AtoN are being provided as promulgated and are operating correctly, through direct monitoring or arrangement with another party.
+7.3. LIABILITY
+It is likely that a competent authority exposure to liability from deploying a Virtual AtoN will be similar to that for any other Aid to Navigation.
+Therefore, noting the unique nature of Virtual AtoN, robust processes and procedures
+
+7.3. LIABILITY
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+7.3. LIABILITY
+3
+
+7.3. LIABILITY
+P 9
+
+7.3. LIABILITY
+for approval and promulgating information about them, together with integrity monitoring and record keeping, should be established.
+<doc_end>

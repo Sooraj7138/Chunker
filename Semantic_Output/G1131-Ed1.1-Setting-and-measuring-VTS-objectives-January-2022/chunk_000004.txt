@@ -1,0 +1,14 @@
+<doc_start>
+2.1. INTERNATIONAL FRAMEWORK
+“The VTS provider should ….
+set operational objectives for VTS that are consistent with improving the safety and efficiency of ship traffic and protection of the environment.
+The objectives set should be routinely evaluated to demonstrate they are being achieved”.
+2.1. INTERNATIONAL FRAMEWORK
+IALA Guideline G1131 Setting and Measuring VTS Objectives Edition 1.1 urn:mrn:iala:pub:g1131:ed1.1
+
+2.1. INTERNATIONAL FRAMEWORK
+P 4
+
+2.1. INTERNATIONAL FRAMEWORK
+)
+<doc_end>

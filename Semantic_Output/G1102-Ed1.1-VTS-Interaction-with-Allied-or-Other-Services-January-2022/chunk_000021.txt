@@ -1,0 +1,16 @@
+<doc_start>
+C.12. RISK ASSESSMENT AND INCIDENT CLASSIFICATION
+Correct classification of an incident is vital at the earliest possible stage, to ensure that an appropriate level of response and interaction with relevant allied services are initiated.
+The numerous factors affecting the severity, complexity and duration of an incident must be thoroughly assessed.
+Incidents are to be classified only by authorized and qualified persons.
+C.12. RISK ASSESSMENT AND INCIDENT CLASSIFICATION
+Further guidance on risk assessment and incident classification can be found in IALA Guideline G1018 Risk Management [3] and in IALA Guideline G1046 Response plan for the marking of new wrecks [4].
+C.12. RISK ASSESSMENT AND INCIDENT CLASSIFICATION
+IALA Guideline G1102 VTS Interaction with Allied or Other Services Edition 1.1 urn:mrn:iala:pub:g1102:ed1.1
+
+C.12. RISK ASSESSMENT AND INCIDENT CLASSIFICATION
+®
+
+C.12. RISK ASSESSMENT AND INCIDENT CLASSIFICATION
+P 13
+<doc_end>

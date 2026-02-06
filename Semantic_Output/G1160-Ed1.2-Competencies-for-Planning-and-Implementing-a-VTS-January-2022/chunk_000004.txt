@@ -1,0 +1,27 @@
+<doc_start>
+2. INTRODUCTION
+The IMO Convention for the Safety of Life at Sea (SOLAS) 1974 - Chapter V (Safety of Navigation), Regulation 12 provides for Vessel Traffic Services and states that:
+
+
+2. INTRODUCTION
+“Contracting Governments undertake to arrange for the establishment of Vessel Traffic Services where, in their opinion, the volume of traffic or the degree of risk justifies such services”.
+
+2. INTRODUCTION
+Under the general provisions of treaty law and of IMO conventions, States are responsible for promulgating laws and regulations and for taking all other steps which may be necessary to give those instruments full and complete effect so as to ensure safety of life at sea and protection of the marine environment.
+
+2. INTRODUCTION
+IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services [4] recommends Contracting Governments and Members of the Organization which are not Contracting Governments to the Convention to take into account the Guidelines contained in the annex when planning and implementing vessel traffic services in accordance with regulation V/12 of the Convention.
+
+2. INTRODUCTION
+IALA Guideline G1150 provides the framework to assist authorities in implementing practices specified in IALA R0119. This includes arranging for establishing, planning and implementing a VTS.
+
+2. INTRODUCTION
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2
+
+
+2. INTRODUCTION
+
+
+2. INTRODUCTION
+P 4
+<doc_end>

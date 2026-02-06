@@ -1,0 +1,29 @@
+<doc_start>
+8.1. TECHNICAL ASPECTS
+
+8.1. TECHNICAL ASPECTS
+Figure 1 The lost target symbol shown over a physical AIS AtoN
+
+8.1. TECHNICAL ASPECTS
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+8.1. TECHNICAL ASPECTS
+3
+
+8.1. TECHNICAL ASPECTS
+P 10
+
+8.1. TECHNICAL ASPECTS
+The IMO e-Navigation concept includes the need to harmonize the presentation of both shipborne and shore-side safety-related information.
+Consideration should be given to implementing Virtual AtoN in the harmonization process within e-Navigation for future applications.
+8.2.1. GENERAL
+The Virtual AtoN should clearly indicate its name, other relevant attributes and MSI relating to the provision of the
+
+8.2.1. GENERAL
+Virtual AtoN.
+8.2.1. GENERAL
+The display or representation of symbols for Virtual AtoN on shipborne displays and must comply with international
+
+8.2.1. GENERAL
+standards.
+<doc_end>

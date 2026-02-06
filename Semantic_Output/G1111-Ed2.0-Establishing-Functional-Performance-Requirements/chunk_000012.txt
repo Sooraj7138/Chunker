@@ -1,0 +1,79 @@
+<doc_start>
+3.1. AVAILABILITY AND RELIABILITY
+The VTS provider can decide whether individual sub-systems are critical or non-critical.
+Non-critical sub-systems may be excluded from the overall system availability requirement.
+3.1. AVAILABILITY AND RELIABILITY
+Note that multiple means of communications and overlapping sensor coverage will increase overall availability.
+Such a solution may result in reduced requirements for the availability of each item of equipment individually.
+3.1. AVAILABILITY AND RELIABILITY
+Scheduled maintenance activities may be included in availability figures.
+3.1. AVAILABILITY AND RELIABILITY
+Also note that required spare parts should be readily available, to ensure the shortest time to repair.
+Therefore, VTS providers should plan for sufficient spare parts and service arrangements, or business continuation plans in order to meet the availability criteria.
+3.1. AVAILABILITY AND RELIABILITY
+The VTS system availability may be improved by the following redundancy measures:
+
+3.1. AVAILABILITY AND RELIABILITY
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+3.1. AVAILABILITY AND RELIABILITY
+P 9
+
+3.1. AVAILABILITY AND RELIABILITY
+ai ww
+
+3.1. AVAILABILITY AND RELIABILITY
+•
+
+3.1. AVAILABILITY AND RELIABILITY
+by duplicating hardware and/or by using externally hosted VTS system and equipment - in duplicated hardware systems, hand-over procedures from active to stand-by equipment should be considered;
+
+3.1. AVAILABILITY AND RELIABILITY
+by siting sensors such as radio and radar aerials to provide partial overlapping coverage; and
+
+3.1. AVAILABILITY AND RELIABILITY
+by facilitating gradual reduction of capabilities in individual VTS Equipment.
+3.2. RECORDING, ARCHIVING AND REPLAY
+Within legal limitations, provision should be made for secure storage, retrieval and presentation of VTS data so the relevant historical data can be easily recalled and played back.
+3.2. RECORDING, ARCHIVING AND REPLAY
+The data retention period should allow for the full retrieval of data post-incident/accident, in compliance with national requirements and those of the investigation procedures.
+3.2. RECORDING, ARCHIVING AND REPLAY
+Stored and archived data should include, but not be limited to:
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• VTS traffic image
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• Sensor data
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• Voice communication
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• Other relevant information
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+It may also include (within legal limitations):
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+Internal VTS personnel conversations inside the VTS centre
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• VTS personnel activities
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+
+• Technical and maintenance requirements, e.g., logging, failure tracking, long term failure statistics and analysis, system performance monitoring and improvement
+
+3.2. RECORDING, ARCHIVING AND REPLAY
+The data should be recorded automatically and be capable of replay without impact to on-going VTS operations.
+Synchronization of information is recommended for replay.
+3.2. RECORDING, ARCHIVING AND REPLAY
+Data security should always be considered especially when providing online storage.
+Long term archiving may be considered for traffic statistics, risks evaluation, strategic planning etc.
+<doc_end>

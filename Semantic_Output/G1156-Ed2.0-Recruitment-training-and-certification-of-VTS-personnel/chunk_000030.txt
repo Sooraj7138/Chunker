@@ -1,0 +1,6 @@
+<doc_start>
+11. DEFINITIONS
+Certificate is a document that confirms that a student has met the requirements for the award of a specific qualification.
+The certificate is evidence that VTS personnel are considered competent for their VTS duties (certification).
+(Reference – G1156 Section 8.2)
+<doc_end>

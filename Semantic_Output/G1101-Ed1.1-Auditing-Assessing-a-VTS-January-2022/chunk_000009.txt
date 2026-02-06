@@ -1,0 +1,30 @@
+<doc_start>
+A.1. GENERAL INFORMATION
+No.
+Issue/question 
+1. Date: 
+2. Name of Auditing body: 
+3. Name of the competent authority: 
+4. Name of the VTS provider: 
+5. Name of VTS: The full name and address of the VTS, as given in their official documentation, should be inserted.
+
+6. Date of last audit: Provide a copy of the audit report.
+
+7. Are internal audits carried out?
+Provide a copy of the assessment / audit report.
+
+8. VTS Area(s): A chart showing the delineation of the VTS area/sectors.
+
+9. Allocated VHF channels: Provide a list of the allocated VTS VHF channels 
+10. Radio Call sign and name identifiers: Provide the radio call sign and name identifier of the VTS.
+VTS notes Auditor notes/comments
+
+A.1. GENERAL INFORMATION
+IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1
+
+A.1. GENERAL INFORMATION
+®
+
+A.1. GENERAL INFORMATION
+P 9
+<doc_end>

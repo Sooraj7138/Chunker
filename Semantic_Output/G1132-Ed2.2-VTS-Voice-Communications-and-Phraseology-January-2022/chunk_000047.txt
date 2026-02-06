@@ -1,0 +1,9 @@
+<doc_start>
+6.2.8.
+SPEED
+
+6.2.8.
+Speed when unqualified refers to speed through the water.
+If speed over the ground is intended, then this should be qualified with Speed over the Ground (SOG).
+See Table 12
+<doc_end>

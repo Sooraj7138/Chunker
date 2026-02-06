@@ -1,0 +1,33 @@
+<doc_start>
+are the key steps when conducting a training needs analysis for an individual is: Determine objectives and skill set 
+• Identify the specific competencies, knowledge, and skills needed for a VTS personnel to perform their role effectively.
+
+• Set clear and measurable training objectives based on the identified gaps.
+These objectives define what the individual should achieve after completing the training.
+Evaluate skills of an individual Review the individual's current skills, knowledge, and abilities by: 
+• Reviewing past performance assessments to identify documented strengths and weaknesses.
+
+• Gathering input from others to get a broader perspective on the individual’s capabilities.
+
+• Asking the individual to reflect and self-assess their strengths and areas for improvement.
+
+• Creating a list of the individual’s current skills, qualifications, and experiences relevant to their role.
+3 Measure the skill gap 
+• Compare the individual’s current competencies against the skills required for their role and identify specific gaps that may need addressing to enhance their effectiveness.
+
+• Prioritise by determining which gaps are most critical to focus on based on organizational priorities and the training needs of the individual.
+4 Develop Training solutions 
+• Review and assess existing training programs to identify areas for improvement, while also considering programs that can be used as is or tailored to meet current needs.
+Identify other appropriate training methods and resources to address the identified gaps.
+
+• Consider budget, time, and available resources when planning the training solution.
+It may also be necessary to assign someone the responsibility for facilitating and managing the training.
+
+• Work with the individual to establish specific, measurable, achievable, relevant, and time-bound (SMART) goals for their development.
+Document a plan that outlines specific areas where the individual needs improvement, the recommended training solutions, timelines, and how progress will be measured.
+Monitor Progress and Evaluate Training 
+• After the training, evaluate whether the individual’s performance has improved, their confidence has increased in the targeted areas, and the training objectives were met.
+
+• Document findings for future reference and accountability.
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0 P 24
+<doc_end>

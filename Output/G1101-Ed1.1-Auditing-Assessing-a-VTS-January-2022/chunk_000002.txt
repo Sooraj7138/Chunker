@@ -1,0 +1,55 @@
+<doc_start>
+verifying objective evidence of processes, to assess how successfully processes have been implemented, for judging the effectiveness of achieving any defined target levels, to provide evidence concerning reduction and elimination of problem areas.
+The criteria for auditing and assessment of a VTS provider should be made available by the competent authority.
+The following procedures provide competent authorities with guidelines for auditing and assessing a VTS: 
+• Step 1 – Request The entity1 submits a request to the competent authority.
+Prior to submission of an audit and/or assessment request, it is recommended that the entity conducts its own internal check using the audit checklist at annex A.
+Step 2 – Pre-audit documentation The entity submits completed pre-audit documentation.
+The entity should ensure that the checklist and the supporting documentation are submitted in sufficient time to allow the competent authority to properly assess the submission.
+Step 3 – Evaluation of pre-audit documentation The competent authority evaluates the pre-audit documentation and the supporting documentation to ensure conformance with IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services, IALA recommendations and guidelines, and any additional requirements.
+Does pre-audit documentation comply with the requirements?
+If “Yes”, the audit can take place at an agreed time.
+If “No”, the competent authority notifies the entity and provides reasons to serve as a basis for corrective actions.
+1 Entity is the organization seeking to be audited and/or assessed IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 ® P 6 
+• Step 4 – Audit The competent authority or a body appointed conducts an audit.
+
+• Step 5 – Audit findings The competent authority investigates if the entity complies with the set requirements.
+The competent authority notifies the entity about the results of the findings in writing and if necessary, provides reasons to serve as a basis for corrective actions.
+A time limit should be set for when the entity should provide an answer with the corrective actions taken.
+
+• Step 6 – Respond to findings The entity replies and gives information about the corrective actions taken as a result of the findings.
+
+• Step 7 – Additional audit After the entity responds to audit findings, the competent authority or appointed body conducts an additional audit in order to ensure that the corrective actions resulting from the audit findings have been taken.
+
+• Step 8 – Approval The competent authority issues a document or confirmation that the entity is approved as a VTS provider.
+
+7. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS AIS Universal Shipborne Automatic Identification System CCTV Closed-circuit television IALAACS IALA approved classification society IMO International Maritime Organization QMS Quality management system SMS Safety management system SOLAS International Convention on the Safety of Life at Sea 74 (as amended) VTS Vessel traffic service or vessel traffic services (dependent on context) IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 ® P 7 
+9. REFERENCES IMO.
+International Convention for the Safety of Life At Sea IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IALA.
+Recommendation R0132 Quality Management for Aids to Navigation Authorities (O-132) IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 ® P 8 ANNEX A AUDIT CHECKLIST FOR THE ASSESSMENT OF A VTS A.1. GENERAL INFORMATION No.
+Issue/question 
+1. Date: 
+2. Name of Auditing body: 
+3. Name of the competent authority: 
+4. Name of the VTS provider: 
+5. Name of VTS: The full name and address of the VTS, as given in their official documentation, should be inserted.
+
+6. Date of last audit: Provide a copy of the audit report.
+
+7. Are internal audits carried out?
+Provide a copy of the assessment / audit report.
+
+8. VTS Area(s): A chart showing the delineation of the VTS area/sectors.
+
+9. Allocated VHF channels: Provide a list of the allocated VTS VHF channels 
+10. Radio Call sign and name identifiers: Provide the radio call sign and name identifier of the VTS.
+VTS notes Auditor notes/comments IALA Guideline G1101 Auditing and Assessing a VTS Edition 1.1 urn:mrn:iala:pub:g1017:ed1.1 ® P 9 A.2. DOCTRINE AND REQUIREMENT A.2.1. LIST OF DOCUMENTS The reference “ IALA Documentation relating to VTS” provides a list of the standards, recommendations, guidelines and model courses specifically related to the development, implementation and operation of a VTS.
+It is available at https://www.iala-aism.org/product/iala-documentation-relating-to-vts/ These documents, as updated, need to be considered for integration into internal procedures.
+National/local references and other relevant international arrangements may be Included as necessary.
+A.2.2. COMPLIANCE WITH REQUIREMENTS No.
+Issue/question VTS notes Auditor notes/comments Which government body is
+<doc_end>

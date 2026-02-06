@@ -1,0 +1,62 @@
+<doc_start>
+protection of the marine environment.
+This includes: 
+• SOLAS Chapter V: IMO Regulatory Regime 
+• Regulation 10 – Ships' routeing 
+• Regulation 11 – Ship reporting systems 
+• Regulation 12 – Vessel traffic services 
+• MARPOL [7] 
+• COLREGs [8] IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services, with a focus on: IMO Resolution A.1158(32) Guidelines for Vessel Traffic Services 
+• The responsibilities to ensure a legal basis for the operation of a VTS is provided for and that the VTS is operated in accordance with national and international law.
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2 3 P 6 Competencies within the international framework for establishing a VTS Topic Element 
+• Establishing appropriate standards for shore and offshore based equipment.
+
+• Ensuring the VTS Provider is provided with sufficient staff, appropriately qualified, suitably trained and capable of performing the tasks required.
+
+• Establishing appropriate qualifications and training requirements for VTS personnel.
+
+• Instructing the VTS Provider to operate the VTS in accordance with relevant IMO Resolutions.
+The principal components of the IALA document structure relating to VTS including: 
+• Standards relating to VTS, that is: 
+• S1040 Vessel Traffic Services [9] ; 
+• S1010 Marine Aids to Navigation Planning and Service Requirements [10] ; 
+• S1050 Training and Certification [11] ; and IALA Standards 
+• S1070 Information Services [12] .
+
+• Recommendations – In particular, the practices that shall be carried out in order to comply with a recommendation.
+
+• Guidelines – In particular, how to implement practices normally specified in a recommendation.
+
+• Model Courses - training documents which define the level of training and knowledge needed to reach levels of competence defined by IALA.
+National law, including the regulatory, compliance and enforcement framework within the context of VTS to: 
+• Ensure that a legal basis for the operation of a VTS is provided for and that the VTS is operated in accordance with national and international law.
+National Law 
+• Ensure that VTS providers are appointed and legally empowered.
+
+• Instructing the VTS Provider to operate the VTS in accordance with relevant IMO Resolutions.
+
+• Establishing a policy with respect to violations of VTS regulatory requirements and ensuring that this policy is consistent with national law.
+IALA Guideline G1160 Competencies for Planning and Implementing a VTS Edition 1.2 urn:mrn:iala:pub:g1160:ed1.2 P 7 Competencies within the international framework for establishing a VTS Topic Element The administration’s policies relating to VTS.
+Key considerations include establishing policy frameworks for: 
+• Training and Certification; 
+• Compliance and Enforcement; 
+• Authorising VTS providers; Governance 
+• Auditing a VTS.
+A proper quality assurance system should be implemented to ensure policies issued by the competent authority for VTS are adhered to by the VTS provider and the approved VTS training organization; and 
+• An ongoing evaluation of the VTS, in terms of meeting its objectives and addressing the reasons for which it was implemented.
+
+5. PLANNING AND IMPLEMENTING The implementation of a VTS to improve the safety and efficiency of navigation, safety of life at sea and the protection of the marine environment, and its ongoing operation, is a significant investment.
+Careful planning should be undertaken to ensure a VTS is implemented effectively, achieves its objectives and is sufficiently resourced and funded on an ongoing basis.
+IALA Guideline G1150 Establishing, Planning and Implementing VTS recommends that, when planning and implementing VTS, a project management approach be adopted to ensure the major deliverables, assumptions and constraints are clearly documented.
+In particular, the Guideline states that: “Relevant international guidance prepared and published by appropriate international organizations regarding project management should be considered, or where there are national requirements for project management, these should be used.” As an example of international guidance, the Guideline refers to ISO 21500 Guidance on Project Management [13] - an international standard issued by the International Organization for Standardization (ISO).
+IALA Guideline G1150 highlights the five project management phases and the key areas for consideration as they relate to VTS: 
+1. Initiating - This marks the beginning of the project.
+The goal of this phase is to define the proposed implementation of a VTS at a broad level and its feasibility to address the issues and problems associated with the volume of traffic and degree of risk in the waterway.
+
+2. Planning - During this phase, the scope and goals of the project are defined and a project management plan is developed.
+It involves identifying the cost, quality, available resources and a realistic timetable.
+Implementing - This is the phase where deliverables are developed and completed.
+
+4. Controlling - This phase is invariable carried out simultaneously with Phase 3 (Implementing), thereby ensuring that project objectives and deliverables are met.
+This phase is about measuring project progression and performance and ensuring that everything happening aligns with the project
+<doc_end>

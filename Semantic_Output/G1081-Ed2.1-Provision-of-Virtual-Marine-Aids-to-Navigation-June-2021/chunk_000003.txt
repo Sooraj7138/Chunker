@@ -1,0 +1,67 @@
+<doc_start>
+List of Figures
+The lost target symbol shown over a physical AIS AtoN ..............................................................
+10 Variation of imagery due to software and type of ECDIS equipment or mobile application.......
+11 The symbology of Virtual AIS AtoN ..............................................................................................
+12 New symbology for AIS AtoN .......................................................................................................
+12 Example of symbology information text......................................................................................
+13 Examples of Virtual AIS as displayed on ECDIS ............................................................................
+13 Missing virtual AIS AtoN symbol versus display on ECDIS ...........................................................
+14 Example (left to right) of ASM route, Area Notice and actual ASM ice route .............................
+14 Broadcasted Virtual AIS AtoN port hand mark symbol displayed over the IHO ENC charted symbol .........................................................................................................................................
+17 Virtual AIS AtoN shown on an ECS (top) and radar (bottom) ......................................................
+18 Example of offset appearance of Virtual AIS AtoN symbol .........................................................
+19 Example of effect of delayed GNSS antenna position on display of Virtual AIS AtoN symbol .....
+19
+
+List of Figures
+Figure 1
+
+List of Figures
+Figure 2
+
+List of Figures
+Figure 3
+
+List of Figures
+Figure 4
+
+List of Figures
+Figure 5
+
+List of Figures
+Figure 6
+
+List of Figures
+Figure 7
+
+List of Figures
+Figure 8
+
+List of Figures
+Figure 9
+
+List of Figures
+Figure 10
+
+List of Figures
+Figure 11
+
+List of Figures
+Figure 12
+
+List of Figures
+Figure 13
+
+List of Figures
+Four virtual AIS AtoN marking the limits of a military area ........................................................
+21
+
+List of Figures
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+List of Figures
+
+List of Figures
+P 4
+<doc_end>

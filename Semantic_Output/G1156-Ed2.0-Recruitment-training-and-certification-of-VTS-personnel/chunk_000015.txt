@@ -1,0 +1,35 @@
+<doc_start>
+INSTRUCTORS AND ASSESSORS AT ACCREDITED TRAINING ORGANIZATIONS
+The relevant authorities should determine the qualifications and experience required for instructors delivering model courses at an accredited training organization.
+Authorities should ensure that instructors and assessors hold appropriate and recognized teaching qualifications and that they are appropriately qualified and experienced for the training being provided and assessing competence.
+The requirements for such qualifications and experience should be incorporated within the accredited training organizations quality and/or training management systems.
+INSTRUCTORS AND ASSESSORS WITHIN VTS PROVIDERS
+The relevant authorities should ensure that instructors and assessors delivering VTS centre specific training (e.g., OJT, adaptation training and updating training) are suitably experienced and appropriately qualified in accordance with the IALA C0103-4 (V-103/4) VTS On-the-Job Training Instructor Model Course and/or an equivalent national qualification.
+INSTRUCTORS AND ASSESSORS WITHIN VTS PROVIDERS
+IALA C0103-4 - VTS On-the-Job Training Instructor model course provides a structure to ensure instructors have the knowledge, skill and attitude to deliver VTS centre specific OJT, adaptation training and updating training.
+7.3. INSTRUCTORS
+Any person conducting VTS training should:
+
+7.3. INSTRUCTORS
+
+• have a detailed understanding of the training programme and objectives of the training being conducted;
+
+7.3. INSTRUCTORS
+
+• be qualified in the task for which training is being conducted; and
+
+7.3. INSTRUCTORS
+
+• have practical instructional experience.
+7.3. INSTRUCTORS
+If conducting training with the use of a simulator:
+
+7.3. INSTRUCTORS
+•
+
+7.3. INSTRUCTORS
+have received guidance in instructional techniques involving the use of simulators; and
+
+7.3. INSTRUCTORS
+have gained practical and operational experience on the simulator being used.
+<doc_end>

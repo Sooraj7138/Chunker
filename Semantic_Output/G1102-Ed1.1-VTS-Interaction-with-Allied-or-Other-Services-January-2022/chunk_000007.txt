@@ -1,0 +1,5 @@
+<doc_start>
+2. GUIDELINE DEFINITIONS
+“Single Window” - within the context of UN/CEFACT recommendation 331, a Single Window is defined as a facility that allows parties involved in trade and transport to lodge standardized information and documents with a single- entry point to fulfil all import, export, and transit-related regulatory requirements.
+If information is electronic, then individual data elements should only be submitted once.
+<doc_end>

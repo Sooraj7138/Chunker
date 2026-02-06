@@ -1,0 +1,28 @@
+<doc_start>
+Information when the pilot will board the ship at a specified time [and (location)] location] PILOT CANNOT BOARD [reason] Advising that the pilot cannot board the ship [reason may also be given] PILOT DELAYED Advising that the pilot will be delayed PILOTAGE SUSPENDED Pilotage service is unavailable PILOTAGE RESUMED Pilotage service returned to normal WAIT FOR PILOT AT (location) Instruction or Request for the ship to wait for a pilot in a specified location IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 29 6.5. RESPONDING TO DEVELOPING UNSAFE SITUATION Careful consideration should be given regarding the most appropriate message marker to be used.
+See Table 
+26. Table 26 Responding to developing unsafe situation messages Message Element Message Intent COURSE TO MAKE GOOD (details) Advising the ship about a recommended course DANGER OF CLOSE QUARTER SITUATION Advising the ship is passing close to another ship WITH (details) YOU ARE APPROACHING (details) Advising the ship by continuing in the same direction it will approach some obstacle / danger (e.g., submerged wreck) ~ shallow water ...
+bearing … distance ….
+NM ~ submerged wreck ...
+(cardinal points) of you YOU ARE LEAVING (details) Inform the ship that it is about to leave an area (e.g., fairway/recommended route/track) YOU HAVE DEVIATED FROM (details) Advising the ship has deviated from intended route (e.g., passage plan) YOU HAVE LEFT (details) Inform the ship that it has left an area (e.g., fairway / recommended route/track) YOUR POSITION (details) Advising the ship its current position relative to a location/landmark - .../ bearing ...
+degrees Distance … nautical miles/cables...
+kilometres /metres from ....
+~ in the centre of the fairway ~ on / not on the radar reference line (of the fairway) ~ on the ...
+(cardinal points) side of the fairway 
+7. DEFINITIONS The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+8. ABBREVIATIONS Vessel Traffic Service or Vessel Traffic Services (dependent on context) 
+9. REFERENCES IMO.
+Resolution A.1158(32) Guidelines for Vessel Traffic Services IMO.
+Resolution A.918(22) IMO Standard Marine Communication Phrases IALA.
+Recommendation R1012 VTS Communications IALA.
+Standard S1040 Vessel Traffic Services IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 P 30 IALA.
+Guideline G1141 Operational Procedures for Vessel Traffic Services [6] ITU.
+(2020) Radio Regulations, Volumes 1 and 4, Recommendation ITU-R M.1171-0 and subsequent chapters IMO.
+Resolution A.954(23) Proper use of VHF channels at sea [8] ITU.
+(2020) Manual for use by the Maritime Mobile and Maritime Mobile-Satellite Services (Maritime Manual) IMO.
+Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs) [10] IMO.
+GMDSS Manual [11] IMO.
+International Code of Signals IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2 3 P 31
+<doc_end>

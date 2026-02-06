@@ -1,0 +1,4 @@
+<doc_start>
+5.1.2.1. Information
+This indicates that the following message is restricted to observed facts, situations etc.
+<doc_end>

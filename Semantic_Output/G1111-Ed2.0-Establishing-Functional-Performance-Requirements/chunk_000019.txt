@@ -1,0 +1,4 @@
+<doc_start>
+4. DEFINITIONS
+The following definitions apply within this document and in all the G1111 series of guideline documents:
+<doc_end>

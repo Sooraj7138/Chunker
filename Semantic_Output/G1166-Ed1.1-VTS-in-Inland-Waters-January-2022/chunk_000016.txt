@@ -1,0 +1,11 @@
+<doc_start>
+4.11.1. IALA GUIDANCE
+IALA specifies the practices associated with the generic accreditation of training organizations in Recommendation R0149 Accreditation of Training Organizations.
+4.11.1. IALA GUIDANCE
+For VTS training, detailed guidance is provided in Guideline G1014 Accreditation and Approval Process for VTS Training.
+4.11.2. INLAND WATERS CONSIDERATIONS
+The previous section on “Training and Assessment” identifies the benefits of drawing on the international standards set by IALA for training and certification as the basis for training and certification of inland VTS personnel in inland waters to enable them to transition more easily to other VTS centres as part of their career progression.
+It also recognizes that the closer an inland VTS is aligned to the international standard, the greater the potential for all training to be conducted to the same model course standard, achieving equivalent levels of safety, economies of scale and international/worldwide recognition of certification.
+4.11.2. INLAND WATERS CONSIDERATIONS
+It follows, therefore, that similar processes of accreditation, competency, certification and revalidation should be adopted if these benefits are to be realized.
+<doc_end>

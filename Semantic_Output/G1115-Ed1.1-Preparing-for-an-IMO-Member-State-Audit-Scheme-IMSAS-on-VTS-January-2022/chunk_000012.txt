@@ -1,0 +1,44 @@
+<doc_start>
+6. DEFINITIONS
+The definitions of terms used in this Guideline can be found in the International Dictionary of Marine Aids to Navigation (IALA Dictionary) at http://www.iala-aism.org/wiki/dictionary and were checked as correct at the time of going to print.
+Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+
+7. ABBREVIATIONS
+COLREGs Convention on the International Regulations for Preventing Collisions at Sea
+
+
+7. ABBREVIATIONS
+III Code IMO Instruments Implementation Code
+
+
+7. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+7. ABBREVIATIONS
+IMSAS IMO Member State Audit Scheme
+
+
+7. ABBREVIATIONS
+Load Line International Convention on Load Lines (LL)
+
+
+7. ABBREVIATIONS
+MARPOL International Convention for the prevention of pollution from ships
+
+
+7. ABBREVIATIONS
+SOLAS International Convention for the Safety of Life at Sea
+
+
+7. ABBREVIATIONS
+STCW International Convention on Standards of Training, Certification and Watchkeeping for Seafarers
+
+
+7. ABBREVIATIONS
+TONNAGE International Convention on tonnage measurement of ships
+
+
+7. ABBREVIATIONS
+VTS Vessel traffic service or vessel traffic services (dependent on context)
+<doc_end>

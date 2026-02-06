@@ -1,0 +1,56 @@
+<doc_start>
+5. ABBREVIATIONS
+CPA Closest Point of Approach
+
+
+5. ABBREVIATIONS
+CPHC Central Pacific Hurricane Centre
+
+
+5. ABBREVIATIONS
+CS Coastal Surveillance
+
+
+5. ABBREVIATIONS
+CW Continuous Wave
+
+
+5. ABBREVIATIONS
+dB decibel
+
+
+5. ABBREVIATIONS
+dB(A) A-weighted decibel
+
+
+5. ABBREVIATIONS
+dBi decibel isotropic
+
+
+5. ABBREVIATIONS
+DF Direction Finder
+
+
+5. ABBREVIATIONS
+DSC Digital Selective Calling
+
+
+5. ABBREVIATIONS
+DSF Decision Support Function
+
+
+5. ABBREVIATIONS
+DST Decision Support Tool
+
+
+5. ABBREVIATIONS
+D-GNSS Differential GNSS
+
+
+5. ABBREVIATIONS
+EC European Commission
+
+
+5. ABBREVIATIONS
+ECC Electronic Communications Committee
+<doc_end>

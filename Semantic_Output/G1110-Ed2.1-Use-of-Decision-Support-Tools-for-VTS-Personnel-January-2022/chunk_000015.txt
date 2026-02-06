@@ -1,0 +1,40 @@
+<doc_start>
+5. ABBREVIATIONS
+AIS Automatic Identification System
+
+
+5. ABBREVIATIONS
+CPA Closest Point of Approach
+
+
+5. ABBREVIATIONS
+DST Decision support tools
+
+
+5. ABBREVIATIONS
+ETA Estimated Time of Arrival
+
+
+5. ABBREVIATIONS
+IMO International Maritime Organization
+
+
+5. ABBREVIATIONS
+SAR Search and Rescue
+
+
+5. ABBREVIATIONS
+TCPA Time to Closest Point of Approach
+
+
+5. ABBREVIATIONS
+TSS Traffic Separation Scheme
+
+
+5. ABBREVIATIONS
+VTS Vessel traffic service or vessel traffic services (dependent on context)
+
+
+5. ABBREVIATIONS
+VTSO VTS Operator
+<doc_end>

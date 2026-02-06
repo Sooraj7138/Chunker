@@ -1,0 +1,11 @@
+<doc_start>
+4. DEFINITIONS
+the VTS system is the VTS software, hardware, communications and sensors.
+This VTS system – excludes personnel and procedures.
+
+4. DEFINITIONS
+VTS equipment refers to the individual items of software, hardware, VTS equipment – communications and sensors, which make up the VTS system.
+
+4. DEFINITIONS
+VTS user is defined as someone with either an operational, technical, or VTS user - administrative need to use or access the VTS system.
+<doc_end>

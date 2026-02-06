@@ -1,0 +1,160 @@
+<doc_start>
+5. ABBREVIATIONS
+LRIT Long Range Identification and Tracking
+
+
+5. ABBREVIATIONS
+LVD Low Voltage Directive (EU)
+
+
+5. ABBREVIATIONS
+m metre
+
+
+5. ABBREVIATIONS
+m/s metres per second
+
+
+5. ABBREVIATIONS
+m2 square metre
+
+
+5. ABBREVIATIONS
+m3 cubic metre
+
+
+5. ABBREVIATIONS
+MF Medium Frequency (300 kHz and 3000 kHz radio frequency range (band))
+
+
+5. ABBREVIATIONS
+MFR Météo France
+
+
+5. ABBREVIATIONS
+MHz MegaHertz
+
+
+5. ABBREVIATIONS
+MIL-STD Military Standard (US)
+
+
+5. ABBREVIATIONS
+MKD Minimum Keyboard and Display
+
+
+5. ABBREVIATIONS
+mm/hr millimetre per hour
+
+
+5. ABBREVIATIONS
+MMSI Maritime Mobile Service Identity
+
+
+5. ABBREVIATIONS
+MPA Marine Protected Area(s)
+
+
+5. ABBREVIATIONS
+MPEG Moving Pictures Expert Group
+
+
+5. ABBREVIATIONS
+MSC Maritime Safety Committee (IMO)
+
+
+5. ABBREVIATIONS
+MSI Maritime Safety Information
+
+
+5. ABBREVIATIONS
+MTBF Mean Time Between Failure
+
+
+5. ABBREVIATIONS
+MTI Moving Target Indication
+
+
+5. ABBREVIATIONS
+The radio refractivity index
+
+
+5. ABBREVIATIONS
+N
+
+
+5. ABBREVIATIONS
+N/A Not applicable
+
+
+5. ABBREVIATIONS
+NAVTEX Navigational Telex
+
+
+5. ABBREVIATIONS
+NHC National Hurricane Centre
+
+
+5. ABBREVIATIONS
+NIMA National Imagery and Mapping Agency
+
+
+5. ABBREVIATIONS
+NM nautical mile
+
+
+5. ABBREVIATIONS
+NTIA National Telecommunications and Information Administration
+
+
+5. ABBREVIATIONS
+IALA Guideline G1111 Establishing Functional and Performance Requirements for VTS Systems and Equipment Edition 2.0 urn:mrn:iala:pub:g1111:ed2.0
+
+
+5. ABBREVIATIONS
+P 15
+
+
+5. ABBREVIATIONS
+®
+
+
+5. ABBREVIATIONS
+OFTA Office of the Telecommunications Authority
+
+
+5. ABBREVIATIONS
+OJ Official Journal of the European Union
+
+
+5. ABBREVIATIONS
+PC Personal Computer
+
+
+5. ABBREVIATIONS
+PCA Physical Configuration Audit
+
+
+5. ABBREVIATIONS
+PD Probability of Detection
+
+
+5. ABBREVIATIONS
+PFA Probability of False Alarm
+
+
+5. ABBREVIATIONS
+PRF Pulse Repetition Frequency
+
+
+5. ABBREVIATIONS
+PSLR Peak Side Lobe Ratio
+
+
+5. ABBREVIATIONS
+PSS Practical Salinity Scale
+
+
+5. ABBREVIATIONS
+PSSA Particularly Sensitive Sea Area(s)
+<doc_end>

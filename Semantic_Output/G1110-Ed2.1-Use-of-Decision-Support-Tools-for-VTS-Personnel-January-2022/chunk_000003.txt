@@ -1,0 +1,15 @@
+<doc_start>
+1. INTRODUCTION
+According to IMO Resolution A.1158(32) [1], a vessel traffic service (VTS) means a service implemented by a Government with the capability to interact with vessel traffic and respond to developing situations within a VTS area to improve the safety and efficiency of navigation, contribute to the safety of life at sea and support the protection of the environment.
+
+1. INTRODUCTION
+Decision support tools (DST) are used to help enhance situational awareness and the decision-making process of VTS personnel by providing analysis and insight to developing or emergency situations, in real time, near real time and for long-term planning.
+
+1. INTRODUCTION
+Due to the perpetually evolving nature of VTS related concepts and technologies, consideration should be given to the continual development and refinement of DSTs as appropriate to meet future needs.
+1.1. PURPOSE
+The purpose of this Guideline is to assist authorities on the use of decision support tools to manage identified risks, enhance situational awareness, support VTS personnel providing timely and relevant information, monitoring and managing ship traffic and responding to developing unsafe situations.
+1.2. RELATIONSHIP TO OTHER DOCUMENTS
+This Guideline is associated with IALA Recommendation R0127 VTS Operations [5], a normative provision of IALA Standard S1040 Vessel Traffic Services [3].
+To demonstrate compliance with the Recommendation, the provisions of this Guideline need to be implemented.
+<doc_end>

@@ -1,0 +1,31 @@
+<doc_start>
+8.2.2. LIMITATIONS
+
+8.2.2. LIMITATIONS
+Source: IHO
+
+8.2.2. LIMITATIONS
+Figure 6 Examples of Virtual AIS as displayed on ECDIS
+
+8.2.2. LIMITATIONS
+Figure 6 shows examples of the Virtual AIS AtoN portrayal that can be displayed on ECDIS.
+8.2.2. LIMITATIONS
+The basic colour for the Virtual AtoN symbols is the normal colour of an AIS AtoN symbol.
+IMO does not specify exact colours but the interpretation is that it should be the same colour, for example, all being green, and avoid red and yellow which are reserved for special purposes.
+The absence of a charted physical AtoN is communicated as a combined state of “Virtual” and “off position”.
+This shall be indicated with yellow text “Missing” above the dotted outline diamond using the colour yellow.
+The symbol shall have no crosshair at the position centre.
+8.2.2. LIMITATIONS
+IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1
+
+8.2.2. LIMITATIONS
+
+8.2.2. LIMITATIONS
+P 13
+
+8.2.2. LIMITATIONS
+Intended location of missing AtoN
+
+8.2.2. LIMITATIONS
+Source: Corporation des pilotes du Bas St-Laurent, Canada
+<doc_end>

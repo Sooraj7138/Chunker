@@ -1,0 +1,70 @@
+<doc_start>
+13. REFERENCES
+[6] IALA.
+Model Course C0103-1 - VTS Operator training
+
+
+13. REFERENCES
+[7]
+
+
+13. REFERENCES
+IALA.
+Model Course C0103-2 - VTS Supervisor training
+
+
+13. REFERENCES
+[8] IALA.
+Model Course C0103-3- VTS On‐the‐Job training
+
+
+13. REFERENCES
+[9] IALA.
+Model Course C0103-4 - VTS On‐the‐Job Training Instructor
+
+
+13. REFERENCES
+[10] IALA.
+Model Course C0103-5 - Revalidation training for VTS personnel
+
+
+13. REFERENCES
+[11]
+
+
+13. REFERENCES
+IALA.
+Guideline G1014 Accreditation of VTS Training Organizations and Approval to Deliver IALA VTS Model Courses
+
+
+13. REFERENCES
+[12] IALA.
+Guideline G1027 Simulation in VTS Training
+
+
+13. REFERENCES
+[13] IALA.
+Guideline on VTS English Communication Competency Testing
+
+
+13. REFERENCES
+IALA.
+Guideline G1167 VTS Management
+
+
+13. REFERENCES
+IALA.
+G1132 VTS VHF Voice Communication and Phraseology
+
+
+13. REFERENCES
+IALA Guideline G1156 Recruitment, Training and Certification of VTS Personnel Edition 2.0 urn:mrn:iala:pub:g1156:ed2.0
+
+
+13. REFERENCES
+@
+
+
+13. REFERENCES
+P 23
+<doc_end>

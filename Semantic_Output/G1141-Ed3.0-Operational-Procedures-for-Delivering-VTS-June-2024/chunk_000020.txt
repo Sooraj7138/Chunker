@@ -1,0 +1,110 @@
+<doc_start>
+4.1. ROUTINE PROCEDURES
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+4.1. ROUTINE PROCEDURES
+P 6
+
+4.1. ROUTINE PROCEDURES
+
+• Vessel data and voyage information (e.g., vessel particulars, cargo data, including vessel movement information)
+
+4.1. ROUTINE PROCEDURES
+
+• Meteorological and hydrographic data
+
+4.1. ROUTINE PROCEDURES
+
+• Data from other sources
+
+4.1. ROUTINE PROCEDURES
+The internal procedures should specify the time period for which VTS information is stored.
+This time period should be such that it allows for the full retrieval of data post-incident/accident, in compliance with national requirements and those of the incident/accident investigation procedures of the VTS provider and other interested parties.
+4.1. ROUTINE PROCEDURES
+EQUIPMENT OPERATION, MAINTENANCE, CALIBRATION AND UPDATING
+
+4.1. ROUTINE PROCEDURES
+All manuals and handbooks for equipment operation, maintenance (preventative and remedial), calibration and updating should be properly maintained and readily available to the appropriate personnel.
+4.1. ROUTINE PROCEDURES
+Key considerations include:
+
+4.1. ROUTINE PROCEDURES
+
+• Descriptions of equipment and systems used in the VTS
+
+4.1. ROUTINE PROCEDURES
+
+• Operation of equipment to cover all normal and emergency procedures
+
+4.1. ROUTINE PROCEDURES
+
+• Determining performance availability criteria for equipment, including the availability of VTS during maintenance or other outages
+
+4.1. ROUTINE PROCEDURES
+Categorization and prioritization of maintenance and defects
+
+4.1. ROUTINE PROCEDURES
+Calibration of sensors within a specified tolerance level
+
+4.1. ROUTINE PROCEDURES
+
+• Updates to equipment (hardware and software) and their associated manuals/handbooks
+
+4.1. ROUTINE PROCEDURES
+VTS availability due to maintenance or other outages.
+4.1. ROUTINE PROCEDURES
+4.1.4. PUBLIC RELATIONS
+
+4.1. ROUTINE PROCEDURES
+There should be documented processes and procedures to deal with media and public relations issues.
+Issues for consideration may include:
+
+4.1. ROUTINE PROCEDURES
+
+• Nominated lead department for public relations
+
+4.1. ROUTINE PROCEDURES
+Publication of ongoing activities within the VTS area
+
+4.1. ROUTINE PROCEDURES
+Protection of sensitive information
+
+4.1. ROUTINE PROCEDURES
+4.1.5. SECURITY
+
+4.1. ROUTINE PROCEDURES
+Processes and procedures should be clearly documented and consistent with local and national requirements.
+As a minimum, they should ensure the security for:
+
+4.1. ROUTINE PROCEDURES
+
+• Data transmission and storage (e.g., Cyber Security);
+
+4.1. ROUTINE PROCEDURES
+VTS personnel; and
+
+4.1. ROUTINE PROCEDURES
+VTS buildings and structures.
+4.1. ROUTINE PROCEDURES
+Procedures should reflect any involvement of the VTS with the Port Facility Security Plan (PFSP) as per the International Ship and Port facility Security Code (ISPS) [7].
+4.1.6. TRAINING
+Processes and procedures should be available to ensure that:
+
+4.1.6. TRAINING
+VTS personnel are appropriately trained and qualified for their VTS duties;
+
+4.1.6. TRAINING
+IALA Guideline G1141 Operational Procedures for Delivering VTS Edition 3.0 urn:mrn:iala:pub:g1141:ed3.0
+
+4.1.6. TRAINING
+P 7
+
+4.1.6. TRAINING
+
+• Qualifications and operational performance are maintained and confirmed through performance assessments undertaken at regular intervals; and
+
+4.1.6. TRAINING
+Training records of VTS personnel are maintained.
+4.1.6. TRAINING
+Please note, that Guideline G1156 Recruitment, training and assessment of VTS personnel [8] provides further guidance on the training and assessment of VTS personnel.
+<doc_end>

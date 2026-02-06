@@ -1,0 +1,31 @@
+<doc_start>
+Data
+Oxford English Dict.
+– a representative symbol of something; a graphic representation on a [computer] screen.
+Merriam-Webster Dict.
+– a graphic symbol whose form suggests it meaning; a graphic symbol on a computer screen.
+Data
+ISO 80416 – a graphic symbol with a particular meaning used to transmit information independently of language presented on a screen or display.
+Data
+Example/context: The own-ship icon (i.e., symbol) on ECDIS represents the location of the vessel in real-time.
+Data
+Information
+
+Data
+Oxford English Dict.
+– Computing data [that is] processed, stored, or transmitted by a computer.
+Data
+Merriam-Webster Dict.
+– the communication or reception of knowledge or intelligence.
+Data
+Example/context: Data becomes information when it is processed and presented in a manner which can be better understood by humans.
+Data
+Intuitive
+
+Data
+Oxford English Dict.
+– instinctive; based on what one feels is true, even without conscious reasoning.
+Data
+Merriam-Webster Dict.
+– known or perceived by intuition; readily learned or understood.
+<doc_end>

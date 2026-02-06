@@ -1,0 +1,56 @@
+<doc_start>
+5.1.3. PHONETIC ALPHABET
+The phonetic alphabet is used to distinguish between letters, which sound similar when transmitted over the radio.
+They are commonly used when transmitting call signs and in cases where a single letter is used to designate something.
+5.1.3. PHONETIC ALPHABET
+Pronunciation of the phonetic alphabet is as shown in Table 2:
+
+5.1.3. PHONETIC ALPHABET
+Table 2 Phonetic alphabet and pronunciation
+
+5.1.3. PHONETIC ALPHABET
+Letter Spelling Pronunciation A Alpha al fah B Bravo brah voh C Charlie char lee D Delta dell tah E Echo eck ho F Foxtrot foks trot G Golf golf H Hotel hoh tel I India in dee a J Juliet jew lee ett K Kilo key loh L Lima lee mah M Mike mike
+
+5.1.3. PHONETIC ALPHABET
+Letter Spelling Pronunciation N November no vem bar O Oscar oss cah P Papa pah Q Quebec keh beck R Romeo row me oh S Sierra see air rah T Tango tang go U Uniform you nee form V Victor vik tah W Whiskey wiss key X X-ray ecks ray Y Yankee yang key Z Zulu zoo loo
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Numbers are to be spoken in separate digits.
+For example:
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+“ wun fife zeero” for 150
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Pronunciation of numbers shall be in the phonetic form as shown in Table 3 :
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Table 3 Phonetic numbers and pronunciation
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Number Spelling Pronunciation 0 zero zeero 1 one wun 2 two too 3 three tree 4 four fower 5 five fife 6 six six 7 seven seven 8 eight ait
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Spelling Pronunciation Decimal day see mal Hundred hun dred Thousand tou sand
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+IALA Guideline G1132 VTS Voice Communications and Phraseology Edition 2.2 urn:mrn:iala:pub:g1132:ed2.2
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+3
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+P 12
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Number Spelling Pronunciation 9 nine niner
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Spelling
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Spelling
+
+5.1.4. PHONETIC NUMBERS [NUMERALS]
+Pronunciation
+<doc_end>

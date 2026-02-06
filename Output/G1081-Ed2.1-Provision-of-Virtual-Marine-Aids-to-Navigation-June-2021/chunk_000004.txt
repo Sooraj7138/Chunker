@@ -1,0 +1,39 @@
+<doc_start>
+on the display.
+The competent authority needs to be aware that the number of MMSIs available for use by AIS AtoN is a finite resource (1000 per designated area code) and for this reason the Maritime Resource Name (MRN) should be considered as the means of linking Virtual AtoN to relevant MSI or chart objects (see IALA Guideline G1143 Unique Identifiers for Maritime Resources [26]).
+MMSI numbers are normally assigned to a transmitting device.
+For a Virtual AIS AtoN using Message 21, the MMSI number represents the unique identity of the AtoN itself, rather than the transmitting source.
+The repeat indicator field is used to identify whether or not the signal is transmitted from another station.
+It allows an AIS base station to repeat the Message 21 of another entity which may extend the coverage of a less powerful mobile station.
+Competent authorities should consider broadcasting from more than one AIS base station to assure some redundancy.
+
+7. REGULATORY ISSUES 7.1. AUTHORITY TO DEPLOY SOLAS Chapter V Regulation 13 (Establishment and operation of aids to navigation) states, in part, that: “‘Each Contracting Government undertakes to provide, as it deems practical and necessary, either individually or in co-operation with other Contracting Governments, such aids to navigation as the volume of traffic justifies and the degree of risk requires.” Under SOLAS, Contracting Governments are obliged to provide aids to navigation, subject to IALA recommendations and guidelines and based on the navigational requirements for waters under their jurisdiction.
+However, SOLAS allows competent authorities significant discretion in determining what would be an appropriate mix of visual, radio and AIS AtoN, including Virtual aids to navigation, to meet the needs of mariners.
+Some national competent authorities have established their own policies and levels of service for the provision of AtoN services.
+Section c of this document is intended to assist competent authorities in assessing the risks associated with Virtual AtoN for this purpose.
+7.2. CAPABILITY A Contracting Government has an obligation under SOLAS to provide AtoN.
+This obligation is exercised by the appropriate entity (usually a national administration).
+This entity should also be responsible for determining who may be permitted to deploy Virtual AtoN.
+Typically, a VTS, Harbour Master, Rescue Co-ordination Centre (RCC) or other entity may have the capability to deploy Virtual AtoN.
+Further guidelines may be necessary to help governments manage these other requests.
+The lines of authority between the Contracting Government and the entity deploying Virtual AtoN should be clearly delineated.
+Roles and responsibilities at all levels should be clearly defined.
+7.3. LIABILITY Virtual AtoN are simply another type of Aid to Navigation.
+Having elected to deploy a Virtual AtoN, a competent authority should be able to establish that the Virtual AtoN are being provided as promulgated and are operating correctly, through direct monitoring or arrangement with another party.
+It is likely that a competent authority exposure to liability from deploying a Virtual AtoN will be similar to that for any other Aid to Navigation.
+Therefore, noting the unique nature of Virtual AtoN, robust processes and procedures IALA Guideline G1081 Provision of Virtual Marine Aids to Navigation Edition 2.1 urn:mrn:iala:pub:g1081:ed2.1 3 P 9 for approval and promulgating information about them, together with integrity monitoring and record keeping, should be established.
+
+8. DELIVERY METHODS 8.1. TECHNICAL ASPECTS This Guideline addresses near-term and long-term options for delivery of a Virtual AtoN service.
+In the near term, shore-based AIS networks provide competent authorities with the means to operate an information service for shore-based VTS, traffic management schemes, ship reporting systems and other shore- based safety-related services, including Virtual AtoN services.
+This service consists of information delivery from ship-to-shore and vice versa.
+Technical details of the AIS technology and of the layout and local configuration of shore-based AIS are described in IALA Recommendation R0124 The AIS Service (A-124) [21].
+In the longer term, competent authorities may expect that other media for information services will become available.
+This would enable Virtual AtoN services to be transmitted via means other than AIS, for example: satcom /internet; WiMAX; VDES, VDE-SAT, NAVDAT, IALA maritime beacon system; cell phone data transmission protocol, etc.
+In the near term, not all vessels can be expected to be able to effectively display Virtual AtoN information.
+As of July 2008, SOLAS radars are required to interface to AIS and display AIS information, as in MSC Resolution 192(79) [3].
+Although ECDIS is capable of displaying AIS information, it is not required to do so.
+Based on current rates of navigational system upgrades, it is expected to take at least some years before a substantial percentage of the international commercial fleet will have this capability.
+Changes in mandatory carriage requirements may accelerate this development for SOLAS vessels.
+PPU Navigational Systems may facilitate implementation on the charting side for pilots but not on radar.
+Economic benefit to the
+<doc_end>

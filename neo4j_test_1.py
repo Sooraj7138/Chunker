@@ -288,42 +288,42 @@ def graphRAG_run(graph_context, user_query):
         return f"Error querying LLM: {str(e)}"
 
 
-# def read_pdf_as_string(file_path: str) -> str:
-#     try:
-#         # Use hi_res strategy to identify tables if possible, otherwise falls back
-#         elements = partition(filename=file_path, languages=["eng"], strategy='hi_res')
-        
-#         content_parts = []
-#         for el in elements:
-#             if el.category == "Table":
-#                 # Ensure table_html is a string even if text_as_html is None
-#                 table_html = getattr(el.metadata, "text_as_html", None) or str(el)
-#                 content_parts.append(table_html)
-#             else:
-#                 content_parts.append(str(el))
-        
-#         raw_data = "\n\n".join(content_parts)
-#         return raw_data
-
-#     except Exception as e:
-#         print(f"Error reading PDF {file_path}: {e}")
-#         return ""
-    
-def read_document_as_paragraph_string(file_path: str) -> str:
+def read_pdf_as_string(file_path: str) -> str:
     try:
-        doc = Document(file_path)
-        full_text = []
-
-        for paragraph in doc.paragraphs:
-            if paragraph.text.strip():
-                full_text.append(paragraph.text.strip())
-
-        raw_data = " ".join(full_text)
+        # Use hi_res strategy to identify tables if possible, otherwise falls back
+        elements = partition(filename=file_path, languages=["eng"], strategy='hi_res')
+        
+        content_parts = []
+        for el in elements:
+            if el.category == "Table":
+                # Ensure table_html is a string even if text_as_html is None
+                table_html = getattr(el.metadata, "text_as_html", None) or str(el)
+                content_parts.append(table_html)
+            else:
+                content_parts.append(str(el))
+        
+        raw_data = "\n\n".join(content_parts)
         return raw_data
 
     except Exception as e:
-        print(f"Error reading document {file_path}: {e}")
+        print(f"Error reading PDF {file_path}: {e}")
         return ""
+    
+# def read_document_as_paragraph_string(file_path: str) -> str:
+#     try:
+#         doc = Document(file_path)
+#         full_text = []
+
+#         for paragraph in doc.paragraphs:
+#             if paragraph.text.strip():
+#                 full_text.append(paragraph.text.strip())
+
+#         raw_data = " ".join(full_text)
+#         return raw_data
+
+#     except Exception as e:
+#         print(f"Error reading document {file_path}: {e}")
+#         return ""
 
 if __name__ == "__main__":
     print("Script started")
@@ -341,30 +341,30 @@ if __name__ == "__main__":
     
     print("Creating collection...")
     collection_name = "graphRAGstoreds_local"
-    # vector_dimension = 768 # nomic-embed-text dimension
-    # create_collection(qdrant_client, collection_name, vector_dimension)
-    # print("Collection created/verified")
+    vector_dimension = 768 # nomic-embed-text dimension
+    create_collection(qdrant_client, collection_name, vector_dimension)
+    print("Collection created/verified")
     
-    # print("Extracting graph components...")
+    print("Extracting graph components...")
     
-    # file_path = os.path.join(os.path.dirname(__file__), "summary.docx")
-    # # raw_data = read_pdf_as_string(file_path)
+    file_path = os.path.join(os.path.dirname(__file__),"VTS", "G1110-Ed2.1-Use-of-Decision-Support-Tools-for-VTS-Personnel-January-2022.pdf")
+    raw_data = read_pdf_as_string(file_path)
     # raw_data = read_document_as_paragraph_string(file_path)
-    # # Using a subset of data if it's too large for the LLM context in one go
-    # # For now, let's take the first 4000 characters to be safe with local llama
-    # raw_data_subset = raw_data[:4000] 
-    # print("RAW_D (subset): ", raw_data_subset)
-    # nodes, relationships = extract_graph_components(raw_data_subset)
-    # print("Nodes:", nodes)
-    # print("Relationships:", relationships)
+    # Using a subset of data if it's too large for the LLM context in one go
+    # For now, let's take the first 4000 characters to be safe with local llama
+    raw_data_subset = raw_data[:4000] 
+    print("RAW_D (subset): ", raw_data_subset)
+    nodes, relationships = extract_graph_components(raw_data_subset)
+    print("Nodes:", nodes)
+    print("Relationships:", relationships)
     
-    # print("Ingesting to Neo4j...")
-    # node_id_mapping = ingest_to_neo4j(nodes, relationships)
-    # print("Neo4j ingestion complete")
+    print("Ingesting to Neo4j...")
+    node_id_mapping = ingest_to_neo4j(nodes, relationships)
+    print("Neo4j ingestion complete")
     
-    # print("Ingesting to Qdrant...")
-    # ingest_to_qdrant(collection_name, raw_data_subset, node_id_mapping)
-    # print("Qdrant ingestion complete")
+    print("Ingesting to Qdrant...")
+    ingest_to_qdrant(collection_name, raw_data_subset, node_id_mapping)
+    print("Qdrant ingestion complete")
 
     query = "A VTS Authority wants to review the last year of traffic data to identify 'high-risk' areas where grounding is most likely to occur based on vessel size and type. Which Long term (Planning) DST is designed for this?"
     print("Starting retriever search...")

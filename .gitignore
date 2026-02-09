@@ -5,3 +5,4 @@ Output/
 Semantic_Output/
 .env
 __pycache__/
+chunker-venv/

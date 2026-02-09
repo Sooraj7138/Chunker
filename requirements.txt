@@ -7,3 +7,11 @@ python-dotenv
 pyarrow
 chromadb
 sentence-transformers
+dotenv
+ollama
+qdrant_client
+neo4j
+neo4j_graphrag
+langchain_text_splitters
+python-docx
+exceptions
